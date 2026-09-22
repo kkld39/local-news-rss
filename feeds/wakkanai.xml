@@ -6,7 +6,27 @@
     <description>稚内の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/wakkanai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 21 Sep 2026 20:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:30:00 +0000</lastBuildDate>
+    <item>
+      <title>留萌・宗谷（９月２３日付）おくやみ - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1375042/</link>
+      <pubDate>Tue, 22 Sep 2026 11:30:00 +0000</pubDate>
+      <guid isPermaLink="false">fab5e3ab91467c8dd00fba5181636328518ba27fdf3e9cd3648fcb28ad42d4ca</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" />
+      <media:content url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;留萌・宗谷（９月２３日付）おくやみ 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【北海道(宗谷地方)】9/23の天気予報 - fnn.jp</title>
+      <link>https://www.fnn.jp/articles/-/1119057</link>
+      <pubDate>Tue, 22 Sep 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">243578d6c205df4f7c3748ea2bc976921094a6854248756f2e743831bd6e6324</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">fnn.jp</source>
+      <media:thumbnail url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" />
+      <media:content url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道(宗谷地方)】9/23の天気予報 fnn.jp&lt;/p&gt;&lt;p&gt;配信元: fnn.jp&lt;/p&gt;</description>
+    </item>
     <item>
       <title>【北海道(宗谷地方)】9/22の天気予報 - FNNプライムオンライン</title>
       <link>https://www.fnn.jp/articles/-/1118828</link>
@@ -38,6 +58,16 @@
       <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道(宗谷地方)】9/21の天気予報 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
     </item>
     <item>
+      <title>【北海道(宗谷地方)】9/21の天気予報 - fnn.jp</title>
+      <link>https://www.fnn.jp/articles/-/1118047</link>
+      <pubDate>Sun, 20 Sep 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">9af892be5975a3fe4dd73502f1be86b9ed1cceed7a631320494818565dfabe58</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">fnn.jp</source>
+      <media:thumbnail url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" />
+      <media:content url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道(宗谷地方)】9/21の天気予報 fnn.jp&lt;/p&gt;&lt;p&gt;配信元: fnn.jp&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>台風25号(2026年)の道北宗谷北部の暴風域に入る確率 - tenki.jp</title>
       <link>https://tenki.jp/lite/bousai/typhoon/storm/2625/1/1/1100/1110/</link>
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
@@ -46,16 +76,6 @@
       <media:thumbnail url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" />
       <media:content url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;台風25号(2026年)の道北宗谷北部の暴風域に入る確率 tenki.jp&lt;/p&gt;&lt;p&gt;配信元: tenki.jp&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>台風25号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp</title>
-      <link>https://tenki.jp/lite/bousai/typhoon/storm/2625/1/1/1100/1120/</link>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6883ebb3a6231dde4b763e496bef5ce3ad01de63a140b8961e2aebd0ea0d72a0</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">tenki.jp</source>
-      <media:thumbnail url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" />
-      <media:content url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;台風25号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp&lt;/p&gt;&lt;p&gt;配信元: tenki.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>宗谷総合振興局、留萌振興局、ほっかいどう地域おこし協力隊がまちの魅力をPR！WE LOVE HOKKAIDO AREA - 北海道日本ハムファイターズ</title>
@@ -78,14 +98,14 @@
       <description>&lt;p&gt;&lt;img src="https://newsdig.ismcdn.jp/mwimgs/c/a/1200w/img_ca423d5c6d9839eab1e2189720068209499212.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北海道教職員人事異動一覧2026《宗谷版》小学校・中学校・義務教育学校・幼稚園（教員・事務職員・栄養教諭ほか）名簿全員掲載「あの先生はどこに？」25日発表分 TBS NEWS DIG&lt;/p&gt;&lt;p&gt;配信元: TBS NEWS DIG&lt;/p&gt;</description>
     </item>
     <item>
-      <title>「盗みをした私が悪いです」 駐車中の車からバッグ盗む 無職の男（60）逮捕 北海道稚内市 - au Webポータル</title>
+      <title>「盗みをした私が悪いです」 駐車中の車からバッグ盗む 無職の男（60）逮捕 北海道稚内市 - article.auone.jp</title>
       <link>https://article.auone.jp/91803b9e-3032-4330-bccf-e12c2e61e31d</link>
       <pubDate>Thu, 17 Sep 2026 21:13:00 +0000</pubDate>
       <guid isPermaLink="false">c4109af1bc69f3ddfecdeb2f3f715511bda62f223155272db6a7b30f6fddcfac</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">au Webポータル</source>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">article.auone.jp</source>
       <media:thumbnail url="https://newportal.portal.auone.jp/media/thumbnails/2026/09/18/https___news_jp_i_1473427123535774485_w1280.webp" />
       <media:content url="https://newportal.portal.auone.jp/media/thumbnails/2026/09/18/https___news_jp_i_1473427123535774485_w1280.webp" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newportal.portal.auone.jp/media/thumbnails/2026/09/18/https___news_jp_i_1473427123535774485_w1280.webp" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「盗みをした私が悪いです」 駐車中の車からバッグ盗む 無職の男（60）逮捕 北海道稚内市 au Webポータル&lt;/p&gt;&lt;p&gt;配信元: au Webポータル&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://newportal.portal.auone.jp/media/thumbnails/2026/09/18/https___news_jp_i_1473427123535774485_w1280.webp" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「盗みをした私が悪いです」 駐車中の車からバッグ盗む 無職の男（60）逮捕 北海道稚内市 article.auone.jp&lt;/p&gt;&lt;p&gt;配信元: article.auone.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>「盗みをした私が悪いです」 駐車中の車からバッグ盗む 無職の男（60）逮捕 北海道稚内市 - 日テレNEWS NNN</title>
@@ -108,24 +128,34 @@
       <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道(宗谷地方)】9/18の天気予報 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
     </item>
     <item>
-      <title>稚内で余白を楽しみ、漁師を支える。 宗谷漁協で働くということNEW! - 北海道の人、暮らし、仕事。 くらしごと</title>
+      <title>稚内で余白を楽しみ、漁師を支える。 宗谷漁協で働くということNEW! - kurashigoto.hokkaido.jp</title>
       <link>https://kurashigoto.hokkaido.jp/konomachi/20260917090000.php</link>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">28d3b6d22ec8a420e01a30b259d81636fa3dc3a52f32bef27837ccf4ca2b3eb0</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道の人、暮らし、仕事。 くらしごと</source>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">kurashigoto.hokkaido.jp</source>
       <media:thumbnail url="https://kurashigoto.hokkaido.jp/image/soyagyokyo01.jpg" />
       <media:content url="https://kurashigoto.hokkaido.jp/image/soyagyokyo01.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://kurashigoto.hokkaido.jp/image/soyagyokyo01.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;稚内で余白を楽しみ、漁師を支える。 宗谷漁協で働くということNEW! 北海道の人、暮らし、仕事。 くらしごと&lt;/p&gt;&lt;p&gt;配信元: 北海道の人、暮らし、仕事。 くらしごと&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://kurashigoto.hokkaido.jp/image/soyagyokyo01.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;稚内で余白を楽しみ、漁師を支える。 宗谷漁協で働くということNEW! kurashigoto.hokkaido.jp&lt;/p&gt;&lt;p&gt;配信元: kurashigoto.hokkaido.jp&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【北海道(宗谷地方)】9/17の天気予報 - FNNプライムオンライン</title>
+      <title>台風25号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp</title>
+      <link>https://tenki.jp/lite/bousai/typhoon/storm/2625/1/1/1100/1120/</link>
+      <pubDate>Wed, 16 Sep 2026 21:46:20 +0000</pubDate>
+      <guid isPermaLink="false">6883ebb3a6231dde4b763e496bef5ce3ad01de63a140b8961e2aebd0ea0d72a0</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">tenki.jp</source>
+      <media:thumbnail url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" />
+      <media:content url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;台風25号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp&lt;/p&gt;&lt;p&gt;配信元: tenki.jp&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【北海道(宗谷地方)】9/17の天気予報 - fnn.jp</title>
       <link>https://www.fnn.jp/articles/-/1115507</link>
       <pubDate>Wed, 16 Sep 2026 10:30:00 +0000</pubDate>
       <guid isPermaLink="false">95d7739b9ab41b41c1231b54529cb5f628734b2a69652d40195a8214dc4c81ec</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">FNNプライムオンライン</source>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">fnn.jp</source>
       <media:thumbnail url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" />
       <media:content url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道(宗谷地方)】9/17の天気予報 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道(宗谷地方)】9/17の天気予報 fnn.jp&lt;/p&gt;&lt;p&gt;配信元: fnn.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>JR北海道が方針転換 石北線、宗谷線など赤字8区間の「上下分離案」撤回へ 自治体の反発受け協議打開図る - TBS NEWS DIG</title>
@@ -168,14 +198,14 @@
       <description>&lt;p&gt;&lt;img src="https://newsdig.ismcdn.jp/mwimgs/5/0/1200w/img_5048ea5aab59842cc40b7e82ccd98613188734.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北海道のニュース TBS NEWS DIG&lt;/p&gt;&lt;p&gt;配信元: TBS NEWS DIG&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【北海道(宗谷地方)】9/16の天気予報 - FNNプライムオンライン</title>
+      <title>【北海道(宗谷地方)】9/16の天気予報 - fnn.jp</title>
       <link>https://www.fnn.jp/articles/-/1114735</link>
       <pubDate>Tue, 15 Sep 2026 10:30:00 +0000</pubDate>
       <guid isPermaLink="false">3ee2b972ab551ca1cd49b6081dc4ea9b28c77c45d9ef335cb1cf6532bf38f7dc</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">FNNプライムオンライン</source>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">fnn.jp</source>
       <media:thumbnail url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" />
       <media:content url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道(宗谷地方)】9/16の天気予報 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道(宗谷地方)】9/16の天気予報 fnn.jp&lt;/p&gt;&lt;p&gt;配信元: fnn.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>【北海道(宗谷地方)】9/15の天気予報 - FNNプライムオンライン</title>
@@ -186,12 +216,12 @@
       <description>&lt;p&gt;【北海道(宗谷地方)】9/15の天気予報 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【北海道(宗谷地方)】9/14の天気予報 - FNNプライムオンライン</title>
+      <title>【北海道(宗谷地方)】9/14の天気予報 - fnn.jp</title>
       <link>https://www.fnn.jp/articles/-/1113571</link>
       <pubDate>Sun, 13 Sep 2026 20:10:00 +0000</pubDate>
       <guid isPermaLink="false">fea47ce4ba081bd5f20fa888285ebbace032f4c5ad866000d0c42eaf2beb90a3</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">FNNプライムオンライン</source>
-      <description>&lt;p&gt;【北海道(宗谷地方)】9/14の天気予報 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">fnn.jp</source>
+      <description>&lt;p&gt;【北海道(宗谷地方)】9/14の天気予報 fnn.jp&lt;/p&gt;&lt;p&gt;配信元: fnn.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>子どもたちが将来地元で働くきっかけになれば…お仕事体験イベントを開催 北海道稚内市 - 日テレNEWS NNN</title>
@@ -204,12 +234,12 @@
       <description>&lt;p&gt;&lt;img src="https://image.gallery.play.jp/stv-news/articles/a42562912a604121b6140715b337affa/77610c12-400e-4a9f-944a-706188536f2e.jpg?w=1200" alt="" /&gt;&lt;/p&gt;&lt;p&gt;子どもたちが将来地元で働くきっかけになれば…お仕事体験イベントを開催 北海道稚内市 日テレNEWS NNN&lt;/p&gt;&lt;p&gt;配信元: 日テレNEWS NNN&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【北海道(宗谷地方)】9/13の天気予報 - FNNプライムオンライン</title>
+      <title>【北海道(宗谷地方)】9/13の天気予報 - fnn.jp</title>
       <link>https://www.fnn.jp/articles/-/1113218</link>
       <pubDate>Sat, 12 Sep 2026 20:10:00 +0000</pubDate>
       <guid isPermaLink="false">850ce56054f17aa11ba260eee5849c8a7f67de4b83d6e3831a00d409d57bd94f</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">FNNプライムオンライン</source>
-      <description>&lt;p&gt;【北海道(宗谷地方)】9/13の天気予報 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">fnn.jp</source>
+      <description>&lt;p&gt;【北海道(宗谷地方)】9/13の天気予報 fnn.jp&lt;/p&gt;&lt;p&gt;配信元: fnn.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>ザ・ロイヤルエクスプレス JR宗谷線を今季初運行 鉄道ファンら南稚内駅で歓迎 - 北海道新聞デジタル</title>
@@ -298,7 +328,7 @@
     <item>
       <title>台風24号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp</title>
       <link>https://tenki.jp/bousai/typhoon/storm/2624/1/1/1100/1120/</link>
-      <pubDate>Sun, 06 Sep 2026 18:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">ed975ff9951684f272c6acde067c49160ee8971160edeab0ee0cd023cb970650</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">tenki.jp</source>
       <media:thumbnail url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" />
@@ -308,7 +338,7 @@
     <item>
       <title>台風24号(2026年)の道北宗谷北部の暴風域に入る確率 - tenki.jp</title>
       <link>https://tenki.jp/bousai/typhoon/storm/2624/1/1/1100/1110/</link>
-      <pubDate>Sun, 06 Sep 2026 18:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">e9b1e914d068dc51b4ff21529fa2ea8aad7b36e7baf2fc6a5a2f1ba74867febe</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">tenki.jp</source>
       <media:thumbnail url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" />
@@ -364,14 +394,14 @@
       <description>&lt;p&gt;稚内市の公園で捨てられた大量の切り刻まれた「旧1万円札」…警察が回収し調べる｜Infoseekニュース Infoseek&lt;/p&gt;&lt;p&gt;配信元: Infoseek&lt;/p&gt;</description>
     </item>
     <item>
-      <title>最北のマチ稚内市の公園で旧一万円札とみられる大量の紙幣がばらまかれる＿全て切り刻まれた状態で発見＿警察が本物かどうか確認へ〈北海道〉 - FNNプライムオンライン</title>
+      <title>最北のマチ稚内市の公園で旧一万円札とみられる大量の紙幣がばらまかれる＿全て切り刻まれた状態で発見＿警察が本物かどうか確認へ〈北海道〉 - fnn.jp</title>
       <link>https://www.fnn.jp/articles/-/1108420</link>
       <pubDate>Sat, 05 Sep 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">6cd8c647ecaeea9a885b26ecffd9561e5cfbaeb21e12c69069fed2dbd87a5417</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">FNNプライムオンライン</source>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">fnn.jp</source>
       <media:thumbnail url="https://fnn.ismcdn.jp/mwimgs/d/3/600/img_d3d38c6bb69e85f7623a18aeff862a55593412.jpg" />
       <media:content url="https://fnn.ismcdn.jp/mwimgs/d/3/600/img_d3d38c6bb69e85f7623a18aeff862a55593412.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/d/3/600/img_d3d38c6bb69e85f7623a18aeff862a55593412.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;最北のマチ稚内市の公園で旧一万円札とみられる大量の紙幣がばらまかれる＿全て切り刻まれた状態で発見＿警察が本物かどうか確認へ〈北海道〉 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/d/3/600/img_d3d38c6bb69e85f7623a18aeff862a55593412.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;最北のマチ稚内市の公園で旧一万円札とみられる大量の紙幣がばらまかれる＿全て切り刻まれた状態で発見＿警察が本物かどうか確認へ〈北海道〉 fnn.jp&lt;/p&gt;&lt;p&gt;配信元: fnn.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>稚内市の公園で捨てられた大量の切り刻まれた「旧１万円札」…警察が回収し調べる - HTB 北海道テレビ</title>
@@ -458,6 +488,16 @@
       <description>&lt;p&gt;&lt;img src="https://cloud.watch.impress.co.jp/img/clw/corners/wdc/dcw.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;ユーラスエナジー、北海道稚内市でデータセンターの立柱式開催、2027年度中稼働へ クラウド Watch&lt;/p&gt;&lt;p&gt;配信元: クラウド Watch&lt;/p&gt;</description>
     </item>
     <item>
+      <title>台風23号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp</title>
+      <link>https://tenki.jp/bousai/typhoon/storm/2623/1/1/1100/1120/</link>
+      <pubDate>Mon, 31 Aug 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ae636e4dae9aee23f8d855ee7672afdc0ef6f8e7d6d580241ce3ddeaa07ed8bb</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">tenki.jp</source>
+      <media:thumbnail url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" />
+      <media:content url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;台風23号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp&lt;/p&gt;&lt;p&gt;配信元: tenki.jp&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>台風23号(2026年)の道北宗谷北部の暴風域に入る確率 - tenki.jp</title>
       <link>https://tenki.jp/bousai/typhoon/storm/2623/1/1/1100/1110/</link>
       <pubDate>Mon, 31 Aug 2026 07:00:00 +0000</pubDate>
@@ -468,92 +508,114 @@
       <description>&lt;p&gt;&lt;img src="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;台風23号(2026年)の道北宗谷北部の暴風域に入る確率 tenki.jp&lt;/p&gt;&lt;p&gt;配信元: tenki.jp&lt;/p&gt;</description>
     </item>
     <item>
-      <title>台風23号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xeVZYa2NHV1NXd2ZvR1pfMDk1M1YzZkJZdXBGdmI3bjJkS2Q5TmV1bF9rekxnclR0UUE1Nm5yeXZiLXFSRDlxNW9aWTFGNVhJSlZSZUt3ckZGczBldm5xeHNtNERCZjBq?oc=5</link>
-      <pubDate>Mon, 31 Aug 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">ae636e4dae9aee23f8d855ee7672afdc0ef6f8e7d6d580241ce3ddeaa07ed8bb</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">tenki.jp</source>
-      <description>&lt;p&gt;台風23号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp&lt;/p&gt;&lt;p&gt;配信元: tenki.jp&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>台風22号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zY0haVmNuQ2R4ajhOZDJDOFJYQVBlc2J2TWxKS2hIeGlhYWtzZEN0bVNwcXJnNkdQVXhLQkpGRXFrakhYOGFKZHo1Q0Fxd1lQZGg5bzhqbGYtN2E2cm5PV0V1eFROVmRZ?oc=5</link>
+      <link>https://tenki.jp/bousai/typhoon/storm/2622/1/1/1100/1120/</link>
       <pubDate>Sun, 30 Aug 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">0779de01a0f8ca139c16e6b52102726e1b6dea9eb42ae9654169af61dc29ae0c</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">tenki.jp</source>
-      <description>&lt;p&gt;台風22号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp&lt;/p&gt;&lt;p&gt;配信元: tenki.jp&lt;/p&gt;</description>
+      <media:thumbnail url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" />
+      <media:content url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;台風22号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp&lt;/p&gt;&lt;p&gt;配信元: tenki.jp&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 - 京都新聞デジタル</title>
+      <link>https://www.kyoto-np.co.jp/articles/-/1779937</link>
+      <pubDate>Fri, 28 Aug 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">e4a4cb251a4eeae0274ac9c06d4da77db3a8d9176ae045a7b59245ba3f04fcf4</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">京都新聞デジタル</source>
+      <media:thumbnail url="https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png" />
+      <media:content url="https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 京都新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 京都新聞デジタル&lt;/p&gt;</description>
     </item>
     <item>
       <title>宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表｜全国のニュース｜Web東奥 - 東奥日報社</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0bUdsUDNLRF9ndFNnYTVQTGtkeFo2eS02Vll1emU0cThLeU5NNW01ZjZXT0NNTGpnSnd1YjlrdHBrOHZtUi1qcFhBTE9ULVhROUJJTnBTcUg?oc=5</link>
+      <link>https://www.toonippo.co.jp/articles/-/2349680</link>
       <pubDate>Fri, 28 Aug 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">deb02760c62a6172987a3ba528360066cb74e29912748fb35acfc65887a15c0a</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">東奥日報社</source>
-      <description>&lt;p&gt;宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表｜全国のニュース｜Web東奥 東奥日報社&lt;/p&gt;&lt;p&gt;配信元: 東奥日報社&lt;/p&gt;</description>
+      <media:thumbnail url="https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png" />
+      <media:content url="https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表｜全国のニュース｜Web東奥 東奥日報社&lt;/p&gt;&lt;p&gt;配信元: 東奥日報社&lt;/p&gt;</description>
     </item>
     <item>
       <title>稚内市「電力の地産地消」に期待 札幌市など8者、再エネ水素固体化へ調査 - 北海道新聞デジタル</title>
-      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIMHY5d2hGMUxrajZxeXVxRnVBajNjaDFhbGJuTEpWM1JlZ3Y3VW1iTi1YWWEzekNNT1hySjI2Vjh3VUJHa2M5NTc4WnhDNGQ3Nk93VUg2RTF4dw?oc=5</link>
+      <link>https://www.hokkaido-np.co.jp/article/1359739/</link>
       <pubDate>Thu, 27 Aug 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">79754df92b4433b40cf864b01269636606338e778f5b5df1172b93ce7b50186c</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
-      <description>&lt;p&gt;稚内市「電力の地産地消」に期待 札幌市など8者、再エネ水素固体化へ調査 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/2/2/4/4/2244b2cf90389af49303781518aedca8_1.webp?20260922235520" />
+      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/2/2/4/4/2244b2cf90389af49303781518aedca8_1.webp?20260922235520" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/2/2/4/4/2244b2cf90389af49303781518aedca8_1.webp?20260922235520" alt="" /&gt;&lt;/p&gt;&lt;p&gt;稚内市「電力の地産地消」に期待 札幌市など8者、再エネ水素固体化へ調査 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
     </item>
     <item>
       <title>宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 - 愛媛新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE5URm1aY25jVmd2Tlh4QmhKeHNNdDNldHg3RGJ1cWV6Zi1oWUhON3VJc1htNFdmRUM4dE8yb24yc1ktdWQ4c0VjeXBDbmRNaEpJcFdzdklfOGVkUVM2ZzZBNnNYMA?oc=5</link>
+      <link>https://www.ehime-np.co.jp/article/ky2026082702000554</link>
       <pubDate>Thu, 27 Aug 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">86efdcd7edd9028703e829e3d0f922c4a1a23300520befca3e2a07edee49c9b0</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">愛媛新聞</source>
-      <description>&lt;p&gt;宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 愛媛新聞&lt;/p&gt;&lt;p&gt;配信元: 愛媛新聞&lt;/p&gt;</description>
+      <media:thumbnail url="https://www.ehime-np.co.jp/media/images/img/logo_ogp.jpg" />
+      <media:content url="https://www.ehime-np.co.jp/media/images/img/logo_ogp.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.ehime-np.co.jp/media/images/img/logo_ogp.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 愛媛新聞&lt;/p&gt;&lt;p&gt;配信元: 愛媛新聞&lt;/p&gt;</description>
     </item>
     <item>
       <title>【大雨】8月28日にかけて北海道内各地で大雨予報 120ミリ降雨予測で警報級の可能性も JR宗谷線は特急など67本運休へ - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVd2h0U3c3bFZUeTFtUVlVU1c4Nkw0Qm5tUmNzR21oSXlhUU9LN0p6MDVaTV9oX2RDcWRFLThjR1VPSEIwUjBIWlBKNUNDN2hQSFphMlJHbEFtQXBTUVVfRXRRcEtoQms?oc=5</link>
+      <link>https://newsdig.tbs.co.jp/articles/hbc/2902156?display=1</link>
       <pubDate>Thu, 27 Aug 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">17af14793e2e9166f73e28c1c56399249c7e99cddea86156670c1d836460a69a</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">TBS NEWS DIG</source>
-      <description>&lt;p&gt;【大雨】8月28日にかけて北海道内各地で大雨予報 120ミリ降雨予測で警報級の可能性も JR宗谷線は特急など67本運休へ TBS NEWS DIG&lt;/p&gt;&lt;p&gt;配信元: TBS NEWS DIG&lt;/p&gt;</description>
+      <media:thumbnail url="https://newsdig.ismcdn.jp/mwimgs/1/f/1200w/img_1fbaed3c267a18c61a80a6dbe2e90871354210.jpg" />
+      <media:content url="https://newsdig.ismcdn.jp/mwimgs/1/f/1200w/img_1fbaed3c267a18c61a80a6dbe2e90871354210.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://newsdig.ismcdn.jp/mwimgs/1/f/1200w/img_1fbaed3c267a18c61a80a6dbe2e90871354210.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【大雨】8月28日にかけて北海道内各地で大雨予報 120ミリ降雨予測で警報級の可能性も JR宗谷線は特急など67本運休へ TBS NEWS DIG&lt;/p&gt;&lt;p&gt;配信元: TBS NEWS DIG&lt;/p&gt;</description>
     </item>
     <item>
       <title>台風19号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qdGpyS2lEQ19lWjZNWHVUX1hnaEd5eXo2Z1VDa1pfbXpfeVhQR0htU0xqRHE1bHRweHlfeWxpd3FwaGVBR2xkZzhYeVBKYkYzOU9NZERLOWtNcGxyUFhQbU1ZZHFiQnlX?oc=5</link>
+      <link>https://tenki.jp/bousai/typhoon/storm/2619/1/1/1100/1120/</link>
       <pubDate>Wed, 26 Aug 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">1fd506a590ca1f73344e688c1a936c51d233c7010b8d5433303782d570782cbc</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">tenki.jp</source>
-      <description>&lt;p&gt;台風19号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp&lt;/p&gt;&lt;p&gt;配信元: tenki.jp&lt;/p&gt;</description>
+      <media:thumbnail url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" />
+      <media:content url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;台風19号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp&lt;/p&gt;&lt;p&gt;配信元: tenki.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>台風19号(2026年)の道北宗谷北部の暴風域に入る確率 - tenki.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UQ2pEUEtSWTJSU3ZmdXlqaWM4d3lnbFNRVWVtTDA0ZWUyaU1JMVRlVWhBM1kyaU9sZHZJOVhVMUhpUzNKZkZDeGhVQTRnS1pkVVMtVDhPSl9mVWh0TWtPNGpGVUg1UXVw?oc=5</link>
+      <link>https://tenki.jp/bousai/typhoon/storm/2619/1/1/1100/1110/</link>
       <pubDate>Wed, 26 Aug 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">c58f95739bb77c1afb36ad6ca4656dc7696d54e5d2a4729297a12bfa0e36e864</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">tenki.jp</source>
-      <description>&lt;p&gt;台風19号(2026年)の道北宗谷北部の暴風域に入る確率 tenki.jp&lt;/p&gt;&lt;p&gt;配信元: tenki.jp&lt;/p&gt;</description>
+      <media:thumbnail url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" />
+      <media:content url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;台風19号(2026年)の道北宗谷北部の暴風域に入る確率 tenki.jp&lt;/p&gt;&lt;p&gt;配信元: tenki.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>ロシア海軍「異形の大型巡洋艦」日本に接近！ 北方領土周辺でミサイル発射も 太平洋艦隊の旗艦が宗谷海峡に - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1PekNWUFlQbDJYTnN2VFd6WUUtcUxLS3E5dGlQZGpLako0ODZsYmJHbWtacU5YUFJteHRQck1zenBGbjA2S3dTVmpZaldBcTZrU21DYVNQaWhKVFd1M0tqTEpJZUVSZ3k5T1VCYkVLUVpYazl6Zmk0Z2M1WVpoVGM?oc=5</link>
+      <link>https://news.yahoo.co.jp/articles/8e76c08f27b2875fb641a6b035253f7e90e9a539</link>
       <pubDate>Mon, 24 Aug 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">1d836d9afcf7bb2c135aada0be02ef0ffd64ea58fddd82ba786ad7bb11f4b556</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-      <description>&lt;p&gt;ロシア海軍「異形の大型巡洋艦」日本に接近！ 北方領土周辺でミサイル発射も 太平洋艦隊の旗艦が宗谷海峡に Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
+      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260824-00700881-norimono-000-4-view.jpg?exp=10800" />
+      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260824-00700881-norimono-000-4-view.jpg?exp=10800" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260824-00700881-norimono-000-4-view.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;ロシア海軍「異形の大型巡洋艦」日本に接近！ 北方領土周辺でミサイル発射も 太平洋艦隊の旗艦が宗谷海峡に Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>台風20号(2026年)の道北宗谷北部の暴風域に入る確率 - tenki.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UaG43bUNHaFdpMExNbnQ1MXZvX0wyV0taNVdFeEtKV04wYm8xZFBIS2lCR0U3eDh4aFZTc1kzQU52bFRSMGM1OFhpV3JwY1JRb1Y4cFlxaEliVTZyTGtpeXBsTTBLeGdy?oc=5</link>
+      <link>https://tenki.jp/bousai/typhoon/storm/2620/1/1/1100/1110/</link>
       <pubDate>Mon, 24 Aug 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">ac2700cc7f1d7e3eca5177005db67002ab46ddd20ca7267a4dc21b7816a631a7</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">tenki.jp</source>
-      <description>&lt;p&gt;台風20号(2026年)の道北宗谷北部の暴風域に入る確率 tenki.jp&lt;/p&gt;&lt;p&gt;配信元: tenki.jp&lt;/p&gt;</description>
+      <media:thumbnail url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" />
+      <media:content url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;台風20号(2026年)の道北宗谷北部の暴風域に入る確率 tenki.jp&lt;/p&gt;&lt;p&gt;配信元: tenki.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>台風20号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE1icU4xQ0hreWxqOTdZaXFydG9Ed0w5b2VUZTBISGUzTDBRbURNRm53UjRZQjc0eHFrVW44ZHBoNUI2YTgxNVVMN0g2THhCWDNuYWZoZXB0TXVXX1RnbzE4elJUQnBKMi1F?oc=5</link>
+      <link>https://tenki.jp/bousai/typhoon/storm/2620/1/1/1100/1120/</link>
       <pubDate>Mon, 24 Aug 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">d371266b92bd4af759442178cb45b275f0c4ea97ec4b70077f2d718dccc1fee7</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">tenki.jp</source>
-      <description>&lt;p&gt;台風20号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp&lt;/p&gt;&lt;p&gt;配信元: tenki.jp&lt;/p&gt;</description>
+      <media:thumbnail url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" />
+      <media:content url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;台風20号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp&lt;/p&gt;&lt;p&gt;配信元: tenki.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>ボレアース宗谷の御船印販売 ハートランドフェリー - 稚内プレス社</title>
