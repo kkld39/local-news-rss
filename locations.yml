@@ -1,0 +1,10 @@
+locations:
+  - name: 稚内
+    slug: wakkanai
+    query: "稚内市 OR 宗谷"
+  - name: 北見
+    slug: kitami
+    query: "北見市"
+  - name: 多摩
+    slug: tama
+    query: "多摩市"

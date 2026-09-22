@@ -1,0 +1,1 @@
+"""Local news RSS generator."""

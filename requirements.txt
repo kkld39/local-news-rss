@@ -1,0 +1,5 @@
+beautifulsoup4==4.14.3
+feedparser==6.0.12
+PyYAML==6.0.3
+urllib3==2.6.3
+certifi==2026.2.25
