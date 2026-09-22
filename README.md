@@ -14,20 +14,6 @@
 6. buildとdeployが緑色になったら、Pages設定画面のサイトURLを開きます。`https://<username>.github.io/<repository>/` に地域別リンクが表示されます。
 7. Inoreaderの「フィードを追加」等の購読画面に、各リンクのURLを貼り付けます。
 
-現在配信している地域と購読URL：
-
-| 地域 | 検索条件 | RSSパス |
-| --- | --- | --- |
-| 稚内 | 稚内市 OR 宗谷 | `feeds/wakkanai.xml` |
-| 北見 | 北見市 | `feeds/kitami.xml` |
-| 多摩 | 多摩市 | `feeds/tama.xml` |
-
-```text
-https://<username>.github.io/<repository>/feeds/wakkanai.xml
-https://<username>.github.io/<repository>/feeds/kitami.xml
-https://<username>.github.io/<repository>/feeds/tama.xml
-```
-
 サイトURLはActionsのPages設定から自動取得します。独自ドメインをPagesに設定した場合も反映されます。ローカル生成時にURLを省略すると、indexは相対リンクになります。
 
 ## 新しい地域を追加する方法
