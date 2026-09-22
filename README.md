@@ -1,8 +1,8 @@
 # 地域別ローカルニュースRSS
 
-Google Newsの日本向け検索RSSから地域ニュースを取得し、地域ごとのRSS 2.0をGitHub Pagesで公開します。GitHub Actionsが原則毎時17分に実行するため、自宅PC・サーバーの常時稼働は不要です。Python 3.12で動作します。
+任意の地域を `locations.yml` に追加して、地域ニュースRSSを生成できる汎用ツールです。Google Newsの日本向け検索RSSから記事を取得し、地域ごとのRSS 2.0をGitHub Pagesで公開します。GitHub Actionsが原則毎時17分に実行するため、自宅PC・サーバーの常時稼働は不要です。Python 3.12で動作します。
 
-初期設定は稚内（稚内市 OR 宗谷）、北見（北見市）、多摩（多摩市）です。検索は `hl=ja&gl=JP&ceid=JP:ja` を指定します。検索語に合う記事が対象で、地域に関係しない同名の話題が混じる可能性があります。
+検索は `hl=ja&gl=JP&ceid=JP:ja` を指定します。検索語に合う記事が対象で、地域に関係しない同名の話題が混じる可能性があります。
 
 ## 最初にGitHubで行う操作
 
@@ -14,7 +14,13 @@ Google Newsの日本向け検索RSSから地域ニュースを取得し、地域
 6. buildとdeployが緑色になったら、Pages設定画面のサイトURLを開きます。`https://<username>.github.io/<repository>/` に地域別リンクが表示されます。
 7. Inoreaderの「フィードを追加」等の購読画面に、各リンクのURLを貼り付けます。
 
-購読URLの例：
+現在配信している地域と購読URL：
+
+| 地域 | 検索条件 | RSSパス |
+| --- | --- | --- |
+| 稚内 | 稚内市 OR 宗谷 | `feeds/wakkanai.xml` |
+| 北見 | 北見市 | `feeds/kitami.xml` |
+| 多摩 | 多摩市 | `feeds/tama.xml` |
 
 ```text
 https://<username>.github.io/<repository>/feeds/wakkanai.xml
@@ -38,23 +44,7 @@ Pythonコードやworkflowの編集は不要です。
     query: "旭川市"
 ```
 
-全体は次のようになります。
-
-```yaml
-locations:
-  - name: 稚内
-    slug: wakkanai
-    query: "稚内市 OR 宗谷"
-  - name: 北見
-    slug: kitami
-    query: "北見市"
-  - name: 多摩
-    slug: tama
-    query: "多摩市"
-  - name: 旭川
-    slug: asahikawa
-    query: "旭川市"
-```
+既存の `locations:` 配下にある地域の項目に続けて追加します。
 
 4. **Commit changes** で保存します。`main` では自動実行されます。それ以外の既定ブランチでは次の定期実行を待つか手動実行してください。
 5. 実行完了後、`feeds/asahikawa.xml` が公開されます。トップページからURLをコピーしてInoreaderに追加します。

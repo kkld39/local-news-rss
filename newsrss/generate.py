@@ -265,7 +265,7 @@ def generate(root, base_url="", max_enrich=45, client=None, now=None):
             if path.stem not in active and path.name != "article_cache.json":
                 path.unlink()
     links = "\n".join('<li><a href="feeds/' + loc["slug"] + '.xml">ローカルニュース - ' + html.escape(loc["name"]) + '</a><br><code>' + html.escape((base_url.rstrip("/") + "/" if base_url else "") + "feeds/" + loc["slug"] + '.xml') + '</code></li>' for loc in locations)
-    write_changed(root / "index.html", '<!doctype html>\n<html lang="ja"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>ローカルニュースRSS</title><style>body{font-family:system-ui;max-width:760px;margin:3rem auto;padding:0 1rem;line-height:1.8}li{margin:1.5rem 0}code{overflow-wrap:anywhere}</style><h1>ローカルニュースRSS</h1><p>リンク先のRSS URLをInoreaderに登録してください。原則毎時17分に更新します。</p><ul>' + links + '</ul><p>Google News検索に基づく地域ニュース。画像・記事の権利は各配信元に帰属します。</p></html>\n')
+    write_changed(root / "index.html", '<!doctype html>\n<html lang="ja"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>ローカルニュースRSS</title><style>body{font-family:system-ui;max-width:760px;margin:3rem auto;padding:0 1rem;line-height:1.8}li{margin:1.5rem 0}code{overflow-wrap:anywhere}</style><h1>ローカルニュースRSS</h1><p>任意の地域を<code>locations.yml</code>に追加して、地域ニュースRSSを生成できる汎用ツールです。</p><h2>配信中の地域</h2><p>リンク先のRSS URLをInoreaderに登録してください。原則毎時17分に更新します。</p><ul>' + links + '</ul><p>Google News検索に基づく地域ニュース。画像・記事の権利は各配信元に帰属します。</p></html>\n')
     print(json.dumps(report, ensure_ascii=False, indent=2))
     if not successes:
         raise RuntimeError("All source feeds failed; retained existing articles, deployment aborted")
