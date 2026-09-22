@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>ローカルニュース - 多摩</title>
-    <link>https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja</link>
+    <link>https://kkld39.github.io/local-news-rss/</link>
     <description>多摩の地域ニュース（Google News検索）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 20 Sep 2026 22:11:51 +0000</lastBuildDate>
+    <atom:link href="https://kkld39.github.io/local-news-rss/feeds/tama.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Sep 2026 22:00:56 +0000</lastBuildDate>
+    <item>
+      <title>【31歳になりました】「三十にして立つ」―これまでへの感謝と、これからの決意【多摩市】 - go2senkyo.com</title>
+      <link>https://go2senkyo.com/seijika/185396/posts/1508925</link>
+      <pubDate>Mon, 21 Sep 2026 22:00:56 +0000</pubDate>
+      <guid isPermaLink="false">42d80d1f8e354e149ad14a777fa6eee89bfb67829f43afeab3b3610161c92d57</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">go2senkyo.com</source>
+      <description>&lt;p&gt;【31歳になりました】「三十にして立つ」―これまでへの感謝と、これからの決意【多摩市】 go2senkyo.com&lt;/p&gt;&lt;p&gt;配信元: go2senkyo.com&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>食品館あおば ぐりーんうぉーく多摩店が10月1日(木)オープン！鮮魚専門店「さかなや旬」も登場 - 多摩ポン</title>
+      <link>https://tamapon.com/2026/09/21/aoba_gwtama_openday/</link>
+      <pubDate>Mon, 21 Sep 2026 01:10:53 +0000</pubDate>
+      <guid isPermaLink="false">2d7561a37a63d93e64aab6983d8988cc658578e06e3e4e500ba4f70ebdca62b4</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">多摩ポン</source>
+      <media:thumbnail url="https://tamapon.com/wp-content/uploads/2026/09/att.6viREnjNQ4m7Q36eIUfUqwAT0WIkWfUkjr0cUH1HqUk.jpeg" />
+      <media:content url="https://tamapon.com/wp-content/uploads/2026/09/att.6viREnjNQ4m7Q36eIUfUqwAT0WIkWfUkjr0cUH1HqUk.jpeg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://tamapon.com/wp-content/uploads/2026/09/att.6viREnjNQ4m7Q36eIUfUqwAT0WIkWfUkjr0cUH1HqUk.jpeg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;食品館あおば ぐりーんうぉーく多摩店が10月1日(木)オープン！鮮魚専門店「さかなや旬」も登場 多摩ポン&lt;/p&gt;&lt;p&gt;配信元: 多摩ポン&lt;/p&gt;</description>
+    </item>
     <item>
       <title>【多摩市】日医大病院へのアクセスが便利に！ミネ薬局永山駅前タワー店の2階エレベーターが誰でも利用できるようになっています。 - 地域ニュースサイト号外NET</title>
       <link>https://tama-inagi.goguynet.jp/2026/09/21/mine-elevator/</link>
@@ -27,58 +46,68 @@
       <description>&lt;p&gt;&lt;img src="https://research.image.itmedia.co.jp/wp-content/uploads/2026/09/1789621848_pixta_142655340_M.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「緑が恋しくて住む場所」 40～50代が選ぶ“永住したい多摩地域の市町村”ランキング上位に「治安良しだし静か」「懐かしくて美しい風景がある」の声 ねとらぼ&lt;/p&gt;&lt;p&gt;配信元: ねとらぼ&lt;/p&gt;</description>
     </item>
     <item>
-      <title>『王様の耳はロバの耳』全国公演が開幕しました！｜最新ニュース - 劇団四季</title>
+      <title>『王様の耳はロバの耳』全国公演が開幕しました！｜最新ニュース - shiki.jp</title>
       <link>https://www.shiki.jp/navi/news/renewinfo/037993.html</link>
       <pubDate>Sun, 20 Sep 2026 07:20:53 +0000</pubDate>
       <guid isPermaLink="false">6da97e8305098f6f4189ddd3b76747d53f0c483d2c2d0cab0de1fd5dc03b9b3b</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">劇団四季</source>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">shiki.jp</source>
       <media:thumbnail url="https://www.shiki.jp/navi/news/assets_c/2026/09/00_roba_kaimaku0920_-thumb-500x373-41574.jpg" />
       <media:content url="https://www.shiki.jp/navi/news/assets_c/2026/09/00_roba_kaimaku0920_-thumb-500x373-41574.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.shiki.jp/navi/news/assets_c/2026/09/00_roba_kaimaku0920_-thumb-500x373-41574.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;『王様の耳はロバの耳』全国公演が開幕しました！｜最新ニュース 劇団四季&lt;/p&gt;&lt;p&gt;配信元: 劇団四季&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://www.shiki.jp/navi/news/assets_c/2026/09/00_roba_kaimaku0920_-thumb-500x373-41574.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;『王様の耳はロバの耳』全国公演が開幕しました！｜最新ニュース shiki.jp&lt;/p&gt;&lt;p&gt;配信元: shiki.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>パステル多摩センター店が10/18(日)閉店へ。クロスガーデン多摩の店舗で閉店セール - 多摩ポン</title>
-      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE1BV3hFMFhjS01manFlc0NmeVRtX09zY01KUlRKUV9MTEFhZWZfeHYwVXpXQmJwd055U3ZJNVdraXQ4cDd1SDJVTVRWX0xRcFVUMFNZRG9MbVlIUWt4WmVLdG1IQTFBV19oSmc?oc=5</link>
+      <link>https://tamapon.com/2026/09/20/pastel-tamacenter-closeday/</link>
       <pubDate>Sun, 20 Sep 2026 03:12:43 +0000</pubDate>
       <guid isPermaLink="false">b6508e081a38ca127f57234a16ca69f825564a54985f8573beba4b432c429324</guid>
       <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">多摩ポン</source>
-      <description>&lt;p&gt;パステル多摩センター店が10/18(日)閉店へ。クロスガーデン多摩の店舗で閉店セール 多摩ポン&lt;/p&gt;&lt;p&gt;配信元: 多摩ポン&lt;/p&gt;</description>
+      <media:thumbnail url="https://tamapon.com/wp-content/uploads/2026/09/f551fd92-1b86-424d-9797-a4af8e9c085b.jpeg" />
+      <media:content url="https://tamapon.com/wp-content/uploads/2026/09/f551fd92-1b86-424d-9797-a4af8e9c085b.jpeg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://tamapon.com/wp-content/uploads/2026/09/f551fd92-1b86-424d-9797-a4af8e9c085b.jpeg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;パステル多摩センター店が10/18(日)閉店へ。クロスガーデン多摩の店舗で閉店セール 多摩ポン&lt;/p&gt;&lt;p&gt;配信元: 多摩ポン&lt;/p&gt;</description>
     </item>
     <item>
       <title>【多摩市】シルバーウィークは多摩中央公園で過ごそう！「水辺のマルシェスペシャル -星空グルメナイト-」＆「酒ナイト」が開催 - 地域ニュースサイト号外NET</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPa3JibXVJUjJZMGU0cUh3UldPNlo3SWFyR1BBM3hrcENRQ2FLTVlTeGEtTlRMTVRLT2ZyVk5HOTNXQ2NRVUM5ZUdJZmhROFdfM2ZQVnhBTnFNcjg0Y1VSekRaQndCVm9WYjlVUF83VDY5azhzT1Z1aUJCT2Nna0MzU2FVbGs0NnVKSmpPNzNJVDE3Zw?oc=5</link>
+      <link>https://tama-inagi.goguynet.jp/2026/09/20/tama-central-park-night-week-marche-sake-2026/</link>
       <pubDate>Sat, 19 Sep 2026 22:11:18 +0000</pubDate>
       <guid isPermaLink="false">9e31e85e1d70d327b042fa0cd4e1c8c1ce736a13b9d231efda47e0c8b9621d29</guid>
       <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">地域ニュースサイト号外NET</source>
-      <description>&lt;p&gt;【多摩市】シルバーウィークは多摩中央公園で過ごそう！「水辺のマルシェスペシャル -星空グルメナイト-」＆「酒ナイト」が開催 地域ニュースサイト号外NET&lt;/p&gt;&lt;p&gt;配信元: 地域ニュースサイト号外NET&lt;/p&gt;</description>
+      <media:thumbnail url="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/sub8.jpg" />
+      <media:content url="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/sub8.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/sub8.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【多摩市】シルバーウィークは多摩中央公園で過ごそう！「水辺のマルシェスペシャル -星空グルメナイト-」＆「酒ナイト」が開催 地域ニュースサイト号外NET&lt;/p&gt;&lt;p&gt;配信元: 地域ニュースサイト号外NET&lt;/p&gt;</description>
     </item>
     <item>
       <title>「23区より住みやすい」 “永住したい東京・多摩地域の市町村”って？ ランキング上位に「東京で感じていた息苦しさがない」「マジでいいとこだぞ！」の声 - ねとらぼ</title>
-      <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzNTBtZVFZSU5sdXpsNWJiSkRDb0NCaW9fZmc3TFBSNEtVcDlfb1RRQzVlbVBTQXVycWQ4aFVsR19Gb3l3SThqbms3cFZENlVFM2pWdGVoWWxpWmFLbExZSkFXYzJVZw?oc=5</link>
+      <link>https://nlab.itmedia.co.jp/research/articles/4023582/2/</link>
       <pubDate>Sat, 19 Sep 2026 12:42:08 +0000</pubDate>
       <guid isPermaLink="false">e732cce8671bcc79993c5bc308e6e58ee12b63c67fb5f93f1cfec111089ed9f7</guid>
       <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">ねとらぼ</source>
-      <description>&lt;p&gt;「23区より住みやすい」 “永住したい東京・多摩地域の市町村”って？ ランキング上位に「東京で感じていた息苦しさがない」「マジでいいとこだぞ！」の声 ねとらぼ&lt;/p&gt;&lt;p&gt;配信元: ねとらぼ&lt;/p&gt;</description>
+      <media:thumbnail url="https://research.image.itmedia.co.jp/wp-content/uploads/2026/09/1789726128_pixta_140910122_M.jpg" />
+      <media:content url="https://research.image.itmedia.co.jp/wp-content/uploads/2026/09/1789726128_pixta_140910122_M.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://research.image.itmedia.co.jp/wp-content/uploads/2026/09/1789726128_pixta_140910122_M.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「23区より住みやすい」 “永住したい東京・多摩地域の市町村”って？ ランキング上位に「東京で感じていた息苦しさがない」「マジでいいとこだぞ！」の声 ねとらぼ&lt;/p&gt;&lt;p&gt;配信元: ねとらぼ&lt;/p&gt;</description>
     </item>
     <item>
       <title>【多摩市】9月18日に、ココリア多摩センターに「おかしのまちおか」がオープンしました！オープン記念セール実施中！ - 地域ニュースサイト号外NET</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTFBqUC1iQnprREpEVmNndEhtdjFyUzBEU045QmRZY1RhVzdPQ292WkpGNmhMRjREdVdadENMVXVVMlR0MkJ3VWh4Tl84VjlJcU5sVWo5bnZmejNxc0ZiUUI1SnQxeWxPSk5Edlo2V0p5dkQ?oc=5</link>
+      <link>https://tama-inagi.goguynet.jp/2026/09/19/okashi-machioka-open/</link>
       <pubDate>Fri, 18 Sep 2026 22:11:58 +0000</pubDate>
       <guid isPermaLink="false">4c0df416ccc7b5917d3237134383a99d2af6c943b24fd7a3f6a998ad85a0a043</guid>
       <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">地域ニュースサイト号外NET</source>
-      <description>&lt;p&gt;【多摩市】9月18日に、ココリア多摩センターに「おかしのまちおか」がオープンしました！オープン記念セール実施中！ 地域ニュースサイト号外NET&lt;/p&gt;&lt;p&gt;配信元: 地域ニュースサイト号外NET&lt;/p&gt;</description>
+      <media:thumbnail url="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/234258.jpg" />
+      <media:content url="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/234258.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/234258.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【多摩市】9月18日に、ココリア多摩センターに「おかしのまちおか」がオープンしました！オープン記念セール実施中！ 地域ニュースサイト号外NET&lt;/p&gt;&lt;p&gt;配信元: 地域ニュースサイト号外NET&lt;/p&gt;</description>
     </item>
     <item>
       <title>【多摩市】約200個のベトナムランタンが頭上を彩る！豊ヶ丘・貝取エリアのJ Smile多摩八角堂で、「多摩ランタンフェスティバル2026」が今年も10月10日・11日に開催されます！ - 地域ニュースサイト号外NET</title>
-      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE40LTRCR2t3U3M5UkRxR3AxSkpTRjRCVW9sQmxxby13aTUzZFBhUUlSVUV1RWkzZjN1d2VsZGdXUWhMdjJIZDlyNms2eUtLUTBkcFFEZE9kUTJuS0lfeFFvaHdxNzZrQ19Pbi1n?oc=5</link>
+      <link>https://tama-inagi.goguynet.jp/2026/09/18/lantern-fes-2026/</link>
       <pubDate>Fri, 18 Sep 2026 06:02:00 +0000</pubDate>
       <guid isPermaLink="false">7f420521f57d8c51b52563b0d478ae5f5b19a51367e06b0e6ac16be352fc1196</guid>
       <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">地域ニュースサイト号外NET</source>
-      <description>&lt;p&gt;【多摩市】約200個のベトナムランタンが頭上を彩る！豊ヶ丘・貝取エリアのJ Smile多摩八角堂で、「多摩ランタンフェスティバル2026」が今年も10月10日・11日に開催されます！ 地域ニュースサイト号外NET&lt;/p&gt;&lt;p&gt;配信元: 地域ニュースサイト号外NET&lt;/p&gt;</description>
+      <media:thumbnail url="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/main.jpg" />
+      <media:content url="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/main.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/main.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【多摩市】約200個のベトナムランタンが頭上を彩る！豊ヶ丘・貝取エリアのJ Smile多摩八角堂で、「多摩ランタンフェスティバル2026」が今年も10月10日・11日に開催されます！ 地域ニュースサイト号外NET&lt;/p&gt;&lt;p&gt;配信元: 地域ニュースサイト号外NET&lt;/p&gt;</description>
     </item>
     <item>
       <title>Moplus、東京都多摩市における自動運転調査検証事業を受託 レベル2車両によるテスト走行を開始 - LIGARE（リガーレ）</title>
-      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jd1EzQV81MmRYQVBfRXZhdl92SUttcGx1QWFIeXZtZF9GdS1YUVdHNmEwSmxBNWg1Q19MM2ZhX1hlZmtCYTdBbEJDbTVtNGZHOGRkdQ?oc=5</link>
+      <link>https://ligare.news/story/moplus_20260918/</link>
       <pubDate>Thu, 17 Sep 2026 23:31:55 +0000</pubDate>
       <guid isPermaLink="false">afd1db528eec33a63ba53931ea81a4e977fc75ce47c878bb8d885580e2858141</guid>
       <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">LIGARE（リガーレ）</source>
@@ -86,99 +115,103 @@
     </item>
     <item>
       <title>【多摩市】多摩市立総合体育館の愛称が「リフォームプライス多摩アリーナ」になります！ - 地域ニュースサイト号外NET</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE5tcVZrbkJ2VG9iVWVZWENCSlpMVXI1TUNBeDB3bDlfNC1nTVRJZXd1M3JKcTF0YVBDUm1SQ09BdEV6ajRJdWpDZDFWN1NHNFFtX1FwVVVnZm84eU1GdWhvQi04LU5CTElVRklCdG1Hb0VLVklVOVQ1RlBB?oc=5</link>
+      <link>https://tama-inagi.goguynet.jp/2026/09/18/reformprice-tama-arena-2026/</link>
       <pubDate>Thu, 17 Sep 2026 22:11:01 +0000</pubDate>
       <guid isPermaLink="false">50675afa6deb503e9a80f11bfd8363bcf9359cf0ec7e751fc9030df0c84f541e</guid>
       <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">地域ニュースサイト号外NET</source>
-      <description>&lt;p&gt;【多摩市】多摩市立総合体育館の愛称が「リフォームプライス多摩アリーナ」になります！ 地域ニュースサイト号外NET&lt;/p&gt;&lt;p&gt;配信元: 地域ニュースサイト号外NET&lt;/p&gt;</description>
+      <media:thumbnail url="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/21368.jpg" />
+      <media:content url="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/21368.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/21368.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【多摩市】多摩市立総合体育館の愛称が「リフォームプライス多摩アリーナ」になります！ 地域ニュースサイト号外NET&lt;/p&gt;&lt;p&gt;配信元: 地域ニュースサイト号外NET&lt;/p&gt;</description>
     </item>
     <item>
       <title>【多摩市】諏訪・永山地区で、「自動運転車」テスト走行が9月上旬から開始。一般向け試乗会も予定！ - 地域ニュースサイト号外NET</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDQ4UEVNanE5MWFndGhiQ25ZYTZGazZNekczLXdtZjJqbzdqNXB4S2ctV2JUSmtsdVpBcUFyM21KWDJsb0pxSjNQN0JrdGtTektsYzZmOVFOVHRlR0JMZUU2dDdETEFQSXhKOWVTM1FNVFg3NnRKNDg1N2ZNXzR3SU5IVndKWEpr?oc=5</link>
+      <link>https://tama-inagi.goguynet.jp/2026/09/17/tama-city-autonomous-driving-test-2026/</link>
       <pubDate>Wed, 16 Sep 2026 22:11:57 +0000</pubDate>
       <guid isPermaLink="false">5b26cc67723637564a7f2c22d8fb950f9e47d48c91ca55e4575fc43d53a7200f</guid>
       <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">地域ニュースサイト号外NET</source>
-      <description>&lt;p&gt;【多摩市】諏訪・永山地区で、「自動運転車」テスト走行が9月上旬から開始。一般向け試乗会も予定！ 地域ニュースサイト号外NET&lt;/p&gt;&lt;p&gt;配信元: 地域ニュースサイト号外NET&lt;/p&gt;</description>
+      <media:thumbnail url="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/05/suwa-shopping.jpg" />
+      <media:content url="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/05/suwa-shopping.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/05/suwa-shopping.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【多摩市】諏訪・永山地区で、「自動運転車」テスト走行が9月上旬から開始。一般向け試乗会も予定！ 地域ニュースサイト号外NET&lt;/p&gt;&lt;p&gt;配信元: 地域ニュースサイト号外NET&lt;/p&gt;</description>
     </item>
     <item>
       <title>「子供、若者にやさしい人づくりを」東京・多摩市に初の拠点 NPO法人代表の斎典道さん TOKYOまち・ひと物語 (産経新聞) - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxObVljS3FnVVJDQkJBWWttRzNDS2dfY0FWbngxWXRNS2s2OEFJb0VVdnAzZUUtX040S1R5d0VJUDY5ckg4YmJKblVhZEFlSGNBaWg4SFVxTFdSX08ybWlkdm0wTHFyTVJRUk15NkdkWWZ2d0hLdUd1WF90YVBUMHU5eHU1OEFhd2RpV3VBX2JR?oc=5</link>
+      <link>https://news.yahoo.co.jp/articles/17c81fe71c1bf1118c86dc2dc619c2e985647ec6/images/000</link>
       <pubDate>Tue, 15 Sep 2026 00:12:43 +0000</pubDate>
       <guid isPermaLink="false">80d7fe24dfa2dd17d1c5161b5e31e5eaf412ac60fd90aec2fd52c4b7ce74cfc4</guid>
       <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-      <description>&lt;p&gt;「子供、若者にやさしい人づくりを」東京・多摩市に初の拠点 NPO法人代表の斎典道さん TOKYOまち・ひと物語 (産経新聞) Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
+      <media:thumbnail url="https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgEYjX4frX5Z4mbG9NHNDcLMHYa3_2XbOlWtX1uXJbNMwG3-MzU1uYlV9MrPytefQ-6JG-C2sJf02tW2e3E30Ev3fEcE69IYIWGNpmESXfDOE" />
+      <media:content url="https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgEYjX4frX5Z4mbG9NHNDcLMHYa3_2XbOlWtX1uXJbNMwG3-MzU1uYlV9MrPytefQ-6JG-C2sJf02tW2e3E30Ev3fEcE69IYIWGNpmESXfDOE" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgEYjX4frX5Z4mbG9NHNDcLMHYa3_2XbOlWtX1uXJbNMwG3-MzU1uYlV9MrPytefQ-6JG-C2sJf02tW2e3E30Ev3fEcE69IYIWGNpmESXfDOE" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「子供、若者にやさしい人づくりを」東京・多摩市に初の拠点 NPO法人代表の斎典道さん TOKYOまち・ひと物語 (産経新聞) Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>「子供、若者にやさしい人づくりを」東京・多摩市に初の拠点 NPO法人代表の斎典道さん TOKYOまち・ひと物語 - 産経ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE5lSURvVWgzTk1YVEZpcWFDa1dsdU5UTFdaRTNET1JqZnVEWGk4eGQ2ZHJKaGVJTHFjOG45UHg2ajVWNkVCX1N4amZtM2wtcmxpbVc5TEplSFlxX0hSV3pZcmhxajZQbHRtM3ZfNzlvQjdoVmIwREE?oc=5</link>
+      <link>https://www.sankei.com/article/20260915-IKUGMHSKMVJ3VM5THEUPA2J7L4/</link>
       <pubDate>Mon, 14 Sep 2026 23:00:00 +0000</pubDate>
       <guid isPermaLink="false">d6a74304a8eab19f84efae9c6ed5b83b90f9c79eec6585793d9a770171320104</guid>
       <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">産経ニュース</source>
-      <description>&lt;p&gt;「子供、若者にやさしい人づくりを」東京・多摩市に初の拠点 NPO法人代表の斎典道さん TOKYOまち・ひと物語 産経ニュース&lt;/p&gt;&lt;p&gt;配信元: 産経ニュース&lt;/p&gt;</description>
+      <media:thumbnail url="https://www.sankei.com/resizer/v2/XABJTE2R3VKD3DLK2FPUS3N77I.jpg?auth=1619b76a37a2f9781b484cb8aa4865e184d0a66bbe6bd10dd945a37bf3f3598c&amp;quality=50&amp;focal=912%2C309&amp;width=1200&amp;height=675" />
+      <media:content url="https://www.sankei.com/resizer/v2/XABJTE2R3VKD3DLK2FPUS3N77I.jpg?auth=1619b76a37a2f9781b484cb8aa4865e184d0a66bbe6bd10dd945a37bf3f3598c&amp;quality=50&amp;focal=912%2C309&amp;width=1200&amp;height=675" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.sankei.com/resizer/v2/XABJTE2R3VKD3DLK2FPUS3N77I.jpg?auth=1619b76a37a2f9781b484cb8aa4865e184d0a66bbe6bd10dd945a37bf3f3598c&amp;amp;quality=50&amp;amp;focal=912%2C309&amp;amp;width=1200&amp;amp;height=675" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「子供、若者にやさしい人づくりを」東京・多摩市に初の拠点 NPO法人代表の斎典道さん TOKYOまち・ひと物語 産経ニュース&lt;/p&gt;&lt;p&gt;配信元: 産経ニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>「子供、若者にやさしい人づくりを」東京・多摩市に初の拠点 NPO法人代表の斎典道さん（写真・画像 1/1） - 産経ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPRzRRT19aLXZ1SnI0blBjUnlWTmVELXYwVFdlTGRSMUVyLU9OelhSeXB4bVNVemtlcUlRSkktUGhpS2lRMW84WW1wTGt4UmwyNTJ1YnJvZVozVTVYa29kUUxad0x2dXVKX1pmdkoyVXEtcjh5cjFVal9fX2pMb3RNNDZqWEtDOC1DOFBVd25zajBCMVNpbEs0Rkh1U1BvYjFpclE?oc=5</link>
+      <link>https://www.sankei.com/article/20260915-IKUGMHSKMVJ3VM5THEUPA2J7L4/photo/XABJTE2R3VKD3DLK2FPUS3N77I/</link>
       <pubDate>Mon, 14 Sep 2026 23:00:00 +0000</pubDate>
       <guid isPermaLink="false">c0ae2d73eb762d3dcba40d9952f94c75ff29a1fce87535e19664b4f361e14a76</guid>
       <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">産経ニュース</source>
-      <description>&lt;p&gt;「子供、若者にやさしい人づくりを」東京・多摩市に初の拠点 NPO法人代表の斎典道さん（写真・画像 1/1） 産経ニュース&lt;/p&gt;&lt;p&gt;配信元: 産経ニュース&lt;/p&gt;</description>
+      <media:thumbnail url="https://www.sankei.com/resizer/v2/XABJTE2R3VKD3DLK2FPUS3N77I.jpg?auth=1619b76a37a2f9781b484cb8aa4865e184d0a66bbe6bd10dd945a37bf3f3598c&amp;quality=50&amp;focal=912%2C309&amp;width=1200&amp;height=675" />
+      <media:content url="https://www.sankei.com/resizer/v2/XABJTE2R3VKD3DLK2FPUS3N77I.jpg?auth=1619b76a37a2f9781b484cb8aa4865e184d0a66bbe6bd10dd945a37bf3f3598c&amp;quality=50&amp;focal=912%2C309&amp;width=1200&amp;height=675" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.sankei.com/resizer/v2/XABJTE2R3VKD3DLK2FPUS3N77I.jpg?auth=1619b76a37a2f9781b484cb8aa4865e184d0a66bbe6bd10dd945a37bf3f3598c&amp;amp;quality=50&amp;amp;focal=912%2C309&amp;amp;width=1200&amp;amp;height=675" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「子供、若者にやさしい人づくりを」東京・多摩市に初の拠点 NPO法人代表の斎典道さん（写真・画像 1/1） 産経ニュース&lt;/p&gt;&lt;p&gt;配信元: 産経ニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>【東京都多摩市】パルテノン多摩で全3回の連続講座「目の前にある関係性に苦しむあなたへ」開催 - STRAIGHT PRESS</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ScURwVExReUxnTVhWYUlTVlV2YjVHX1Nxc1VpWk5fRldBajc1eUloMkg1M1NFNzR4eDlDOFlJUUk2Z3dfQ0tLVVBVY0pBUzd6U1hV?oc=5</link>
+      <link>https://straightpress.jp/20260914/1709559</link>
       <pubDate>Mon, 14 Sep 2026 15:11:40 +0000</pubDate>
       <guid isPermaLink="false">182e950a38eb68b00ad00c5671eb0eb3a295b4b27b716cbb6c550a48e28fa260</guid>
       <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">STRAIGHT PRESS</source>
-      <description>&lt;p&gt;【東京都多摩市】パルテノン多摩で全3回の連続講座「目の前にある関係性に苦しむあなたへ」開催 STRAIGHT PRESS&lt;/p&gt;&lt;p&gt;配信元: STRAIGHT PRESS&lt;/p&gt;</description>
+      <media:thumbnail url="https://straightpress.jp/wp-content/uploads/2026/09/Higu202609101045-300x225.jpg" />
+      <media:content url="https://straightpress.jp/wp-content/uploads/2026/09/Higu202609101045-300x225.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://straightpress.jp/wp-content/uploads/2026/09/Higu202609101045-300x225.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【東京都多摩市】パルテノン多摩で全3回の連続講座「目の前にある関係性に苦しむあなたへ」開催 STRAIGHT PRESS&lt;/p&gt;&lt;p&gt;配信元: STRAIGHT PRESS&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【老人週間を前に】「長生き」から「元気に暮らせる」へ―多摩市の健康寿命と予防を考える - 選挙ドットコム</title>
-      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EWGpHMk1VSThobDEwVUtDclhtV21hT25TM3pxOGZKMFA0cHV1MFlRdGtyeEE2R1c1Zy1UNVZ0YTdqRFpzOHdtV3RNQXZUQi01elNmVkFWMURaMXFxQmRr?oc=5</link>
+      <title>【老人週間を前に】「長生き」から「元気に暮らせる」へ―多摩市の健康寿命と予防を考える - go2senkyo.com</title>
+      <link>https://go2senkyo.com/seijika/185396/posts/1500054</link>
       <pubDate>Sun, 13 Sep 2026 16:32:37 +0000</pubDate>
       <guid isPermaLink="false">6df9f540d92a9cec988105edaae35315a293e62c9ee036df9e6f68b1da84a0e2</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">選挙ドットコム</source>
-      <description>&lt;p&gt;【老人週間を前に】「長生き」から「元気に暮らせる」へ―多摩市の健康寿命と予防を考える 選挙ドットコム&lt;/p&gt;&lt;p&gt;配信元: 選挙ドットコム&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">go2senkyo.com</source>
+      <description>&lt;p&gt;【老人週間を前に】「長生き」から「元気に暮らせる」へ―多摩市の健康寿命と予防を考える go2senkyo.com&lt;/p&gt;&lt;p&gt;配信元: go2senkyo.com&lt;/p&gt;</description>
     </item>
     <item>
-      <title>⛩️多摩市・連光寺の春日神社例大祭へ！昨日の子ども神輿に続いて、今日は大人の出番！💪地域の皆さ... - 選挙ドットコム</title>
+      <title>⛩️多摩市・連光寺の春日神社例大祭へ！昨日の子ども神輿に続いて、今日は大人の出番！💪地域の皆さ... - go2senkyo.com</title>
       <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UekIyRWh6MHJvbHdmZ2JkRWg0ejdMNnFscFRua2E5QTNuNkZHNWQ3NHJoYzEtZnlJRE90SzJBUkkyT0dBVWVEQUgxZEJSWE8xVC1OdjZoUkNKUDF2SjI0?oc=5</link>
       <pubDate>Sun, 13 Sep 2026 15:37:37 +0000</pubDate>
       <guid isPermaLink="false">16183e68c0d09526986b786397964f8f1884f220843fd9a6e8e8fcd0f31e1984</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">選挙ドットコム</source>
-      <description>&lt;p&gt;⛩️多摩市・連光寺の春日神社例大祭へ！昨日の子ども神輿に続いて、今日は大人の出番！💪地域の皆さ... 選挙ドットコム&lt;/p&gt;&lt;p&gt;配信元: 選挙ドットコム&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">go2senkyo.com</source>
+      <description>&lt;p&gt;⛩️多摩市・連光寺の春日神社例大祭へ！昨日の子ども神輿に続いて、今日は大人の出番！💪地域の皆さ... go2senkyo.com&lt;/p&gt;&lt;p&gt;配信元: go2senkyo.com&lt;/p&gt;</description>
     </item>
     <item>
-      <title>#多摩市若者会議みんなで、カレーをつくる日🍛昨日辺りから急に肌寒くなってきましたね！雨模様も続... - 選挙ドットコム</title>
+      <title>#多摩市若者会議みんなで、カレーをつくる日🍛昨日辺りから急に肌寒くなってきましたね！雨模様も続... - go2senkyo.com</title>
       <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Qd2VBeVFsaWg0dzJ2TjctWk5HUktPTFl5aGFXMnhHampIZVJaY0hOSkRLNmNiZXM5VUw4b2YtLXVWUEhTN0Zkekl4OHczSDVIbUVZaHd4QTkwa1p3dUVn?oc=5</link>
       <pubDate>Fri, 11 Sep 2026 12:44:31 +0000</pubDate>
       <guid isPermaLink="false">6a906cbb085f2e610580fd326a3592ffa906f694bc22d9b74c187404e7e82745</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">選挙ドットコム</source>
-      <description>&lt;p&gt;#多摩市若者会議みんなで、カレーをつくる日🍛昨日辺りから急に肌寒くなってきましたね！雨模様も続... 選挙ドットコム&lt;/p&gt;&lt;p&gt;配信元: 選挙ドットコム&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">go2senkyo.com</source>
+      <description>&lt;p&gt;#多摩市若者会議みんなで、カレーをつくる日🍛昨日辺りから急に肌寒くなってきましたね！雨模様も続... go2senkyo.com&lt;/p&gt;&lt;p&gt;配信元: go2senkyo.com&lt;/p&gt;</description>
     </item>
     <item>
-      <title>（東京）多摩市豊ケ丘１丁目でつきまとい　９月１０日 - topics.smt.docomo.ne.jp</title>
+      <title>（東京）多摩市豊ケ丘１丁目でつきまとい　９月１０日 - ｄメニューニュース</title>
       <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxOdkpPcjZ0am41T2s4a3NZUXlHa2F0dmVGR3RtOFNJdmZMRlNtRmNJa3NtanA4WVZWTl9fWE9ocmVQWTZuazRMZ1FVVExSbm1XZnZjNVE3LTJPOWpabnY4anM2dmpaNnF4Z0tycG5fdVNvMWxROWxjUFhOSWhPbnNBWk1XRHpoUlFLdk8tREZhTG9pOUxHcG5PT3NKN0PSAaIBQVVfeXFMTzZRb0tOT2QzQUg0dXFnMEpWSnUxZlRheWlIR3ljN1B5YlJiNXhNSVVOeGpJY2NGSHFMYlNHVHFxa2hzUXl5emFJTHgySzFLdFFaZ2xRUTdNQjdPbnNMQUpsYmdiU2ppYnpfdlp1Rk9icHRDcUVLS0xkVVFRb1preDVHczFFdlFKa3NpZFNJdFBBLVBLbDd0LVBGSGR3TVd6TXZB?oc=5</link>
       <pubDate>Fri, 11 Sep 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">556bb2a94f86b994ef56d98ab80bc583121adab90063ef492a35513a0fb6e87c</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">topics.smt.docomo.ne.jp</source>
-      <description>&lt;p&gt;（東京）多摩市豊ケ丘１丁目でつきまとい　９月１０日 topics.smt.docomo.ne.jp&lt;/p&gt;&lt;p&gt;配信元: topics.smt.docomo.ne.jp&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">ｄメニューニュース</source>
+      <description>&lt;p&gt;（東京）多摩市豊ケ丘１丁目でつきまとい　９月１０日 ｄメニューニュース&lt;/p&gt;&lt;p&gt;配信元: ｄメニューニュース&lt;/p&gt;</description>
     </item>
     <item>
-      <title>多摩市の永山団地周辺で“高齢者の気軽な移動手段” 新たな自動運転車両で実証実験へ（TOKYO MX） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1yaUlMLThVSDhwSnQ1dDc2cXcwckhzd29MaTcwV05jeDMzWUE1ZEloUGVodU1NU1U2M05TQjJVZWt6YXhlaGJsbU5Eb1VfcHl4aUdFQWxXbEhtMi13WHpEOEZJaGM1VXB1dG1IUWhHSlBIaU52aTBxSjZEVW0zUjA?oc=5</link>
-      <pubDate>Thu, 10 Sep 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">c4877a24399e156b06cb4b1f019879d044c6e54111d03e80f38039edc75857a4</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-      <description>&lt;p&gt;多摩市の永山団地周辺で“高齢者の気軽な移動手段” 新たな自動運転車両で実証実験へ（TOKYO MX） Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>多摩市 不動産会社と見守り協定 高齢者などの異変を報告 - townnews.co.jp</title>
+      <title>多摩市 不動産会社と見守り協定 高齢者などの異変を報告 - タウンニュース</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE55MVJzN3AwV2VwbWlEeXZNZ19fNnpKY1d2YnF3T3E3alYxUDR1T01ZSUdUVFdMWGlJcDJhTmpKaWx5S1d4V3ZzVnEyaXpKbTV2cmVualBhZV9oWjlqNDVkYVBqNXc?oc=5</link>
       <pubDate>Thu, 10 Sep 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">71e3f83ffe05c4e5dded952a04181faf3c4b982683a81a8916b50664aa9bf4ed</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">townnews.co.jp</source>
-      <description>&lt;p&gt;多摩市 不動産会社と見守り協定 高齢者などの異変を報告 townnews.co.jp&lt;/p&gt;&lt;p&gt;配信元: townnews.co.jp&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
+      <description>&lt;p&gt;多摩市 不動産会社と見守り協定 高齢者などの異変を報告 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>【プレビュー】多摩市の永山団地周辺で“高齢者の気軽な移動手段” 新たな自動運転車両で実証実験へ - TOKYO MX</title>
@@ -189,20 +222,36 @@
       <description>&lt;p&gt;【プレビュー】多摩市の永山団地周辺で“高齢者の気軽な移動手段” 新たな自動運転車両で実証実験へ TOKYO MX&lt;/p&gt;&lt;p&gt;配信元: TOKYO MX&lt;/p&gt;</description>
     </item>
     <item>
-      <title>駒沢女子大学学生 健康弁当のメニューを考案 多摩市と協定締結 - townnews.co.jp</title>
+      <title>駒沢女子大学学生 健康弁当のメニューを考案 多摩市と協定締結 - タウンニュース</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wMXdidUxqWHVYWlRlZEJTRThjNmRWUmJIQU51bHhrYUNDUF90SkY3QzBVVW5zVGd4Y0lMOEc2MUh2ZmhXdW1RMm5VbElzYkRGaVhPVXJKOUxyclY4MV9yeWZUdk4?oc=5</link>
       <pubDate>Thu, 10 Sep 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">9542b5700bf6730b20695321baedbebd1b032469a64d22d64702e32fe22d4360</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">townnews.co.jp</source>
-      <description>&lt;p&gt;駒沢女子大学学生 健康弁当のメニューを考案 多摩市と協定締結 townnews.co.jp&lt;/p&gt;&lt;p&gt;配信元: townnews.co.jp&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
+      <description>&lt;p&gt;駒沢女子大学学生 健康弁当のメニューを考案 多摩市と協定締結 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
     </item>
     <item>
-      <title>多摩市立総合体育館の愛称 ｢リフォームプライス多摩アリーナ｣に ネーミングライツで - townnews.co.jp</title>
+      <title>多摩市立総合体育館の愛称 ｢リフォームプライス多摩アリーナ｣に ネーミングライツで - タウンニュース</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hWlNnTkNCejh6bjc3Qm5ncWZEaktDNkF3TlFRdWNLSmxKUHh2cWVHaVpVdGhMeE8xRHg0cS1FTjJVQ1ZvcnZjRk5oaExLUHF0UjFXOGJSRGFDWWw4V18xc0ZKRmY?oc=5</link>
       <pubDate>Thu, 10 Sep 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">eba50aef3f2eac883d8b504f9706f6ab86f435d9732c61fea6b14173e1e33a36</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">townnews.co.jp</source>
-      <description>&lt;p&gt;多摩市立総合体育館の愛称 ｢リフォームプライス多摩アリーナ｣に ネーミングライツで townnews.co.jp&lt;/p&gt;&lt;p&gt;配信元: townnews.co.jp&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
+      <description>&lt;p&gt;多摩市立総合体育館の愛称 ｢リフォームプライス多摩アリーナ｣に ネーミングライツで タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>多摩市の永山団地周辺で“高齢者の気軽な移動手段” 新たな自動運転車両で実証実験へ（TOKYO MX NEWS） - ｄメニューニュース</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ1VTbzdwWjc2dllad2Nvc19aVGtwb3dBekRrXzdsTExxWnZFTVF0a2h0V0dNSnZTcG92UThiajNETTEzWmhTZ2ZtdXdWSW8wVGlWQlZGQ2E4cWd3ZUg3TmJlU3pndWd2ZEZXNjdQVDNicmc0WmNXQ2lJa2ROVlM1U0dPLTRWOEFIVFE4?oc=5</link>
+      <pubDate>Thu, 10 Sep 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ebfa93f22461cc12731d1c1f799d1d9594a34996b873c42a23cb6dab7303a60f</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">ｄメニューニュース</source>
+      <description>&lt;p&gt;多摩市の永山団地周辺で“高齢者の気軽な移動手段” 新たな自動運転車両で実証実験へ（TOKYO MX NEWS） ｄメニューニュース&lt;/p&gt;&lt;p&gt;配信元: ｄメニューニュース&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>多摩市の永山団地周辺で“高齢者の気軽な移動手段” 新たな自動運転車両で実証実験へ（TOKYO MX） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1yaUlMLThVSDhwSnQ1dDc2cXcwckhzd29MaTcwV05jeDMzWUE1ZEloUGVodU1NU1U2M05TQjJVZWt6YXhlaGJsbU5Eb1VfcHl4aUdFQWxXbEhtMi13WHpEOEZJaGM1VXB1dG1IUWhHSlBIaU52aTBxSjZEVW0zUjA?oc=5</link>
+      <pubDate>Thu, 10 Sep 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c4877a24399e156b06cb4b1f019879d044c6e54111d03e80f38039edc75857a4</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
+      <description>&lt;p&gt;多摩市の永山団地周辺で“高齢者の気軽な移動手段” 新たな自動運転車両で実証実験へ（TOKYO MX） Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>多摩センターでパブリックビューイング - giants.jp</title>
@@ -213,6 +262,14 @@
       <description>&lt;p&gt;多摩センターでパブリックビューイング giants.jp&lt;/p&gt;&lt;p&gt;配信元: giants.jp&lt;/p&gt;</description>
     </item>
     <item>
+      <title>多摩市の永山団地周辺で“高齢者の気軽な移動手段”　新たな自動運転車両で実証実験へ - TOKYO MX</title>
+      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTFBjdkVCdnhfUkZOT2FsUWZEX2dPY2NvODF5TU9SUzJqM0p0WUFUdU01UzRpck9IanlZdkNhWThmc0g0dXJuN0x2QlBfNnNsSHNLNDg5M09laUM0R0Z2eVEweEVNQ2c0dllLYy14bDhCRkTSAWpBVV95cUxQOGFWcnBlZXhZSEdiQlhVNjVuTVpNcDlhemZ3VU5OZy0tVWxST043S0lwN2lxMVYxbkFEeDNDWWpVbG1FSTlIZTc4VGNUOFBXa2NVTUlRV3JkS0g3ejQxUWM5VXd6VG5SM1Z3?oc=5</link>
+      <pubDate>Wed, 09 Sep 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">7a0dbea9589bd8cc9b223d750ed0be751ee6dff1660ff80eab881bebe6e64883</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">TOKYO MX</source>
+      <description>&lt;p&gt;多摩市の永山団地周辺で“高齢者の気軽な移動手段”　新たな自動運転車両で実証実験へ TOKYO MX&lt;/p&gt;&lt;p&gt;配信元: TOKYO MX&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>【参加無料・多摩市】専門家ではなく「ひとりの市民」として子どもと関わる。全国約650名以上が学んだ連続講座が11/21より開講 - PR TIMES</title>
       <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE9HYUhLOWpzdWR3SnZGQk9MRnlFRy0tU3ExSVNYNEEzQV9JcW9xbVNMUFIyM0h1ZjJLb3NHWjItUVpqSW9NaDRQdm9DQ1B4SllZQlRNRE1fNmZsZ0hlb0tjLVl0bFlwbjFydnc?oc=5</link>
       <pubDate>Tue, 08 Sep 2026 07:00:00 +0000</pubDate>
@@ -221,36 +278,36 @@
       <description>&lt;p&gt;【参加無料・多摩市】専門家ではなく「ひとりの市民」として子どもと関わる。全国約650名以上が学んだ連続講座が11/21より開講 PR TIMES&lt;/p&gt;&lt;p&gt;配信元: PR TIMES&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【多摩市】バス減便・運転士不足の時代に「地域の足」をどう守るか―自動運転も始まる多摩の公共交通 - 選挙ドットコム</title>
+      <title>【多摩市】バス減便・運転士不足の時代に「地域の足」をどう守るか―自動運転も始まる多摩の公共交通 - go2senkyo.com</title>
       <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DVzFTU24yWWpJTWpSdS1ydmY0R0h5Yks3QjFuRW9qX0Etd0xua25zY09Yczk2bUV4cjJlNVF1MUEzYkVMWVc2WndXenRTMGNZbE80MmdnNjMtYjhUSmRZ?oc=5</link>
       <pubDate>Mon, 07 Sep 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">971d899aad031a7a26345acf07b437aeeee78c03360fe414d144575252e04d41</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">選挙ドットコム</source>
-      <description>&lt;p&gt;【多摩市】バス減便・運転士不足の時代に「地域の足」をどう守るか―自動運転も始まる多摩の公共交通 選挙ドットコム&lt;/p&gt;&lt;p&gt;配信元: 選挙ドットコム&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">go2senkyo.com</source>
+      <description>&lt;p&gt;【多摩市】バス減便・運転士不足の時代に「地域の足」をどう守るか―自動運転も始まる多摩の公共交通 go2senkyo.com&lt;/p&gt;&lt;p&gt;配信元: go2senkyo.com&lt;/p&gt;</description>
     </item>
     <item>
-      <title>東京都の自動運転技術検証を受託、多摩市でレベル2テスト走行へ…Moplus - レスポンス（Response.jp）</title>
+      <title>東京都の自動運転技術検証を受託、多摩市でレベル2テスト走行へ…Moplus - response.jp</title>
       <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1aV9RaFVtSENsSi1yTDJQcS1QaWFLR214RklITEVoOXdiWDQyNGtqbURiejdQaDE3a0hoSDRmQ2dxR0NSbkE1R1dCR25GQVRTSk9nMF9aYlRBSW9WSC0w?oc=5</link>
       <pubDate>Mon, 07 Sep 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">a8bbcae9d17b041a72db766963aa97af4305770476dd103b00405b99b38b0495</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">レスポンス（Response.jp）</source>
-      <description>&lt;p&gt;東京都の自動運転技術検証を受託、多摩市でレベル2テスト走行へ…Moplus レスポンス（Response.jp）&lt;/p&gt;&lt;p&gt;配信元: レスポンス（Response.jp）&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">response.jp</source>
+      <description>&lt;p&gt;東京都の自動運転技術検証を受託、多摩市でレベル2テスト走行へ…Moplus response.jp&lt;/p&gt;&lt;p&gt;配信元: response.jp&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【Ｔｏｋｙｏ とことこ散歩】ミュージアムに名主の住宅 丘陵地、多摩センター周辺 - 東京新聞</title>
+      <title>【Ｔｏｋｙｏ とことこ散歩】ミュージアムに名主の住宅 丘陵地、多摩センター周辺 - tokyo-np.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6R1hMRWFKT1RJMUFCNGNYRF9OMDhkRWJCVjBaM29LSlNMX2hKSnlvZW5qQkQxSWRYOXRhY0ZkUkxRWE5TZC1BbF8wRHg0QmtiNHh3?oc=5</link>
       <pubDate>Mon, 07 Sep 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">afe7cea585e194389bccb0ab132d7efcaeb8012d7a3dfb7af44dbfb013f8db56</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">東京新聞</source>
-      <description>&lt;p&gt;【Ｔｏｋｙｏ とことこ散歩】ミュージアムに名主の住宅 丘陵地、多摩センター周辺 東京新聞&lt;/p&gt;&lt;p&gt;配信元: 東京新聞&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">tokyo-np.co.jp</source>
+      <description>&lt;p&gt;【Ｔｏｋｙｏ とことこ散歩】ミュージアムに名主の住宅 丘陵地、多摩センター周辺 tokyo-np.co.jp&lt;/p&gt;&lt;p&gt;配信元: tokyo-np.co.jp&lt;/p&gt;</description>
     </item>
     <item>
-      <title>地震など災害情報 やさしい日本語で 言い換え分かりやすく伝える 27日に多摩市でワークショップ - 東京新聞</title>
+      <title>地震など災害情報 やさしい日本語で 言い換え分かりやすく伝える 27日に多摩市でワークショップ - tokyo-np.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hdTViYUZsdWN3amdoYWlCXzFaSE9ET1BvcFZxVUZJQ1E4bmtaRmxEb1M2ZFRYbVBLQWRkMTQ0VHFvMURrZHQ2RkZQQXg4SDFSNmVn?oc=5</link>
       <pubDate>Mon, 07 Sep 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">2ced0b77877ddc1ee138b60326f4ee3018518e0928b20b02ce8318ac895d2c7d</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">東京新聞</source>
-      <description>&lt;p&gt;地震など災害情報 やさしい日本語で 言い換え分かりやすく伝える 27日に多摩市でワークショップ 東京新聞&lt;/p&gt;&lt;p&gt;配信元: 東京新聞&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">tokyo-np.co.jp</source>
+      <description>&lt;p&gt;地震など災害情報 やさしい日本語で 言い換え分かりやすく伝える 27日に多摩市でワークショップ tokyo-np.co.jp&lt;/p&gt;&lt;p&gt;配信元: tokyo-np.co.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>東京都の自動運転技術検証を受託、多摩市でレベル2テスト走行へ…Moplus (レスポンス) - newspicks.com</title>
@@ -309,20 +366,20 @@
       <description>&lt;p&gt;東京都多摩市における自動運転サービス調査検証事業を受託 PR TIMES&lt;/p&gt;&lt;p&gt;配信元: PR TIMES&lt;/p&gt;</description>
     </item>
     <item>
-      <title>落合の伝統行事 多摩センターで盆踊り大会 ９月19日、20日の２日間 - townnews.co.jp</title>
+      <title>落合の伝統行事 多摩センターで盆踊り大会 ９月19日、20日の２日間 - タウンニュース</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GNEdTQnI1TzJmQkRwVVpxVEtUaUdQdHM0Mzc3LV9JOEY1S240WkV3Mm52a0FXTjg5WG1NNVBfM1paX2NkWjRQWDVtNWpyVmtxNlpCRlRRdElES29CSkhYV1lSYzk?oc=5</link>
       <pubDate>Fri, 04 Sep 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">680a3b63cb771a2ca581a848620c43264794931da436e91edd08bf002cf3dce4</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">townnews.co.jp</source>
-      <description>&lt;p&gt;落合の伝統行事 多摩センターで盆踊り大会 ９月19日、20日の２日間 townnews.co.jp&lt;/p&gt;&lt;p&gt;配信元: townnews.co.jp&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
+      <description>&lt;p&gt;落合の伝統行事 多摩センターで盆踊り大会 ９月19日、20日の２日間 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
     </item>
     <item>
-      <title>駒沢女子大学・駒沢女子短期大学が多摩市と連携に関する基本協定を締結 ― 健幸ポイント事業への協力における京王ストアとの官民学連携企画など複数の事業を展開予定 - Digital PR Platform</title>
+      <title>駒沢女子大学・駒沢女子短期大学が多摩市と連携に関する基本協定を締結 ― 健幸ポイント事業への協力における京王ストアとの官民学連携企画など複数の事業を展開予定 - digitalpr.jp</title>
       <link>https://news.google.com/rss/articles/CBMiQ0FVX3lxTE44aGZwdXNaMXpFMVRiZl9JMC05VlJYNmhGWEg2TTFzcjRQT09FQktmWUhUZmJmQWpyZ3VoakpzX3pjSXM?oc=5</link>
       <pubDate>Fri, 04 Sep 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">08566a6d252618858a3e1165f338342f739a5dcfe5d524519f3ed97145fdac45</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Digital PR Platform</source>
-      <description>&lt;p&gt;駒沢女子大学・駒沢女子短期大学が多摩市と連携に関する基本協定を締結 ― 健幸ポイント事業への協力における京王ストアとの官民学連携企画など複数の事業を展開予定 Digital PR Platform&lt;/p&gt;&lt;p&gt;配信元: Digital PR Platform&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">digitalpr.jp</source>
+      <description>&lt;p&gt;駒沢女子大学・駒沢女子短期大学が多摩市と連携に関する基本協定を締結 ― 健幸ポイント事業への協力における京王ストアとの官民学連携企画など複数の事業を展開予定 digitalpr.jp&lt;/p&gt;&lt;p&gt;配信元: digitalpr.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>健康弁当を開発 東京都多摩市、駒沢女子大、京王ストアが連携 - 時事ドットコム</title>
@@ -389,12 +446,12 @@
       <description>&lt;p&gt;多摩センターで「ジャイアンツギャラリー」～9月1日開幕 giants.jp&lt;/p&gt;&lt;p&gt;配信元: giants.jp&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【防災の日】今すぐ確認したい地震への備え―「在宅避難」と感震ブレーカー【多摩市】 - 選挙ドットコム</title>
+      <title>【防災の日】今すぐ確認したい地震への備え―「在宅避難」と感震ブレーカー【多摩市】 - go2senkyo.com</title>
       <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE40UDd6YkpWWVAzb3BiREdOaGdKUDd4UVZBdDNHNGRyUGxMd0FPRmdRN1hIZkhEQzZuQjBWaHRYRjMxMTdxQnNCV0pueE1RMUdFZFRwWkFmcHhaZnRubnBB?oc=5</link>
       <pubDate>Mon, 31 Aug 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">733504c0b19d029bf896bcc43775cadadfb7864ad38f16e778575c0d83cd62d3</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">選挙ドットコム</source>
-      <description>&lt;p&gt;【防災の日】今すぐ確認したい地震への備え―「在宅避難」と感震ブレーカー【多摩市】 選挙ドットコム&lt;/p&gt;&lt;p&gt;配信元: 選挙ドットコム&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">go2senkyo.com</source>
+      <description>&lt;p&gt;【防災の日】今すぐ確認したい地震への備え―「在宅避難」と感震ブレーカー【多摩市】 go2senkyo.com&lt;/p&gt;&lt;p&gt;配信元: go2senkyo.com&lt;/p&gt;</description>
     </item>
     <item>
       <title>日野市・多摩市・稲城市・東京南農業協同組合が連名で都市農地の保全に関する要望書を国に提出 - PR TIMES</title>
@@ -405,52 +462,52 @@
       <description>&lt;p&gt;日野市・多摩市・稲城市・東京南農業協同組合が連名で都市農地の保全に関する要望書を国に提出 PR TIMES&lt;/p&gt;&lt;p&gt;配信元: PR TIMES&lt;/p&gt;</description>
     </item>
     <item>
-      <title>多摩NT野外コンサート １２００人が来場 公園がステージ、盛況 - townnews.co.jp</title>
+      <title>多摩NT野外コンサート １２００人が来場 公園がステージ、盛況 - タウンニュース</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hU3E4ZVJINzdvUTFuSVVHQ0NDRUFGS3Zjb2ZOQVVsdno3WGxtSUJWN1loeU5QTkpSeTJDYWVMOXR2dFBlQjhNUGtqVXNXRGNHaEpEYmlMMEdTSXU2bE55TUFMOGQ?oc=5</link>
       <pubDate>Thu, 27 Aug 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">1777836183775ce730908e8e03041263d491fc7c7cf01c517405846452c12f8b</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">townnews.co.jp</source>
-      <description>&lt;p&gt;多摩NT野外コンサート １２００人が来場 公園がステージ、盛況 townnews.co.jp&lt;/p&gt;&lt;p&gt;配信元: townnews.co.jp&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
+      <description>&lt;p&gt;多摩NT野外コンサート １２００人が来場 公園がステージ、盛況 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
     </item>
     <item>
-      <title>大学生が認知症の人を傾聴 市の施策作りの一環 - townnews.co.jp</title>
+      <title>大学生が認知症の人を傾聴 市の施策作りの一環 - タウンニュース</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IN1FPdVJlUUdZTzFtNDZwcEVGajN4M18yZzBVcFBBNEUzNldXMlY5ZTdUeTF2MHdNY0xKXzBOVllMZUEyaEZXeFRFV05zQUxvMGNmUWRMVTVhSEZmTU4zeGlmX3c?oc=5</link>
       <pubDate>Thu, 27 Aug 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">2286040acccfca51f8afa1a93f09341857c321387aa74c0086513fa72c0131f6</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">townnews.co.jp</source>
-      <description>&lt;p&gt;大学生が認知症の人を傾聴 市の施策作りの一環 townnews.co.jp&lt;/p&gt;&lt;p&gt;配信元: townnews.co.jp&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
+      <description>&lt;p&gt;大学生が認知症の人を傾聴 市の施策作りの一環 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
     </item>
     <item>
-      <title>｢メカイ｣保存団体が一堂に ９月 市内で初のサミット | 多摩 - townnews.co.jp</title>
+      <title>｢メカイ｣保存団体が一堂に ９月 市内で初のサミット | 多摩 - タウンニュース</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpOHBGVmJPaklsdGZ4Z3RPajRmQ0szeW93ZVVINnZtbWZtQk5xWGFXakhzVDRiSTZFU09DVFJJNkhPaWx2UGh4b0NfV1FxdHhKdVRBWjUzMndoNkJFTWJna0tYOTk?oc=5</link>
       <pubDate>Thu, 27 Aug 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">7edabd973f669de9819d28c890bd56d5fadb3c17176d586b4441a997677cb600</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">townnews.co.jp</source>
-      <description>&lt;p&gt;｢メカイ｣保存団体が一堂に ９月 市内で初のサミット | 多摩 townnews.co.jp&lt;/p&gt;&lt;p&gt;配信元: townnews.co.jp&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
+      <description>&lt;p&gt;｢メカイ｣保存団体が一堂に ９月 市内で初のサミット | 多摩 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
     </item>
     <item>
-      <title>多摩めかいの会の会長を務める 岡野 則夫さん 乞田在住 73歳 - townnews.co.jp</title>
+      <title>多摩めかいの会の会長を務める 岡野 則夫さん 乞田在住 73歳 - タウンニュース</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hOVhKb0tWdlM5OENaX21IQzR4Q1huTVcwUjd0ZjhSeFBaT0taOWsweW9oSnk4ZzZrNTF1ZmFWMkw3dWFLM3VhWEFCMGxieVlxRHRRdTdmeDI3NnA2bGhtVHBtRFc?oc=5</link>
       <pubDate>Thu, 27 Aug 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">28e8ae94bf8346828dee122db16140c7c0988fa1ee533b8b60f28cdb2ba14bed</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">townnews.co.jp</source>
-      <description>&lt;p&gt;多摩めかいの会の会長を務める 岡野 則夫さん 乞田在住 73歳 townnews.co.jp&lt;/p&gt;&lt;p&gt;配信元: townnews.co.jp&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
+      <description>&lt;p&gt;多摩めかいの会の会長を務める 岡野 則夫さん 乞田在住 73歳 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
     </item>
     <item>
-      <title>展示や講演等で伝える平和 パルテノン多摩に多くの人出 - townnews.co.jp</title>
+      <title>展示や講演等で伝える平和 パルテノン多摩に多くの人出 - タウンニュース</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE90V21vUFFEdko2elVXbEVxM0d1bDktMjIyNEF1eFZCaDNQZ1U0c1dSeVlRXzJlcGN0QXFmRW81ZzdvYWN0am5IZnN2bjhKckYxLWhocVNTV0FWSkFtN2I1dnNfQ3k?oc=5</link>
       <pubDate>Thu, 27 Aug 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">0bf163c6b594beabdc8cf5798bf83de9e8a88ae20a7a5285c33e11b048cfd6c3</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">townnews.co.jp</source>
-      <description>&lt;p&gt;展示や講演等で伝える平和 パルテノン多摩に多くの人出 townnews.co.jp&lt;/p&gt;&lt;p&gt;配信元: townnews.co.jp&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
+      <description>&lt;p&gt;展示や講演等で伝える平和 パルテノン多摩に多くの人出 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
     </item>
     <item>
-      <title>海外の若者が市民と交流 ワールドキャンパスｉｎ多摩 - townnews.co.jp</title>
+      <title>海外の若者が市民と交流 ワールドキャンパスｉｎ多摩 - タウンニュース</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1N2wtTmVseGxJNUJ6WXhnOWtqb2szVzFFc3pVSVAxS1Z5MnJILVRJb0VWeG1HZ1lrNzJ0cWlNWmhNNXlmSFI2bkd4cVNxYlI4b3lVVjZLVXNVOW5fZmR4TTlLbzk?oc=5</link>
       <pubDate>Thu, 27 Aug 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">5333df70618aa6ed0f17b098c6486981512ef671a0dc5901fbac4b3156f773b9</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">townnews.co.jp</source>
-      <description>&lt;p&gt;海外の若者が市民と交流 ワールドキャンパスｉｎ多摩 townnews.co.jp&lt;/p&gt;&lt;p&gt;配信元: townnews.co.jp&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
+      <description>&lt;p&gt;海外の若者が市民と交流 ワールドキャンパスｉｎ多摩 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>多摩センターで巨人戦パブリックビューイングが9/9(水)開催！ココリア横で観戦＆サイン入りグッズ抽選会も - 多摩ポン</title>
