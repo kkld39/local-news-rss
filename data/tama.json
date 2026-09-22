@@ -3,10 +3,10 @@
     "id": "2f06afeb00956ff4b9771250ea0449e5552576190c12b910408ec6aa5e18c545",
     "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44WTExUVJIMUJRaVlmMFMxS1RQcFpoOGVOLVlsWWIwRHBTaHVWdWlKZXBNSEpCUVQySTM3UHB6bmJ6Q3BZYlBMMVR4dVBzTm1JQmpKUm1kaENfUE1FUFRzek12YjQyWHF5Wi1KSnFn?oc=5",
     "url": "https://article.auone.jp/a9691a4f-bf86-4c47-ac7c-c667be3ff4eb",
-    "title": "みんなで交通安全を「ゲッツ！」 お笑い芸人・ダンディ坂野さんが警視庁多摩中央署の一日署長に 交通安全を呼びかけ - article.auone.jp",
-    "source": "article.auone.jp",
+    "title": "みんなで交通安全を「ゲッツ！」 お笑い芸人・ダンディ坂野さんが警視庁多摩中央署の一日署長に 交通安全を呼びかけ - au Webポータル",
+    "source": "au Webポータル",
     "published": "2026-09-22T11:18:00+00:00",
-    "description": "みんなで交通安全を「ゲッツ！」 お笑い芸人・ダンディ坂野さんが警視庁多摩中央署の一日署長に 交通安全を呼びかけ article.auone.jp",
+    "description": "みんなで交通安全を「ゲッツ！」 お笑い芸人・ダンディ坂野さんが警視庁多摩中央署の一日署長に 交通安全を呼びかけ au Webポータル",
     "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/09/22/https___newsdig_tbs_co_jp_articles_-_2962276_w1200.webp"
   },
   {
@@ -320,16 +320,6 @@
     "image": null
   },
   {
-    "id": "a8bbcae9d17b041a72db766963aa97af4305770476dd103b00405b99b38b0495",
-    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1aV9RaFVtSENsSi1yTDJQcS1QaWFLR214RklITEVoOXdiWDQyNGtqbURiejdQaDE3a0hoSDRmQ2dxR0NSbkE1R1dCR25GQVRTSk9nMF9aYlRBSW9WSC0w?oc=5",
-    "url": "https://response.jp/article/2026/09/07/416218.html",
-    "title": "東京都の自動運転技術検証を受託、多摩市でレベル2テスト走行へ…Moplus - レスポンス（Response.jp）",
-    "source": "レスポンス（Response.jp）",
-    "published": "2026-09-07T07:00:00+00:00",
-    "description": "東京都の自動運転技術検証を受託、多摩市でレベル2テスト走行へ…Moplus レスポンス（Response.jp）",
-    "image": "https://response.jp/imgs/ogp_f/2240862.jpg"
-  },
-  {
     "id": "afe7cea585e194389bccb0ab132d7efcaeb8012d7a3dfb7af44dbfb013f8db56",
     "google_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6R1hMRWFKT1RJMUFCNGNYRF9OMDhkRWJCVjBaM29LSlNMX2hKSnlvZW5qQkQxSWRYOXRhY0ZkUkxRWE5TZC1BbF8wRHg0QmtiNHh3?oc=5",
     "url": "https://www.tokyo-np.co.jp/article/513837",
@@ -358,6 +348,16 @@
     "published": "2026-09-07T07:00:00+00:00",
     "description": "東京都の自動運転技術検証を受託、多摩市でレベル2テスト走行へ…Moplus (レスポンス) newspicks.com",
     "image": "https://contents.newspicks.com/images/news/17453809/share?updatedAt=20260907064310&blur=false"
+  },
+  {
+    "id": "a8bbcae9d17b041a72db766963aa97af4305770476dd103b00405b99b38b0495",
+    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1aV9RaFVtSENsSi1yTDJQcS1QaWFLR214RklITEVoOXdiWDQyNGtqbURiejdQaDE3a0hoSDRmQ2dxR0NSbkE1R1dCR25GQVRTSk9nMF9aYlRBSW9WSC0w?oc=5",
+    "url": "https://response.jp/article/2026/09/07/416218.html",
+    "title": "東京都の自動運転技術検証を受託、多摩市でレベル2テスト走行へ…Moplus - レスポンス（Response.jp）",
+    "source": "レスポンス（Response.jp）",
+    "published": "2026-09-07T07:00:00+00:00",
+    "description": "東京都の自動運転技術検証を受託、多摩市でレベル2テスト走行へ…Moplus レスポンス（Response.jp）",
+    "image": "https://response.jp/imgs/ogp_f/2240862.jpg"
   },
   {
     "id": "488b0e9710835b2bb026a5d088b6948d7e8b5d2b5f508883008c9d69c6a4cc23",
