@@ -1,5 +1,45 @@
 [
   {
+    "id": "4bee12e00d1567036ad343741d0db4b1f2984b2769009f64669dde181d7277c0",
+    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJWDVsYkR0TE4taU1GWklOZnIyV2ZZZXlWMFhqaU1iVjFudDAwMWdJRmdvX2kwdVlqVno2R1RiY0xOaV96TW9BUzF3bXNIQUVUcS12TFllenUyMGY1?oc=5",
+    "url": "https://www.youtube.com/watch?si=rOHV2-99akfaabyN&v=FdgvmTgXKn8&feature=youtu.be",
+    "title": "【BOMBANANA!】 #宗谷いちか #飛良ひかり #堰代ミコ #ななしいんく #vtuber #切り抜き - YouTube",
+    "source": "YouTube",
+    "published": "2026-09-24T13:59:11+00:00",
+    "description": "【BOMBANANA!】 #宗谷いちか #飛良ひかり #堰代ミコ #ななしいんく #vtuber #切り抜き YouTube",
+    "image": null
+  },
+  {
+    "id": "6db324b32ce378c1f68084324d812026ffb0edf34dced86049da8b805fdb9573",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52RUpiMFVyVlRCZm91X05hMlFXOWM1RHdiczVEa2hFZ2dKWHJSaVVHSG9oT3MxbWJRZ2ZWWHRKbHM2NWRzOTkzb1otc3AybWNnOWM0Smk2NFhqQQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1375958/",
+    "title": "留萌・宗谷（９月２５日付）おくやみ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-09-24T11:30:00+00:00",
+    "description": "留萌・宗谷（９月２５日付）おくやみ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
+    "id": "58c676c789c5b6ad3081ba8b8e1b66a8d44cfc423f8710984153fa618e56b324",
+    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FLV9JcTJXbEJWcFlTUGRtc0N0Q1FaMFpubE1TT2dONUREQlozQWNLSzdvbEg3dWdyTXJXY3gzR212Zjd0T09kSTE0WXE2QQ?oc=5",
+    "url": "https://www.fnn.jp/articles/-/1120198",
+    "title": "【北海道(宗谷地方)】9/25の天気予報 - FNNプライムオンライン",
+    "source": "FNNプライムオンライン",
+    "published": "2026-09-24T10:30:00+00:00",
+    "description": "【北海道(宗谷地方)】9/25の天気予報 FNNプライムオンライン",
+    "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
+  },
+  {
+    "id": "77f2de96f9d2a43d63f1239d1d7e9a15dcc056f00110f3a31737cee56903d1e0",
+    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wNnJ5Z1hMUVk5V1V1ZU5wOTRhc0FIRHREbnE5UnFXdVVFc3RfSTA0b1dzNmt4QVUtRXlNdEhfallfTl91X3RfUnhWRzVqVUpuRXVWeVZYZjVCN0tiX201bGhOQVN2TEMxQ0NzNm5Fd3hjUzNSWW9YbHFFdVdtV0E?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/e223cd13cc162169cdd63e79e719ca5725c86280",
+    "title": "“利尻富士”を眺めながら…地元で獲れたホッケの定食！絶景に魅了され…カフェがオープン 稚内市 - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-09-24T09:53:00+00:00",
+    "description": "“利尻富士”を眺めながら…地元で獲れたホッケの定食！絶景に魅了され…カフェがオープン 稚内市 Yahoo!ニュース",
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-03547589-stv-000-2-thumb.jpg?exp=10800"
+  },
+  {
     "id": "0a8028eb5dc2682ebc1202b8e7ddb6e34f8cd56c8f512023b1f3152297be8888",
     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xc0JzeFdXS1d5ODVoalFKVnJHODlURjh5bjBrYi14WnZRSjFmcXBsaXBWZlo2TktFSWFXS1NRME9fcmdzRlV4bFQ3cjhjbFk1dXNMbmdR?oc=5",
     "url": "https://wakkanaipress.com/2026/09/24/24926/",
@@ -13,10 +53,10 @@
     "id": "f29ca69d7928970d28d472fee9587d15b810ab28ab6a2f1072b8743058e78854",
     "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81UmFGMzRVakFxVUQySGZOYmdQMkdEeUpCTEV5am5TVktDanROQXpTek93M2dJUS1QaEdHUlJHMDVSZWxrR3lJTElXRTA0LUJZRm50MFVEamVlYnVHeGc?oc=5",
     "url": "https://www.okinawatimes.co.jp/articles/-/1929861",
-    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - 沖縄タイムス社",
-    "source": "沖縄タイムス社",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - okinawatimes.co.jp",
+    "source": "okinawatimes.co.jp",
     "published": "2026-09-23T20:43:11+00:00",
-    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 沖縄タイムス社",
+    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 okinawatimes.co.jp",
     "image": "https://oki.ismcdn.jp/mwimgs/8/5/1200wm/img_85ce95a55c75885fc93df59abea86e166672.png"
   },
   {
@@ -28,6 +68,16 @@
     "published": "2026-09-23T20:43:11+00:00",
     "description": "宗谷地方気象防災速報（竜巻注意） 第3号＝気象庁発表 信濃毎日新聞デジタル",
     "image": "https://image.shinmai.co.jp/web-image/noPhoto/noPhoto_M.jpg"
+  },
+  {
+    "id": "33542c5d6eeb400804612fa9fe57fca1ea2034e01de7009741ac0e1a88abeda8",
+    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuUUxUMnUtQVFLNUlFVTFWbXVUdTBjUWtwaXZaRWJ4VElWQklKVVo1MERQd2stdWRhZFBKVXBsLWxxS1ZUU0NkRkVFbFdSc3lCVi1IbVhyNWk?oc=5",
+    "url": "https://www.toonippo.co.jp/articles/-/2368261",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表｜全国のニュース｜Web東奥 - 東奥日報社",
+    "source": "東奥日報社",
+    "published": "2026-09-23T20:43:11+00:00",
+    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表｜全国のニュース｜Web東奥 東奥日報社",
+    "image": "https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png"
   },
   {
     "id": "a556a024cb78ffb14a5207a02aab3ea8889400d47d3acd6a36ba9dc00567e9c7",
@@ -110,16 +160,6 @@
     "image": "https://oki.ismcdn.jp/mwimgs/8/5/1200wm/img_85ce95a55c75885fc93df59abea86e166672.png"
   },
   {
-    "id": "deb02760c62a6172987a3ba528360066cb74e29912748fb35acfc65887a15c0a",
-    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85T1RsM0Znc3cxNzljMkcwcXMzX0hYY2UtdDlfVVRjdnoyd3V4RlU3YnZMRGtpR283TkNnQS02S0lZWXBSVVZGbGhlZ3pLdVpVYkVoODdMT0Y?oc=5",
-    "url": "https://www.toonippo.co.jp/articles/-/2349680",
-    "title": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表｜全国のニュース｜Web東奥 - 東奥日報社",
-    "source": "東奥日報社",
-    "published": "2026-09-23T18:33:17+00:00",
-    "description": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表｜全国のニュース｜Web東奥 東奥日報社",
-    "image": "https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png"
-  },
-  {
     "id": "ce08665b2c90c9910999e8f6504fd1f26808601396b8cd6f905152278540a7d5",
     "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuWV9kcDBMaU8tcXBOTkl3aE91QjdsdEEtdkl3YUFYR2dRaWhsSlA4NU9mNmctWnRJQXdYUUZQYy15VGtaME5aZmNuaWdDMTROTmFqWnBUV1FOdUw1?oc=5",
     "url": "https://ryukyushimpo.jp/kyodo/entry-5522366.html",
@@ -128,6 +168,16 @@
     "published": "2026-09-23T18:33:17+00:00",
     "description": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 琉球新報デジタル",
     "image": "https://ryukyushimpo.jp/tachyon/2024/05/ogp_1200-675_ryukyushimpo_logo.png?resize=1200%2C630&gravity&crop_strategy=smart"
+  },
+  {
+    "id": "deb02760c62a6172987a3ba528360066cb74e29912748fb35acfc65887a15c0a",
+    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85T1RsM0Znc3cxNzljMkcwcXMzX0hYY2UtdDlfVVRjdnoyd3V4RlU3YnZMRGtpR283TkNnQS02S0lZWXBSVVZGbGhlZ3pLdVpVYkVoODdMT0Y?oc=5",
+    "url": "https://www.toonippo.co.jp/articles/-/2349680",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表｜全国のニュース｜Web東奥 - 東奥日報社",
+    "source": "東奥日報社",
+    "published": "2026-09-23T18:33:17+00:00",
+    "description": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表｜全国のニュース｜Web東奥 東奥日報社",
+    "image": "https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png"
   },
   {
     "id": "ff582c8e39f6aa751e88a7a2379e306de3fd914465ece165728b879df202fa6d",
@@ -293,10 +343,10 @@
     "id": "28d3b6d22ec8a420e01a30b259d81636fa3dc3a52f32bef27837ccf4ca2b3eb0",
     "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GMThLSV9iUjBNWmxfLXV4TmtOMFd5aDd0UElwTVE5QkZaaVB2ZEw4ZDRkODFST3R2UFNPZXNIVndxWVdoQW1mUHJId0I5blJhQ2c2QVVBcGtTVHFGbEVITk5lM1p1SmU3Yk13cg?oc=5",
     "url": "https://kurashigoto.hokkaido.jp/konomachi/20260917090000.php",
-    "title": "稚内で余白を楽しみ、漁師を支える。 宗谷漁協で働くということNEW! - kurashigoto.hokkaido.jp",
-    "source": "kurashigoto.hokkaido.jp",
+    "title": "稚内で余白を楽しみ、漁師を支える。 宗谷漁協で働くということNEW! - 北海道の人、暮らし、仕事。 くらしごと",
+    "source": "北海道の人、暮らし、仕事。 くらしごと",
     "published": "2026-09-17T00:00:00+00:00",
-    "description": "稚内で余白を楽しみ、漁師を支える。 宗谷漁協で働くということNEW! kurashigoto.hokkaido.jp",
+    "description": "稚内で余白を楽しみ、漁師を支える。 宗谷漁協で働くということNEW! 北海道の人、暮らし、仕事。 くらしごと",
     "image": "https://kurashigoto.hokkaido.jp/image/soyagyokyo01.jpg"
   },
   {
@@ -351,7 +401,7 @@
   },
   {
     "id": "bc8038b73c913107abba1eb60afc432d1827d945042153c15eda81d4541d8134",
-    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fV0VETTdsVHB1NzJfV0d5VW1Sc0paemp5NUt1M2JhdDlKY3pvS3VkTmxNbDZTVmVjSXpIaFNKQ3daWlNRelNDY1pvRDZKNEdtMFFqazV3UGdhaUlCMEZpN3cxUUwwRUk?oc=5",
+    "google_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03RDVxTlpjbHpUbHFHSVdKWmhBZzlFaTd5UWc1MFkwRENxQm9Cbi02NFF1Zm43UFhWbzUzQjQ3ZHNMZzFBSGFVUk9CZms1bVp3TFlJdXZPeUg5YzI1OU4yVWY2M29MZHh2VHZ6dUFQRmlwaDQ?oc=5",
     "url": "https://newsdig.tbs.co.jp/articles/hbc/2948367?display=1",
     "title": "北海道のニュース - TBS NEWS DIG",
     "source": "TBS NEWS DIG",
@@ -423,10 +473,10 @@
     "id": "1f4d9a0c211606da383fb5f9ad2e67de1f82aa5538fd9db68e207f6df20c6e12",
     "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wX0xSSnF3WmRpRHAwV1lMMFZyOHM5NjVWV3Zkb2dFWFJBLVdmd0pqaG00VThfSTYzbVdpUXUwTDZ3R2Zia3pRNDVxcw?oc=5",
     "url": "https://www.47news.jp/14930397.html",
-    "title": "ザ・ロイヤルエクスプレス JR宗谷線を今季初運行 鉄道ファンら南稚内駅で歓迎 - 47NEWS",
-    "source": "47NEWS",
+    "title": "ザ・ロイヤルエクスプレス JR宗谷線を今季初運行 鉄道ファンら南稚内駅で歓迎 - 47news.jp",
+    "source": "47news.jp",
     "published": "2026-09-12T07:00:00+00:00",
-    "description": "ザ・ロイヤルエクスプレス JR宗谷線を今季初運行 鉄道ファンら南稚内駅で歓迎 47NEWS",
+    "description": "ザ・ロイヤルエクスプレス JR宗谷線を今季初運行 鉄道ファンら南稚内駅で歓迎 47news.jp",
     "image": "https://img.cf.47news.jp/public/photo/ff24a452e5cdb44943da1e146e99b705/photo.jpg"
   },
   {
@@ -473,10 +523,10 @@
     "id": "6e33321b579f93d54286cd82be6cd26b9202f5dd8cb76745a6acb56dbd381f41",
     "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TN0lZYVVQSlVIWjF6eHNXeWJpdnlrbDZaSmJWdEpHcnl3SW93czhkUUpiRDJFVl91dUpCbGc2ZWstSmdPdWRvXzdJVQ?oc=5",
     "url": "https://www.47news.jp/14910618.html",
-    "title": "コープさっぽろ、稚内に12月初出店 地元スーパー承継、宗谷管内への展開続く - 47NEWS",
-    "source": "47NEWS",
+    "title": "コープさっぽろ、稚内に12月初出店 地元スーパー承継、宗谷管内への展開続く - 47news.jp",
+    "source": "47news.jp",
     "published": "2026-09-08T07:00:00+00:00",
-    "description": "コープさっぽろ、稚内に12月初出店 地元スーパー承継、宗谷管内への展開続く 47NEWS",
+    "description": "コープさっぽろ、稚内に12月初出店 地元スーパー承継、宗谷管内への展開続く 47news.jp",
     "image": "https://img.cf.47news.jp/public/photo/64ba89ad748f9532d91a30fcae685d08/photo.jpg"
   },
   {
@@ -553,10 +603,10 @@
     "id": "01b8b51d8dfc0af11035f16112a4f07c9103d49cfb80540a0464397a9e4f8a89",
     "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRM3QtR1RtdkxhQ1JYWVpVNC0wc19rbFpJOS1kWUc3bmtGM0l0VmQxUFFCZGdSa09LMGJCWjFQSzRtTHJqUFljRjRNTzBfZEFfZ29pRVhUdw?oc=5",
     "url": "https://www.uhb.jp/news/single.html?id=61943",
-    "title": "最北のマチ稚内市の公園で旧一万円札とみられる大量の紙幣がばらまかれる＿全て切り刻まれた状態で発見＿警察が本物かどうか確認へ〈北海道〉 - uhb.jp",
-    "source": "uhb.jp",
+    "title": "最北のマチ稚内市の公園で旧一万円札とみられる大量の紙幣がばらまかれる＿全て切り刻まれた状態で発見＿警察が本物かどうか確認へ〈北海道〉 - UHB 北海道文化放送",
+    "source": "UHB 北海道文化放送",
     "published": "2026-09-05T07:00:00+00:00",
-    "description": "最北のマチ稚内市の公園で旧一万円札とみられる大量の紙幣がばらまかれる＿全て切り刻まれた状態で発見＿警察が本物かどうか確認へ〈北海道〉 uhb.jp",
+    "description": "最北のマチ稚内市の公園で旧一万円札とみられる大量の紙幣がばらまかれる＿全て切り刻まれた状態で発見＿警察が本物かどうか確認へ〈北海道〉 UHB 北海道文化放送",
     "image": "https://www.uhb.jp/news/data/61943/image.jpg?v=1788529161"
   },
   {
@@ -640,16 +690,6 @@
     "image": "https://image.gallery.play.jp/stv-news/articles/1189658b1df04b52b76d42fb3baaabdf/4ac4d6de-34f2-4dde-97f3-d4e70585e7a2.jpg?w=1200"
   },
   {
-    "id": "916908b60055cf6ec92e3b4734d7b8557047974c02c6e37d64943f91fb45607f",
-    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NT3cyQzZLdUpGU3dkTV9ycU5XejdBczVBMjBfZWU2T3JCeW04NU42bzYtMkttWmI1NFBoamhVNXZKcDVyZnh0QXl0cW5JZzJFWlZpV2ZLVQ?oc=5",
-    "url": "https://www.uhb.jp/news/single.html?id=61931",
-    "title": "公園に大量の\"旧一万円札\"ばらまかれる「切り刻まれた紙幣」発見_警察が本物かどうかも含め詳しい状況を調べる_いったい誰が、何のために？〈北海道稚内市〉 - UHB 北海道文化放送",
-    "source": "UHB 北海道文化放送",
-    "published": "2026-09-04T07:00:00+00:00",
-    "description": "公園に大量の\"旧一万円札\"ばらまかれる「切り刻まれた紙幣」発見_警察が本物かどうかも含め詳しい状況を調べる_いったい誰が、何のために？〈北海道稚内市〉 UHB 北海道文化放送",
-    "image": "https://www.uhb.jp/news/data/61931/image.jpg?v=1788514767"
-  },
-  {
     "id": "48027dee742e46de5d919b04df4ce8bfa20039fc5a42bff4cec2d3753ba2fb95",
     "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14ZEdIclFVTW9GVGl6bDQxYU5VNXpXZlpraFlJaVZzMDc5YVpkQW8tZV9BUXJKbGlEd2Q3RnFyU2c2dl9QQnVNakV1eUJVeEF4dUVnakZEZGtLSWpvM1hSLUFUSVNSdm8?oc=5",
     "url": "https://www.asahi.co.jp/webnews/pages/ann_000531381.html",
@@ -658,6 +698,16 @@
     "published": "2026-09-04T07:00:00+00:00",
     "description": "公園で切り刻まれた“旧1万円札”見つかる警察が本物の紙幣か調査中北海道・稚内市 朝日放送",
     "image": null
+  },
+  {
+    "id": "916908b60055cf6ec92e3b4734d7b8557047974c02c6e37d64943f91fb45607f",
+    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NT3cyQzZLdUpGU3dkTV9ycU5XejdBczVBMjBfZWU2T3JCeW04NU42bzYtMkttWmI1NFBoamhVNXZKcDVyZnh0QXl0cW5JZzJFWlZpV2ZLVQ?oc=5",
+    "url": "https://www.uhb.jp/news/single.html?id=61931",
+    "title": "公園に大量の\"旧一万円札\"ばらまかれる「切り刻まれた紙幣」発見_警察が本物かどうかも含め詳しい状況を調べる_いったい誰が、何のために？〈北海道稚内市〉 - UHB 北海道文化放送",
+    "source": "UHB 北海道文化放送",
+    "published": "2026-09-04T07:00:00+00:00",
+    "description": "公園に大量の\"旧一万円札\"ばらまかれる「切り刻まれた紙幣」発見_警察が本物かどうかも含め詳しい状況を調べる_いったい誰が、何のために？〈北海道稚内市〉 UHB 北海道文化放送",
+    "image": "https://www.uhb.jp/news/data/61931/image.jpg?v=1788514767"
   },
   {
     "id": "8569aa660fb5be54aa3cca1683def10f93153d150372ef414fcf3ab73641cd39",
@@ -753,10 +803,10 @@
     "id": "e4a4cb251a4eeae0274ac9c06d4da77db3a8d9176ae045a7b59245ba3f04fcf4",
     "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50bFBRVjBlSVJ5eVF5MVR0bmR5VXRiNkU3UXJ6T1p6aU9aM3UxSEJwYnpmaGI1NEJ6R29udUViRFYyVVVYQkllWUFKdVRLQW00TUFZdVBmcy0?oc=5",
     "url": "https://www.kyoto-np.co.jp/articles/-/1779937",
-    "title": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 - 京都新聞デジタル",
-    "source": "京都新聞デジタル",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 - kyoto-np.co.jp",
+    "source": "kyoto-np.co.jp",
     "published": "2026-08-28T07:00:00+00:00",
-    "description": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 京都新聞デジタル",
+    "description": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 kyoto-np.co.jp",
     "image": "https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png"
   },
   {
