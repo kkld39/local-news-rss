@@ -130,13 +130,23 @@
     "image": "https://nihonkai.ismcdn.jp/mwimgs/c/0/-/img_c07ec45bf272da78d3f861a6b5b9553b25703.jpg"
   },
   {
+    "id": "b0a0f8d87598814ecaaa15e1ec0ba062317ef8e2094cb17c6467495203db8d09",
+    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zQXR6LXhYUjZxLVZUMldReWFOZDVTRUNTWS1ZZmlNUGIzLS1UcTUzSDB1dHBvYS1wRHhpS0s1MFI1bjlUeFEwWVZSLU1QdjdRVHZHWVZB?oc=5",
+    "url": "https://www.saga-s.co.jp/articles/-/1798713",
+    "title": "窓口改革、地方から飛躍 開発システム７５市町契約 北海道北見市と地元企業 | | プライムニュース - 佐賀新聞",
+    "source": "佐賀新聞",
+    "published": "2026-09-26T00:12:00+00:00",
+    "description": "窓口改革、地方から飛躍 開発システム７５市町契約 北海道北見市と地元企業 | | プライムニュース 佐賀新聞",
+    "image": "https://saga.ismcdn.jp/mwimgs/c/0/1200m/img_c07ec45bf272da78d3f861a6b5b9553b25703.jpg"
+  },
+  {
     "id": "bca35d5badcb3ae885c1230ef8378d252b8685ad3fd909fcd68ad1c7a69374be",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OdlJyeXlTLXFiUkpVVm53TG50aDB0akdmUThzbFhORXhVQmFRUnQ5QnhxdUdRUVNIYnJzU0dvVU9YWjhpbk5MWWRoOVVzMW9TQ2tZWGdoWm1YUQ?oc=5",
     "url": "https://www.chugoku-np.co.jp/articles/-/900252",
-    "title": "窓口改革、地方から飛躍 開発システム７５市町契約 北海道北見市と地元企業 - 中国新聞デジタル",
-    "source": "中国新聞デジタル",
+    "title": "窓口改革、地方から飛躍 開発システム７５市町契約 北海道北見市と地元企業 - chugoku-np.co.jp",
+    "source": "chugoku-np.co.jp",
     "published": "2026-09-26T00:12:00+00:00",
-    "description": "窓口改革、地方から飛躍 開発システム７５市町契約 北海道北見市と地元企業 中国新聞デジタル",
+    "description": "窓口改革、地方から飛躍 開発システム７５市町契約 北海道北見市と地元企業 chugoku-np.co.jp",
     "image": "https://chugoku-np.ismcdn.jp/mwimgs/c/0/-/img_c07ec45bf272da78d3f861a6b5b9553b25703.jpg"
   },
   {
@@ -230,16 +240,6 @@
     "image": "https://img.topics.smt.news.goo.ne.jp/picture/hokkaido/m_hokkaido-1376784.jpg"
   },
   {
-    "id": "af5fa0145bddd491e7dacd4e4ab4dd89888b19fb5519b8159fc6c60fa6d69e63",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84WWhhVEd5THl6U3I1ZGNLbXp6azR1MVBBQlY3V1VqbTAtY1FWMENReE53UFd0czJ1X20tdG5LajhtTUczeDkwRnl4SQ?oc=5",
-    "url": "https://www.47news.jp/14992620.html",
-    "title": "＜輝いて 道東ひと巡り＞ミントマジシャンズクラブ会長 長谷敬さん（73）＝北見市 子どもらの笑顔見たい - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-09-25T10:13:00+00:00",
-    "description": "＜輝いて 道東ひと巡り＞ミントマジシャンズクラブ会長 長谷敬さん（73）＝北見市 子どもらの笑顔見たい 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/6a5f03973c30f0bfe4771d00288d82ab/photo.jpg"
-  },
-  {
     "id": "a6ad68acf4d635834f7a1bc6938222741982f8779aa6287cb16521dabd69362b",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QZ1ZRUm5UTGxXbG5VeGk0enFGODMyXzFlclVWc2VwWWlneTdJYXhvLUNsZVQ2c2Naa2VoTUxIalB4M3ppQThrd1k1V3hIX09FS1FQcjRzcklXQQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1376777/",
@@ -248,6 +248,16 @@
     "published": "2026-09-25T10:13:00+00:00",
     "description": "輝いて 道東ひと巡り＞ミントマジシャンズクラブ会長 長谷敬さん（73）＝北見市 子どもらの笑顔見たい 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/0/9/6/d/096daf4cc558b58ad7ef60e437f4d337_1.webp?20260925224930"
+  },
+  {
+    "id": "af5fa0145bddd491e7dacd4e4ab4dd89888b19fb5519b8159fc6c60fa6d69e63",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84WWhhVEd5THl6U3I1ZGNLbXp6azR1MVBBQlY3V1VqbTAtY1FWMENReE53UFd0czJ1X20tdG5LajhtTUczeDkwRnl4SQ?oc=5",
+    "url": "https://www.47news.jp/14992620.html",
+    "title": "＜輝いて 道東ひと巡り＞ミントマジシャンズクラブ会長 長谷敬さん（73）＝北見市 子どもらの笑顔見たい - 47NEWS",
+    "source": "47NEWS",
+    "published": "2026-09-25T10:13:00+00:00",
+    "description": "＜輝いて 道東ひと巡り＞ミントマジシャンズクラブ会長 長谷敬さん（73）＝北見市 子どもらの笑顔見たい 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/6a5f03973c30f0bfe4771d00288d82ab/photo.jpg"
   },
   {
     "id": "d92a6fe78bdaeb75d474c4dd69b0dfff14baf7f3371bb60d24ffaa0848f01cb7",
@@ -700,16 +710,6 @@
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/3/9/a/0/39a01d8412ed4f5cb8810c4c8658a046_1.webp?20260922185922"
   },
   {
-    "id": "13ce9dcaef26382980ae9107ff3a4a0a2d1587d26c9f5e1f9f24dd0e800d976a",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vSlE5cGN3aG1FZy1aVTBpZFlSS056bE95TXhCOFlqTDBUVUUxckpHRHdtdmg1MzdzenFjSEJTVlhfek1jbFVMREZWRFJTQXZPQS1HdjgxUG11UQ?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1375018/",
-    "title": "＜秋の高校野球予選 北見支部＞北見北斗が完勝 網南丘も接戦制す - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-09-22T08:19:33+00:00",
-    "description": "＜秋の高校野球予選 北見支部＞北見北斗が完勝 網南丘も接戦制す 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/a/2/c/5/a2c5c4030da526079109b037b4d64f76_1.webp?20260922185931"
-  },
-  {
     "id": "faf6973d6252ce90535e4c991b7623cd1e30abd07138438c5c5d3aac99bfb9da",
     "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tTEpZMmFPeEtvUl8tbDhORHZCRFdLRnZVVUtlLV8yOUZybEplY05PNXd4RHdrOGNBYXg5UkpUeFRWUlB1eVR4ZGIxWQ?oc=5",
     "url": "https://www.47news.jp/14977886.html",
@@ -718,6 +718,16 @@
     "published": "2026-09-22T08:19:33+00:00",
     "description": "＜秋の高校野球予選 北見支部＞北見北斗が完勝 網南丘も接戦制す 47NEWS",
     "image": "https://img.cf.47news.jp/public/photo/6afd21ff59e58d17b5c21574a2f9f8d0/photo.jpg"
+  },
+  {
+    "id": "13ce9dcaef26382980ae9107ff3a4a0a2d1587d26c9f5e1f9f24dd0e800d976a",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vSlE5cGN3aG1FZy1aVTBpZFlSS056bE95TXhCOFlqTDBUVUUxckpHRHdtdmg1MzdzenFjSEJTVlhfek1jbFVMREZWRFJTQXZPQS1HdjgxUG11UQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1375018/",
+    "title": "＜秋の高校野球予選 北見支部＞北見北斗が完勝 網南丘も接戦制す - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-09-22T08:19:33+00:00",
+    "description": "＜秋の高校野球予選 北見支部＞北見北斗が完勝 網南丘も接戦制す 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/a/2/c/5/a2c5c4030da526079109b037b4d64f76_1.webp?20260922185931"
   },
   {
     "id": "96ce0f6181fe4bb9e02f828b20c964b593e9f14ec1d19c3ae7ba37ee14b9891b",
@@ -733,10 +743,10 @@
     "id": "fe17e744ccb036fcc3f46634a905353532652a5f5fdf720e316a41398f815258",
     "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sMDB4TVBvN1FBX09QclBzQWo2ajk3MHFHeEFkdzRxX2NpcXB2VDdfMUQ5NnM5Ukt2ZXZtTnA1VGxuZm1EazUtb3NZNXBUdUxybWl5N2ZUN3p4alVhQlpuYWtITksyTVk?oc=5",
     "url": "https://www.asahi.com/articles/ASV9M3JCSV9MOXIE027M.html",
-    "title": "世界大会で優勝の快挙 北見北斗高校吹奏楽部のユーフォニアム奏者 [北海道] - asahi.com",
-    "source": "asahi.com",
+    "title": "世界大会で優勝の快挙 北見北斗高校吹奏楽部のユーフォニアム奏者 [北海道] - 朝日新聞",
+    "source": "朝日新聞",
     "published": "2026-09-22T00:00:00+00:00",
-    "description": "世界大会で優勝の快挙 北見北斗高校吹奏楽部のユーフォニアム奏者 [北海道] asahi.com",
+    "description": "世界大会で優勝の快挙 北見北斗高校吹奏楽部のユーフォニアム奏者 [北海道] 朝日新聞",
     "image": "https://imgopt.asahi.com/ogp/AS20260919002823_comm.jpg"
   },
   {
@@ -1243,10 +1253,10 @@
     "id": "eac2ab4837d1eb3e9eb2258209d9c95b38d93db0732be28ffbe5df3daae2eae5",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDMnZNRzBCemk1ZUNsNjh4aVE1OHA4bGJMRko1QXdmVjFCMFBZRG5HMjdNTk5IaUotdFZXYnVfU2JvUy0xUlNWWjM4OUN6cUUxODVGeHpmbnBxZw?oc=5",
     "url": "https://www.htb.co.jp/news/archives_39561.html",
-    "title": "どちらかが対向車線にはみ出しか…北海道・北見市で車2台衝突、軽乗用車横転し電柱激突で53歳男性死亡 - HTB 北海道テレビ",
-    "source": "HTB 北海道テレビ",
+    "title": "どちらかが対向車線にはみ出しか…北海道・北見市で車2台衝突、軽乗用車横転し電柱激突で53歳男性死亡 - htb.co.jp",
+    "source": "htb.co.jp",
     "published": "2026-09-15T07:00:00+00:00",
-    "description": "どちらかが対向車線にはみ出しか…北海道・北見市で車2台衝突、軽乗用車横転し電柱激突で53歳男性死亡 HTB 北海道テレビ",
+    "description": "どちらかが対向車線にはみ出しか…北海道・北見市で車2台衝突、軽乗用車横転し電柱激突で53歳男性死亡 htb.co.jp",
     "image": "https://www.htb.co.jp/news/photo/39561_50574.jpg"
   },
   {
@@ -1258,16 +1268,6 @@
     "published": "2026-09-15T07:00:00+00:00",
     "description": "軽乗用車が大破 運転の50代男性死亡 直線道路で乗用車と衝突 どちらかの車がはみ出したか 北海道北見市 Yahoo!ニュース",
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260915-22944525-hbcv-000-3-thumb.jpg?exp=10800"
-  },
-  {
-    "id": "17348aa5f7f124ce6693915af8e9c75d8b8fd5bfc7ab5458aaa28a78e3fa9f1f",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pVlZRRnlQV2FQMjBsZlBhTU1SZExucXlNa1JDX2QzT1pqYTZWb1NaM3JRZ0ZGamlaaExfSDZEZ0Z3Rm4zZGt3dk0zZ2FDbjVYN0pOTG4zbkYxdw?oc=5",
-    "url": "https://www.htb.co.jp/news/archives_39551.html",
-    "title": "車2台が衝突 軽乗用車が横転し電柱に衝突 50代男性が死亡 北見市 - HTB 北海道テレビ",
-    "source": "HTB 北海道テレビ",
-    "published": "2026-09-15T07:00:00+00:00",
-    "description": "車2台が衝突 軽乗用車が横転し電柱に衝突 50代男性が死亡 北見市 HTB 北海道テレビ",
-    "image": "https://www.htb.co.jp/news/photo/39551_50546.jpg"
   },
   {
     "id": "f8f351d9ff35e9e61bac9689f591082476c86460e8d6cac6b18e3c8315a4131e",
@@ -1288,6 +1288,16 @@
     "published": "2026-09-15T07:00:00+00:00",
     "description": "北見市、パラきたKidsに命名権導入 10月にも公募し財源確保へ 47NEWS",
     "image": "https://img.cf.47news.jp/public/photo/e4ef0207a5d102f84833617f9895cf0b/photo.jpg"
+  },
+  {
+    "id": "17348aa5f7f124ce6693915af8e9c75d8b8fd5bfc7ab5458aaa28a78e3fa9f1f",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pVlZRRnlQV2FQMjBsZlBhTU1SZExucXlNa1JDX2QzT1pqYTZWb1NaM3JRZ0ZGamlaaExfSDZEZ0Z3Rm4zZGt3dk0zZ2FDbjVYN0pOTG4zbkYxdw?oc=5",
+    "url": "https://www.htb.co.jp/news/archives_39551.html",
+    "title": "車2台が衝突 軽乗用車が横転し電柱に衝突 50代男性が死亡 北見市 - HTB 北海道テレビ",
+    "source": "HTB 北海道テレビ",
+    "published": "2026-09-15T07:00:00+00:00",
+    "description": "車2台が衝突 軽乗用車が横転し電柱に衝突 50代男性が死亡 北見市 HTB 北海道テレビ",
+    "image": "https://www.htb.co.jp/news/photo/39551_50546.jpg"
   },
   {
     "id": "6c6ae8d0e51fb6ddf4dd36a40b4aeef32840c14d332a0e7fee1bc8c256fba62c",
@@ -1373,10 +1383,10 @@
     "id": "4c5218287de4d0bb752bfed0dc9ad469e232ef9671dce7f8489234dfdfe838fd",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsYUZZeEMyejFDbDhMOFN4X0VRTmw4cTAzelZaa1Q5aTRabzJvRUxIdlY2LThaMjdtUXZkYUdmR2lVSF9jRlhXMnlVd1gzQll1VUVJcmFCREltZw?oc=5",
     "url": "https://www.htb.co.jp/news/archives_39550.html",
-    "title": "北見市 乗用車と衝突 横転した軽自動車の男性 意識不明の重体 札幌では横断歩道で高齢女性はねられる - HTB 北海道テレビ",
-    "source": "HTB 北海道テレビ",
+    "title": "北見市 乗用車と衝突 横転した軽自動車の男性 意識不明の重体 札幌では横断歩道で高齢女性はねられる - htb.co.jp",
+    "source": "htb.co.jp",
     "published": "2026-09-14T07:00:00+00:00",
-    "description": "北見市 乗用車と衝突 横転した軽自動車の男性 意識不明の重体 札幌では横断歩道で高齢女性はねられる HTB 北海道テレビ",
+    "description": "北見市 乗用車と衝突 横転した軽自動車の男性 意識不明の重体 札幌では横断歩道で高齢女性はねられる htb.co.jp",
     "image": "https://www.htb.co.jp/news/photo/39550_50544.jpg"
   },
   {
@@ -1460,16 +1470,6 @@
     "image": "https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png"
   },
   {
-    "id": "2a655e094eb540530ea56e86b23ff58f571453f1e83ebd1b27ee0b9456ecbe38",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoaklNWEVNalNFR3Q5RXJxNGFnd3htTGZmekQwZ09fdm9CZV9haGhqNDdidWQ2M2YydmJHTDJCRDlOcW5zVnd1WHkyVQ?oc=5",
-    "url": "https://www.47news.jp/14926726.html",
-    "title": "北見のエーコープたんの店が閉店 47年の歴史に幕 15日はるべしべ店も - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-09-11T07:00:00+00:00",
-    "description": "北見のエーコープたんの店が閉店 47年の歴史に幕 15日はるべしべ店も 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/6b24ff2b2e15e870f7d4780c6bb9ceb0/photo.jpg"
-  },
-  {
     "id": "7d41e56cf0ae71f20e50caa8740d57bc07e05354df6eedcf688095b4232fbfc3",
     "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vMTV2dlo2NnZ5Q2VhdUIwUWJaelRHQWZDYjVFYkdfV1E0Q2ZjNjFkYU1XbmdPOWsyRDRKcndsZndnb0wzRFRIMkNQbw?oc=5",
     "url": "https://www.47news.jp/14924526.html",
@@ -1480,23 +1480,23 @@
     "image": "https://img.cf.47news.jp/public/photo/1338508115883a2f1a38ef5981f27407/photo.jpg"
   },
   {
-    "id": "afe85410f76a81421970df95578407698706e6b226c806abb88126339e4c3545",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90T1FYRnNvT1o5T1N4c3JUbjVNNmoxaGpNajBQTmJYZVY5MWRvVXU3bUROZUxhOVNkeDVhS2tsNmFidWZfMUVsMDlUaGlIUmxMTUYwR29fNFd1Q3NWWmhjd09QZ1doV0tqdmRFT0JESkF1MnFfTkhWc1lidUNyYVk?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/9fd4e8dffbc95f7b7664d6c94eaba233f0983a50",
-    "title": "【カーリング】結婚発表の松村千秋＆谷田康真組、左薬指に指輪キラリ 北見市の洋食屋が２S公開（日刊スポーツ） - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
+    "id": "d5f2bd026aa601405a478a710c91121351e54236af4b8711e886b0b74cd34230",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BYXZyWlR3eXlrQUhkN2FMaWZWUjNoVURIc3YtSEItbmVkanZaQ3VneHZuUUtZQlRkLUZ4Z3lJQVBpVi04Z2VzYWxQZWxocEJPSGM0ZGYtS01nQQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1369096/",
+    "title": "北見市議会3会派が米国産生食ジャガイモ輸入解禁反対決議案 17日にも可決見通し 「北見市と北海道農業守る」 - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
     "published": "2026-09-11T07:00:00+00:00",
-    "description": "【カーリング】結婚発表の松村千秋＆谷田康真組、左薬指に指輪キラリ 北見市の洋食屋が２S公開（日刊スポーツ） Yahoo!ニュース",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260911-39110485-nksports-000-4-view.jpg?exp=10800"
+    "description": "北見市議会3会派が米国産生食ジャガイモ輸入解禁反対決議案 17日にも可決見通し 「北見市と北海道農業守る」 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/f/d/7/f/fd7f0d1b6c193bdf268defde08801ea2_1.webp?20260927021115"
   },
   {
-    "id": "92dcaa398cb8de92d6ea937a094757cc9527e4dbdd9ad6d58956ef8312b9b4bd",
-    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0ODJDQi1wYU40XzdxbHlIV0JkUmtUSkJzRlp4WnFMN1ZpZnV4UVBEV1NNUnRibGZabUdFckxhaWUzS0I0aURMVFVNOWdWVUptNlBqaDM2aXdnVUhfc1dvd1ZRSTUweXdHR2kzSTZB0gF2QVVfeXFMTWM3OFJIbEdiY0E3cXdYQy1BT2Y1ZDVUaFRPSW0zdWp6d2hjMzZZRTA2eE5KN2h3UkYwbmV5aENPX0V0elAxdnp3TzF3cXg1VXN0Ty1fdHRRT0RnTTBjdm41VF9nMHdYSXlFWldwQ1dFbndmQkhVZw?oc=5",
-    "url": "https://www.nikkansports.com/sports/news/202609110000485.html",
-    "title": "【カーリング】結婚発表の松村千秋＆谷田康真組、左薬指に指輪キラリ　北見市の洋食屋が２S公開 - 日刊スポーツ",
-    "source": "日刊スポーツ",
+    "id": "2a655e094eb540530ea56e86b23ff58f571453f1e83ebd1b27ee0b9456ecbe38",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoaklNWEVNalNFR3Q5RXJxNGFnd3htTGZmekQwZ09fdm9CZV9haGhqNDdidWQ2M2YydmJHTDJCRDlOcW5zVnd1WHkyVQ?oc=5",
+    "url": "https://www.47news.jp/14926726.html",
+    "title": "北見のエーコープたんの店が閉店 47年の歴史に幕 15日はるべしべ店も - 47NEWS",
+    "source": "47NEWS",
     "published": "2026-09-11T07:00:00+00:00",
-    "description": "【カーリング】結婚発表の松村千秋＆谷田康真組、左薬指に指輪キラリ　北見市の洋食屋が２S公開 日刊スポーツ",
-    "image": "https://www.nikkansports.com/sports/news/img/202609110000485-w500_0.jpg"
+    "description": "北見のエーコープたんの店が閉店 47年の歴史に幕 15日はるべしべ店も 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/6b24ff2b2e15e870f7d4780c6bb9ceb0/photo.jpg"
   }
 ]
