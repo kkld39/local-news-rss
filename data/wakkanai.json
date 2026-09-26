@@ -13,10 +13,10 @@
     "id": "eca964649c5126730d9f845659df38e034a2fc12a728c81a9fe8a643b9ce0bb0",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UVDVEZWJDeG1oMGxxUXFmMGlHdlJUSWxsUDI4WWJsN21Gb2lKUXFoWDZhelFuOG5HTVdEMHhjWFJSUXNFWGE1UVg1YWxmUkN5eEczeU1pdTdHZw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1376735/",
-    "title": "留萌・宗谷（９月２６日付）おくやみ - hokkaido-np.co.jp",
-    "source": "hokkaido-np.co.jp",
+    "title": "留萌・宗谷（９月２６日付）おくやみ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
     "published": "2026-09-25T11:30:00+00:00",
-    "description": "留萌・宗谷（９月２６日付）おくやみ hokkaido-np.co.jp",
+    "description": "留萌・宗谷（９月２６日付）おくやみ 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
   },
   {
@@ -43,10 +43,10 @@
     "id": "660d9c380f22b6c5e18e8d039b7448763679d2cfec1fbf3caf807487b61bc668",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hLVRrQmFDMzl4QThlMEZsTHptYllObU1sMktrV25NSXF6LTgzV1JsWHgweGpBOUxkX2dRNUZTMmFkdl9ONm8xRnh2ZVBBWjRRSXAzR2dMdE4wZw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1376646/",
-    "title": "＜伸びゆく君へ＞苦楽の研究生活、腐らず懸命に 稚内市出身の帝京大教授・石川敬史さん - hokkaido-np.co.jp",
-    "source": "hokkaido-np.co.jp",
+    "title": "＜伸びゆく君へ＞苦楽の研究生活、腐らず懸命に 稚内市出身の帝京大教授・石川敬史さん - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
     "published": "2026-09-25T08:02:50+00:00",
-    "description": "＜伸びゆく君へ＞苦楽の研究生活、腐らず懸命に 稚内市出身の帝京大教授・石川敬史さん hokkaido-np.co.jp",
+    "description": "＜伸びゆく君へ＞苦楽の研究生活、腐らず懸命に 稚内市出身の帝京大教授・石川敬史さん 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/e/5/1/4/e514d081bc795b50584a59fc9573e2f4_1.webp?20260925224818"
   },
   {
@@ -263,11 +263,21 @@
     "id": "9f571043868c84aa55caf1d7bf562704b3b5f074c8de5d0b3a1fe1fc9a9720da",
     "google_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ub1VxNWxOM2dpUE51U015Q2Z3a24yT1VaN2NYWmZIbXJXVmwtYlU4WWxJbTNJUWxqNUNzSW4yb0dlREtIUDlwa0ln?oc=5",
     "url": "https://funeco.jp/news/news-33655/",
-    "title": "ロシア海軍ミサイル巡洋艦「ヴァリャーク」とミサイル観測支援艦「マーシャル・クルイロフ」、宗谷海峡を東進 海自「くまたか」が警戒監視 - funeco.jp",
-    "source": "funeco.jp",
+    "title": "ロシア海軍ミサイル巡洋艦「ヴァリャーク」とミサイル観測支援艦「マーシャル・クルイロフ」、宗谷海峡を東進 海自「くまたか」が警戒監視 - Funeco",
+    "source": "Funeco",
     "published": "2026-09-24T23:06:53+00:00",
-    "description": "ロシア海軍ミサイル巡洋艦「ヴァリャーク」とミサイル観測支援艦「マーシャル・クルイロフ」、宗谷海峡を東進 海自「くまたか」が警戒監視 funeco.jp",
+    "description": "ロシア海軍ミサイル巡洋艦「ヴァリャーク」とミサイル観測支援艦「マーシャル・クルイロフ」、宗谷海峡を東進 海自「くまたか」が警戒監視 Funeco",
     "image": "https://funeco.jp/wp-content/uploads/2026/09/b2320a9ade2ffec48e80fda6e17c3f24.jpg"
+  },
+  {
+    "id": "f4aaf8f08cf38200fae01f2f9b3d717c4154923e8b747bfd207e85820c8eac24",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zcUNzT0tBamlvYWVubnoxX2NRb2NNcFlyODBZTmU1bmpLR1EwVS1BOUhwdFEyS0pZdGFPQUFLSDRUMDhCaEZ5cjd4NzM0ek9ZU1RsZk9SMTdrZw?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1376398/",
+    "title": "北海道内冷え込む 今季全国初の氷点下、稚内・沼川で－0.4度 - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-09-24T22:53:24+00:00",
+    "description": "北海道内冷え込む 今季全国初の氷点下、稚内・沼川で－0.4度 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/5/5/3/5/55354a26414735121cd87b533d9f7a2c_1.webp?20260926103446"
   },
   {
     "id": "58c676c789c5b6ad3081ba8b8e1b66a8d44cfc423f8710984153fa618e56b324",
@@ -303,10 +313,10 @@
     "id": "4bee12e00d1567036ad343741d0db4b1f2984b2769009f64669dde181d7277c0",
     "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJWDVsYkR0TE4taU1GWklOZnIyV2ZZZXlWMFhqaU1iVjFudDAwMWdJRmdvX2kwdVlqVno2R1RiY0xOaV96TW9BUzF3bXNIQUVUcS12TFllenUyMGY1?oc=5",
     "url": "https://www.youtube.com/watch?si=rOHV2-99akfaabyN&v=FdgvmTgXKn8&feature=youtu.be",
-    "title": "【BOMBANANA!】 #宗谷いちか #飛良ひかり #堰代ミコ #ななしいんく #vtuber #切り抜き - youtu.be",
-    "source": "youtu.be",
+    "title": "【BOMBANANA!】 #宗谷いちか #飛良ひかり #堰代ミコ #ななしいんく #vtuber #切り抜き - YouTube",
+    "source": "YouTube",
     "published": "2026-09-24T13:59:11+00:00",
-    "description": "【BOMBANANA!】 #宗谷いちか #飛良ひかり #堰代ミコ #ななしいんく #vtuber #切り抜き youtu.be",
+    "description": "【BOMBANANA!】 #宗谷いちか #飛良ひかり #堰代ミコ #ななしいんく #vtuber #切り抜き YouTube",
     "image": null
   },
   {
@@ -383,10 +393,10 @@
     "id": "a556a024cb78ffb14a5207a02aab3ea8889400d47d3acd6a36ba9dc00567e9c7",
     "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZQkNURFBzTWFWbm9KSFhKQ0cwOGtmZ2dVMWd3QW1DbW5FYUh0azhoMDNEQVRQZXYtaVAyYTAzaWg2TG03WWpBT1JZNkE3RUEzMHVReEN6V0t1RV9j?oc=5",
     "url": "https://ryukyushimpo.jp/kyodo/entry-5522402.html",
-    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - 琉球新報デジタル",
-    "source": "琉球新報デジタル",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - ryukyushimpo.jp",
+    "source": "ryukyushimpo.jp",
     "published": "2026-09-23T20:43:11+00:00",
-    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 琉球新報デジタル",
+    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 ryukyushimpo.jp",
     "image": "https://ryukyushimpo.jp/tachyon/2024/05/ogp_1200-675_ryukyushimpo_logo.png?resize=1200%2C630&gravity&crop_strategy=smart"
   },
   {
@@ -453,10 +463,10 @@
     "id": "3e949b310051af0a5bed1f43b4c7c585a85d352c4c407f422c84d4787bfb35ec",
     "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9USXo5dFg5TC1fd1FQVGlPc0VlX3Y0X1BuaDVNc2ZSbV92SF83bTk5T040N25ROGxVZTdNT0hUSlpZTmhtVTBKeGdnTDQ1N3BLeEZxNlVoRXZVUEJY?oc=5",
     "url": "https://ryukyushimpo.jp/kyodo/entry-5522371.html",
-    "title": "宗谷地方気象防災速報（竜巻注意） 第２号＝気象庁発表 - 琉球新報デジタル",
-    "source": "琉球新報デジタル",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第２号＝気象庁発表 - ryukyushimpo.jp",
+    "source": "ryukyushimpo.jp",
     "published": "2026-09-23T19:43:03+00:00",
-    "description": "宗谷地方気象防災速報（竜巻注意） 第２号＝気象庁発表 琉球新報デジタル",
+    "description": "宗谷地方気象防災速報（竜巻注意） 第２号＝気象庁発表 ryukyushimpo.jp",
     "image": "https://ryukyushimpo.jp/tachyon/2024/05/ogp_1200-675_ryukyushimpo_logo.png?resize=1200%2C630&gravity&crop_strategy=smart"
   },
   {
@@ -478,6 +488,16 @@
     "published": "2026-09-23T19:43:03+00:00",
     "description": "宗谷地方気象防災速報（竜巻注意） 第２号＝気象庁発表 沖縄タイムス社",
     "image": "https://oki.ismcdn.jp/mwimgs/8/5/1200wm/img_85ce95a55c75885fc93df59abea86e166672.png"
+  },
+  {
+    "id": "8fff69cb7aaa85bb99d8f7e76da138fb471425e481bc45a7ef72a87ae7b5979d",
+    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DajZsblR4MkZBUmhSUGQ5SURsN3phZlhsbWJxQy1mS0llc1dybnJLTnZHS2ZINjFMVjcyeGs4V2xoSWFUVl9fWW8xNkFRSHhETDI2cm9n?oc=5",
+    "url": "https://www.saga-s.co.jp/articles/-/1797139",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第２号＝気象庁発表 - 佐賀新聞",
+    "source": "佐賀新聞",
+    "published": "2026-09-23T19:43:00+00:00",
+    "description": "宗谷地方気象防災速報（竜巻注意） 第２号＝気象庁発表 佐賀新聞",
+    "image": "https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png"
   },
   {
     "id": "e4a4cb251a4eeae0274ac9c06d4da77db3a8d9176ae045a7b59245ba3f04fcf4",
@@ -503,10 +523,10 @@
     "id": "ce08665b2c90c9910999e8f6504fd1f26808601396b8cd6f905152278540a7d5",
     "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuWV9kcDBMaU8tcXBOTkl3aE91QjdsdEEtdkl3YUFYR2dRaWhsSlA4NU9mNmctWnRJQXdYUUZQYy15VGtaME5aZmNuaWdDMTROTmFqWnBUV1FOdUw1?oc=5",
     "url": "https://ryukyushimpo.jp/kyodo/entry-5522366.html",
-    "title": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 - 琉球新報デジタル",
-    "source": "琉球新報デジタル",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 - ryukyushimpo.jp",
+    "source": "ryukyushimpo.jp",
     "published": "2026-09-23T18:33:17+00:00",
-    "description": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 琉球新報デジタル",
+    "description": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 ryukyushimpo.jp",
     "image": "https://ryukyushimpo.jp/tachyon/2024/05/ogp_1200-675_ryukyushimpo_logo.png?resize=1200%2C630&gravity&crop_strategy=smart"
   },
   {
@@ -623,10 +643,10 @@
     "id": "a01b3f5c3bc63fb479e3311459a4ddf8cf23df0e105d95d2fdfbebf304e562b5",
     "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oTUROZW9MbksxWjUxU1hGdjd5Q1lncjVUZ0d6WnpvaGZmV056UE1GcmtkN0dNdmx1OWFtTDNUcVd6Snk4WWt3cEpGZW53cXNDNTcwYjV6VkNKdC1EOTdKcTdqeVF6RTA?oc=5",
     "url": "https://www.fighters.co.jp/news/detail/202600947458.html",
-    "title": "宗谷総合振興局、留萌振興局、ほっかいどう地域おこし協力隊がまちの魅力をPR！WE LOVE HOKKAIDO AREA - 北海道日本ハムファイターズ",
-    "source": "北海道日本ハムファイターズ",
+    "title": "宗谷総合振興局、留萌振興局、ほっかいどう地域おこし協力隊がまちの魅力をPR！WE LOVE HOKKAIDO AREA - fighters.co.jp",
+    "source": "fighters.co.jp",
     "published": "2026-09-19T05:07:18+00:00",
-    "description": "宗谷総合振興局、留萌振興局、ほっかいどう地域おこし協力隊がまちの魅力をPR！WE LOVE HOKKAIDO AREA 北海道日本ハムファイターズ",
+    "description": "宗谷総合振興局、留萌振興局、ほっかいどう地域おこし協力隊がまちの魅力をPR！WE LOVE HOKKAIDO AREA fighters.co.jp",
     "image": "https://www.fighters.co.jp/media/sites/2/asset/fp/fitter/fb/news/2026/09/0919_01/11.jpg"
   },
   {
@@ -773,10 +793,10 @@
     "id": "109d105b0dc9abc39fe65a1379ffa124a853389178962d69af2e0124514bb960",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wM1E5dy1YcWlFUjJIZjJVeEVCVHVMMUhXQnN4VUFRTjRSVUNRdGhXX2h6c3pqVEVRZ1JpRWhUMzVyaUVfSGhLQ0k4MkNINjVCa2d5eWpEaDlXQQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1370141/",
-    "title": "宗谷管内利尻町議選結果 - hokkaido-np.co.jp",
-    "source": "hokkaido-np.co.jp",
+    "title": "宗谷管内利尻町議選結果 - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
     "published": "2026-09-13T07:00:00+00:00",
-    "description": "宗谷管内利尻町議選結果 hokkaido-np.co.jp",
+    "description": "宗谷管内利尻町議選結果 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/ogp/category/1200x630/3/ca4f8016fe5c696c7a509ee735268b47.jpg?20260926033727"
   },
   {
@@ -793,10 +813,10 @@
     "id": "207dc1c64472b62e9099e71eb71adc2af8ad22c33566f805ee5f63023fe5265d",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nNlhRSUEtZmJCdE9PNW5ScHhhVUVWWVNFSWVhaXpFUlhoMGlHdGY1cFpuWDkxX2w3Z1F1ZjFKZUEzeXVabk91aVg0ZnB2UGpqdVBDYXAtanNMUQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1369835/",
-    "title": "ザ・ロイヤルエクスプレス JR宗谷線を今季初運行 鉄道ファンら南稚内駅で歓迎 - hokkaido-np.co.jp",
-    "source": "hokkaido-np.co.jp",
+    "title": "ザ・ロイヤルエクスプレス JR宗谷線を今季初運行 鉄道ファンら南稚内駅で歓迎 - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
     "published": "2026-09-12T07:00:00+00:00",
-    "description": "ザ・ロイヤルエクスプレス JR宗谷線を今季初運行 鉄道ファンら南稚内駅で歓迎 hokkaido-np.co.jp",
+    "description": "ザ・ロイヤルエクスプレス JR宗谷線を今季初運行 鉄道ファンら南稚内駅で歓迎 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/1/3/f/6/13f693a4856f7b9fda8ae015dcf1e188_1.webp?20260922154716"
   },
   {
@@ -903,10 +923,10 @@
     "id": "e7f84a407cf3dac33c69c599f9bc41bdb05cfae99bc6361018360b3e89dbe9ba",
     "google_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmQ5VVJZRklHNkRCSjFaUjRIaVU5bmxFRHc0Z2g2LTljazlsRUxpUzFnQUwyTlEyMFlha3VIcUZxNDZPYmExXzFYVWVKcmZzUmlqaTN5bGNVdVNGQlVmRW9nSTJxc0lvckZtLTM2LXUzalppc213WDRKd3Bfd0dxOTBsRkgxNzUzNk5lbnBpempTU3lPcHl4Rk93?oc=5",
     "url": "https://www.asahi.com/articles/photo/AS20150312000901.html?iref=sp_photo_gallery_next_arrow",
-    "title": "（ＮＩＰＰＯＮ 映画の旅人）「南極物語」 北海道稚内市 - 朝日新聞",
-    "source": "朝日新聞",
+    "title": "（ＮＩＰＰＯＮ 映画の旅人）「南極物語」 北海道稚内市 - asahi.com",
+    "source": "asahi.com",
     "published": "2026-09-06T14:16:23+00:00",
-    "description": "（ＮＩＰＰＯＮ 映画の旅人）「南極物語」 北海道稚内市 朝日新聞",
+    "description": "（ＮＩＰＰＯＮ 映画の旅人）「南極物語」 北海道稚内市 asahi.com",
     "image": "https://www.asahicom.jp/articles/images/AS20150312000899_comm.jpg"
   },
   {
@@ -1143,10 +1163,10 @@
     "id": "79754df92b4433b40cf864b01269636606338e778f5b5df1172b93ce7b50186c",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIMHY5d2hGMUxrajZxeXVxRnVBajNjaDFhbGJuTEpWM1JlZ3Y3VW1iTi1YWWEzekNNT1hySjI2Vjh3VUJHa2M5NTc4WnhDNGQ3Nk93VUg2RTF4dw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1359739/",
-    "title": "稚内市「電力の地産地消」に期待 札幌市など8者、再エネ水素固体化へ調査 - hokkaido-np.co.jp",
-    "source": "hokkaido-np.co.jp",
+    "title": "稚内市「電力の地産地消」に期待 札幌市など8者、再エネ水素固体化へ調査 - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
     "published": "2026-08-27T07:00:00+00:00",
-    "description": "稚内市「電力の地産地消」に期待 札幌市など8者、再エネ水素固体化へ調査 hokkaido-np.co.jp",
+    "description": "稚内市「電力の地産地消」に期待 札幌市など8者、再エネ水素固体化へ調査 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/2/2/4/4/2244b2cf90389af49303781518aedca8_1.webp?20260922235520"
   },
   {
