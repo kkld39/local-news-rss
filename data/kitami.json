@@ -1,5 +1,15 @@
 [
   {
+    "id": "de2e33e8ea4c07bf2afca609674e9278c4e19c631d29194f5bbfca6b1ed74d4d",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DR3Vuek5pUlpJZ09lLWI5R1RzblVkUmhDVFh6UWJYbGVrMWVlYkZQVUJxV3VGbE13QXF6Um8yckVwMmZGRGNzOWc0VXE4YXBZLUhzSE5aMklGQQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1378200/",
+    "title": "＜推しニュース＞小中生作ったグッズいかが？ 北見図書館まつり4日開催 - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-09-28T19:00:00+00:00",
+    "description": "＜推しニュース＞小中生作ったグッズいかが？ 北見図書館まつり4日開催 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/c/8/d/f/c8df8cb2b9d58cb901d1e190607dcdc9_1.webp?20260929070120"
+  },
+  {
     "id": "af3db7501aa093ac6dd42c9eb1acd1ae302eeab24b994c479ccfdabccd4ba3d1",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tdlRTZEhHMi1icFlaRE5XUVZRR05Vcm5pWTJEbHBWdzRpNG5Gd2RHSlo4bV9zN3dvRHd3R0EtZlNMMm9PZDE0YzFPdEhKYTFWbk1SSHJWWUQ5UQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1378091/",
@@ -198,6 +208,16 @@
     "published": "2026-09-27T19:00:00+00:00",
     "description": "＜秋の高校野球予選 北見支部＞攻守で圧倒 遠軽全道切符 網南丘 打線沈黙し涙 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/7/7/9/6/7796370895d1d5aa9911bff19a91446d_1.webp?20260928071203"
+  },
+  {
+    "id": "726806b039fd709c94e74c13ec362e10ba88b4c8371b21f37b532d50e3859c72",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fSVBfZVozelo1S0VBMm5QdktIVDA0SjBnNWpKVDNMWUxvRWZXZ1Q3V2tvMXhrVVpfd2V1ck5HZlZkeTdiWkI1aUpmdUNlOExWTWNBSDlTZDExQQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1377579/",
+    "title": "北見・オホーツク（９月２８日付）おくやみ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-09-27T11:30:00+00:00",
+    "description": "北見・オホーツク（９月２８日付）おくやみ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
   },
   {
     "id": "7efaf33c52d6139a68d78f371db89d164f3df5e0f6ed0a53fa356b8251c264b6",
@@ -593,10 +613,10 @@
     "id": "1b303a79c553f6335a987b98c076280cd652a456443e10d25497d74e44a9457a",
     "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fSkFjQ1pFem9TNmgwZjNGcjJjVVpmaFktZ0d6M0UzeW5LOUs4NWxJMnI5RDN4azFqWmlJSmJjVE04M3Y3QnJ6RDRxRkRrSmlnQmN1LXpkS3Y?oc=5",
     "url": "https://news.web.nhk/newsweb/na/nb-7000088452",
-    "title": "北見市「企業版ふるさと納税」を教育環境の整備などに活用 - news.web.nhk",
-    "source": "news.web.nhk",
+    "title": "北見市「企業版ふるさと納税」を教育環境の整備などに活用 - NHKニュース",
+    "source": "NHKニュース",
     "published": "2026-09-25T04:19:00+00:00",
-    "description": "北見市「企業版ふるさと納税」を教育環境の整備などに活用 news.web.nhk",
+    "description": "北見市「企業版ふるさと納税」を教育環境の整備などに活用 NHKニュース",
     "image": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
   },
   {
@@ -1478,25 +1498,5 @@
     "published": "2026-09-17T03:40:04+00:00",
     "description": "9月23日「手話の日」に青色ライトアップ 網走市庁舎で初企画 北見ハッカ記念館でも 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/ogp/category/1200x630/3/27c5ca591e83a3ba710ee73b805fa7a1.jpg?20260922185957"
-  },
-  {
-    "id": "476399289b31f43b6454ab0b3263774c21b518f67a623c5273725b965822716a",
-    "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT2ozNlFvdU9sRndLRkdOQ2ljNGc2WFQ0V09TREhCcDVWTGktZmR2VTdkMXFCSTZEeDFUTWxqRTdNdUpGV2Uzdng0XzV4OG1JY2FPQm1pQVJKOWg4LWs0RGRteHNONkZsNWxRc2dzcGM5bmFRM0RwVHZOT2M1QlRJNzJRV05qUmdwcGh2dkdB?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/1ce84fcc6fcb6225218843d692b3c87a98df318b/images/000",
-    "title": "北見市立図書館で「こども将棋名人戦」 初心者向け体験会も (みんなの経済新聞ネットワーク) - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
-    "published": "2026-09-17T02:38:40+00:00",
-    "description": "北見市立図書館で「こども将棋名人戦」 初心者向け体験会も (みんなの経済新聞ネットワーク) Yahoo!ニュース",
-    "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgAWyP8ohAMqoChAumqydLOvj86CppVTd0TWuqzC_TScwFWGp3OiZkUwCQiO6vlUlFazMhr9JgacnDDxSOal0y8TbUdaYwWyJgUyMnFNFHkJLuomW2cAQE9e70tW-rSVexg=="
-  },
-  {
-    "id": "5b37cbd703730ab776ad07b8a65239b23007e91cb6bb553811a7433c6d585a9a",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvRU9mQ1lnMDNydVFqekpJa3h3WUE3LUx5VWlORUN2Vi1uUHBZdG5xUkRwc19tLTdsZXlXYU1SNEw4T0JmM0huRTQ1SUhoUEpuTVdSRVM2RTFVQQ?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1372175/",
-    "title": "＜タマネギ つなぐ恵み＞生産量日本一 自慢の特産学ぶ 北見の小学校で「博士養成教室」 - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-09-16T19:00:00+00:00",
-    "description": "＜タマネギ つなぐ恵み＞生産量日本一 自慢の特産学ぶ 北見の小学校で「博士養成教室」 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/1/4/2/2/1422e8fd23c0ba2e1b6202ee079b3510_1.webp?20260922190010"
   }
 ]
