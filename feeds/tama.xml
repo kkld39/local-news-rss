@@ -6,7 +6,27 @@
     <description>多摩の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/tama.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 29 Sep 2026 22:11:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 04:00:02 +0000</lastBuildDate>
+    <item>
+      <title>ファミリー世代の転入が進む多摩ニュータウンで、次世代が紡ぐ“未来のあかり”「多摩ランタンフェスティバル2026」開催！ - PR TIMES</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000009.000186586.html</link>
+      <pubDate>Wed, 30 Sep 2026 04:00:02 +0000</pubDate>
+      <guid isPermaLink="false">e4b5894bf049f0e4d231dd596971e6ed1e565dd097a54d592b57b6c5f6c397c9</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">PR TIMES</source>
+      <media:thumbnail url="https://prcdn.freetls.fastly.net/release_image/186586/9/186586-9-4ed62331209942aac3b2b9aa6a5ab05b-1200x800.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260" />
+      <media:content url="https://prcdn.freetls.fastly.net/release_image/186586/9/186586-9-4ed62331209942aac3b2b9aa6a5ab05b-1200x800.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://prcdn.freetls.fastly.net/release_image/186586/9/186586-9-4ed62331209942aac3b2b9aa6a5ab05b-1200x800.jpg?format=jpeg&amp;amp;auto=webp&amp;amp;fit=bounds&amp;amp;width=2400&amp;amp;height=1260" alt="" /&gt;&lt;/p&gt;&lt;p&gt;ファミリー世代の転入が進む多摩ニュータウンで、次世代が紡ぐ“未来のあかり”「多摩ランタンフェスティバル2026」開催！ PR TIMES&lt;/p&gt;&lt;p&gt;配信元: PR TIMES&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>文化祭「聖祭」に２５００人来場、多彩なイベントを動画紹介…多摩大聖ヶ丘 - 読売新聞</title>
+      <link>https://www.yomiuri.co.jp/kyoiku/support/information/CO036482/20260929-GYT8T00119/</link>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">9da57b4d9e2f92fa50e80870d1191782bc27894f93ccfe86e6c8409a7023eef5</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">読売新聞</source>
+      <media:thumbnail url="https://www.yomiuri.co.jp/media/2026/09/20260929-GYT8I00120-1.jpg?type=ogpw" />
+      <media:content url="https://www.yomiuri.co.jp/media/2026/09/20260929-GYT8I00120-1.jpg?type=ogpw" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.yomiuri.co.jp/media/2026/09/20260929-GYT8I00120-1.jpg?type=ogpw" alt="" /&gt;&lt;/p&gt;&lt;p&gt;文化祭「聖祭」に２５００人来場、多彩なイベントを動画紹介…多摩大聖ヶ丘 読売新聞&lt;/p&gt;&lt;p&gt;配信元: 読売新聞&lt;/p&gt;</description>
+    </item>
     <item>
       <title>【多摩市】「SUUMO住み続けたい街ランキング2026 首都圏版」で、唐木田が「子育てしやすい街」東京市部1位を獲得！圧倒的評価を受けた理由とは？ - 地域ニュースサイト号外NET</title>
       <link>https://tama-inagi.goguynet.jp/2026/09/30/karakida-suumo-ranking-child-rearing-2026/</link>
@@ -86,14 +106,14 @@
       <description>&lt;p&gt;&lt;img src="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/05/suwa-shopping.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【多摩市】諏訪名店街の「カフェ＆バル 風とキャラバン」が10月1日から約1ヶ月間休業へ。新体制に伴う準備期間として一部イベントを除く店内営業をお休み 地域ニュースサイト号外NET&lt;/p&gt;&lt;p&gt;配信元: 地域ニュースサイト号外NET&lt;/p&gt;</description>
     </item>
     <item>
-      <title>震度＝気象庁発表（２９日４時４９分）震度順・市区町村別 ：地震｜全国のニュース｜Web東奥 - 東奥日報社</title>
+      <title>震度＝気象庁発表（２９日４時４９分）震度順・市区町村別 ：地震｜全国のニュース｜Web東奥 - toonippo.co.jp</title>
       <link>https://www.toonippo.co.jp/articles/-/2371631</link>
       <pubDate>Mon, 28 Sep 2026 19:49:21 +0000</pubDate>
       <guid isPermaLink="false">2c729e95b8d32a718b8c9c0c1c47f96449f0b9f18a80f67de7ff7dca438b2b5e</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">東奥日報社</source>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">toonippo.co.jp</source>
       <media:thumbnail url="https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png" />
       <media:content url="https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;震度＝気象庁発表（２９日４時４９分）震度順・市区町村別 ：地震｜全国のニュース｜Web東奥 東奥日報社&lt;/p&gt;&lt;p&gt;配信元: 東奥日報社&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;震度＝気象庁発表（２９日４時４９分）震度順・市区町村別 ：地震｜全国のニュース｜Web東奥 toonippo.co.jp&lt;/p&gt;&lt;p&gt;配信元: toonippo.co.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>本について話そう　10月10日、中央図書館〈多摩市〉 - ｄメニューニュース</title>
@@ -214,14 +234,14 @@
       <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-10169765-it_nlab-000-1-view.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「激推しです……」 “永住したい東京・多摩地域の市町村”ランキング上位に「家賃が爆上がりしない限り住み続けたい」「緑も多いし、生活にも便利」の声（ねとらぼ） news.yahoo.co.jp&lt;/p&gt;&lt;p&gt;配信元: news.yahoo.co.jp&lt;/p&gt;</description>
     </item>
     <item>
-      <title>200個のランタン灯る 10月５日から、多摩八角堂で 多摩市 - article.auone.jp</title>
+      <title>200個のランタン灯る 10月５日から、多摩八角堂で 多摩市 - au Webポータル</title>
       <link>https://article.auone.jp/584984eb-28c5-4695-ae6f-258d3436b6eb</link>
       <pubDate>Sat, 26 Sep 2026 11:07:00 +0000</pubDate>
       <guid isPermaLink="false">052e67aee1e40c443cf998be1d30a82b7d51bdc4c80f47bf913e6d6120d21ef4</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">article.auone.jp</source>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">au Webポータル</source>
       <media:thumbnail url="https://newportal.portal.auone.jp/media/thumbnails/2026/09/26/https___news_jp_i_1476536183713644970_w1200.webp" />
       <media:content url="https://newportal.portal.auone.jp/media/thumbnails/2026/09/26/https___news_jp_i_1476536183713644970_w1200.webp" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newportal.portal.auone.jp/media/thumbnails/2026/09/26/https___news_jp_i_1476536183713644970_w1200.webp" alt="" /&gt;&lt;/p&gt;&lt;p&gt;200個のランタン灯る 10月５日から、多摩八角堂で 多摩市 article.auone.jp&lt;/p&gt;&lt;p&gt;配信元: article.auone.jp&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://newportal.portal.auone.jp/media/thumbnails/2026/09/26/https___news_jp_i_1476536183713644970_w1200.webp" alt="" /&gt;&lt;/p&gt;&lt;p&gt;200個のランタン灯る 10月５日から、多摩八角堂で 多摩市 au Webポータル&lt;/p&gt;&lt;p&gt;配信元: au Webポータル&lt;/p&gt;</description>
     </item>
     <item>
       <title>２００個のランタン灯る　10月５日から、多摩八角堂で〈多摩市〉 - ｄメニューニュース</title>
@@ -394,24 +414,24 @@
       <description>&lt;p&gt;&lt;img src="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/Nagayama_fes_2026.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【多摩市】今週末は永山に集合！年に１回のお祭り、永山フェスティバルが開催されます！ 地域ニュースサイト号外NET&lt;/p&gt;&lt;p&gt;配信元: 地域ニュースサイト号外NET&lt;/p&gt;</description>
     </item>
     <item>
-      <title>１００歳の市民を祝う 市、記念品贈る - タウンニュース</title>
+      <title>１００歳の市民を祝う 市、記念品贈る - townnews.co.jp</title>
       <link>https://www.townnews.co.jp/0306/2026/09/24/853987.html</link>
       <pubDate>Wed, 23 Sep 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="false">4f52f930a272790b8bf2bf5e5078ff37a04354a8c8588ef31f848b5a595d327e</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">townnews.co.jp</source>
       <media:thumbnail url="https://www.townnews.co.jp/0306/images/a001476891_02.jpg" />
       <media:content url="https://www.townnews.co.jp/0306/images/a001476891_02.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001476891_02.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;１００歳の市民を祝う 市、記念品贈る タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001476891_02.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;１００歳の市民を祝う 市、記念品贈る townnews.co.jp&lt;/p&gt;&lt;p&gt;配信元: townnews.co.jp&lt;/p&gt;</description>
     </item>
     <item>
-      <title>多摩市立中央図書館 座席利用が予約制に 一部 時間制限も設定 - タウンニュース</title>
+      <title>多摩市立中央図書館 座席利用が予約制に 一部 時間制限も設定 - townnews.co.jp</title>
       <link>https://www.townnews.co.jp/0306/2026/09/24/853994.html</link>
       <pubDate>Wed, 23 Sep 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="false">5e0ba35d5aaff6695b3d07e23c149cacfd0f8c50b056757a30c9edc5d461cd2b</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">townnews.co.jp</source>
       <media:thumbnail url="https://www.townnews.co.jp/0306/images/a001477206_04.jpg" />
       <media:content url="https://www.townnews.co.jp/0306/images/a001477206_04.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001477206_04.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;多摩市立中央図書館 座席利用が予約制に 一部 時間制限も設定 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001477206_04.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;多摩市立中央図書館 座席利用が予約制に 一部 時間制限も設定 townnews.co.jp&lt;/p&gt;&lt;p&gt;配信元: townnews.co.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>「答えの在処｣-保育が教えてくれること- 取材協力／社会福祉法人こばと会 - タウンニュース</title>
@@ -680,16 +700,6 @@
       <description>&lt;p&gt;&lt;img src="https://www.sankei.com/resizer/v2/XABJTE2R3VKD3DLK2FPUS3N77I.jpg?auth=1619b76a37a2f9781b484cb8aa4865e184d0a66bbe6bd10dd945a37bf3f3598c&amp;amp;quality=50&amp;amp;focal=912%2C309&amp;amp;width=1200&amp;amp;height=675" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「子供、若者にやさしい人づくりを」東京・多摩市に初の拠点 NPO法人代表の斎典道さん TOKYOまち・ひと物語 産経ニュース&lt;/p&gt;&lt;p&gt;配信元: 産経ニュース&lt;/p&gt;</description>
     </item>
     <item>
-      <title>「子供、若者にやさしい人づくりを」東京・多摩市に初の拠点 NPO法人代表の斎典道さん TOKYOまち・ひと物語 (産経新聞) - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/17c81fe71c1bf1118c86dc2dc619c2e985647ec6/images/000</link>
-      <pubDate>Tue, 15 Sep 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">80d7fe24dfa2dd17d1c5161b5e31e5eaf412ac60fd90aec2fd52c4b7ce74cfc4</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-      <media:thumbnail url="https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgEYjX4frX5Z4mbG9NHNDcLMHYa3_2XbOlWtX1uXJbNMwG3-MzU1uYlV9MrPytefQ-6JG-C2sJf02tW2e3E30Ev3fEcE69IYIWGNpmESXfDOE" />
-      <media:content url="https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgEYjX4frX5Z4mbG9NHNDcLMHYa3_2XbOlWtX1uXJbNMwG3-MzU1uYlV9MrPytefQ-6JG-C2sJf02tW2e3E30Ev3fEcE69IYIWGNpmESXfDOE" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgEYjX4frX5Z4mbG9NHNDcLMHYa3_2XbOlWtX1uXJbNMwG3-MzU1uYlV9MrPytefQ-6JG-C2sJf02tW2e3E30Ev3fEcE69IYIWGNpmESXfDOE" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「子供、若者にやさしい人づくりを」東京・多摩市に初の拠点 NPO法人代表の斎典道さん TOKYOまち・ひと物語 (産経新聞) Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>「子供、若者にやさしい人づくりを」東京・多摩市に初の拠点 NPO法人代表の斎典道さん（写真・画像 1/1） - 産経ニュース</title>
       <link>https://www.sankei.com/article/20260915-IKUGMHSKMVJ3VM5THEUPA2J7L4/photo/XABJTE2R3VKD3DLK2FPUS3N77I/</link>
       <pubDate>Tue, 15 Sep 2026 07:00:00 +0000</pubDate>
@@ -698,6 +708,16 @@
       <media:thumbnail url="https://www.sankei.com/resizer/v2/XABJTE2R3VKD3DLK2FPUS3N77I.jpg?auth=1619b76a37a2f9781b484cb8aa4865e184d0a66bbe6bd10dd945a37bf3f3598c&amp;quality=50&amp;focal=912%2C309&amp;width=1200&amp;height=675" />
       <media:content url="https://www.sankei.com/resizer/v2/XABJTE2R3VKD3DLK2FPUS3N77I.jpg?auth=1619b76a37a2f9781b484cb8aa4865e184d0a66bbe6bd10dd945a37bf3f3598c&amp;quality=50&amp;focal=912%2C309&amp;width=1200&amp;height=675" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://www.sankei.com/resizer/v2/XABJTE2R3VKD3DLK2FPUS3N77I.jpg?auth=1619b76a37a2f9781b484cb8aa4865e184d0a66bbe6bd10dd945a37bf3f3598c&amp;amp;quality=50&amp;amp;focal=912%2C309&amp;amp;width=1200&amp;amp;height=675" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「子供、若者にやさしい人づくりを」東京・多摩市に初の拠点 NPO法人代表の斎典道さん（写真・画像 1/1） 産経ニュース&lt;/p&gt;&lt;p&gt;配信元: 産経ニュース&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>「子供、若者にやさしい人づくりを」東京・多摩市に初の拠点 NPO法人代表の斎典道さん TOKYOまち・ひと物語 (産経新聞) - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/17c81fe71c1bf1118c86dc2dc619c2e985647ec6/images/000</link>
+      <pubDate>Tue, 15 Sep 2026 00:12:43 +0000</pubDate>
+      <guid isPermaLink="false">80d7fe24dfa2dd17d1c5161b5e31e5eaf412ac60fd90aec2fd52c4b7ce74cfc4</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
+      <media:thumbnail url="https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgEYjX4frX5Z4mbG9NHNDcLMHYa3_2XbOlWtX1uXJbNMwG3-MzU1uYlV9MrPytefQ-6JG-C2sJf02tW2e3E30Ev3fEcE69IYIWGNpmESXfDOE" />
+      <media:content url="https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgEYjX4frX5Z4mbG9NHNDcLMHYa3_2XbOlWtX1uXJbNMwG3-MzU1uYlV9MrPytefQ-6JG-C2sJf02tW2e3E30Ev3fEcE69IYIWGNpmESXfDOE" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgEYjX4frX5Z4mbG9NHNDcLMHYa3_2XbOlWtX1uXJbNMwG3-MzU1uYlV9MrPytefQ-6JG-C2sJf02tW2e3E30Ev3fEcE69IYIWGNpmESXfDOE" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「子供、若者にやさしい人づくりを」東京・多摩市に初の拠点 NPO法人代表の斎典道さん TOKYOまち・ひと物語 (産経新聞) Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>【東京都多摩市】パルテノン多摩で全3回の連続講座「目の前にある関係性に苦しむあなたへ」開催 - straightpress.jp</title>
@@ -774,14 +794,14 @@
       <description>&lt;p&gt;&lt;img src="https://img.topics.smt.news.goo.ne.jp/region_tmb/16_9/132241.png?fushinsha_joho-1471068246461890671" alt="" /&gt;&lt;/p&gt;&lt;p&gt;（東京）多摩市豊ケ丘１丁目でつきまとい　９月１０日 ｄメニューニュース&lt;/p&gt;&lt;p&gt;配信元: ｄメニューニュース&lt;/p&gt;</description>
     </item>
     <item>
-      <title>多摩市 不動産会社と見守り協定 高齢者などの異変を報告 - タウンニュース</title>
+      <title>多摩市 不動産会社と見守り協定 高齢者などの異変を報告 - townnews.co.jp</title>
       <link>https://www.townnews.co.jp/0306/2026/09/10/852111.html</link>
       <pubDate>Thu, 10 Sep 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">71e3f83ffe05c4e5dded952a04181faf3c4b982683a81a8916b50664aa9bf4ed</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">townnews.co.jp</source>
       <media:thumbnail url="https://www.townnews.co.jp/0306/images/a001474128_02.jpg" />
       <media:content url="https://www.townnews.co.jp/0306/images/a001474128_02.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001474128_02.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;多摩市 不動産会社と見守り協定 高齢者などの異変を報告 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001474128_02.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;多摩市 不動産会社と見守り協定 高齢者などの異変を報告 townnews.co.jp&lt;/p&gt;&lt;p&gt;配信元: townnews.co.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>多摩市の永山団地周辺で“高齢者の気軽な移動手段” 新たな自動運転車両で実証実験へ（TOKYO MX） - Yahoo!ニュース</title>
@@ -794,24 +814,24 @@
       <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260910-00010000-tokyomxv-000-1-thumb.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;多摩市の永山団地周辺で“高齢者の気軽な移動手段” 新たな自動運転車両で実証実験へ（TOKYO MX） Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
     <item>
-      <title>駒沢女子大学学生 健康弁当のメニューを考案 多摩市と協定締結 - タウンニュース</title>
+      <title>駒沢女子大学学生 健康弁当のメニューを考案 多摩市と協定締結 - townnews.co.jp</title>
       <link>https://www.townnews.co.jp/0306/2026/09/10/852109.html</link>
       <pubDate>Thu, 10 Sep 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">9542b5700bf6730b20695321baedbebd1b032469a64d22d64702e32fe22d4360</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">townnews.co.jp</source>
       <media:thumbnail url="https://www.townnews.co.jp/0306/images/a001475152_04.jpg" />
       <media:content url="https://www.townnews.co.jp/0306/images/a001475152_04.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001475152_04.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;駒沢女子大学学生 健康弁当のメニューを考案 多摩市と協定締結 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001475152_04.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;駒沢女子大学学生 健康弁当のメニューを考案 多摩市と協定締結 townnews.co.jp&lt;/p&gt;&lt;p&gt;配信元: townnews.co.jp&lt;/p&gt;</description>
     </item>
     <item>
-      <title>多摩市立総合体育館の愛称 ｢リフォームプライス多摩アリーナ｣に ネーミングライツで - タウンニュース</title>
+      <title>多摩市立総合体育館の愛称 ｢リフォームプライス多摩アリーナ｣に ネーミングライツで - townnews.co.jp</title>
       <link>https://www.townnews.co.jp/0306/2026/09/10/852103.html</link>
       <pubDate>Thu, 10 Sep 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">eba50aef3f2eac883d8b504f9706f6ab86f435d9732c61fea6b14173e1e33a36</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">townnews.co.jp</source>
       <media:thumbnail url="https://www.townnews.co.jp/0306/images/a001475166_02.jpg" />
       <media:content url="https://www.townnews.co.jp/0306/images/a001475166_02.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001475166_02.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;多摩市立総合体育館の愛称 ｢リフォームプライス多摩アリーナ｣に ネーミングライツで タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001475166_02.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;多摩市立総合体育館の愛称 ｢リフォームプライス多摩アリーナ｣に ネーミングライツで townnews.co.jp&lt;/p&gt;&lt;p&gt;配信元: townnews.co.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>【プレビュー】多摩市の永山団地周辺で“高齢者の気軽な移動手段” 新たな自動運転車両で実証実験へ - TOKYO MX</title>
@@ -1028,14 +1048,14 @@
       <description>&lt;p&gt;&lt;img src="https://prcdn.freetls.fastly.net/release_image/161505/13/161505-13-ed7044eeab18d61bb2bbbe121e09d713-388x304.png?format=jpeg&amp;amp;auto=webp&amp;amp;fit=bounds&amp;amp;width=2400&amp;amp;height=1260" alt="" /&gt;&lt;/p&gt;&lt;p&gt;東京都多摩市における自動運転サービス調査検証事業を受託 | Moplus株式会社のプレスリリース PR TIMES&lt;/p&gt;&lt;p&gt;配信元: PR TIMES&lt;/p&gt;</description>
     </item>
     <item>
-      <title>落合の伝統行事 多摩センターで盆踊り大会 ９月19日、20日の２日間 - タウンニュース</title>
+      <title>落合の伝統行事 多摩センターで盆踊り大会 ９月19日、20日の２日間 - townnews.co.jp</title>
       <link>https://www.townnews.co.jp/0306/2026/09/04/851640.html</link>
       <pubDate>Fri, 04 Sep 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">680a3b63cb771a2ca581a848620c43264794931da436e91edd08bf002cf3dce4</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">townnews.co.jp</source>
       <media:thumbnail url="https://www.townnews.co.jp/0306/images/a001474163_02.jpg" />
       <media:content url="https://www.townnews.co.jp/0306/images/a001474163_02.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001474163_02.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;落合の伝統行事 多摩センターで盆踊り大会 ９月19日、20日の２日間 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001474163_02.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;落合の伝統行事 多摩センターで盆踊り大会 ９月19日、20日の２日間 townnews.co.jp&lt;/p&gt;&lt;p&gt;配信元: townnews.co.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>駒沢女子大学・駒沢女子短期大学が多摩市と連携に関する基本協定を締結 ― 健幸ポイント事業への協力における京王ストアとの官民学連携企画など複数の事業を展開予定 - Digital PR Platform</title>
