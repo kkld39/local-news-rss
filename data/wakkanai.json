@@ -1,5 +1,15 @@
 [
   {
+    "id": "b1fb40bca6c652819ffef8ede0b741d5c4b89c52954a57740601ec886bcd6406",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02QnhoYXdyUWYtX2JLZ2hjRXg1LTZ2clAtX1VMMjVacWNsMmRNNFVQQjJEek5vaEU1ZEl6ZjFTbWVQN0NCcGc3TTNDUm4tcEVOUTBaWGRYLVFhQQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1383541/",
+    "title": "留萌・宗谷（１０月５日付）おくやみ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-10-04T11:30:00+00:00",
+    "description": "留萌・宗谷（１０月５日付）おくやみ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
     "id": "b70e2a21702c87ef170e96b0c9444818595ec129a6e82f3850425e9bd6b17811",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vbmV5ejhRRTNveFdXYTUzc1BrdDlGUzlLZzV5UkthWUR2TjNSbHdGbVZYR183cHhyUHVvbDNXZ1M4b3FhV3NHTkE0VzNabTRPQnBDRGtEM0dRUQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1383239/",
@@ -23,20 +33,20 @@
     "id": "ea8b1e5a06c9ca63fafccb1ae1522165acb7171e635439ab20f34ea4c0bc6ed8",
     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVbG5RLS1sV25UVDdTazZSZl9aVk9EWmNVTnNNTjR4UHZDWFRZR2F1X2c1aF9TWVl1eEpZbVp2a2IycFBMTlJQTDJUV3VsUQ?oc=5",
     "url": "https://www.fnn.jp/articles/-/1126038",
-    "title": "【北海道(宗谷地方)】10/4の天気予報 - FNNプライムオンライン",
-    "source": "FNNプライムオンライン",
+    "title": "【北海道(宗谷地方)】10/4の天気予報 - fnn.jp",
+    "source": "fnn.jp",
     "published": "2026-10-03T10:30:00+00:00",
-    "description": "【北海道(宗谷地方)】10/4の天気予報 FNNプライムオンライン",
+    "description": "【北海道(宗谷地方)】10/4の天気予報 fnn.jp",
     "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
   },
   {
     "id": "c87cd8880037e54695d4767a708924e1f7cd6c4bc6c19b5ba72532ef140083c7",
     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rZHR0N0Ezc2FMd180T093SGEyaGVEbWxGYjhLRGFnWkdaRmZyeFdXR05hbWo0YXp4VU1nQUpHTW1aYWFzdko2SjAtY2hmZw?oc=5",
     "url": "https://www.fnn.jp/articles/-/1125485",
-    "title": "【北海道(宗谷地方)】10/3の天気予報 - FNNプライムオンライン",
-    "source": "FNNプライムオンライン",
+    "title": "【北海道(宗谷地方)】10/3の天気予報 - fnn.jp",
+    "source": "fnn.jp",
     "published": "2026-10-02T20:10:00+00:00",
-    "description": "【北海道(宗谷地方)】10/3の天気予報 FNNプライムオンライン",
+    "description": "【北海道(宗谷地方)】10/3の天気予報 fnn.jp",
     "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
   },
   {
@@ -83,10 +93,10 @@
     "id": "26fc41cd67474afbeab8b4269317327c66df4a52b850faab662082bb30b13fab",
     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xV2J3R2liM0o5ckVYU1puUTJGTHFhd29kWXlKZlFiV1JhelZRQTlFeV8xVzJBa2NMOEZUYkJBQ01PbGRYN3FIUkNuN2stQQ?oc=5",
     "url": "https://www.fnn.jp/articles/-/1124686",
-    "title": "【北海道(宗谷地方)】10/2の天気予報 - FNNプライムオンライン",
-    "source": "FNNプライムオンライン",
+    "title": "【北海道(宗谷地方)】10/2の天気予報 - fnn.jp",
+    "source": "fnn.jp",
     "published": "2026-10-01T20:10:00+00:00",
-    "description": "【北海道(宗谷地方)】10/2の天気予報 FNNプライムオンライン",
+    "description": "【北海道(宗谷地方)】10/2の天気予報 fnn.jp",
     "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
   },
   {
@@ -103,10 +113,10 @@
     "id": "126798bd2fa5bf37055c4a10e502048115ebeb619c23e67f96c6de11d5aebb9a",
     "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwblFEVnZVcTJGdm12ZDVSVFBIRUROWlkwV1hhTnJvekl0X0J2MlNNamlwVkpMdDUwMXZyTjlXa04yX2oyVmJYWjViZw?oc=5",
     "url": "https://www.47news.jp/15021072.html",
-    "title": "稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 - 47NEWS",
-    "source": "47NEWS",
+    "title": "稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 - 47news.jp",
+    "source": "47news.jp",
     "published": "2026-10-01T06:02:00+00:00",
-    "description": "稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 47NEWS",
+    "description": "稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 47news.jp",
     "image": "https://img.cf.47news.jp/public/photo/7458c0f38ec03e7aa816aa3afa6d01c9/photo.jpg"
   },
   {
@@ -153,10 +163,10 @@
     "id": "5a962626b9338074ff01301b0ee1c5d52a4fcdc9e43ee32a52c1a503c2b0f514",
     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rS3RYdDBPczBVSDNERktoT3FBbzRXWEdiTDkydW9WNW5fN0p3dWNQV183b2VPcW5lRmlpcmFaZjJ1TWlEalpaOGNTY2Uydw?oc=5",
     "url": "https://www.fnn.jp/articles/-/1123860",
-    "title": "【北海道(宗谷地方)】10/1の天気予報 - FNNプライムオンライン",
-    "source": "FNNプライムオンライン",
+    "title": "【北海道(宗谷地方)】10/1の天気予報 - fnn.jp",
+    "source": "fnn.jp",
     "published": "2026-09-30T20:10:00+00:00",
-    "description": "【北海道(宗谷地方)】10/1の天気予報 FNNプライムオンライン",
+    "description": "【北海道(宗谷地方)】10/1の天気予報 fnn.jp",
     "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
   },
   {
@@ -173,10 +183,10 @@
     "id": "0f3f722abb1bd2b7742fb4df51929c80719a19833c6cd1cea7393d91f83b6c5b",
     "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vUWxyeWVLem5yS1p5VThzQ09NUFBNM3IwRDZFOUlmbXVSRzUtaEVGV2NYMVM5c3lXbF95a2htTWRZRGxvajEydS1WaWRWcXRMLWxCWmh3Mm9QTE9rNFZybXlFT0hMVzhZTEcw?oc=5",
     "url": "https://media.unisba.ac.id/95449950/f25f4cdeDAE2GgdaH0MIASM",
-    "title": "【クラウンエステートで行く北海道ドライブ#3】宗谷丘陵～エサヌカ線～オホーツク海を通り網走へ Arrest (MaIs7Jcp6J) - Unisba Media",
-    "source": "Unisba Media",
+    "title": "【クラウンエステートで行く北海道ドライブ#3】宗谷丘陵～エサヌカ線～オホーツク海を通り網走へ Arrest (MaIs7Jcp6J) - media.unisba.ac.id",
+    "source": "media.unisba.ac.id",
     "published": "2026-09-30T09:51:25+00:00",
-    "description": "【クラウンエステートで行く北海道ドライブ#3】宗谷丘陵～エサヌカ線～オホーツク海を通り網走へ Arrest (MaIs7Jcp6J) Unisba Media",
+    "description": "【クラウンエステートで行く北海道ドライブ#3】宗谷丘陵～エサヌカ線～オホーツク海を通り網走へ Arrest (MaIs7Jcp6J) media.unisba.ac.id",
     "image": null
   },
   {
@@ -193,10 +203,10 @@
     "id": "f1c47a356cd0ec2faa02e58113f145d42af6260e5185f98dec698bfef4de48ac",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QTjk1RDJnaUFudGZ6SU13VldjY2pHem5rZnFmSkIzTElJWExFaXhiZmlBb3RsQ1N1WEpBeC12YlJ0SElIWHFBS3I4SHVFVWI2NGtQZHJ2d0VFUQ?oc=5",
     "url": "https://www.htb.co.jp/news/archives_39761.html",
-    "title": "「トラクターが転落している」水たまりで60代男性が死亡 稚内市 - HTB 北海道テレビ",
-    "source": "HTB 北海道テレビ",
+    "title": "「トラクターが転落している」水たまりで60代男性が死亡 稚内市 - HTB北海道テレビ",
+    "source": "HTB北海道テレビ",
     "published": "2026-09-30T06:58:00+00:00",
-    "description": "「トラクターが転落している」水たまりで60代男性が死亡 稚内市 HTB 北海道テレビ",
+    "description": "「トラクターが転落している」水たまりで60代男性が死亡 稚内市 HTB北海道テレビ",
     "image": "https://www.htb.co.jp/news/photo/39761_51013.jpg"
   },
   {
@@ -333,10 +343,10 @@
     "id": "be1e61ab4c9645c6363ccd9164d0864e9341b4e89862e21f61449547175ed213",
     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzSHpOd21HaFN6Q05TaDg1UjdJOW9velk4aGVvZlF1YjE0aHhWQjR0T1liYTRKcDR2X3BPMWlXY3J5alowUk5NN0hiOEp3dw?oc=5",
     "url": "https://www.fnn.jp/articles/-/1121800",
-    "title": "【北海道(宗谷地方)】9/28の天気予報 - FNNプライムオンライン",
-    "source": "FNNプライムオンライン",
+    "title": "【北海道(宗谷地方)】9/28の天気予報 - fnn.jp",
+    "source": "fnn.jp",
     "published": "2026-09-27T20:10:00+00:00",
-    "description": "【北海道(宗谷地方)】9/28の天気予報 FNNプライムオンライン",
+    "description": "【北海道(宗谷地方)】9/28の天気予報 fnn.jp",
     "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
   },
   {
@@ -353,10 +363,10 @@
     "id": "96ec8d5efca67c7ddeabeb3fb6aebbb187681f14a30594e323830c54e2b13170",
     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uS292dzRBNDdwdTI4ZFE1bnpIVkd3eDJhbzlhRlVuMVI4aHpwX19JUGdnYy1yZVNNdHVmZE9xTndyN044cWNwdDhpX3FBUQ?oc=5",
     "url": "https://www.fnn.jp/articles/-/1121460",
-    "title": "【北海道(宗谷地方)】9/27の天気予報 - FNNプライムオンライン",
-    "source": "FNNプライムオンライン",
+    "title": "【北海道(宗谷地方)】9/27の天気予報 - fnn.jp",
+    "source": "fnn.jp",
     "published": "2026-09-26T20:10:00+00:00",
-    "description": "【北海道(宗谷地方)】9/27の天気予報 FNNプライムオンライン",
+    "description": "【北海道(宗谷地方)】9/27の天気予報 fnn.jp",
     "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
   },
   {
@@ -383,10 +393,10 @@
     "id": "3e20d977bd9e62789b36917c8c78293bd8f07bc5d7b63f15681f5c0bdf2d28d6",
     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QWTNVUjZydUlyUEI5b29yakN6WmVrVEtScEVQSmFJYTVtczIyWFJSUXByOWIySzg2Vmo0WDY2OXVObVlsNWVTX2tERTVQZw?oc=5",
     "url": "https://www.fnn.jp/articles/-/1121246",
-    "title": "【北海道(宗谷地方)】9/26の天気予報 - FNNプライムオンライン",
-    "source": "FNNプライムオンライン",
+    "title": "【北海道(宗谷地方)】9/26の天気予報 - fnn.jp",
+    "source": "fnn.jp",
     "published": "2026-09-25T20:10:00+00:00",
-    "description": "【北海道(宗谷地方)】9/26の天気予報 FNNプライムオンライン",
+    "description": "【北海道(宗谷地方)】9/26の天気予報 fnn.jp",
     "image": "https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg"
   },
   {
@@ -468,6 +478,16 @@
     "published": "2026-09-25T07:00:00+00:00",
     "description": "（稚内市）シニア向け安全運転セミナー daihatsu.co.jp",
     "image": "https://www.daihatsu.co.jp/lyu_action/023/assets_c/2026/09/5bddf72d73c511df2c06864943694737-260925144611356-thumb-1200xauto-136291.jpg"
+  },
+  {
+    "id": "77c325bc121733751107adbf67c513cc84d4a9330af431a0d8da402b14a7ec61",
+    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95Y295eXBYUWF1dFlRNHpsdHRTa3VLTlRGWF9rS3dWUEtfWEhQanp4aWRQNHJRNVpuaUJuWExFRlRpRVhBZzN4YURBUGQ4RkkyN1ljeG44T2VPZFVfck9DcW45Qzk2S1VpRzhvMkkxdWxxMnR0RXhIZlNpM01mZkk?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/573fe646b58449d0e298991c9ae69a565d1d3f3a",
+    "title": "北海道で今季初の冬日 寒気と放射冷却で氷点下 稚内市内で－0.4℃（テレビ朝日系（ANN）） - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-09-25T07:00:00+00:00",
+    "description": "北海道で今季初の冬日 寒気と放射冷却で氷点下 稚内市内で－0.4℃（テレビ朝日系（ANN）） Yahoo!ニュース",
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00000018-ann-000-5-thumb.jpg?exp=10800"
   },
   {
     "id": "981138eadd9cefc60d03cd7c3a7fe9a3538d67d70e3c17f447c6a8b3a3174e28",
@@ -603,10 +623,10 @@
     "id": "0939b4c48a2fb5ad398bdc33e900fc8a636984cc7722e6b4fa276d88ab7398d3",
     "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EUTVkaEhtQk1Fcl9qYWNiM1dPMWEyQjlob1dyaXNxYnBzUzBmU3ZndVJIeWgyNFJicnNYcnV6QUVaU0lZdWM4Tk03RERYYUJoNzg4TVg5OHE2TTA?oc=5",
     "url": "https://abema.tv/video/episode/89-93_s10_p60932",
-    "title": "稚内市内で－0.4℃ 北海道で今年初の冬日に - abema.tv",
-    "source": "abema.tv",
+    "title": "稚内市内で－0.4℃ 北海道で今年初の冬日に - ABEMA",
+    "source": "ABEMA",
     "published": "2026-09-25T02:42:43+00:00",
-    "description": "稚内市内で－0.4℃ 北海道で今年初の冬日に abema.tv",
+    "description": "稚内市内で－0.4℃ 北海道で今年初の冬日に ABEMA",
     "image": null
   },
   {
@@ -633,21 +653,11 @@
     "id": "720fccc130af7de835cb3f635957a1424383354af29f9049b47f7c89f09668f2",
     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DeDNOSGkxUl9jX2REWmlDSVJvTi1oRE1ENDQ2bTJRSlcwVXVtWUZLUXBERmdScmZrbElLQk9oRTY0d20yWWdacHp5R0FHUQ?oc=5",
     "url": "https://www.fnn.jp/articles/-/1120643",
-    "title": "北海道で今季初の氷点下 稚内市で－0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み - FNNプライムオンライン",
-    "source": "FNNプライムオンライン",
+    "title": "北海道で今季初の氷点下 稚内市で－0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み - fnn.jp",
+    "source": "fnn.jp",
     "published": "2026-09-25T02:27:00+00:00",
-    "description": "北海道で今季初の氷点下 稚内市で－0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み FNNプライムオンライン",
+    "description": "北海道で今季初の氷点下 稚内市で－0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み fnn.jp",
     "image": "https://fnn.ismcdn.jp/mwimgs/a/0/600/img_a0778bb1660dc713b2f6e506e6e222dc75552.jpg"
-  },
-  {
-    "id": "77c325bc121733751107adbf67c513cc84d4a9330af431a0d8da402b14a7ec61",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95Y295eXBYUWF1dFlRNHpsdHRTa3VLTlRGWF9rS3dWUEtfWEhQanp4aWRQNHJRNVpuaUJuWExFRlRpRVhBZzN4YURBUGQ4RkkyN1ljeG44T2VPZFVfck9DcW45Qzk2S1VpRzhvMkkxdWxxMnR0RXhIZlNpM01mZkk?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/573fe646b58449d0e298991c9ae69a565d1d3f3a",
-    "title": "北海道で今季初の冬日 寒気と放射冷却で氷点下 稚内市内で－0.4℃（テレビ朝日系（ANN）） - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
-    "published": "2026-09-25T01:50:23+00:00",
-    "description": "北海道で今季初の冬日 寒気と放射冷却で氷点下 稚内市内で－0.4℃（テレビ朝日系（ANN）） Yahoo!ニュース",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00000018-ann-000-5-thumb.jpg?exp=10800"
   },
   {
     "id": "a75fb2917ccd1e95631862e7b2680dd1fdc209e445ef92c327bdee16bbd488d9",
@@ -703,10 +713,10 @@
     "id": "58c676c789c5b6ad3081ba8b8e1b66a8d44cfc423f8710984153fa618e56b324",
     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hNDVvdENHaG4zaURxS3JfaEtaRGpLZmY3ZUhhOUtRNDF5eFJJN2g4TDlQTm1FNHZoTVVRcGtrWjZKRm9LVUItN2NSaktkUQ?oc=5",
     "url": "https://www.fnn.jp/articles/-/1120198",
-    "title": "【北海道(宗谷地方)】9/25の天気予報 - FNNプライムオンライン",
-    "source": "FNNプライムオンライン",
+    "title": "【北海道(宗谷地方)】9/25の天気予報 - fnn.jp",
+    "source": "fnn.jp",
     "published": "2026-09-24T20:10:00+00:00",
-    "description": "【北海道(宗谷地方)】9/25の天気予報 FNNプライムオンライン",
+    "description": "【北海道(宗谷地方)】9/25の天気予報 fnn.jp",
     "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
   },
   {
@@ -760,6 +770,16 @@
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-03547589-stv-000-2-thumb.jpg?exp=10800"
   },
   {
+    "id": "f29ca69d7928970d28d472fee9587d15b810ab28ab6a2f1072b8743058e78854",
+    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81UmFGMzRVakFxVUQySGZOYmdQMkdEeUpCTEV5am5TVktDanROQXpTek93M2dJUS1QaEdHUlJHMDVSZWxrR3lJTElXRTA0LUJZRm50MFVEamVlYnVHeGc?oc=5",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1929861",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - 沖縄タイムス社",
+    "source": "沖縄タイムス社",
+    "published": "2026-09-24T07:00:00+00:00",
+    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 沖縄タイムス社",
+    "image": "https://oki.ismcdn.jp/mwimgs/8/5/1200wm/img_85ce95a55c75885fc93df59abea86e166672.png"
+  },
+  {
     "id": "24bd8f3026032d7d603f6c9cf2523e35c90afd160dc7cfeabffc9f99d07fd936",
     "google_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUHNUN1NwbzBXLUs0T3JzRE1PdDNJVEJQc3JNUmgtSzlBV2Y1LWIyNGw1WGh0Yk4xNzA5VThUbTYyR054Q2xOV1JadmpNVUdRUmN6MUpfVmNWM2RoTk9FOUFsUld5eXctaVc2MXp4cTRVUDROak83VGRnNkdfYkpJQUhRR1lXS0E?oc=5",
     "url": "https://news.ntv.co.jp/n/stv/category/society/stbcd3e1428ad04fdba3d3a0726a279231",
@@ -773,10 +793,10 @@
     "id": "e6494e50f2e17fc996ef6dd2551bf749435a715076612d05f5bfb4324fe32362",
     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWcDB6XzBwcWRhcGRwTUZlNzRYT1JyaE9zLTNfX3NWUGhiLTl2NnNoYURya0VOZ2JCTm41MDgyNHpPTXZyMUpQTUFWemRjbFhFRkc2cTh3?oc=5",
     "url": "https://www.saga-s.co.jp/articles/-/1797154",
-    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - 佐賀新聞",
-    "source": "佐賀新聞",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - saga-s.co.jp",
+    "source": "saga-s.co.jp",
     "published": "2026-09-24T07:00:00+00:00",
-    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 佐賀新聞",
+    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 saga-s.co.jp",
     "image": "https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png"
   },
   {
@@ -838,16 +858,6 @@
     "published": "2026-09-23T20:43:11+00:00",
     "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表｜全国のニュース｜Web東奥 東奥日報社",
     "image": "https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png"
-  },
-  {
-    "id": "f29ca69d7928970d28d472fee9587d15b810ab28ab6a2f1072b8743058e78854",
-    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81UmFGMzRVakFxVUQySGZOYmdQMkdEeUpCTEV5am5TVktDanROQXpTek93M2dJUS1QaEdHUlJHMDVSZWxrR3lJTElXRTA0LUJZRm50MFVEamVlYnVHeGc?oc=5",
-    "url": "https://www.okinawatimes.co.jp/articles/-/1929861",
-    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - 沖縄タイムス社",
-    "source": "沖縄タイムス社",
-    "published": "2026-09-23T20:43:11+00:00",
-    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 沖縄タイムス社",
-    "image": "https://oki.ismcdn.jp/mwimgs/8/5/1200wm/img_85ce95a55c75885fc93df59abea86e166672.png"
   },
   {
     "id": "a556a024cb78ffb14a5207a02aab3ea8889400d47d3acd6a36ba9dc00567e9c7",
@@ -943,10 +953,10 @@
     "id": "8fff69cb7aaa85bb99d8f7e76da138fb471425e481bc45a7ef72a87ae7b5979d",
     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DajZsblR4MkZBUmhSUGQ5SURsN3phZlhsbWJxQy1mS0llc1dybnJLTnZHS2ZINjFMVjcyeGs4V2xoSWFUVl9fWW8xNkFRSHhETDI2cm9n?oc=5",
     "url": "https://www.saga-s.co.jp/articles/-/1797139",
-    "title": "宗谷地方気象防災速報（竜巻注意） 第２号＝気象庁発表 - 佐賀新聞",
-    "source": "佐賀新聞",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第２号＝気象庁発表 - saga-s.co.jp",
+    "source": "saga-s.co.jp",
     "published": "2026-09-23T19:43:00+00:00",
-    "description": "宗谷地方気象防災速報（竜巻注意） 第２号＝気象庁発表 佐賀新聞",
+    "description": "宗谷地方気象防災速報（竜巻注意） 第２号＝気象庁発表 saga-s.co.jp",
     "image": "https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png"
   },
   {
@@ -973,10 +983,10 @@
     "id": "47f19e078f133be4c7f63ab146b1e5cf6d5bf90200cf2b250a3a0417e46ba64d",
     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YYUxaV005amhaOHRaYjBuNGdsZm5EVmtUM0ZxTkM2TnN6WE5hTUctTGQ2azg1SWJPNTFYNzJMVEgzREN4bTRzcmxJQjBvTWVsRTdlTlZR?oc=5",
     "url": "https://www.saga-s.co.jp/articles/-/1780070",
-    "title": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 - 佐賀新聞",
-    "source": "佐賀新聞",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 - saga-s.co.jp",
+    "source": "saga-s.co.jp",
     "published": "2026-09-23T18:33:00+00:00",
-    "description": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 佐賀新聞",
+    "description": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 saga-s.co.jp",
     "image": "https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png"
   },
   {
@@ -1273,10 +1283,10 @@
     "id": "1f4d9a0c211606da383fb5f9ad2e67de1f82aa5538fd9db68e207f6df20c6e12",
     "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wX0xSSnF3WmRpRHAwV1lMMFZyOHM5NjVWV3Zkb2dFWFJBLVdmd0pqaG00VThfSTYzbVdpUXUwTDZ3R2Zia3pRNDVxcw?oc=5",
     "url": "https://www.47news.jp/14930397.html",
-    "title": "ザ・ロイヤルエクスプレス JR宗谷線を今季初運行 鉄道ファンら南稚内駅で歓迎 - 47NEWS",
-    "source": "47NEWS",
+    "title": "ザ・ロイヤルエクスプレス JR宗谷線を今季初運行 鉄道ファンら南稚内駅で歓迎 - 47news.jp",
+    "source": "47news.jp",
     "published": "2026-09-12T07:00:00+00:00",
-    "description": "ザ・ロイヤルエクスプレス JR宗谷線を今季初運行 鉄道ファンら南稚内駅で歓迎 47NEWS",
+    "description": "ザ・ロイヤルエクスプレス JR宗谷線を今季初運行 鉄道ファンら南稚内駅で歓迎 47news.jp",
     "image": "https://img.cf.47news.jp/public/photo/ff24a452e5cdb44943da1e146e99b705/photo.jpg"
   },
   {
@@ -1380,6 +1390,16 @@
     "image": "https://www.asahicom.jp/articles/images/AS20150312000899_comm.jpg"
   },
   {
+    "id": "ba41052641467fbd06eb4b8133d2bbfae2beb5e7cc3af7cbebf981ef7ccce6c5",
+    "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZlY1dFhZNmNXZ3hLcjhCaDJVZzdGVlFad1pKaG9EYzFHYnVVWGl0WWpBYlFKZUxQdEgxdmdMTzBvN3h6YnRhc1puUU1Famp6ZkFndHQ2ZEgxaW95QVlkZE1NZXY0c3FNSVZQV2tPb3pTZEgtMGp2OW1xbDY3YlhsdUtsZVVRS0U1MGVCODZ3?oc=5",
+    "url": "https://www.asahi.com/articles/photo/AS20150312000901.html?iref=sp_photo_gallery_2",
+    "title": "（ＮＩＰＰＯＮ 映画の旅人）「南極物語」 北海道稚内市 - asahi.com",
+    "source": "asahi.com",
+    "published": "2026-09-06T13:32:41+00:00",
+    "description": "（ＮＩＰＰＯＮ 映画の旅人）「南極物語」 北海道稚内市 asahi.com",
+    "image": "https://www.asahicom.jp/articles/images/AS20150312000899_comm.jpg"
+  },
+  {
     "id": "c5ed20bfce81b3516aae9099b0254abe89a7cf6a6e7eb435090346da68cdb695",
     "google_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTjk0SERsU0JwTDBGX2ZyNXc0cVFGeFE3dkRxSGRFQ01zNjFmMmdFZWZrdExRT1VrRVU5QXQ5YVlkRFVXeENaWFlBV2N2bnp6UnVRTHZra052Rl9nMHExYXZUX2RSZ0FUQjFkSjZiOUxpYXBKTVpXQ2xZSVVQSFhyX3cyV2c1dW8?oc=5",
     "url": "https://mainichi.jp/graphs/20260903/mpj/00m/040/087000f/20260903mpj00m040073000p",
@@ -1458,45 +1478,5 @@
     "published": "2026-09-05T07:00:00+00:00",
     "description": "稚内市の公園で捨てられた大量の切り刻まれた「旧１万円札」…警察が回収し調べる HTB 北海道テレビ",
     "image": null
-  },
-  {
-    "id": "21333ebe29461b286b74bd9e3d0eb87b1dd0fecd68f943343bd70cddaf613e9b",
-    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhVVBHN2hlaHJVSEhvUjZsWWpOQlFSVnR2TkpKRHJZblZZOHlqckFTU1pqRC10YjBrXzZFaWNOVjFPRjNPWEw1Z3NoeHlGNUFudjhaTkxYNA?oc=5",
-    "url": "https://newsdig.tbs.co.jp/articles/-/2922453",
-    "title": "切り刻まれた大量の旧1万円札 稚内市の稚内公園でばらまかれた状態で見つかる 本物の紙幣かどうかなど確認中 - TBS NEWS DIG",
-    "source": "TBS NEWS DIG",
-    "published": "2026-09-04T07:00:00+00:00",
-    "description": "切り刻まれた大量の旧1万円札 稚内市の稚内公園でばらまかれた状態で見つかる 本物の紙幣かどうかなど確認中 TBS NEWS DIG",
-    "image": "https://newsdig.ismcdn.jp/mwimgs/f/5/1200w/img_f5a5e09e4e723725b5574636efdfb9f4178407.jpg"
-  },
-  {
-    "id": "8569aa660fb5be54aa3cca1683def10f93153d150372ef414fcf3ab73641cd39",
-    "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBlcmRqazJCdXkxS1JyQTB1SVowSG45aFQ5QXNBUEp5dkdxVnJabWhPNko1OGdsVWhuVUljR2NjNEU3bzAxTFZON09DNHI?oc=5",
-    "url": "https://hokkaido-nl.jp/article/43818",
-    "title": "稚内市で子育て平和の日記念式典 願いを最北から発信 - 北海道ニュースリンク",
-    "source": "北海道ニュースリンク",
-    "published": "2026-09-04T07:00:00+00:00",
-    "description": "稚内市で子育て平和の日記念式典 願いを最北から発信 北海道ニュースリンク",
-    "image": null
-  },
-  {
-    "id": "c2bcb3c796c5cc45b6e1a7a040795df0393a84dafc08d6b50c8ced1784a5c573",
-    "google_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPamxLS1JBZENaQzlKSkU2eTVZZjNOQ0ZnckVrMmVfNm50bXhnUXBPZ1dHOHlHWGlnLWJITy1iX1lLb2lPUTluY2RqMVpKcGxZMHh1NzFhb3RtV2NkcUlKQ1RjV21mOWQ1QnQ4ZXJkZm9fekwwTmJDblhKR3lGTnBDSHVkbGxpSm8?oc=5",
-    "url": "https://news.ntv.co.jp/n/stv/category/society/sta8c551f3d3e446d5938f220154a29328",
-    "title": "大量の“旧1万円札”か？ 公園内にばらまかれているのがみつかる 細切れの状態で… 北海道稚内市 - 日テレNEWS NNN",
-    "source": "日テレNEWS NNN",
-    "published": "2026-09-04T07:00:00+00:00",
-    "description": "大量の“旧1万円札”か？ 公園内にばらまかれているのがみつかる 細切れの状態で… 北海道稚内市 日テレNEWS NNN",
-    "image": "https://image.gallery.play.jp/stv-news/articles/afd3bf03239a464d9c9d0dcf96aba099/208c479a-8ea9-4817-b2ff-b881a7e9735e.jpg?w=1200"
-  },
-  {
-    "id": "b24db00cb015f61d514c90c91e76a3e5e83e749519adf6c9911bc8e4f91917e4",
-    "google_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU0cwd1hsYXA2bXBvNjN4ZHpsWHZpeWhIZ0pSMUVPZmhHUzQxcFlPSHJ0QTJSZXRjR2ltVWxSd3FsUnFYaXRJMVRDUC1YX1pFaG9kRDN4TF84SlV5dkRPckt5Rm5sSUJkbktsZnVKeUpyNXVnYWVYZHdwZzVVeUkzd0hHS2Z3Yzg?oc=5",
-    "url": "https://news.ntv.co.jp/n/stv/category/society/stdc0b1535a4324b7a8e8b5b2279b991a0",
-    "title": "“ミニ動物園”の敷地内でヒグマ目撃 職員の100m先の草むら歩く 施設は臨時閉館 北海道稚内市 - 日テレNEWS NNN",
-    "source": "日テレNEWS NNN",
-    "published": "2026-09-04T07:00:00+00:00",
-    "description": "“ミニ動物園”の敷地内でヒグマ目撃 職員の100m先の草むら歩く 施設は臨時閉館 北海道稚内市 日テレNEWS NNN",
-    "image": "https://image.gallery.play.jp/stv-news/articles/1189658b1df04b52b76d42fb3baaabdf/4ac4d6de-34f2-4dde-97f3-d4e70585e7a2.jpg?w=1200"
   }
 ]
