@@ -1,5 +1,35 @@
 [
   {
+    "id": "09c41ec16c1ece34e626ab954a0e181b3d3b5f6829e8252abc359e7a4425ed7d",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EbjdkREFCak9TY1p3OW0yUDZSMUFCWW51ZnBnVXJVWWpGeG5tVlJuQUVvVHpvVjZIQ2xhMEJTMXozdkhRNWRsOWx4bGlQYlhuLUJmM0xyM1h3Zw?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1384885/",
+    "title": "留萌・宗谷（１０月７日付）おくやみ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-10-06T11:30:00+00:00",
+    "description": "留萌・宗谷（１０月７日付）おくやみ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
+    "id": "f865daf14de462cc1729c73b9f70b3fd652ec6f6dfc854f8e0237f111c67c079",
+    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCaGFXdE5POEFuNjRzaDlHa3c5SEEwNE5HQVFiRW9qWGdra2RjZGV4VktGS1RyNHZob2hkNEZ6SllOQ3JRZmRHQzFBeDZwdw?oc=5",
+    "url": "https://www.fnn.jp/articles/-/1127678",
+    "title": "【北海道(宗谷地方)】10/7の天気予報 - FNNプライムオンライン",
+    "source": "FNNプライムオンライン",
+    "published": "2026-10-06T10:30:00+00:00",
+    "description": "【北海道(宗谷地方)】10/7の天気予報 FNNプライムオンライン",
+    "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
+  },
+  {
+    "id": "89d4074105593c7748b8e59826f306fcd6929abb59fcb7cc29fe61426499604e",
+    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXMS1uajNjZjRRelE2cTFRR0kxSzQ0U1hCbGM4blF1eHF0THVCZnFtbHphWHNXWFJKRl9QMVY2MHNfMlRpWExHbERrYlRqWkhOOFlJWnRKc0RQNzZTLUhxZGtCTVdSVTV5?oc=5",
+    "url": "https://tenki.jp/lite/bousai/typhoon/storm/2628/1/1/1100/1120/",
+    "title": "台風28号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp",
+    "source": "tenki.jp",
+    "published": "2026-10-06T06:00:00+00:00",
+    "description": "台風28号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
+    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
+  },
+  {
     "id": "034578b8b1970ecc9b558a57c2f508b0f30185fc5970d14fa2238b3ba0bd31bc",
     "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nd1dTMUVlbDVnLUZfRGtJWGlpMFJ1aHVDSk5DMHQwQXlvX1BEcHpPNE5iVEFnVjdrcDBLWWNxdTBGN1RKVm5wcUtKRVJQZGthYzA0dnhFLWZtdzJQWndsOEx1QnV5M3VyUUR1OVM4RWs5SEJZZHN3RGx4T0xkQzA?oc=5",
     "url": "https://news.yahoo.co.jp/articles/b37959fcb9906d2201ebb6790012b676a3eb39a4",
@@ -40,16 +70,6 @@
     "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
   },
   {
-    "id": "89d4074105593c7748b8e59826f306fcd6929abb59fcb7cc29fe61426499604e",
-    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PRE5NdzduY09kOFA1TFR2YWhmcF9OU1VUemNuLTQ5NUpWbnZYa3l6MllTdUVBVnNoOFRBRTMxbVNESEczeVVLR2t4UTRYVmhKcmliWEJUa0UxVVpycldGZm13MUpfQXZIXzViTWpJdw?oc=5",
-    "url": "https://tenki.jp/lite/bousai/typhoon/storm/2628/1/1/1100/1120/",
-    "title": "台風28号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp",
-    "source": "tenki.jp",
-    "published": "2026-10-05T12:00:00+00:00",
-    "description": "台風28号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
-    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
-  },
-  {
     "id": "a40e18035e800db822e18e725b6504f45dd40a9f9f80f4453531992b3b082764",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vbXFqX0EteHFNWmh4VGlkQlpnN19nNzNrcV9pTnp4cnluRElhZURfQlFsVlZRLWlxdkVIa1oxcmJwSWZodmN2TjY0UUdLM05IMEFFejZYQk12UQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1384130/",
@@ -58,6 +78,16 @@
     "published": "2026-10-05T11:30:00+00:00",
     "description": "留萌・宗谷（１０月６日付）おくやみ hokkaido-np.co.jp",
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
+    "id": "1ed78df96629d09b0878535051b31ab27a345028772a1ec2ecf112aed52f1120",
+    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vVXFVNzliMEdCQ0tFUzhNV1BmOFlFRnJxYUhfdndNZFh2V2ZwcTY1UE5LYlhTYlIwQXluTkxZdW5qYkY0YWVqbjB6SGlHZw?oc=5",
+    "url": "https://www.fnn.jp/articles/-/1126885",
+    "title": "【北海道(宗谷地方)】10/6の天気予報 - FNNプライムオンライン",
+    "source": "FNNプライムオンライン",
+    "published": "2026-10-05T10:30:00+00:00",
+    "description": "【北海道(宗谷地方)】10/6の天気予報 FNNプライムオンライン",
+    "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
   },
   {
     "id": "d7377a83064b55ee9c5f1944978d60a06bb6e245ec2d34560aac1075cf157b68",
@@ -203,10 +233,10 @@
     "id": "1af1862265762542f83598dcf0e4f37fe9745a168cf7c7c841e984ea7b1d1cca",
     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xbXIwYmxvMWtfN2NBYXg0ejEzN3pTU3FfWHQxdkZGa0ozRWtoQzNoSXplYU5UUWlLSk1TVndyYWQzSDRqN2ZkeFFNS1pyVWZucjh6SzVB?oc=5",
     "url": "https://wakkanaipress.com/2026/10/01/25051/",
-    "title": "新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 - wakkanaipress.com",
-    "source": "wakkanaipress.com",
+    "title": "新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 - 稚内プレス社",
+    "source": "稚内プレス社",
     "published": "2026-10-01T03:39:54+00:00",
-    "description": "新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 wakkanaipress.com",
+    "description": "新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 稚内プレス社",
     "image": null
   },
   {
@@ -253,10 +283,10 @@
     "id": "0f3f722abb1bd2b7742fb4df51929c80719a19833c6cd1cea7393d91f83b6c5b",
     "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vUWxyeWVLem5yS1p5VThzQ09NUFBNM3IwRDZFOUlmbXVSRzUtaEVGV2NYMVM5c3lXbF95a2htTWRZRGxvajEydS1WaWRWcXRMLWxCWmh3Mm9QTE9rNFZybXlFT0hMVzhZTEcw?oc=5",
     "url": "https://media.unisba.ac.id/95449950/f25f4cdeDAE2GgdaH0MIASM",
-    "title": "【クラウンエステートで行く北海道ドライブ#3】宗谷丘陵～エサヌカ線～オホーツク海を通り網走へ Arrest (MaIs7Jcp6J) - media.unisba.ac.id",
-    "source": "media.unisba.ac.id",
+    "title": "【クラウンエステートで行く北海道ドライブ#3】宗谷丘陵～エサヌカ線～オホーツク海を通り網走へ Arrest (MaIs7Jcp6J) - Unisba Media",
+    "source": "Unisba Media",
     "published": "2026-09-30T09:51:25+00:00",
-    "description": "【クラウンエステートで行く北海道ドライブ#3】宗谷丘陵～エサヌカ線～オホーツク海を通り網走へ Arrest (MaIs7Jcp6J) media.unisba.ac.id",
+    "description": "【クラウンエステートで行く北海道ドライブ#3】宗谷丘陵～エサヌカ線～オホーツク海を通り網走へ Arrest (MaIs7Jcp6J) Unisba Media",
     "image": null
   },
   {
@@ -403,10 +433,10 @@
     "id": "9ea5ce527c5e43a8fb1c14cddf69f7c184902deeacf395ed63ea0a9f22115978",
     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MaGZUVDFQODlfWEl6SENyeXktRHNuclEyU2xkaU04MjBZS1ZPZmZnc3Frd0dJQkQ0cHRGUnQySlJ4dU0xekl3WEF0LVRIeUFaQVJ4T0NB?oc=5",
     "url": "https://wakkanaipress.com/2026/09/28/24982/",
-    "title": "100余人 稽古の成果発表 稚内市総合芸能祭 - wakkanaipress.com",
-    "source": "wakkanaipress.com",
+    "title": "100余人 稽古の成果発表 稚内市総合芸能祭 - 稚内プレス社",
+    "source": "稚内プレス社",
     "published": "2026-09-28T04:38:44+00:00",
-    "description": "100余人 稽古の成果発表 稚内市総合芸能祭 wakkanaipress.com",
+    "description": "100余人 稽古の成果発表 稚内市総合芸能祭 稚内プレス社",
     "image": null
   },
   {
@@ -513,10 +543,10 @@
     "id": "7ddc706c86e59d430c14c5f868696ec2c9c6d30193f7d142597409fb5a6cd05d",
     "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VT3B0R0kzbkFLVTRTdmpwWFNrYmQ1VVRpXy1PNFQzcXVKMV9iUzNLdk5YRWxkdFFnZkR6LXEwbExqaDktcUNncWFyYnN2VzhOYUlFbWhJX2s?oc=5",
     "url": "https://www.qab.co.jp/quebee/video/000535776/",
-    "title": "北海道で今季初の冬日 寒気と放射冷却で氷点下 稚内市内で－0.4℃ – Quebee キュエビー - qab.co.jp",
-    "source": "qab.co.jp",
-    "published": "2026-09-25T09:47:39+00:00",
-    "description": "北海道で今季初の冬日 寒気と放射冷却で氷点下 稚内市内で－0.4℃ – Quebee キュエビー qab.co.jp",
+    "title": "北海道で今季初の冬日 寒気と放射冷却で氷点下 稚内市内で－0.4℃ – Quebee キュエビー - QAB 琉球朝日放送",
+    "source": "QAB 琉球朝日放送",
+    "published": "2026-09-25T10:18:29+00:00",
+    "description": "北海道で今季初の冬日 寒気と放射冷却で氷点下 稚内市内で－0.4℃ – Quebee キュエビー QAB 琉球朝日放送",
     "image": "https://www.qab.co.jp/quebee/wp-content/uploads/000535776_640.jpg"
   },
   {
@@ -850,6 +880,16 @@
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-03547589-stv-000-2-thumb.jpg?exp=10800"
   },
   {
+    "id": "e4a4cb251a4eeae0274ac9c06d4da77db3a8d9176ae045a7b59245ba3f04fcf4",
+    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FNzdmei1xU1VXOWlEcW1KTHNLX1Azb1JmbmxBcmZyRmFaSlZ3OUtnQmNNTVpydzNNalJ2TGdfZ3Z6WmFIdTF6bFZlOEJwc21oRGs3NFVPNEY?oc=5",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1779937",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 - 京都新聞デジタル",
+    "source": "京都新聞デジタル",
+    "published": "2026-09-24T07:00:00+00:00",
+    "description": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 京都新聞デジタル",
+    "image": "https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png"
+  },
+  {
     "id": "1744a6acba9069628c3e405d3eb9059170ebbae7c99070b9c9bada2775c1297a",
     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RZlF5UnJSc3ZVNjJ3WEpyNy04QUdCeEFnQkRqNzZTNjlXblhvT0ZqZUQ0WE1oWXpHejduajI5cXd4bzlhREEtQUtGSjBUWHVCajdIUXBB?oc=5",
     "url": "https://www.saga-s.co.jp/articles/-/1797130",
@@ -860,6 +900,16 @@
     "image": "https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png"
   },
   {
+    "id": "f29ca69d7928970d28d472fee9587d15b810ab28ab6a2f1072b8743058e78854",
+    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81UmFGMzRVakFxVUQySGZOYmdQMkdEeUpCTEV5am5TVktDanROQXpTek93M2dJUS1QaEdHUlJHMDVSZWxrR3lJTElXRTA0LUJZRm50MFVEamVlYnVHeGc?oc=5",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1929861",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - 沖縄タイムス社",
+    "source": "沖縄タイムス社",
+    "published": "2026-09-24T07:00:00+00:00",
+    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 沖縄タイムス社",
+    "image": "https://oki.ismcdn.jp/mwimgs/8/5/1200wm/img_85ce95a55c75885fc93df59abea86e166672.png"
+  },
+  {
     "id": "24bd8f3026032d7d603f6c9cf2523e35c90afd160dc7cfeabffc9f99d07fd936",
     "google_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUHNUN1NwbzBXLUs0T3JzRE1PdDNJVEJQc3JNUmgtSzlBV2Y1LWIyNGw1WGh0Yk4xNzA5VThUbTYyR054Q2xOV1JadmpNVUdRUmN6MUpfVmNWM2RoTk9FOUFsUld5eXctaVc2MXp4cTRVUDROak83VGRnNkdfYkpJQUhRR1lXS0E?oc=5",
     "url": "https://news.ntv.co.jp/n/stv/category/society/stbcd3e1428ad04fdba3d3a0726a279231",
@@ -868,6 +918,16 @@
     "published": "2026-09-24T07:00:00+00:00",
     "description": "“利尻富士”を眺めながら…地元で獲れたホッケの定食！絶景に魅了され…カフェがオープン 稚内市 日テレNEWS NNN",
     "image": "https://image.gallery.play.jp/stv-news/articles/d2599cdd37fb4397aa7676ed6438d72a/430e11a3-c1b6-46fc-9287-1d534b42f0ab.jpg?w=1200"
+  },
+  {
+    "id": "c8fd36209732ca4087b59d53b3fa78cf2b3644a9aa7629dac61b117959c3cd92",
+    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rWVJaMXVGQjNxcE5fcjNTSjNtTjd1b19iTmVoVFhmWWZrdk9HdGpNcFFKSWdmWUYxU01hR2VqNFlHMUpUR1ZsajhwZlhFdG9fM2M3RHJpRjY?oc=5",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1795825",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - 京都新聞デジタル",
+    "source": "京都新聞デジタル",
+    "published": "2026-09-24T07:00:00+00:00",
+    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 京都新聞デジタル",
+    "image": "https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png"
   },
   {
     "id": "6eaa07451e53509dcb60c75786513ef2399605b445e8767f49fdee50b2bc219b",
@@ -920,16 +980,6 @@
     "image": "https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png"
   },
   {
-    "id": "f29ca69d7928970d28d472fee9587d15b810ab28ab6a2f1072b8743058e78854",
-    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81UmFGMzRVakFxVUQySGZOYmdQMkdEeUpCTEV5am5TVktDanROQXpTek93M2dJUS1QaEdHUlJHMDVSZWxrR3lJTElXRTA0LUJZRm50MFVEamVlYnVHeGc?oc=5",
-    "url": "https://www.okinawatimes.co.jp/articles/-/1929861",
-    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - okinawatimes.co.jp",
-    "source": "okinawatimes.co.jp",
-    "published": "2026-09-24T07:00:00+00:00",
-    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 okinawatimes.co.jp",
-    "image": "https://oki.ismcdn.jp/mwimgs/8/5/1200wm/img_85ce95a55c75885fc93df59abea86e166672.png"
-  },
-  {
     "id": "0a8028eb5dc2682ebc1202b8e7ddb6e34f8cd56c8f512023b1f3152297be8888",
     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xc0JzeFdXS1d5ODVoalFKVnJHODlURjh5bjBrYi14WnZRSjFmcXBsaXBWZlo2TktFSWFXS1NRME9fcmdzRlV4bFQ3cjhjbFk1dXNMbmdR?oc=5",
     "url": "https://wakkanaipress.com/2026/09/24/24926/",
@@ -950,14 +1000,14 @@
     "image": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
   },
   {
-    "id": "c8fd36209732ca4087b59d53b3fa78cf2b3644a9aa7629dac61b117959c3cd92",
-    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rWVJaMXVGQjNxcE5fcjNTSjNtTjd1b19iTmVoVFhmWWZrdk9HdGpNcFFKSWdmWUYxU01hR2VqNFlHMUpUR1ZsajhwZlhFdG9fM2M3RHJpRjY?oc=5",
-    "url": "https://www.kyoto-np.co.jp/articles/-/1795825",
-    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - 京都新聞デジタル",
-    "source": "京都新聞デジタル",
+    "id": "61d90d6cfe71e06df969865e371e774b98c2df028cc639c3deace9d8eb936d6a",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaQ1VIc3dvd3YtN3pwNFJDSkt3ak92Q095QVhyZm9NVkVHbFRwVERoTU96UFZ4VGo1REMteDdQTmdpU1c4WVYycU84VEZsTWxmNTc1UkM4ZFRsdw?oc=5",
+    "url": "https://www.chugoku-np.co.jp/articles/-/899000",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - 中国新聞デジタル",
+    "source": "中国新聞デジタル",
     "published": "2026-09-23T20:43:11+00:00",
-    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 京都新聞デジタル",
-    "image": "https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png"
+    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 中国新聞デジタル",
+    "image": "https://chugoku-np.ismcdn.jp/common/images/site/default-icon_renewal.png?rb=20260301"
   },
   {
     "id": "a556a024cb78ffb14a5207a02aab3ea8889400d47d3acd6a36ba9dc00567e9c7",
@@ -968,16 +1018,6 @@
     "published": "2026-09-23T20:43:11+00:00",
     "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 琉球新報デジタル",
     "image": "https://ryukyushimpo.jp/tachyon/2024/05/ogp_1200-675_ryukyushimpo_logo.png?resize=1200%2C630&gravity&crop_strategy=smart"
-  },
-  {
-    "id": "61d90d6cfe71e06df969865e371e774b98c2df028cc639c3deace9d8eb936d6a",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaQ1VIc3dvd3YtN3pwNFJDSkt3ak92Q095QVhyZm9NVkVHbFRwVERoTU96UFZ4VGo1REMteDdQTmdpU1c4WVYycU84VEZsTWxmNTc1UkM4ZFRsdw?oc=5",
-    "url": "https://www.chugoku-np.co.jp/articles/-/899000",
-    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - 中国新聞デジタル",
-    "source": "中国新聞デジタル",
-    "published": "2026-09-23T20:43:11+00:00",
-    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 中国新聞デジタル",
-    "image": "https://chugoku-np.ismcdn.jp/common/images/site/default-icon_renewal.png?rb=20260301"
   },
   {
     "id": "f5d38ee810b811745e6ac43f7025954d40f13c4cc016d09665030f75a65b631a",
@@ -1050,16 +1090,6 @@
     "image": "https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png"
   },
   {
-    "id": "e4a4cb251a4eeae0274ac9c06d4da77db3a8d9176ae045a7b59245ba3f04fcf4",
-    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FNzdmei1xU1VXOWlEcW1KTHNLX1Azb1JmbmxBcmZyRmFaSlZ3OUtnQmNNTVpydzNNalJ2TGdfZ3Z6WmFIdTF6bFZlOEJwc21oRGs3NFVPNEY?oc=5",
-    "url": "https://www.kyoto-np.co.jp/articles/-/1779937",
-    "title": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 - 京都新聞デジタル",
-    "source": "京都新聞デジタル",
-    "published": "2026-09-23T18:33:17+00:00",
-    "description": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 京都新聞デジタル",
-    "image": "https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png"
-  },
-  {
     "id": "ce08665b2c90c9910999e8f6504fd1f26808601396b8cd6f905152278540a7d5",
     "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuWV9kcDBMaU8tcXBOTkl3aE91QjdsdEEtdkl3YUFYR2dRaWhsSlA4NU9mNmctWnRJQXdYUUZQYy15VGtaME5aZmNuaWdDMTROTmFqWnBUV1FOdUw1?oc=5",
     "url": "https://ryukyushimpo.jp/kyodo/entry-5522366.html",
@@ -1093,10 +1123,10 @@
     "id": "3589066065938ecaf83a79709f5dc2d075dda80b63811470d415a5697262fb71",
     "google_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeGE3aDY4T3FYMUUzUEdqNmtJOEVCbDFGSU5CSFpleHN0b2hkdnR1SE1jbXplRmQ4Z3h2OUd6SDBWYWMxZzdVTTZMZzlLazRQUmc2RkJWSmhnRjVsdzBHamdmNTdTeERFVVg4Y0FQcGdtdU1vU1NGdFhuMS1oSlc2UEtOeXVoWWZROU1ud29yRnBUQQ?oc=5",
     "url": "https://www.motomegane.com/news-release/featured-articles/pl_hokkaido-touring-4_20260923",
-    "title": "北海道ツーリングで宗谷丘陵へ 絶景2500kmを支えた「ブレードランナー」を紹介 - motomegane.com",
-    "source": "motomegane.com",
+    "title": "北海道ツーリングで宗谷丘陵へ 絶景2500kmを支えた「ブレードランナー」を紹介 - MotoMegane(モトメガネ)",
+    "source": "MotoMegane(モトメガネ)",
     "published": "2026-09-23T07:00:00+00:00",
-    "description": "北海道ツーリングで宗谷丘陵へ 絶景2500kmを支えた「ブレードランナー」を紹介 motomegane.com",
+    "description": "北海道ツーリングで宗谷丘陵へ 絶景2500kmを支えた「ブレードランナー」を紹介 MotoMegane(モトメガネ)",
     "image": "https://www.motomegane.com/wp-content/uploads/2026/08/plot_141-1.webp"
   },
   {
@@ -1243,10 +1273,10 @@
     "id": "28d3b6d22ec8a420e01a30b259d81636fa3dc3a52f32bef27837ccf4ca2b3eb0",
     "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GMThLSV9iUjBNWmxfLXV4TmtOMFd5aDd0UElwTVE5QkZaaVB2ZEw4ZDRkODFST3R2UFNPZXNIVndxWVdoQW1mUHJId0I5blJhQ2c2QVVBcGtTVHFGbEVITk5lM1p1SmU3Yk13cg?oc=5",
     "url": "https://kurashigoto.hokkaido.jp/konomachi/20260917090000.php",
-    "title": "稚内で余白を楽しみ、漁師を支える。 宗谷漁協で働くということNEW! - くらしごと",
+    "title": "稚内で余白を楽しみ、漁師を支える。 宗谷漁協で働くということ20260917 - くらしごと",
     "source": "くらしごと",
     "published": "2026-09-17T07:00:00+00:00",
-    "description": "稚内で余白を楽しみ、漁師を支える。 宗谷漁協で働くということNEW! くらしごと",
+    "description": "稚内で余白を楽しみ、漁師を支える。 宗谷漁協で働くということ20260917 くらしごと",
     "image": "https://kurashigoto.hokkaido.jp/image/soyagyokyo01.jpg"
   },
   {
@@ -1313,10 +1343,10 @@
     "id": "109d105b0dc9abc39fe65a1379ffa124a853389178962d69af2e0124514bb960",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wM1E5dy1YcWlFUjJIZjJVeEVCVHVMMUhXQnN4VUFRTjRSVUNRdGhXX2h6c3pqVEVRZ1JpRWhUMzVyaUVfSGhLQ0k4MkNINjVCa2d5eWpEaDlXQQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1370141/",
-    "title": "宗谷管内利尻町議選結果 - hokkaido-np.co.jp",
-    "source": "hokkaido-np.co.jp",
+    "title": "宗谷管内利尻町議選結果 - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
     "published": "2026-09-14T07:00:00+00:00",
-    "description": "宗谷管内利尻町議選結果 hokkaido-np.co.jp",
+    "description": "宗谷管内利尻町議選結果 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/ogp/category/1200x630/3/ca4f8016fe5c696c7a509ee735268b47.jpg?20260926033727"
   },
   {
@@ -1353,10 +1383,10 @@
     "id": "207dc1c64472b62e9099e71eb71adc2af8ad22c33566f805ee5f63023fe5265d",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nNlhRSUEtZmJCdE9PNW5ScHhhVUVWWVNFSWVhaXpFUlhoMGlHdGY1cFpuWDkxX2w3Z1F1ZjFKZUEzeXVabk91aVg0ZnB2UGpqdVBDYXAtanNMUQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1369835/",
-    "title": "ザ・ロイヤルエクスプレス JR宗谷線を今季初運行 鉄道ファンら南稚内駅で歓迎 - hokkaido-np.co.jp",
-    "source": "hokkaido-np.co.jp",
+    "title": "ザ・ロイヤルエクスプレス JR宗谷線を今季初運行 鉄道ファンら南稚内駅で歓迎 - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
     "published": "2026-09-12T07:00:00+00:00",
-    "description": "ザ・ロイヤルエクスプレス JR宗谷線を今季初運行 鉄道ファンら南稚内駅で歓迎 hokkaido-np.co.jp",
+    "description": "ザ・ロイヤルエクスプレス JR宗谷線を今季初運行 鉄道ファンら南稚内駅で歓迎 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/1/3/f/6/13f693a4856f7b9fda8ae015dcf1e188_1.webp?20260922154716"
   },
   {
@@ -1458,15 +1488,5 @@
     "published": "2026-09-07T07:00:00+00:00",
     "description": "台風24号(2026年)の道北宗谷北部の暴風域に入る確率 tenki.jp",
     "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
-  },
-  {
-    "id": "e7f84a407cf3dac33c69c599f9bc41bdb05cfae99bc6361018360b3e89dbe9ba",
-    "google_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmQ5VVJZRklHNkRCSjFaUjRIaVU5bmxFRHc0Z2g2LTljazlsRUxpUzFnQUwyTlEyMFlha3VIcUZxNDZPYmExXzFYVWVKcmZzUmlqaTN5bGNVdVNGQlVmRW9nSTJxc0lvckZtLTM2LXUzalppc213WDRKd3Bfd0dxOTBsRkgxNzUzNk5lbnBpempTU3lPcHl4Rk93?oc=5",
-    "url": "https://www.asahi.com/articles/photo/AS20150312000901.html?iref=sp_photo_gallery_next_arrow",
-    "title": "（ＮＩＰＰＯＮ 映画の旅人）「南極物語」 北海道稚内市 - 朝日新聞",
-    "source": "朝日新聞",
-    "published": "2026-09-06T14:16:23+00:00",
-    "description": "（ＮＩＰＰＯＮ 映画の旅人）「南極物語」 北海道稚内市 朝日新聞",
-    "image": "https://www.asahicom.jp/articles/images/AS20150312000899_comm.jpg"
   }
 ]
