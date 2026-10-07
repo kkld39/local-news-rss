@@ -1,5 +1,15 @@
 [
   {
+    "id": "23da8a87895d15d8b4949b82848ea13a0a49f12163ff16684888da426715a5da",
+    "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqUnlUTk1fcmxRVXMzdnhPcWZnWFdoOWE3MDNZTVlEa09sOVFNU2lsQzdIVXFvRzZDQjNHMHJxY0M5QXhYVkNaWmc3OUwxWHV0REF0UEkyRjhITkFZa1d1c0g3T1pfSWVRZVE?oc=5",
+    "url": "https://prtimes.jp/main/html/rd/p/000001276.000088209.html",
+    "title": "東京・港区で北海道・宗谷を味わおう！猿払村・礼文町が地場産品を販売 - PR TIMES",
+    "source": "PR TIMES",
+    "published": "2026-10-07T01:00:02+00:00",
+    "description": "東京・港区で北海道・宗谷を味わおう！猿払村・礼文町が地場産品を販売 PR TIMES",
+    "image": "https://prtimes.jp/common/pc_v4/og.png"
+  },
+  {
     "id": "4b2eb9a88d83a4f960cdd6e7c0a1724a77da961f1691e862f51b646f34b89691",
     "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Yc3BEeGFDcUlLVmhvcUdGcmVoYmlPSjRJVVFrd3hxanc5Q0JOX0tIbTl1ek5fYzJPLXNIeVlzbG5kSkJ6VDlOazJDaHNkSHBzN25pSWVwTjBXY3pQbmRoUkJ6WHZLd2M2?oc=5",
     "url": "https://tenki.jp/bousai/typhoon/storm/2629/1/1/1100/1120/",
@@ -60,6 +70,16 @@
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-22990851-hbcv-000-1-thumb.jpg?exp=10800"
   },
   {
+    "id": "dcad47b0c4c9bb10d043b91a5d0e07b420ae4ee5bfaf29e363fe86ef9bade3d7",
+    "google_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1PT2N1LWNHdk1kV3k1alFVblF1NC1GckxfUFJlbUtoclpUSHB5NGVtZDd0UkxmMDFVSy1R?oc=5",
+    "url": "https://newsdig.tbs.co.jp/articles/hbc/2990851",
+    "title": "南極の海面上昇リスクと地球温暖化の脅威 観測船しらせ隊長が「海氷がない」と明かす異変の実態 北海道稚内市 - Howl.link",
+    "source": "Howl.link",
+    "published": "2026-10-05T21:00:00+00:00",
+    "description": "南極の海面上昇リスクと地球温暖化の脅威 観測船しらせ隊長が「海氷がない」と明かす異変の実態 北海道稚内市 Howl.link",
+    "image": "https://newsdig.ismcdn.jp/mwimgs/7/d/1200w/img_7d29ec2300bdedea85878100819155dd164317.jpg"
+  },
+  {
     "id": "301b70b948d0b7b8959b0818aa52fda166e8e6a356743b31f1bd6808749cc13c",
     "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83dS1ZTTZEQy1YdENDVmhpUTVSa25qSWZXWEhZUEhUOUR4Q0cyNlhrWjFqdE0zREZYS0w3cS1RSHdBUWVPdVRMbXZ0a29xeG9LSGNwbzhXek0wUUlMcngxUXYza1QyLTQ?oc=5",
     "url": "https://newsdig.tbs.co.jp/articles/hbc/2990851?display=1",
@@ -68,6 +88,16 @@
     "published": "2026-10-05T21:00:00+00:00",
     "description": "南極の海面上昇リスクと地球温暖化の脅威 観測船しらせ隊長が「海氷がない」と明かす異変の実態 北海道稚内市 TBS NEWS DIG",
     "image": "https://newsdig.ismcdn.jp/mwimgs/7/d/1200w/img_7d29ec2300bdedea85878100819155dd164317.jpg"
+  },
+  {
+    "id": "1ed78df96629d09b0878535051b31ab27a345028772a1ec2ecf112aed52f1120",
+    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xRWxjOFprM0xUTGVZUFpYY0w3ZHBlMUhvLS1QaEEzV2NiVVhia1hOLWNCVmM4WGFkaFhReXFIMC1PZEl6bm9SZGhHRl82UQ?oc=5",
+    "url": "https://www.fnn.jp/articles/-/1126885",
+    "title": "【北海道(宗谷地方)】10/6の天気予報 - FNNプライムオンライン",
+    "source": "FNNプライムオンライン",
+    "published": "2026-10-05T20:10:00+00:00",
+    "description": "【北海道(宗谷地方)】10/6の天気予報 FNNプライムオンライン",
+    "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
   },
   {
     "id": "99b65695402387f7f8fde04c1d71ab4e5a3cfc6a669dba5bc022074af5e285db",
@@ -88,16 +118,6 @@
     "published": "2026-10-05T11:30:00+00:00",
     "description": "留萌・宗谷（１０月６日付）おくやみ hokkaido-np.co.jp",
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
-  },
-  {
-    "id": "1ed78df96629d09b0878535051b31ab27a345028772a1ec2ecf112aed52f1120",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vVXFVNzliMEdCQ0tFUzhNV1BmOFlFRnJxYUhfdndNZFh2V2ZwcTY1UE5LYlhTYlIwQXluTkxZdW5qYkY0YWVqbjB6SGlHZw?oc=5",
-    "url": "https://www.fnn.jp/articles/-/1126885",
-    "title": "【北海道(宗谷地方)】10/6の天気予報 - FNNプライムオンライン",
-    "source": "FNNプライムオンライン",
-    "published": "2026-10-05T10:30:00+00:00",
-    "description": "【北海道(宗谷地方)】10/6の天気予報 FNNプライムオンライン",
-    "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
   },
   {
     "id": "d7377a83064b55ee9c5f1944978d60a06bb6e245ec2d34560aac1075cf157b68",
@@ -313,10 +333,10 @@
     "id": "f1c47a356cd0ec2faa02e58113f145d42af6260e5185f98dec698bfef4de48ac",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QTjk1RDJnaUFudGZ6SU13VldjY2pHem5rZnFmSkIzTElJWExFaXhiZmlBb3RsQ1N1WEpBeC12YlJ0SElIWHFBS3I4SHVFVWI2NGtQZHJ2d0VFUQ?oc=5",
     "url": "https://www.htb.co.jp/news/archives_39761.html",
-    "title": "「トラクターが転落している」水たまりで60代男性が死亡 稚内市 - HTB北海道テレビ",
-    "source": "HTB北海道テレビ",
+    "title": "「トラクターが転落している」水たまりで60代男性が死亡 稚内市 - HTB 北海道テレビ",
+    "source": "HTB 北海道テレビ",
     "published": "2026-09-30T06:58:00+00:00",
-    "description": "「トラクターが転落している」水たまりで60代男性が死亡 稚内市 HTB北海道テレビ",
+    "description": "「トラクターが転落している」水たまりで60代男性が死亡 稚内市 HTB 北海道テレビ",
     "image": "https://www.htb.co.jp/news/photo/39761_51013.jpg"
   },
   {
@@ -600,16 +620,6 @@
     "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/407/40740/main/20260925040858/large.jpg"
   },
   {
-    "id": "9a429581576336ee8f349ef5518c5823f71a16d84c791c6d60d857878fdc04e3",
-    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMemk4dUFmRXprQVc4bXhkUGVicE44WVhPYzZBWi1fOG4wcHpvdGpYYWtpOThFLWhRbHhtTjBPUXZJWmpTZ3pkYWtVdENfNk1vbUppNk8zcw?oc=5",
-    "url": "https://www.uhb.jp/news/single.html?id=62368",
-    "title": "【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に - UHB 北海道文化放送",
-    "source": "UHB 北海道文化放送",
-    "published": "2026-09-25T07:00:00+00:00",
-    "description": "【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に UHB 北海道文化放送",
-    "image": "https://www.uhb.jp/news/data/62368/image.jpg?v=1790305910"
-  },
-  {
     "id": "3fdc864cd3be4240081b1b5368de34910a0a77ad5d615f23ef1f91c6686a2863",
     "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40UE9QYTU5Vm5OM1hjUU9SY3NndHJXZlRtaXZVRG5YOWNRUkZfaFBzOWtsQmtYam9WVFZUQS1hUzZKQ09Wdk5vbVlWLVB0cEo4YWJZNEJUNUxHZWJaY0hJbEpNUVIxbTZReV95eXZWQ1lpbWF2OWJn?oc=5",
     "url": "https://www.daihatsu.co.jp/local-activities/023/20260925_016180.html",
@@ -618,6 +628,16 @@
     "published": "2026-09-25T07:00:00+00:00",
     "description": "（稚内市）シニア向け安全運転セミナー daihatsu.co.jp",
     "image": "https://www.daihatsu.co.jp/lyu_action/023/assets_c/2026/09/5bddf72d73c511df2c06864943694737-260925144611356-thumb-1200xauto-136291.jpg"
+  },
+  {
+    "id": "9a429581576336ee8f349ef5518c5823f71a16d84c791c6d60d857878fdc04e3",
+    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMemk4dUFmRXprQVc4bXhkUGVicE44WVhPYzZBWi1fOG4wcHpvdGpYYWtpOThFLWhRbHhtTjBPUXZJWmpTZ3pkYWtVdENfNk1vbUppNk8zcw?oc=5",
+    "url": "https://www.uhb.jp/news/single.html?id=62368",
+    "title": "【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に - UHB 北海道文化放送",
+    "source": "UHB 北海道文化放送",
+    "published": "2026-09-25T07:00:00+00:00",
+    "description": "【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に UHB 北海道文化放送",
+    "image": "https://www.uhb.jp/news/data/62368/image.jpg?v=1790305910"
   },
   {
     "id": "6d1cd4fad2b1d6608f5df08ec8ab02db548e6b8db63ef3b115e2f75fd9bc0a6e",
@@ -890,24 +910,24 @@
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-03547589-stv-000-2-thumb.jpg?exp=10800"
   },
   {
-    "id": "e4a4cb251a4eeae0274ac9c06d4da77db3a8d9176ae045a7b59245ba3f04fcf4",
-    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FNzdmei1xU1VXOWlEcW1KTHNLX1Azb1JmbmxBcmZyRmFaSlZ3OUtnQmNNTVpydzNNalJ2TGdfZ3Z6WmFIdTF6bFZlOEJwc21oRGs3NFVPNEY?oc=5",
-    "url": "https://www.kyoto-np.co.jp/articles/-/1779937",
-    "title": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 - 京都新聞デジタル",
-    "source": "京都新聞デジタル",
-    "published": "2026-09-24T07:00:00+00:00",
-    "description": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 京都新聞デジタル",
-    "image": "https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png"
-  },
-  {
     "id": "1744a6acba9069628c3e405d3eb9059170ebbae7c99070b9c9bada2775c1297a",
-    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RZlF5UnJSc3ZVNjJ3WEpyNy04QUdCeEFnQkRqNzZTNjlXblhvT0ZqZUQ0WE1oWXpHejduajI5cXd4bzlhREEtQUtGSjBUWHVCajdIUXBB?oc=5",
+    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YYUxaV005amhaOHRaYjBuNGdsZm5EVmtUM0ZxTkM2TnN6WE5hTUctTGQ2azg1SWJPNTFYNzJMVEgzREN4bTRzcmxJQjBvTWVsRTdlTlZR?oc=5",
     "url": "https://www.saga-s.co.jp/articles/-/1797130",
     "title": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 - 佐賀新聞",
     "source": "佐賀新聞",
     "published": "2026-09-24T07:00:00+00:00",
     "description": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 佐賀新聞",
     "image": "https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png"
+  },
+  {
+    "id": "24bd8f3026032d7d603f6c9cf2523e35c90afd160dc7cfeabffc9f99d07fd936",
+    "google_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUHNUN1NwbzBXLUs0T3JzRE1PdDNJVEJQc3JNUmgtSzlBV2Y1LWIyNGw1WGh0Yk4xNzA5VThUbTYyR054Q2xOV1JadmpNVUdRUmN6MUpfVmNWM2RoTk9FOUFsUld5eXctaVc2MXp4cTRVUDROak83VGRnNkdfYkpJQUhRR1lXS0E?oc=5",
+    "url": "https://news.ntv.co.jp/n/stv/category/society/stbcd3e1428ad04fdba3d3a0726a279231",
+    "title": "“利尻富士”を眺めながら…地元で獲れたホッケの定食！絶景に魅了され…カフェがオープン 稚内市 - 日テレNEWS NNN",
+    "source": "日テレNEWS NNN",
+    "published": "2026-09-24T07:00:00+00:00",
+    "description": "“利尻富士”を眺めながら…地元で獲れたホッケの定食！絶景に魅了され…カフェがオープン 稚内市 日テレNEWS NNN",
+    "image": "https://image.gallery.play.jp/stv-news/articles/d2599cdd37fb4397aa7676ed6438d72a/430e11a3-c1b6-46fc-9287-1d534b42f0ab.jpg?w=1200"
   },
   {
     "id": "f29ca69d7928970d28d472fee9587d15b810ab28ab6a2f1072b8743058e78854",
@@ -920,14 +940,24 @@
     "image": "https://oki.ismcdn.jp/mwimgs/8/5/1200wm/img_85ce95a55c75885fc93df59abea86e166672.png"
   },
   {
-    "id": "24bd8f3026032d7d603f6c9cf2523e35c90afd160dc7cfeabffc9f99d07fd936",
-    "google_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUHNUN1NwbzBXLUs0T3JzRE1PdDNJVEJQc3JNUmgtSzlBV2Y1LWIyNGw1WGh0Yk4xNzA5VThUbTYyR054Q2xOV1JadmpNVUdRUmN6MUpfVmNWM2RoTk9FOUFsUld5eXctaVc2MXp4cTRVUDROak83VGRnNkdfYkpJQUhRR1lXS0E?oc=5",
-    "url": "https://news.ntv.co.jp/n/stv/category/society/stbcd3e1428ad04fdba3d3a0726a279231",
-    "title": "“利尻富士”を眺めながら…地元で獲れたホッケの定食！絶景に魅了され…カフェがオープン 稚内市 - 日テレNEWS NNN",
-    "source": "日テレNEWS NNN",
+    "id": "e4a4cb251a4eeae0274ac9c06d4da77db3a8d9176ae045a7b59245ba3f04fcf4",
+    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FNzdmei1xU1VXOWlEcW1KTHNLX1Azb1JmbmxBcmZyRmFaSlZ3OUtnQmNNTVpydzNNalJ2TGdfZ3Z6WmFIdTF6bFZlOEJwc21oRGs3NFVPNEY?oc=5",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1779937",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 - 京都新聞デジタル",
+    "source": "京都新聞デジタル",
     "published": "2026-09-24T07:00:00+00:00",
-    "description": "“利尻富士”を眺めながら…地元で獲れたホッケの定食！絶景に魅了され…カフェがオープン 稚内市 日テレNEWS NNN",
-    "image": "https://image.gallery.play.jp/stv-news/articles/d2599cdd37fb4397aa7676ed6438d72a/430e11a3-c1b6-46fc-9287-1d534b42f0ab.jpg?w=1200"
+    "description": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 京都新聞デジタル",
+    "image": "https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png"
+  },
+  {
+    "id": "e6494e50f2e17fc996ef6dd2551bf749435a715076612d05f5bfb4324fe32362",
+    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWcDB6XzBwcWRhcGRwTUZlNzRYT1JyaE9zLTNfX3NWUGhiLTl2NnNoYURya0VOZ2JCTm41MDgyNHpPTXZyMUpQTUFWemRjbFhFRkc2cTh3?oc=5",
+    "url": "https://www.saga-s.co.jp/articles/-/1797154",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - 佐賀新聞",
+    "source": "佐賀新聞",
+    "published": "2026-09-24T07:00:00+00:00",
+    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 佐賀新聞",
+    "image": "https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png"
   },
   {
     "id": "c8fd36209732ca4087b59d53b3fa78cf2b3644a9aa7629dac61b117959c3cd92",
@@ -948,16 +978,6 @@
     "published": "2026-09-24T07:00:00+00:00",
     "description": "宗谷地方気象防災速報（竜巻注意） 第２号＝気象庁発表 京都新聞デジタル",
     "image": "https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png"
-  },
-  {
-    "id": "e6494e50f2e17fc996ef6dd2551bf749435a715076612d05f5bfb4324fe32362",
-    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWcDB6XzBwcWRhcGRwTUZlNzRYT1JyaE9zLTNfX3NWUGhiLTl2NnNoYURya0VOZ2JCTm41MDgyNHpPTXZyMUpQTUFWemRjbFhFRkc2cTh3?oc=5",
-    "url": "https://www.saga-s.co.jp/articles/-/1797154",
-    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - 佐賀新聞",
-    "source": "佐賀新聞",
-    "published": "2026-09-24T07:00:00+00:00",
-    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 佐賀新聞",
-    "image": "https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png"
   },
   {
     "id": "8ea913eb07aec5679583a87e55aa10dee855cbfaf45ec31377feeab49287088b",
@@ -1170,6 +1190,16 @@
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
   },
   {
+    "id": "6883ebb3a6231dde4b763e496bef5ce3ad01de63a140b8961e2aebd0ea0d72a0",
+    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lc2p0OEswYlM4amhzUHBEQWZRdTliRm1oNVBlRkFaMWVNTFBSQjFhOHFNaFZPeVVGU3gxSUduSjZHSnNuYzBmb1BiSV9XNG1XUzREUlYzNGtkcEdKVW0zMW9tN0JKYXZo?oc=5",
+    "url": "https://tenki.jp/lite/bousai/typhoon/storm/2625/1/1/1100/1120/",
+    "title": "台風25号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp",
+    "source": "tenki.jp",
+    "published": "2026-09-22T07:00:00+00:00",
+    "description": "台風25号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
+    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
+  },
+  {
     "id": "9beae518756f3091645881303da39b9d1ae9c9e10392730e6de531fdd9bfef83",
     "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OVXNGTWMzOV95ZlVxQks5eU1PVDBTbmlXZWt2WTQ2NExwQ1VsXzV0MzU5OWhOOS1peGZaNUZqYmMydTFac0FSTzZJdVR2MGdGMHFGTENaYkUxN1A2UkZEaDB2Skd0OUhJ?oc=5",
     "url": "https://tenki.jp/lite/bousai/typhoon/storm/2625/1/1/1100/1110/",
@@ -1177,16 +1207,6 @@
     "source": "tenki.jp",
     "published": "2026-09-22T07:00:00+00:00",
     "description": "台風25号(2026年)の道北宗谷北部の暴風域に入る確率 tenki.jp",
-    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
-  },
-  {
-    "id": "6883ebb3a6231dde4b763e496bef5ce3ad01de63a140b8961e2aebd0ea0d72a0",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lc2p0OEswYlM4amhzUHBEQWZRdTliRm1oNVBlRkFaMWVNTFBSQjFhOHFNaFZPeVVGU3gxSUduSjZHSnNuYzBmb1BiSV9XNG1XUzREUlYzNGtkcEdKVW0zMW9tN0JKYXZo?oc=5",
-    "url": "https://tenki.jp/lite/bousai/typhoon/storm/2625/1/1/1100/1120/",
-    "title": "台風25号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp",
-    "source": "tenki.jp",
-    "published": "2026-09-22T06:00:00+00:00",
-    "description": "台風25号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
     "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
   },
   {
@@ -1478,25 +1498,5 @@
     "published": "2026-09-08T07:00:00+00:00",
     "description": "コープさっぽろ、稚内に12月初出店 地元スーパー承継、宗谷管内への展開続く 47NEWS",
     "image": "https://img.cf.47news.jp/public/photo/64ba89ad748f9532d91a30fcae685d08/photo.jpg"
-  },
-  {
-    "id": "a53af2d46a068fd7299ee833166d450cb590d8591238b532e2e777698dedb199",
-    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iS0l2Q1NsNUpUTnFfZFNmWDdISEVNSElwVlVNeHZjcWc4MDdHb1o4SHJpWFBiLXRPZHBOUWs3VFhXdjExczFNbXVSWFJpcUhNUTRIaV93?oc=5",
-    "url": "https://www.sokagakkai.jp/news/3330318.html",
-    "title": "北海道稚内市で「ことばのチカラ展」が開幕（13日〈日〉まで） - sokagakkai.jp",
-    "source": "sokagakkai.jp",
-    "published": "2026-09-08T00:52:00+00:00",
-    "description": "北海道稚内市で「ことばのチカラ展」が開幕（13日〈日〉まで） sokagakkai.jp",
-    "image": "https://www.sokagakkai.jp/news/.assets/pic_news_3330318_01.jpg"
-  },
-  {
-    "id": "ed975ff9951684f272c6acde067c49160ee8971160edeab0ee0cd023cb970650",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGVXZ0ZFp6cFRVc0lzR3dSbDFoZmYtLVVjeGh5aGdOcURhYjlyN2tPV2lVaEFWR2VDVHBZbTM1Y05MLVhuc1NQUy0teGVJa2lGRWF3RmdfNlgyclNkRHVtQV9LcmEyVTRS?oc=5",
-    "url": "https://tenki.jp/bousai/typhoon/storm/2624/1/1/1100/1120/",
-    "title": "台風24号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp",
-    "source": "tenki.jp",
-    "published": "2026-09-07T07:00:00+00:00",
-    "description": "台風24号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
-    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
   }
 ]
