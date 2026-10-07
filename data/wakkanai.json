@@ -1,5 +1,25 @@
 [
   {
+    "id": "09d1d26eda53204e7997993b0a89aa7f84b1d723492d75f6f1c37ac9a738493a",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aX3JwZGRUT1pGYTZnenZkdG1NZFdRanpBMzdUeENJdWFHSzZiSmJ2OW9jeHBGR2dBR0hMWWRMSmFIaWxOQ3ZfMHYwam1MNmdISm5DQzUySlM5Zw?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1385589/",
+    "title": "留萌・宗谷（１０月８日付）おくやみ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-10-07T11:30:00+00:00",
+    "description": "留萌・宗谷（１０月８日付）おくやみ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
+    "id": "fedddfb1cfc99668e11ffbba3138dcd930f6b756b1196ed5f33341685d9360bc",
+    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2TW92X3JfR0dOZHVCS1dMYW5fV3ZqNUdlX3hWODY1azBEb3NZWlc0OGg5VWlBYUE3LW10cGt0R3VlcW5YWTBqdks4X3BZUQ?oc=5",
+    "url": "https://www.fnn.jp/articles/-/1128401",
+    "title": "【北海道(宗谷地方)】10/8の天気予報 - FNNプライムオンライン",
+    "source": "FNNプライムオンライン",
+    "published": "2026-10-07T10:30:00+00:00",
+    "description": "【北海道(宗谷地方)】10/8の天気予報 FNNプライムオンライン",
+    "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
+  },
+  {
     "id": "d6ef9687e623171ff3b6eaef289ac964b4cba83d49ccff3b7b4d487e45d16538",
     "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mb1lYTERtUnhSZXZNLWZCcWJyWkRVeUZmekNNMFhPOVZXUTcxTXZRSVBvYTlVZjN3bjZnRWNNbDhkVkJCT090NThqZ2ZVQTZwTkhfLVdkWXMzY29HUkxwaUJ1c3FBV1o5TTluc1NHSHhWVEwydmdleEtQdw?oc=5",
     "url": "https://news.nicovideo.jp/watch/nw19853860?news_ref=watch_20_nw19790593",
@@ -540,16 +560,6 @@
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-01221296-fnnprimev-000-1-view.jpg?exp=10800"
   },
   {
-    "id": "7ddc706c86e59d430c14c5f868696ec2c9c6d30193f7d142597409fb5a6cd05d",
-    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VT3B0R0kzbkFLVTRTdmpwWFNrYmQ1VVRpXy1PNFQzcXVKMV9iUzNLdk5YRWxkdFFnZkR6LXEwbExqaDktcUNncWFyYnN2VzhOYUlFbWhJX2s?oc=5",
-    "url": "https://www.qab.co.jp/quebee/video/000535776/",
-    "title": "北海道で今季初の冬日 寒気と放射冷却で氷点下 稚内市内で－0.4℃ – Quebee キュエビー - QAB 琉球朝日放送",
-    "source": "QAB 琉球朝日放送",
-    "published": "2026-09-25T20:44:40+00:00",
-    "description": "北海道で今季初の冬日 寒気と放射冷却で氷点下 稚内市内で－0.4℃ – Quebee キュエビー QAB 琉球朝日放送",
-    "image": "https://www.qab.co.jp/quebee/wp-content/uploads/000535776_640.jpg"
-  },
-  {
     "id": "3e20d977bd9e62789b36917c8c78293bd8f07bc5d7b63f15681f5c0bdf2d28d6",
     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QWTNVUjZydUlyUEI5b29yakN6WmVrVEtScEVQSmFJYTVtczIyWFJSUXByOWIySzg2Vmo0WDY2OXVObVlsNWVTX2tERTVQZw?oc=5",
     "url": "https://www.fnn.jp/articles/-/1121246",
@@ -558,6 +568,16 @@
     "published": "2026-09-25T20:10:00+00:00",
     "description": "【北海道(宗谷地方)】9/26の天気予報 fnn.jp",
     "image": "https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg"
+  },
+  {
+    "id": "7ddc706c86e59d430c14c5f868696ec2c9c6d30193f7d142597409fb5a6cd05d",
+    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VT3B0R0kzbkFLVTRTdmpwWFNrYmQ1VVRpXy1PNFQzcXVKMV9iUzNLdk5YRWxkdFFnZkR6LXEwbExqaDktcUNncWFyYnN2VzhOYUlFbWhJX2s?oc=5",
+    "url": "https://www.qab.co.jp/quebee/video/000535776/",
+    "title": "北海道で今季初の冬日 寒気と放射冷却で氷点下 稚内市内で－0.4℃ – Quebee キュエビー - QAB 琉球朝日放送",
+    "source": "QAB 琉球朝日放送",
+    "published": "2026-09-25T11:40:39+00:00",
+    "description": "北海道で今季初の冬日 寒気と放射冷却で氷点下 稚内市内で－0.4℃ – Quebee キュエビー QAB 琉球朝日放送",
+    "image": "https://www.qab.co.jp/quebee/wp-content/uploads/000535776_640.jpg"
   },
   {
     "id": "eca964649c5126730d9f845659df38e034a2fc12a728c81a9fe8a643b9ce0bb0",
@@ -630,16 +650,6 @@
     "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/407/40740/main/20260925040858/large.jpg"
   },
   {
-    "id": "9a429581576336ee8f349ef5518c5823f71a16d84c791c6d60d857878fdc04e3",
-    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMemk4dUFmRXprQVc4bXhkUGVicE44WVhPYzZBWi1fOG4wcHpvdGpYYWtpOThFLWhRbHhtTjBPUXZJWmpTZ3pkYWtVdENfNk1vbUppNk8zcw?oc=5",
-    "url": "https://www.uhb.jp/news/single.html?id=62368",
-    "title": "【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に - UHB 北海道文化放送",
-    "source": "UHB 北海道文化放送",
-    "published": "2026-09-25T07:00:00+00:00",
-    "description": "【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に UHB 北海道文化放送",
-    "image": "https://www.uhb.jp/news/data/62368/image.jpg?v=1790305910"
-  },
-  {
     "id": "3fdc864cd3be4240081b1b5368de34910a0a77ad5d615f23ef1f91c6686a2863",
     "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40UE9QYTU5Vm5OM1hjUU9SY3NndHJXZlRtaXZVRG5YOWNRUkZfaFBzOWtsQmtYam9WVFZUQS1hUzZKQ09Wdk5vbVlWLVB0cEo4YWJZNEJUNUxHZWJaY0hJbEpNUVIxbTZReV95eXZWQ1lpbWF2OWJn?oc=5",
     "url": "https://www.daihatsu.co.jp/local-activities/023/20260925_016180.html",
@@ -678,6 +688,16 @@
     "published": "2026-09-25T07:00:00+00:00",
     "description": "北海道で今季初の氷点下 稚内市で－0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み FNNプライムオンライン",
     "image": "https://fnn.ismcdn.jp/mwimgs/a/0/600/img_a0778bb1660dc713b2f6e506e6e222dc75552.jpg"
+  },
+  {
+    "id": "9a429581576336ee8f349ef5518c5823f71a16d84c791c6d60d857878fdc04e3",
+    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMemk4dUFmRXprQVc4bXhkUGVicE44WVhPYzZBWi1fOG4wcHpvdGpYYWtpOThFLWhRbHhtTjBPUXZJWmpTZ3pkYWtVdENfNk1vbUppNk8zcw?oc=5",
+    "url": "https://www.uhb.jp/news/single.html?id=62368",
+    "title": "【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に - UHB 北海道文化放送",
+    "source": "UHB 北海道文化放送",
+    "published": "2026-09-25T07:00:00+00:00",
+    "description": "【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に UHB 北海道文化放送",
+    "image": "https://www.uhb.jp/news/data/62368/image.jpg?v=1790305910"
   },
   {
     "id": "981138eadd9cefc60d03cd7c3a7fe9a3538d67d70e3c17f447c6a8b3a3174e28",
@@ -738,6 +758,16 @@
     "published": "2026-09-25T03:34:10+00:00",
     "description": "北海道稚内市でマイナス0.4℃に…今季初めて氷点下観測 笹の葉もうっすらと白く（TBS NEWS DIG Powered by JNN） Yahoo!ニュース",
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-07328459-jnn-000-2-thumb.jpg?exp=10800"
+  },
+  {
+    "id": "854abe82cbef481b966c1e9e976d6107a59c574244b7409600a11c6ae94ad1a8",
+    "google_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EZFNkR3FFSGVTdTRxa1ZiY2FkN1BOaXA5UWFkZDREZFRGOERiZUdwenFMUDV5a1k3c0Jjd3FlbHBxV0R5MnFxeldVajA0VjNsRF93T0ZUNWFIZ0NGQ1Q2U2J1eU5fRjF2TGVpLWpOdzIwMGViM2c?oc=5",
+    "url": "https://tenki.jp/news/fnn/e4a45b3e-e0df-4810-9414-5d4202fc4252.html",
+    "title": "【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に(放送局のニュース ) - tenki.jp",
+    "source": "tenki.jp",
+    "published": "2026-09-25T03:15:00+00:00",
+    "description": "【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に(放送局のニュース ) tenki.jp",
+    "image": null
   },
   {
     "id": "e8307309f8d2760e826f13edaf9229c29dce8d8b63238572223d42ed6545a189",
@@ -1468,35 +1498,5 @@
     "published": "2026-09-10T07:00:00+00:00",
     "description": "宗谷の塩材料に新商品 ヤムワッカ醸造所 今晩ビアバーで先行提供 稚内プレス社",
     "image": null
-  },
-  {
-    "id": "fe21f4875407b9bdc3cd2c8312f9eae4cdfe655c5c60a58d4cef18d7e5c60ec6",
-    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYaElqYWVSOXBZQ2RVRHlJZl9qX21sSE12VHc5bGh1eElLMnBYSGFzQzA1TnpqbEdfX0dmLWlqdE9seG9vMUc1TWh0QVFHN0dyNVE1Tl9sUWM1YjRE?oc=5",
-    "url": "https://j-defense.ikaros.jp/docs/mod/005903.html",
-    "title": "ロシア海軍フリゲートが宗谷海峡を西進（9月6日・7日、ステレグシチー級） - J ディフェンス ニュース",
-    "source": "J ディフェンス ニュース",
-    "published": "2026-09-09T07:00:00+00:00",
-    "description": "ロシア海軍フリゲートが宗谷海峡を西進（9月6日・7日、ステレグシチー級） J ディフェンス ニュース",
-    "image": "https://j-defense.ikaros.jp/img/jdn/list/005/903/01.jpg"
-  },
-  {
-    "id": "e9dfd8a2ff372e9f1fbf0911741d2dbcd21fd35fb3525fc79ecb5b8362cb2bee",
-    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GaDlFb29fem9fMUxqdHFmcWxEVmFiSlRqa2JWM3lKYWE2Yl9XZ0M5NHB2RXFqU3ZaNHpsSEVRWEFRSnNTeEF1dW0xd25ROU1PSUgzc2R3?oc=5",
-    "url": "https://wakkanaipress.com/2026/09/09/24700/",
-    "title": "ロイヤルエクスプレス運行 宗谷線 １２、１９、２６日に南稚内駅到着 - wakkanaipress.com",
-    "source": "wakkanaipress.com",
-    "published": "2026-09-09T07:00:00+00:00",
-    "description": "ロイヤルエクスプレス運行 宗谷線 １２、１９、２６日に南稚内駅到着 wakkanaipress.com",
-    "image": null
-  },
-  {
-    "id": "e4eb5a09edc7bf1f9c37131bcb64493fa804a93c93d1f52b71435a5d13fd1df9",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiRjJ4UWNYQ1pSeXVxQ1Z0S0tFUmVRNnJkcFB0MUVZM3lnaUYxR21uRnlUNmZzZ3BXZG9zVVNSVGtRdThjS0FhbGFTU0RaN1Z5Yk1wMzhGR3BxUQ?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1367044/",
-    "title": "コープさっぽろ、稚内に12月初出店 地元スーパー承継、宗谷管内への展開続く - hokkaido-np.co.jp",
-    "source": "hokkaido-np.co.jp",
-    "published": "2026-09-08T07:00:00+00:00",
-    "description": "コープさっぽろ、稚内に12月初出店 地元スーパー承継、宗谷管内への展開続く hokkaido-np.co.jp",
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/f/7/6/8/f768a4f2eee6d146fe6079515a5b15ad_1.webp?20260922154733"
   }
 ]
