@@ -6,7 +6,25 @@
     <description>稚内の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/wakkanai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 09 Oct 2026 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 16:18:42 +0000</lastBuildDate>
+    <item>
+      <title>「こんなまちになったらいいな」を、まちづくりへ──美瑛町・旭川市・稚内市の有志議員が「まちだん」の利用をスタート - ニコニコニュース</title>
+      <link>https://news.nicovideo.jp/watch/nw19865843?news_ref=watch_60_nw18963321</link>
+      <pubDate>Fri, 09 Oct 2026 16:18:42 +0000</pubDate>
+      <guid isPermaLink="false">c0b203678281bf6e9d8671c438054099bd08c79c80e5f2f93b59f74b1b58e627</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">ニコニコニュース</source>
+      <description>&lt;p&gt;「こんなまちになったらいいな」を、まちづくりへ──美瑛町・旭川市・稚内市の有志議員が「まちだん」の利用をスタート ニコニコニュース&lt;/p&gt;&lt;p&gt;配信元: ニコニコニュース&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>台風29号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp</title>
+      <link>https://tenki.jp/bousai/typhoon/storm/2629/1/1/1100/1120/</link>
+      <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">4b2eb9a88d83a4f960cdd6e7c0a1724a77da961f1691e862f51b646f34b89691</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">tenki.jp</source>
+      <media:thumbnail url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" />
+      <media:content url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;台風29号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp&lt;/p&gt;&lt;p&gt;配信元: tenki.jp&lt;/p&gt;</description>
+    </item>
     <item>
       <title>留萌・宗谷（１０月１０日付）おくやみ - 北海道新聞デジタル</title>
       <link>https://www.hokkaido-np.co.jp/article/1387216/</link>
@@ -84,16 +102,6 @@
       <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/2/9/5/7/29573ed3974d3a2cbc95503dc08be592_1.webp?20261009070426" />
       <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/2/9/5/7/29573ed3974d3a2cbc95503dc08be592_1.webp?20261009070426" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/2/9/5/7/29573ed3974d3a2cbc95503dc08be592_1.webp?20261009070426" alt="" /&gt;&lt;/p&gt;&lt;p&gt;会員確保へ初のフリマ 一般社団法人移行の稚内市シルバーセンター 売り上げ7万円 一部は新年会に充当 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>台風29号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp</title>
-      <link>https://tenki.jp/bousai/typhoon/storm/2629/1/1/1100/1120/</link>
-      <pubDate>Thu, 08 Oct 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">4b2eb9a88d83a4f960cdd6e7c0a1724a77da961f1691e862f51b646f34b89691</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">tenki.jp</source>
-      <media:thumbnail url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" />
-      <media:content url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;台風29号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp&lt;/p&gt;&lt;p&gt;配信元: tenki.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>留萌・宗谷（１０月９日付）おくやみ - 北海道新聞デジタル</title>
@@ -356,16 +364,6 @@
       <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道(宗谷地方)】10/2の天気予報 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
     </item>
     <item>
-      <title>台風26号(2026年)の道北宗谷北部の暴風域に入る確率 - tenki.jp</title>
-      <link>https://tenki.jp/lite/bousai/typhoon/storm/2626/1/1/1100/1110/</link>
-      <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">d440691d6b5b6967fdea8b9995bdf1ff7396b4c3e1fcf118ebfe5556c6efd1e5</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">tenki.jp</source>
-      <media:thumbnail url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" />
-      <media:content url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;台風26号(2026年)の道北宗谷北部の暴風域に入る確率 tenki.jp&lt;/p&gt;&lt;p&gt;配信元: tenki.jp&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>留萌・宗谷（１０月２日付）おくやみ - 北海道新聞デジタル</title>
       <link>https://www.hokkaido-np.co.jp/article/1380565/</link>
       <pubDate>Thu, 01 Oct 2026 11:30:00 +0000</pubDate>
@@ -384,6 +382,16 @@
       <media:thumbnail url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" />
       <media:content url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;台風27号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp&lt;/p&gt;&lt;p&gt;配信元: tenki.jp&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>台風26号(2026年)の道北宗谷北部の暴風域に入る確率 - tenki.jp</title>
+      <link>https://tenki.jp/lite/bousai/typhoon/storm/2626/1/1/1100/1110/</link>
+      <pubDate>Thu, 01 Oct 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">d440691d6b5b6967fdea8b9995bdf1ff7396b4c3e1fcf118ebfe5556c6efd1e5</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">tenki.jp</source>
+      <media:thumbnail url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" />
+      <media:content url="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;台風26号(2026年)の道北宗谷北部の暴風域に入る確率 tenki.jp&lt;/p&gt;&lt;p&gt;配信元: tenki.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 - 47NEWS</title>
@@ -816,16 +824,6 @@
       <description>&lt;p&gt;&lt;img src="https://www.daihatsu.co.jp/lyu_action/023/assets_c/2026/09/5bddf72d73c511df2c06864943694737-260925144611356-thumb-1200xauto-136291.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;（稚内市）シニア向け安全運転セミナー daihatsu.co.jp&lt;/p&gt;&lt;p&gt;配信元: daihatsu.co.jp&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に - UHB 北海道文化放送</title>
-      <link>https://www.uhb.jp/news/single.html?id=62368</link>
-      <pubDate>Fri, 25 Sep 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">9a429581576336ee8f349ef5518c5823f71a16d84c791c6d60d857878fdc04e3</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">UHB 北海道文化放送</source>
-      <media:thumbnail url="https://www.uhb.jp/news/data/62368/image.jpg?v=1790305910" />
-      <media:content url="https://www.uhb.jp/news/data/62368/image.jpg?v=1790305910" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.uhb.jp/news/data/62368/image.jpg?v=1790305910" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に UHB 北海道文化放送&lt;/p&gt;&lt;p&gt;配信元: UHB 北海道文化放送&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>露海軍巡洋艦など2隻、宗谷海峡を東進 - 航空新聞社</title>
       <link>https://www.jwing.net/news/113431</link>
       <pubDate>Fri, 25 Sep 2026 06:28:29 +0000</pubDate>
@@ -882,6 +880,16 @@
       <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-07328459-jnn-000-2-thumb.jpg?exp=10800" />
       <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-07328459-jnn-000-2-thumb.jpg?exp=10800" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-07328459-jnn-000-2-thumb.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北海道稚内市でマイナス0.4℃に…今季初めて氷点下観測 笹の葉もうっすらと白く（TBS NEWS DIG Powered by JNN） Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に - UHB 北海道文化放送</title>
+      <link>https://www.uhb.jp/news/single.html?id=62368</link>
+      <pubDate>Fri, 25 Sep 2026 03:19:38 +0000</pubDate>
+      <guid isPermaLink="false">9a429581576336ee8f349ef5518c5823f71a16d84c791c6d60d857878fdc04e3</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">UHB 北海道文化放送</source>
+      <media:thumbnail url="https://www.uhb.jp/news/data/62368/image.jpg?v=1790305910" />
+      <media:content url="https://www.uhb.jp/news/data/62368/image.jpg?v=1790305910" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.uhb.jp/news/data/62368/image.jpg?v=1790305910" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に UHB 北海道文化放送&lt;/p&gt;&lt;p&gt;配信元: UHB 北海道文化放送&lt;/p&gt;</description>
     </item>
     <item>
       <title>【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に(放送局のニュース ) - tenki.jp</title>
@@ -1076,6 +1084,16 @@
       <description>&lt;p&gt;&lt;img src="https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 京都新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 京都新聞デジタル&lt;/p&gt;</description>
     </item>
     <item>
+      <title>宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - 沖縄タイムス社</title>
+      <link>https://www.okinawatimes.co.jp/articles/-/1929861</link>
+      <pubDate>Thu, 24 Sep 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">f29ca69d7928970d28d472fee9587d15b810ab28ab6a2f1072b8743058e78854</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">沖縄タイムス社</source>
+      <media:thumbnail url="https://oki.ismcdn.jp/mwimgs/8/5/1200wm/img_85ce95a55c75885fc93df59abea86e166672.png" />
+      <media:content url="https://oki.ismcdn.jp/mwimgs/8/5/1200wm/img_85ce95a55c75885fc93df59abea86e166672.png" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://oki.ismcdn.jp/mwimgs/8/5/1200wm/img_85ce95a55c75885fc93df59abea86e166672.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 沖縄タイムス社&lt;/p&gt;&lt;p&gt;配信元: 沖縄タイムス社&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 - 佐賀新聞</title>
       <link>https://www.saga-s.co.jp/articles/-/1797130</link>
       <pubDate>Thu, 24 Sep 2026 07:00:00 +0000</pubDate>
@@ -1144,16 +1162,6 @@
       <media:thumbnail url="https://image.shinmai.co.jp/web-image/noPhoto/noPhoto_M.jpg" />
       <media:content url="https://image.shinmai.co.jp/web-image/noPhoto/noPhoto_M.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://image.shinmai.co.jp/web-image/noPhoto/noPhoto_M.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷地方気象防災速報（竜巻注意） 第3号＝気象庁発表 信濃毎日新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 信濃毎日新聞デジタル&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - 沖縄タイムス社</title>
-      <link>https://www.okinawatimes.co.jp/articles/-/1929861</link>
-      <pubDate>Thu, 24 Sep 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">f29ca69d7928970d28d472fee9587d15b810ab28ab6a2f1072b8743058e78854</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">沖縄タイムス社</source>
-      <media:thumbnail url="https://oki.ismcdn.jp/mwimgs/8/5/1200wm/img_85ce95a55c75885fc93df59abea86e166672.png" />
-      <media:content url="https://oki.ismcdn.jp/mwimgs/8/5/1200wm/img_85ce95a55c75885fc93df59abea86e166672.png" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://oki.ismcdn.jp/mwimgs/8/5/1200wm/img_85ce95a55c75885fc93df59abea86e166672.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 沖縄タイムス社&lt;/p&gt;&lt;p&gt;配信元: 沖縄タイムス社&lt;/p&gt;</description>
     </item>
     <item>
       <title>宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表｜全国のニュース｜Web東奥 - 東奥日報社</title>
@@ -1462,16 +1470,6 @@
       <media:thumbnail url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" />
       <media:content url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道(宗谷地方)】9/18の天気予報 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>稚内で余白を楽しみ、漁師を支える。 宗谷漁協で働くということ20260917 - くらしごと</title>
-      <link>https://kurashigoto.hokkaido.jp/konomachi/20260917090000.php</link>
-      <pubDate>Thu, 17 Sep 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">28d3b6d22ec8a420e01a30b259d81636fa3dc3a52f32bef27837ccf4ca2b3eb0</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">くらしごと</source>
-      <media:thumbnail url="https://kurashigoto.hokkaido.jp/image/soyagyokyo01.jpg" />
-      <media:content url="https://kurashigoto.hokkaido.jp/image/soyagyokyo01.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://kurashigoto.hokkaido.jp/image/soyagyokyo01.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;稚内で余白を楽しみ、漁師を支える。 宗谷漁協で働くということ20260917 くらしごと&lt;/p&gt;&lt;p&gt;配信元: くらしごと&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
