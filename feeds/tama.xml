@@ -6,7 +6,17 @@
     <description>多摩の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/tama.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 09 Oct 2026 01:07:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 01:11:49 +0000</lastBuildDate>
+    <item>
+      <title>第49回多摩市民文化祭が10/11(日)〜11/8(日)開催！多摩市内3会場で多彩な文化・芸術イベント - 多摩ポン</title>
+      <link>https://tamapon.com/2026/10/09/49th-tamashiminbunkasai/</link>
+      <pubDate>Fri, 09 Oct 2026 01:11:49 +0000</pubDate>
+      <guid isPermaLink="false">2b3df765b5a0a0b744980df73917a1b827936fc3ef7ac04a736e2a30f5f4e2cc</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">多摩ポン</source>
+      <media:thumbnail url="https://tamapon.com/wp-content/uploads/2026/10/49_poster_rev.jpeg" />
+      <media:content url="https://tamapon.com/wp-content/uploads/2026/10/49_poster_rev.jpeg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://tamapon.com/wp-content/uploads/2026/10/49_poster_rev.jpeg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;第49回多摩市民文化祭が10/11(日)〜11/8(日)開催！多摩市内3会場で多彩な文化・芸術イベント 多摩ポン&lt;/p&gt;&lt;p&gt;配信元: 多摩ポン&lt;/p&gt;</description>
+    </item>
     <item>
       <title>不登校生徒が箏を演奏 東愛宕中｢あたごＳｐａｃｅ」 多摩市 - au Webポータル</title>
       <link>https://article.auone.jp/4f7dc4f9-2cd7-4dac-a019-e047be4fae61</link>
@@ -154,16 +164,6 @@
       <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001479977_04.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;医師・専門家のセミナーなど ハッピーエイジングフェスタ 11月14日、パルテノン多摩 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
     </item>
     <item>
-      <title>TAMATAMA FESTIVAL ポップカルチャーの文化祭 17日・18日 多摩センターエリアで - タウンニュース</title>
-      <link>https://www.townnews.co.jp/0306/2026/10/08/856135.html</link>
-      <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">bf5e948f183137024193255db153c067011f7885dfb3ba372485b0b3091ee496</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
-      <media:thumbnail url="https://www.townnews.co.jp/0306/images/a001480610_02.jpg" />
-      <media:content url="https://www.townnews.co.jp/0306/images/a001480610_02.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001480610_02.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;TAMATAMA FESTIVAL ポップカルチャーの文化祭 17日・18日 多摩センターエリアで タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>母校である国士舘大学陸上競技部・駅伝チームのコーチを務める 福田 穣さん 町田市在住 35歳 - タウンニュース</title>
       <link>https://www.townnews.co.jp/0306/2026/10/08/856137.html</link>
       <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
@@ -172,6 +172,16 @@
       <media:thumbnail url="https://www.townnews.co.jp/0306/images/a001481409_01.jpg" />
       <media:content url="https://www.townnews.co.jp/0306/images/a001481409_01.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001481409_01.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;母校である国士舘大学陸上競技部・駅伝チームのコーチを務める 福田 穣さん 町田市在住 35歳 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TAMATAMA FESTIVAL ポップカルチャーの文化祭 17日・18日 多摩センターエリアで - タウンニュース</title>
+      <link>https://www.townnews.co.jp/0306/2026/10/08/856135.html</link>
+      <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">bf5e948f183137024193255db153c067011f7885dfb3ba372485b0b3091ee496</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
+      <media:thumbnail url="https://www.townnews.co.jp/0306/images/a001480610_02.jpg" />
+      <media:content url="https://www.townnews.co.jp/0306/images/a001480610_02.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001480610_02.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;TAMATAMA FESTIVAL ポップカルチャーの文化祭 17日・18日 多摩センターエリアで タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>参加募集 介護が学べる講座 10月15日・17日 天本病院で - タウンニュース</title>
@@ -416,6 +426,16 @@
       <media:thumbnail url="https://digitalpr.jp/simg/2822/145156/715_400_202610051658466ac358b6d8d63.png" />
       <media:content url="https://digitalpr.jp/simg/2822/145156/715_400_202610051658466ac358b6d8d63.png" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://digitalpr.jp/simg/2822/145156/715_400_202610051658466ac358b6d8d63.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【京王ストア】産官学連携企画からだ幸せごはん～秋香るたんぱく弁当～を京王ストアにて販売します 商品開発した駒沢女子大学学生による店頭販売も実施！ | 京王電鉄株式会社 Digital PR Platform&lt;/p&gt;&lt;p&gt;配信元: Digital PR Platform&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【京王ストア】産官学連携企画からだ幸せごはん～秋香るたんぱく弁当～を京王ストアにて販売します 商品開発した駒沢女子大学学生による店頭販売も実施！ - 沖縄タイムス社</title>
+      <link>https://www.okinawatimes.co.jp/articles/-/1939031</link>
+      <pubDate>Tue, 06 Oct 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8cd1c73a477bb1a3a726a7af9d021d1ac8c9dc0b8c7b8e14d01f97be36b2e862</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">沖縄タイムス社</source>
+      <media:thumbnail url="https://digitalpr.jp/release/media/2822/145156/202610051658466ac358b6d8d63.png" />
+      <media:content url="https://digitalpr.jp/release/media/2822/145156/202610051658466ac358b6d8d63.png" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://digitalpr.jp/release/media/2822/145156/202610051658466ac358b6d8d63.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【京王ストア】産官学連携企画からだ幸せごはん～秋香るたんぱく弁当～を京王ストアにて販売します 商品開発した駒沢女子大学学生による店頭販売も実施！ 沖縄タイムス社&lt;/p&gt;&lt;p&gt;配信元: 沖縄タイムス社&lt;/p&gt;</description>
     </item>
     <item>
       <title>【京王ストア】産官学連携企画からだ幸せごはん～秋香るたんぱく弁当～を京王ストアにて販売します 商品開発した駒沢女子大学学生による店頭販売も実施！ - Infoseek</title>
@@ -690,6 +710,16 @@
       <description>&lt;p&gt;&lt;img src="https://img.topics.smt.news.goo.ne.jp/region_tmb/16_9/132241.png?fushinsha_joho-1478621012618526932" alt="" /&gt;&lt;/p&gt;&lt;p&gt;（東京）多摩市落川で声かけ　１０月１日 ｄメニューニュース&lt;/p&gt;&lt;p&gt;配信元: ｄメニューニュース&lt;/p&gt;</description>
     </item>
     <item>
+      <title>第2回「多摩市アイスランド風まちバル」11月開催 - オリコンニュース</title>
+      <link>https://www.oricon.co.jp/pressrelease/3019796/</link>
+      <pubDate>Fri, 02 Oct 2026 04:46:00 +0000</pubDate>
+      <guid isPermaLink="false">912e1a23f331bc27ca50568b95f5c75498deddf37e81592b7bf47135f6d90bc6</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">オリコンニュース</source>
+      <media:thumbnail url="https://prtimes.jp/img/191699/1/thumb/d191699-1-40fd6ac41f0f7ff36486-0.jpg" />
+      <media:content url="https://prtimes.jp/img/191699/1/thumb/d191699-1-40fd6ac41f0f7ff36486-0.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://prtimes.jp/img/191699/1/thumb/d191699-1-40fd6ac41f0f7ff36486-0.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;第2回「多摩市アイスランド風まちバル」11月開催 オリコンニュース&lt;/p&gt;&lt;p&gt;配信元: オリコンニュース&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>第2回「多摩市アイスランド風まちバル」11月開催 - PR TIMES</title>
       <link>https://prtimes.jp/main/html/rd/p/000000001.000191699.html</link>
       <pubDate>Fri, 02 Oct 2026 04:30:01 +0000</pubDate>
@@ -710,12 +740,12 @@
       <description>&lt;p&gt;&lt;img src="https://image.news.livedoor.com/newsimage/stf/3/4/3422a_1863_a3941785_c771b3d6.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;第2回「多摩市アイスランド風まちバル」11月開催 (2026年10月2日掲載) ライブドアニュース&lt;/p&gt;&lt;p&gt;配信元: ライブドアニュース&lt;/p&gt;</description>
     </item>
     <item>
-      <title>多摩市 8,580万円 6.61% 一棟マンション - www.rakumachi.jp</title>
+      <title>多摩市 8,580万円 6.61% 一棟マンション - rakumachi.jp</title>
       <link>https://www.rakumachi.jp/syuuekibukken/kanto/tokyo/dim1001/3755542/show.html</link>
       <pubDate>Fri, 02 Oct 2026 02:15:12 +0000</pubDate>
       <guid isPermaLink="false">9cf720e70c215d2fc995f0c67ed09734bb6e0942110bbae46754bd7cd0abdabd</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">www.rakumachi.jp</source>
-      <description>&lt;p&gt;多摩市 8,580万円 6.61% 一棟マンション www.rakumachi.jp&lt;/p&gt;&lt;p&gt;配信元: www.rakumachi.jp&lt;/p&gt;</description>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">rakumachi.jp</source>
+      <description>&lt;p&gt;多摩市 8,580万円 6.61% 一棟マンション rakumachi.jp&lt;/p&gt;&lt;p&gt;配信元: rakumachi.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>【東京・多摩地域】立川で３つのイベント開催、清瀬市と東久留米市連携「街バル」、「TAMA☆ろくと巡礼物語！スタンプラリー2026」開催！ - 時事ドットコム</title>
@@ -1448,36 +1478,6 @@
       <media:thumbnail url="https://tamapon.com/wp-content/uploads/2026/09/f551fd92-1b86-424d-9797-a4af8e9c085b.jpeg" />
       <media:content url="https://tamapon.com/wp-content/uploads/2026/09/f551fd92-1b86-424d-9797-a4af8e9c085b.jpeg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://tamapon.com/wp-content/uploads/2026/09/f551fd92-1b86-424d-9797-a4af8e9c085b.jpeg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;パステル多摩センター店が10/18(日)閉店へ。クロスガーデン多摩の店舗で閉店セール 多摩ポン&lt;/p&gt;&lt;p&gt;配信元: 多摩ポン&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>「23区より住みやすい」 “永住したい東京・多摩地域の市町村”って？ ランキング上位に「東京で感じていた息苦しさがない」「マジでいいとこだぞ！」の声 - ねとらぼ</title>
-      <link>https://nlab.itmedia.co.jp/research/articles/4023582/2/</link>
-      <pubDate>Sat, 19 Sep 2026 12:42:08 +0000</pubDate>
-      <guid isPermaLink="false">e732cce8671bcc79993c5bc308e6e58ee12b63c67fb5f93f1cfec111089ed9f7</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">ねとらぼ</source>
-      <media:thumbnail url="https://research.image.itmedia.co.jp/wp-content/uploads/2026/09/1789726128_pixta_140910122_M.jpg" />
-      <media:content url="https://research.image.itmedia.co.jp/wp-content/uploads/2026/09/1789726128_pixta_140910122_M.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://research.image.itmedia.co.jp/wp-content/uploads/2026/09/1789726128_pixta_140910122_M.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「23区より住みやすい」 “永住したい東京・多摩地域の市町村”って？ ランキング上位に「東京で感じていた息苦しさがない」「マジでいいとこだぞ！」の声 ねとらぼ&lt;/p&gt;&lt;p&gt;配信元: ねとらぼ&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【多摩市】9月18日に、ココリア多摩センターに「おかしのまちおか」がオープンしました！オープン記念セール実施中！ - 地域ニュースサイト号外NET</title>
-      <link>https://tama-inagi.goguynet.jp/2026/09/19/okashi-machioka-open/</link>
-      <pubDate>Sat, 19 Sep 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">4c0df416ccc7b5917d3237134383a99d2af6c943b24fd7a3f6a998ad85a0a043</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">地域ニュースサイト号外NET</source>
-      <media:thumbnail url="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/234258.jpg" />
-      <media:content url="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/234258.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/234258.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【多摩市】9月18日に、ココリア多摩センターに「おかしのまちおか」がオープンしました！オープン記念セール実施中！ 地域ニュースサイト号外NET&lt;/p&gt;&lt;p&gt;配信元: 地域ニュースサイト号外NET&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【多摩市】多摩市立総合体育館の愛称が「リフォームプライス多摩アリーナ」になります！ - 地域ニュースサイト号外NET</title>
-      <link>https://tama-inagi.goguynet.jp/2026/09/18/reformprice-tama-arena-2026/</link>
-      <pubDate>Fri, 18 Sep 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">50675afa6deb503e9a80f11bfd8363bcf9359cf0ec7e751fc9030df0c84f541e</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">地域ニュースサイト号外NET</source>
-      <media:thumbnail url="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/21368.jpg" />
-      <media:content url="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/21368.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/21368.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【多摩市】多摩市立総合体育館の愛称が「リフォームプライス多摩アリーナ」になります！ 地域ニュースサイト号外NET&lt;/p&gt;&lt;p&gt;配信元: 地域ニュースサイト号外NET&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

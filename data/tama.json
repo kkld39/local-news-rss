@@ -1,5 +1,15 @@
 [
   {
+    "id": "2b3df765b5a0a0b744980df73917a1b827936fc3ef7ac04a736e2a30f5f4e2cc",
+    "google_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Na0xMLVYxQTl0SV9semo5b1EwRWk0TFV5dmZLMzhIaGMtWlRTc1ZsSjBsVkFMZjhPdDhGQTBPMmlDdUIxSmJZbWR4dmNDUldXZGtTLVRpdUl5Z3ZmeHVJSzJlNFVzUQ?oc=5",
+    "url": "https://tamapon.com/2026/10/09/49th-tamashiminbunkasai/",
+    "title": "第49回多摩市民文化祭が10/11(日)〜11/8(日)開催！多摩市内3会場で多彩な文化・芸術イベント - 多摩ポン",
+    "source": "多摩ポン",
+    "published": "2026-10-09T01:11:49+00:00",
+    "description": "第49回多摩市民文化祭が10/11(日)〜11/8(日)開催！多摩市内3会場で多彩な文化・芸術イベント 多摩ポン",
+    "image": "https://tamapon.com/wp-content/uploads/2026/10/49_poster_rev.jpeg"
+  },
+  {
     "id": "aee54efcfc3184cd84e5d3c7c578a2e4cb578aab35a9f66fea112a16117f3c02",
     "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52NXJyNGJZS3RxZ2tVdDBOUnpHS21ycTZ2aVp6cDIxbjVucUp6eGZoOGpZWWFKVjFNTlB6Unk5NXMxa2E5TUFlTHliQmdmc1h6V2xtOTJzUkFUN3Rubk82TTZvb3NFejBHcjNDTFF3?oc=5",
     "url": "https://article.auone.jp/4f7dc4f9-2cd7-4dac-a019-e047be4fae61",
@@ -150,16 +160,6 @@
     "image": "https://www.townnews.co.jp/0306/images/a001479977_04.jpg"
   },
   {
-    "id": "bf5e948f183137024193255db153c067011f7885dfb3ba372485b0b3091ee496",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qU0Y4OUgzMnc0U0JpRTdvNlNaR3hMRzZqLW5FRmxENVptWE8zM0FiaF9jamdoLWhkUTlKMWdmR1ZLUFRqMVUxWDdCMUZPUlhaYjhSY0NadFYtRUtqS2IySkh4RV8?oc=5",
-    "url": "https://www.townnews.co.jp/0306/2026/10/08/856135.html",
-    "title": "TAMATAMA FESTIVAL ポップカルチャーの文化祭 17日・18日 多摩センターエリアで - タウンニュース",
-    "source": "タウンニュース",
-    "published": "2026-10-07T15:00:00+00:00",
-    "description": "TAMATAMA FESTIVAL ポップカルチャーの文化祭 17日・18日 多摩センターエリアで タウンニュース",
-    "image": "https://www.townnews.co.jp/0306/images/a001480610_02.jpg"
-  },
-  {
     "id": "3e028ed288a1739985400e3a557d44f12db18651830f7244993417c502385cb3",
     "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CUWstd0JzQUpUVXBKMk1oY1hWdzBwMDFXUU9FYnlLLURvZ3BVZ3dGbHhpWk1WWUl3aDBqMXNTTGVoYlh0TGg1RVhoM0lTOFVpNXpnQ25SUkttSmdEbTAwang0NmM?oc=5",
     "url": "https://www.townnews.co.jp/0306/2026/10/08/856137.html",
@@ -168,6 +168,16 @@
     "published": "2026-10-07T15:00:00+00:00",
     "description": "母校である国士舘大学陸上競技部・駅伝チームのコーチを務める 福田 穣さん 町田市在住 35歳 タウンニュース",
     "image": "https://www.townnews.co.jp/0306/images/a001481409_01.jpg"
+  },
+  {
+    "id": "bf5e948f183137024193255db153c067011f7885dfb3ba372485b0b3091ee496",
+    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qU0Y4OUgzMnc0U0JpRTdvNlNaR3hMRzZqLW5FRmxENVptWE8zM0FiaF9jamdoLWhkUTlKMWdmR1ZLUFRqMVUxWDdCMUZPUlhaYjhSY0NadFYtRUtqS2IySkh4RV8?oc=5",
+    "url": "https://www.townnews.co.jp/0306/2026/10/08/856135.html",
+    "title": "TAMATAMA FESTIVAL ポップカルチャーの文化祭 17日・18日 多摩センターエリアで - タウンニュース",
+    "source": "タウンニュース",
+    "published": "2026-10-07T15:00:00+00:00",
+    "description": "TAMATAMA FESTIVAL ポップカルチャーの文化祭 17日・18日 多摩センターエリアで タウンニュース",
+    "image": "https://www.townnews.co.jp/0306/images/a001480610_02.jpg"
   },
   {
     "id": "270374030c5db1c9763beb5a97c49257d09e089bad775b0196e21cf550bb6b54",
@@ -418,6 +428,16 @@
     "published": "2026-10-06T05:04:59+00:00",
     "description": "【京王ストア】産官学連携企画からだ幸せごはん～秋香るたんぱく弁当～を京王ストアにて販売します 商品開発した駒沢女子大学学生による店頭販売も実施！ | 京王電鉄株式会社 Digital PR Platform",
     "image": "https://digitalpr.jp/simg/2822/145156/715_400_202610051658466ac358b6d8d63.png"
+  },
+  {
+    "id": "8cd1c73a477bb1a3a726a7af9d021d1ac8c9dc0b8c7b8e14d01f97be36b2e862",
+    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LRjk0b2c0TVRQR1VjZ1pxRHU5V09ETE05Mm44dkxrUURzYkVuQUVqZEI0aENDRVNqTFlXZ1lYTXlrTnZxUTVneHg0UWRZcWNpY1pSUVFWS2RTX1B6dGc?oc=5",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1939031",
+    "title": "【京王ストア】産官学連携企画からだ幸せごはん～秋香るたんぱく弁当～を京王ストアにて販売します 商品開発した駒沢女子大学学生による店頭販売も実施！ - 沖縄タイムス社",
+    "source": "沖縄タイムス社",
+    "published": "2026-10-06T05:00:00+00:00",
+    "description": "【京王ストア】産官学連携企画からだ幸せごはん～秋香るたんぱく弁当～を京王ストアにて販売します 商品開発した駒沢女子大学学生による店頭販売も実施！ 沖縄タイムス社",
+    "image": "https://digitalpr.jp/release/media/2822/145156/202610051658466ac358b6d8d63.png"
   },
   {
     "id": "cd7500432409db7f92a48923dc2223b13e81e7b2fbaa95b1a46639477c377d6f",
@@ -700,6 +720,16 @@
     "image": "https://img.topics.smt.news.goo.ne.jp/region_tmb/16_9/132241.png?fushinsha_joho-1478621012618526932"
   },
   {
+    "id": "912e1a23f331bc27ca50568b95f5c75498deddf37e81592b7bf47135f6d90bc6",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NU013WXRvUzRQOVd6SFNLYWtIMHpzc3l0R3h5X3E2NVRjd2hxRnBHZDVsSEtYSndmRnBnVTZlVllxZEdhSThZRnlLZnUxN29nOGpTRUJkZG1Kdw?oc=5",
+    "url": "https://www.oricon.co.jp/pressrelease/3019796/",
+    "title": "第2回「多摩市アイスランド風まちバル」11月開催 - オリコンニュース",
+    "source": "オリコンニュース",
+    "published": "2026-10-02T04:46:00+00:00",
+    "description": "第2回「多摩市アイスランド風まちバル」11月開催 オリコンニュース",
+    "image": "https://prtimes.jp/img/191699/1/thumb/d191699-1-40fd6ac41f0f7ff36486-0.jpg"
+  },
+  {
     "id": "a3e44dda47046dcb3385a28320b9c74426cb1a73d8abc33664db42c6f0e0b768",
     "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03VmJ0ZlR5SzlQWUFaYnE0eTNfU3hWUGFRRDRHb1g1NXptcGpIMWY3V01fdVl6XzRlVUotanFvNXVzSGZSd0FaakxIR25ubHJMc2RMeklhdWhEWGtmYUp0ckRjSEdJbGFTWWc?oc=5",
     "url": "https://prtimes.jp/main/html/rd/p/000000001.000191699.html",
@@ -723,10 +753,10 @@
     "id": "9cf720e70c215d2fc995f0c67ed09734bb6e0942110bbae46754bd7cd0abdabd",
     "google_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMzVfQkJ3YjZHMXZ1eDZkTVE0bGpOYWxDVVlSQ3JHck1GTC1BcnlBR29OQWR2cHg4T29WTlUxTGQzX1Z6NFAzNGx0UXZxZ3B2eDdDNWE0VXhDbm9yaXpxejFMbHRmZEFGUHRwZmhXaVc4LS1RZE5lcExjaVlpQVY0b05B?oc=5",
     "url": "https://www.rakumachi.jp/syuuekibukken/kanto/tokyo/dim1001/3755542/show.html",
-    "title": "多摩市 8,580万円 6.61% 一棟マンション - www.rakumachi.jp",
-    "source": "www.rakumachi.jp",
+    "title": "多摩市 8,580万円 6.61% 一棟マンション - rakumachi.jp",
+    "source": "rakumachi.jp",
     "published": "2026-10-02T02:15:12+00:00",
-    "description": "多摩市 8,580万円 6.61% 一棟マンション www.rakumachi.jp",
+    "description": "多摩市 8,580万円 6.61% 一棟マンション rakumachi.jp",
     "image": null
   },
   {
@@ -1468,35 +1498,5 @@
     "published": "2026-09-20T03:12:43+00:00",
     "description": "パステル多摩センター店が10/18(日)閉店へ。クロスガーデン多摩の店舗で閉店セール 多摩ポン",
     "image": "https://tamapon.com/wp-content/uploads/2026/09/f551fd92-1b86-424d-9797-a4af8e9c085b.jpeg"
-  },
-  {
-    "id": "e732cce8671bcc79993c5bc308e6e58ee12b63c67fb5f93f1cfec111089ed9f7",
-    "google_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzNTBtZVFZSU5sdXpsNWJiSkRDb0NCaW9fZmc3TFBSNEtVcDlfb1RRQzVlbVBTQXVycWQ4aFVsR19Gb3l3SThqbms3cFZENlVFM2pWdGVoWWxpWmFLbExZSkFXYzJVZw?oc=5",
-    "url": "https://nlab.itmedia.co.jp/research/articles/4023582/2/",
-    "title": "「23区より住みやすい」 “永住したい東京・多摩地域の市町村”って？ ランキング上位に「東京で感じていた息苦しさがない」「マジでいいとこだぞ！」の声 - ねとらぼ",
-    "source": "ねとらぼ",
-    "published": "2026-09-19T12:42:08+00:00",
-    "description": "「23区より住みやすい」 “永住したい東京・多摩地域の市町村”って？ ランキング上位に「東京で感じていた息苦しさがない」「マジでいいとこだぞ！」の声 ねとらぼ",
-    "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/09/1789726128_pixta_140910122_M.jpg"
-  },
-  {
-    "id": "4c0df416ccc7b5917d3237134383a99d2af6c943b24fd7a3f6a998ad85a0a043",
-    "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqUC1iQnprREpEVmNndEhtdjFyUzBEU045QmRZY1RhVzdPQ292WkpGNmhMRjREdVdadENMVXVVMlR0MkJ3VWh4Tl84VjlJcU5sVWo5bnZmejNxc0ZiUUI1SnQxeWxPSk5Edlo2V0p5dkQ?oc=5",
-    "url": "https://tama-inagi.goguynet.jp/2026/09/19/okashi-machioka-open/",
-    "title": "【多摩市】9月18日に、ココリア多摩センターに「おかしのまちおか」がオープンしました！オープン記念セール実施中！ - 地域ニュースサイト号外NET",
-    "source": "地域ニュースサイト号外NET",
-    "published": "2026-09-19T07:00:00+00:00",
-    "description": "【多摩市】9月18日に、ココリア多摩センターに「おかしのまちおか」がオープンしました！オープン記念セール実施中！ 地域ニュースサイト号外NET",
-    "image": "https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/234258.jpg"
-  },
-  {
-    "id": "50675afa6deb503e9a80f11bfd8363bcf9359cf0ec7e751fc9030df0c84f541e",
-    "google_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tcVZrbkJ2VG9iVWVZWENCSlpMVXI1TUNBeDB3bDlfNC1nTVRJZXd1M3JKcTF0YVBDUm1SQ09BdEV6ajRJdWpDZDFWN1NHNFFtX1FwVVVnZm84eU1GdWhvQi04LU5CTElVRklCdG1Hb0VLVklVOVQ1RlBB?oc=5",
-    "url": "https://tama-inagi.goguynet.jp/2026/09/18/reformprice-tama-arena-2026/",
-    "title": "【多摩市】多摩市立総合体育館の愛称が「リフォームプライス多摩アリーナ」になります！ - 地域ニュースサイト号外NET",
-    "source": "地域ニュースサイト号外NET",
-    "published": "2026-09-18T07:00:00+00:00",
-    "description": "【多摩市】多摩市立総合体育館の愛称が「リフォームプライス多摩アリーナ」になります！ 地域ニュースサイト号外NET",
-    "image": "https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/21368.jpg"
   }
 ]
