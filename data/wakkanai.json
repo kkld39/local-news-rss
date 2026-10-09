@@ -1,13 +1,33 @@
 [
   {
+    "id": "4d7a0053d72d7ab71fe1560e9f18ace65e35e5a6df759dee9d1d21931c63dd0f",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MU1ZTUHpaaWIwVEpIeURCODBNVG5aT0ljNW1MOU1PME5URVZmY3RLODZRYU5yUkdPbms3bFFmeUJ3dklSUzh2YnRUZ0hGZnBMRGl6V3pzdXhPUQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1387216/",
+    "title": "留萌・宗谷（１０月１０日付）おくやみ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-10-09T11:30:00+00:00",
+    "description": "留萌・宗谷（１０月１０日付）おくやみ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
     "id": "c21a42e2d315d060fe59a487d18a4ddadcd55f5252d346338da5a5deb651a6e1",
-    "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zdFZJODNWYUpObTJoVUFYakx0RmxlUVdCUWdZdXB4S25qZFE3cnpNQ3VaVVh1andUTkgxVElka2RoWml4QUpLRVJuVl9sTGM0N0h5SDJ5M2JjUzc3X1VQRzNlajRzc0VjWFE?oc=5",
+    "google_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMG5naFRKLVRqS0VldTc5cEhlWU1jZWR1bWpXY2NTbEctVjYtXzhlelljZ01XYVppeEdZWFlHa2J6V2VZLXJoUm1UVlRMVDhzUzNZbVY5YUdRUktHWkNReW5OTk12MFMxbTJWVTl0MndfUzZiblpENUlSczN4TU5vZnQza3pTT0tQVTR2VGlFWTVHa3FPQlBQcHJ5LUJ6aUdrMnc0S2F0RXBVUEtaWFBKZW1TX1lsSzh5RlZHTlNzdk5hVVhBczZJMjJDMWY?oc=5",
     "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261009548862/",
     "title": "テイツー[7610]：「ふるいち稚内潮見店」が北海道稚内市に10月10日オープン 2026年10月9日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
     "source": "日本経済新聞",
     "published": "2026-10-09T07:00:00+00:00",
     "description": "テイツー[7610]：「ふるいち稚内潮見店」が北海道稚内市に10月10日オープン 2026年10月9日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
     "image": "https://www.nikkei.com/nkd/disclosure/tdnr/20261009548862/thumbnail/?ttype=ogp"
+  },
+  {
+    "id": "89d4074105593c7748b8e59826f306fcd6929abb59fcb7cc29fe61426499604e",
+    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXMS1uajNjZjRRelE2cTFRR0kxSzQ0U1hCbGM4blF1eHF0THVCZnFtbHphWHNXWFJKRl9QMVY2MHNfMlRpWExHbERrYlRqWkhOOFlJWnRKc0RQNzZTLUhxZGtCTVdSVTV5?oc=5",
+    "url": "https://tenki.jp/lite/bousai/typhoon/storm/2628/1/1/1100/1120/",
+    "title": "台風28号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp",
+    "source": "tenki.jp",
+    "published": "2026-10-09T06:00:00+00:00",
+    "description": "台風28号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
+    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
   },
   {
     "id": "b2457f56e2125e4679cc9f1189043f28afc083503fc61718addec69e8e9549d6",
@@ -100,16 +120,6 @@
     "image": null
   },
   {
-    "id": "89d4074105593c7748b8e59826f306fcd6929abb59fcb7cc29fe61426499604e",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXMS1uajNjZjRRelE2cTFRR0kxSzQ0U1hCbGM4blF1eHF0THVCZnFtbHphWHNXWFJKRl9QMVY2MHNfMlRpWExHbERrYlRqWkhOOFlJWnRKc0RQNzZTLUhxZGtCTVdSVTV5?oc=5",
-    "url": "https://tenki.jp/lite/bousai/typhoon/storm/2628/1/1/1100/1120/",
-    "title": "台風28号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp",
-    "source": "tenki.jp",
-    "published": "2026-10-08T00:00:00+00:00",
-    "description": "台風28号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
-    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
-  },
-  {
     "id": "da297ae75288c4356fcc4c04efd3b1791fa6db55fe36f69172723d35986a6a16",
     "google_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSEI0UHdmUXdNN1VIZTg0MXc1VUU2UElyMTNoMmFzeVhiUzJBNzRNVUJtSzlNbDJRN3Z6OTBTVjlNT0FOb3J5QkVKMWpMdnNTdDdZejdYYk1Ya3JLRU43NTljR2YzNFJGYndCbXRmVjdVTmhhcXFuZTdGQmdGdDlBdUx3?oc=5",
     "url": "https://tama-inagi.goguynet.jp/2026/10/08/inagi-coachandfour-soya-fair-2026/",
@@ -158,6 +168,16 @@
     "published": "2026-10-07T03:00:45+00:00",
     "description": "東京・港区で北海道・宗谷を味わおう！猿払村・礼文町が地場産品を販売 ニコニコニュース",
     "image": null
+  },
+  {
+    "id": "6b6fc19e4229d11683b8669e8d1a08526043c2da17e5cb4c0fdfc95334eb8bc5",
+    "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HeFFEcTNjeF91SnFTbzRQZ3RROTBVMEJ2MnFzd3VIU0dHTmhpbUhzM3VPUFMyYVBNOGdkLTlFRWNtNFgzOTBwN3U5NnF6VWhBcGNieVljOTdRaFc0US1zWEZPNjlfdkZJM3lHdUFWbTZoUQ?oc=5",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000001276_000088209/",
+    "title": "東京・港区で北海道・宗谷を味わおう！猿払村・礼文町が地場産品を販売 - Infoseek",
+    "source": "Infoseek",
+    "published": "2026-10-07T01:45:41+00:00",
+    "description": "東京・港区で北海道・宗谷を味わおう！猿払村・礼文町が地場産品を販売 Infoseek",
+    "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png"
   },
   {
     "id": "23da8a87895d15d8b4949b82848ea13a0a49f12163ff16684888da426715a5da",
@@ -1090,16 +1110,6 @@
     "image": "https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png"
   },
   {
-    "id": "f29ca69d7928970d28d472fee9587d15b810ab28ab6a2f1072b8743058e78854",
-    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81UmFGMzRVakFxVUQySGZOYmdQMkdEeUpCTEV5am5TVktDanROQXpTek93M2dJUS1QaEdHUlJHMDVSZWxrR3lJTElXRTA0LUJZRm50MFVEamVlYnVHeGc?oc=5",
-    "url": "https://www.okinawatimes.co.jp/articles/-/1929861",
-    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - 沖縄タイムス社",
-    "source": "沖縄タイムス社",
-    "published": "2026-09-24T07:00:00+00:00",
-    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 沖縄タイムス社",
-    "image": "https://oki.ismcdn.jp/mwimgs/8/5/1200wm/img_85ce95a55c75885fc93df59abea86e166672.png"
-  },
-  {
     "id": "c8fd36209732ca4087b59d53b3fa78cf2b3644a9aa7629dac61b117959c3cd92",
     "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rWVJaMXVGQjNxcE5fcjNTSjNtTjd1b19iTmVoVFhmWWZrdk9HdGpNcFFKSWdmWUYxU01hR2VqNFlHMUpUR1ZsajhwZlhFdG9fM2M3RHJpRjY?oc=5",
     "url": "https://www.kyoto-np.co.jp/articles/-/1795825",
@@ -1158,6 +1168,16 @@
     "published": "2026-09-24T07:00:00+00:00",
     "description": "宗谷地方気象防災速報（竜巻注意） 第3号＝気象庁発表 信濃毎日新聞デジタル",
     "image": "https://image.shinmai.co.jp/web-image/noPhoto/noPhoto_M.jpg"
+  },
+  {
+    "id": "f29ca69d7928970d28d472fee9587d15b810ab28ab6a2f1072b8743058e78854",
+    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81UmFGMzRVakFxVUQySGZOYmdQMkdEeUpCTEV5am5TVktDanROQXpTek93M2dJUS1QaEdHUlJHMDVSZWxrR3lJTElXRTA0LUJZRm50MFVEamVlYnVHeGc?oc=5",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1929861",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - 沖縄タイムス社",
+    "source": "沖縄タイムス社",
+    "published": "2026-09-24T07:00:00+00:00",
+    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 沖縄タイムス社",
+    "image": "https://oki.ismcdn.jp/mwimgs/8/5/1200wm/img_85ce95a55c75885fc93df59abea86e166672.png"
   },
   {
     "id": "33542c5d6eeb400804612fa9fe57fca1ea2034e01de7009741ac0e1a88abeda8",
@@ -1478,25 +1498,5 @@
     "published": "2026-09-17T07:00:00+00:00",
     "description": "稚内で余白を楽しみ、漁師を支える。 宗谷漁協で働くということ20260917 くらしごと",
     "image": "https://kurashigoto.hokkaido.jp/image/soyagyokyo01.jpg"
-  },
-  {
-    "id": "95d7739b9ab41b41c1231b54529cb5f628734b2a69652d40195a8214dc4c81ec",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtTU50dHdodzNSVldwMHhpRmx1WEwwNHM3cjVqYllNRC02cjZmSUhaNEU5cnpJQjRyRjZpeHNnNG1pNEdQS3NUMXNiYzNBQQ?oc=5",
-    "url": "https://www.fnn.jp/articles/-/1115507",
-    "title": "【北海道(宗谷地方)】9/17の天気予報 - FNNプライムオンライン",
-    "source": "FNNプライムオンライン",
-    "published": "2026-09-16T20:10:00+00:00",
-    "description": "【北海道(宗谷地方)】9/17の天気予報 FNNプライムオンライン",
-    "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
-  },
-  {
-    "id": "8704ba28e85eba3bac52fa58d757b7ff621dda1dacc877310ccdbd3710112d91",
-    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZYVNWZk9iWkxqTWdOTV9DMkliZlZvQUd3VkE5MEN1dFo0cDhkUm9YeXVLNEdSaFd6V21NMS1qQk9RVEpvZnE0U29tZjJDQXNaVGhvMHFRdkNXTlBiV2hF?oc=5",
-    "url": "https://newsdig.tbs.co.jp/articles/gallery/2948367",
-    "title": "JR北海道が方針転換 石北線、宗谷線など赤字8区間の「上下分離案」撤回へ 自治体の反発受け協議打開図る - TBS NEWS DIG",
-    "source": "TBS NEWS DIG",
-    "published": "2026-09-16T10:22:22+00:00",
-    "description": "JR北海道が方針転換 石北線、宗谷線など赤字8区間の「上下分離案」撤回へ 自治体の反発受け協議打開図る TBS NEWS DIG",
-    "image": "https://newsdig.ismcdn.jp/mwimgs/5/0/1200w/img_5048ea5aab59842cc40b7e82ccd98613188734.jpg"
   }
 ]
