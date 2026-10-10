@@ -1,5 +1,25 @@
 [
   {
+    "id": "16645dbd4a4c2f185192ae2a051c821eb9f9473c8b7128e3b0050325bd1e19f5",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92eHQxSllUNEtrOU9kM3FjeUk2TTZ6S1c0aDRjdjB3alhBZnZvTlI3MUJwazdiTnNkQ1hJR0RkSVlfRTVLemlLdnMxRlRSLVJ3bUZSNFFYRHlodw?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1387741/",
+    "title": "留萌・宗谷（１０月１１日付）おくやみ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-10-10T11:30:00+00:00",
+    "description": "留萌・宗谷（１０月１１日付）おくやみ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
+    "id": "6f0679dddf7780b49844e2c0bbc6ea9eee8ccb1aac07b3887f559a03029438e7",
+    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YZmpLTjdtR2dPSW9tTHR6dkdRQUFTNHFrVXBid2NBM3ZHLVdFVjFCazhUY3BxQldnaTA1OWdwczd0NFQ5QUNibHl1WGtTdw?oc=5",
+    "url": "https://www.fnn.jp/articles/-/1130524",
+    "title": "【北海道(宗谷地方)】10/11の天気予報 - FNNプライムオンライン",
+    "source": "FNNプライムオンライン",
+    "published": "2026-10-10T10:30:00+00:00",
+    "description": "【北海道(宗谷地方)】10/11の天気予報 FNNプライムオンライン",
+    "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
+  },
+  {
     "id": "2375c9c2cd795e154123b3e28bc48b72abdb417254ec22ddcea4feb75c47345e",
     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wTXlZdjBlVV96bDBRNG9ja2toc0QzLVFZczQwUFgxQjBmNmJWRVBkaHZMc2RZMmZCY1k2Wjk3R3gxcFc4bDJsVnVYT1NWbkV0eC16U3Z3?oc=5",
     "url": "https://wakkanaipress.com/2026/10/10/25199/",
@@ -1478,25 +1498,5 @@
     "published": "2026-09-20T20:10:00+00:00",
     "description": "【北海道(宗谷地方)】9/21の天気予報 FNNプライムオンライン",
     "image": "https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg"
-  },
-  {
-    "id": "0e5b98076de328dd9e6170ac6809af030d2c4ef908d041b3560de9acfb9a6684",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3aElNWnBVVHVaTmdEbmJEd0dtQmtjLUw4VWFiaGdTUDRvUjRHZ000aDItazkzaTF5VGFwY3MyaUZFSlFFQWhmckh3bmRNUQ?oc=5",
-    "url": "https://www.fnn.jp/articles/-/1117872",
-    "title": "【北海道(宗谷地方)】9/20の天気予報 - FNNプライムオンライン",
-    "source": "FNNプライムオンライン",
-    "published": "2026-09-19T20:10:00+00:00",
-    "description": "【北海道(宗谷地方)】9/20の天気予報 FNNプライムオンライン",
-    "image": "https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg"
-  },
-  {
-    "id": "a01b3f5c3bc63fb479e3311459a4ddf8cf23df0e105d95d2fdfbebf304e562b5",
-    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oTUROZW9MbksxWjUxU1hGdjd5Q1lncjVUZ0d6WnpvaGZmV056UE1GcmtkN0dNdmx1OWFtTDNUcVd6Snk4WWt3cEpGZW53cXNDNTcwYjV6VkNKdC1EOTdKcTdqeVF6RTA?oc=5",
-    "url": "https://www.fighters.co.jp/news/detail/202600947458.html",
-    "title": "宗谷総合振興局、留萌振興局、ほっかいどう地域おこし協力隊がまちの魅力をPR！WE LOVE HOKKAIDO AREA - 北海道日本ハムファイターズ",
-    "source": "北海道日本ハムファイターズ",
-    "published": "2026-09-19T07:00:00+00:00",
-    "description": "宗谷総合振興局、留萌振興局、ほっかいどう地域おこし協力隊がまちの魅力をPR！WE LOVE HOKKAIDO AREA 北海道日本ハムファイターズ",
-    "image": "https://www.fighters.co.jp/media/sites/2/asset/fp/fitter/fb/news/2026/09/0919_01/11.jpg"
   }
 ]
