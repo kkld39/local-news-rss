@@ -6,7 +6,17 @@
     <description>多摩の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/tama.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 10 Oct 2026 22:11:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 22:38:44 +0000</lastBuildDate>
+    <item>
+      <title>つむぎ館まつり２０２６　関戸・一ノ宮で〈多摩市〉 - ｄメニューニュース</title>
+      <link>https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-856138?utm_source=dnews&amp;utm_medium=article&amp;utm_campaign=contentsmatch3</link>
+      <pubDate>Sat, 10 Oct 2026 22:38:44 +0000</pubDate>
+      <guid isPermaLink="false">ddea0ff7de6f810f5c0db07016e15ae4515125452f6465d53d2c0233381dc343</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">ｄメニューニュース</source>
+      <media:thumbnail url="https://img.topics.smt.news.goo.ne.jp/picture/townnews/m_townnews-856138.jpg" />
+      <media:content url="https://img.topics.smt.news.goo.ne.jp/picture/townnews/m_townnews-856138.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.topics.smt.news.goo.ne.jp/picture/townnews/m_townnews-856138.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;つむぎ館まつり２０２６　関戸・一ノ宮で〈多摩市〉 ｄメニューニュース&lt;/p&gt;&lt;p&gt;配信元: ｄメニューニュース&lt;/p&gt;</description>
+    </item>
     <item>
       <title>【多摩市】約200個のベトナムランタンが頭上を彩る！「多摩ランタンフェスティバル2026」をレポート♪ - 地域ニュースサイト号外NET</title>
       <link>https://tama-inagi.goguynet.jp/2026/10/11/lantern_fes_2026_report/</link>
@@ -320,6 +330,16 @@
       <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001478535_03.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;奉仕サークル「くるくる」 絵手紙を楽しもう 11月に体験会 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
     </item>
     <item>
+      <title>母校である国士舘大学陸上競技部・駅伝チームのコーチを務める 福田 穣さん 町田市在住 35歳 - タウンニュース</title>
+      <link>https://www.townnews.co.jp/0306/2026/10/08/856137.html</link>
+      <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">3e028ed288a1739985400e3a557d44f12db18651830f7244993417c502385cb3</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
+      <media:thumbnail url="https://www.townnews.co.jp/0306/images/a001481409_01.jpg" />
+      <media:content url="https://www.townnews.co.jp/0306/images/a001481409_01.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001481409_01.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;母校である国士舘大学陸上競技部・駅伝チームのコーチを務める 福田 穣さん 町田市在住 35歳 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>市民が実証 新移動手段へ 自動走行モビリティ実証 - タウンニュース</title>
       <link>https://www.townnews.co.jp/0306/2026/10/08/856141.html</link>
       <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
@@ -348,16 +368,6 @@
       <media:thumbnail url="https://www.townnews.co.jp/0306/images/a001480610_02.jpg" />
       <media:content url="https://www.townnews.co.jp/0306/images/a001480610_02.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001480610_02.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;TAMATAMA FESTIVAL ポップカルチャーの文化祭 17日・18日 多摩センターエリアで タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>母校である国士舘大学陸上競技部・駅伝チームのコーチを務める 福田 穣さん 町田市在住 35歳 - タウンニュース</title>
-      <link>https://www.townnews.co.jp/0306/2026/10/08/856137.html</link>
-      <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">3e028ed288a1739985400e3a557d44f12db18651830f7244993417c502385cb3</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
-      <media:thumbnail url="https://www.townnews.co.jp/0306/images/a001481409_01.jpg" />
-      <media:content url="https://www.townnews.co.jp/0306/images/a001481409_01.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001481409_01.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;母校である国士舘大学陸上競技部・駅伝チームのコーチを務める 福田 穣さん 町田市在住 35歳 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>福祉フェスタ 10月18日、南野で - タウンニュース</title>
@@ -1378,16 +1388,6 @@
       <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001477206_04.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;多摩市立中央図書館 座席利用が予約制に 一部 時間制限も設定 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
     </item>
     <item>
-      <title>「答えの在処｣-保育が教えてくれること- 取材協力／社会福祉法人こばと会 - タウンニュース</title>
-      <link>https://www.townnews.co.jp/0306/2026/09/24/853989.html</link>
-      <pubDate>Thu, 24 Sep 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">789fb5f31257624092c138db7a427111a72a1554e88293bcc6b71890857edf3b</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
-      <media:thumbnail url="https://www.townnews.co.jp/0306/images/a001475181_07.jpg" />
-      <media:content url="https://www.townnews.co.jp/0306/images/a001475181_07.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001475181_07.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「答えの在処｣-保育が教えてくれること- 取材協力／社会福祉法人こばと会 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>100歳の市民を祝う 市、記念品贈る 多摩市 - au Webポータル</title>
       <link>https://article.auone.jp/93d09653-a644-42bf-b1ec-de797e02ee3d</link>
       <pubDate>Thu, 24 Sep 2026 07:00:00 +0000</pubDate>
@@ -1396,6 +1396,16 @@
       <media:thumbnail url="https://newportal.portal.auone.jp/media/thumbnails/2026/09/24/https___news_jp_i_1475766084531208912_w1200.webp" />
       <media:content url="https://newportal.portal.auone.jp/media/thumbnails/2026/09/24/https___news_jp_i_1475766084531208912_w1200.webp" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://newportal.portal.auone.jp/media/thumbnails/2026/09/24/https___news_jp_i_1475766084531208912_w1200.webp" alt="" /&gt;&lt;/p&gt;&lt;p&gt;100歳の市民を祝う 市、記念品贈る 多摩市 au Webポータル&lt;/p&gt;&lt;p&gt;配信元: au Webポータル&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>「答えの在処｣-保育が教えてくれること- 取材協力／社会福祉法人こばと会 - タウンニュース</title>
+      <link>https://www.townnews.co.jp/0306/2026/09/24/853989.html</link>
+      <pubDate>Thu, 24 Sep 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">789fb5f31257624092c138db7a427111a72a1554e88293bcc6b71890857edf3b</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
+      <media:thumbnail url="https://www.townnews.co.jp/0306/images/a001475181_07.jpg" />
+      <media:content url="https://www.townnews.co.jp/0306/images/a001475181_07.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001475181_07.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「答えの在処｣-保育が教えてくれること- 取材協力／社会福祉法人こばと会 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>【多摩市】今週末は永山に集合！年に１回のお祭り、永山フェスティバルが開催されます！ - 地域ニュースサイト号外NET</title>
@@ -1464,16 +1474,6 @@
       <media:thumbnail url="https://www.townnews.co.jp/0306/images/a001477264_02.jpg" />
       <media:content url="https://www.townnews.co.jp/0306/images/a001477264_02.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001477264_02.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;２００個のランタン灯る 10月５日から、多摩八角堂で タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>第27回永山フェス 26日、27日、駅周辺で - townnews.co.jp</title>
-      <link>https://www.townnews.co.jp/0306/2026/09/24/853984.html</link>
-      <pubDate>Wed, 23 Sep 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">91a2da4429d77f2d698796be1e2927fea72d1c621e42c15042121b14138ce3a9</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">townnews.co.jp</source>
-      <media:thumbnail url="https://www.townnews.co.jp/0306/images/a001477506_02.jpg" />
-      <media:content url="https://www.townnews.co.jp/0306/images/a001477506_02.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001477506_02.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;第27回永山フェス 26日、27日、駅周辺で townnews.co.jp&lt;/p&gt;&lt;p&gt;配信元: townnews.co.jp&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
