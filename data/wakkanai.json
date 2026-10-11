@@ -1,5 +1,15 @@
 [
   {
+    "id": "8fd00aafa170610ae2c2c0df6ae7881bdce1efa290fbff2d3073e6bc85216349",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EbDQ1Qm12MThxNWpqZE1mbXZmZjBLUWR0V3llQVpLS3RFa2YtY0tuazNOU2pZQ2ttVjM0ajlJRTlCTF9YcHo2bVk5bXJ6dkJtVTlQeXNzYnQ3QQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1388040/",
+    "title": "留萌・宗谷（１０月１２日付）おくやみ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-10-11T11:30:00+00:00",
+    "description": "留萌・宗谷（１０月１２日付）おくやみ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
     "id": "cbe093b9b4527fb1c9c40ac87c64fc0d9cd14c4438545c337bcce3c38b31a700",
     "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PTFJJT2MwMTVPa2Z4Q2UxMEZJVWtzUHk0NG1RRnZ0UllrTzEzdVRTcm05YnQwdVFmUWxTZ2tPdTVWalIyeWRaOUoyTUxlYUpRMlZxUGk4UnZsdnoteDY4LXlsY0V4ZlFycnRjNXJR?oc=5",
     "url": "https://article.auone.jp/e16fd177-d9c4-4328-9daf-3af0720e6dbb",
@@ -850,16 +860,6 @@
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-90062374-hokkaibunv-000-1-thumb.jpg?exp=10800"
   },
   {
-    "id": "ebeed610e978c3322cbdd97af8e30bdf3454d2e2a37e7de27aa7c271575c1670",
-    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iT2V2SGphd0V3M2Zyb2RqeVBvS1BFbzBBeF9ERjNOLUtYRkNqZy1TNDZOZGFzVEF6T1dxQ2RxYjNhNGszSXhvRjZRdV9uSmRjblRMYXVvQXpiZGVo?oc=5",
-    "url": "https://j-defense.ikaros.jp/docs/mod/006016.html",
-    "title": "ロシア海軍ミサイル巡洋艦とミサイル観測支援艦が宗谷海峡を東進（9月23日、スラバ級など） - J ディフェンス ニュース",
-    "source": "J ディフェンス ニュース",
-    "published": "2026-09-25T08:21:00+00:00",
-    "description": "ロシア海軍ミサイル巡洋艦とミサイル観測支援艦が宗谷海峡を東進（9月23日、スラバ級など） J ディフェンス ニュース",
-    "image": "https://j-defense.ikaros.jp/img/jdn/list/006/016/01.jpg"
-  },
-  {
     "id": "660d9c380f22b6c5e18e8d039b7448763679d2cfec1fbf3caf807487b61bc668",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hLVRrQmFDMzl4QThlMEZsTHptYllObU1sMktrV25NSXF6LTgzV1JsWHgweGpBOUxkX2dRNUZTMmFkdl9ONm8xRnh2ZVBBWjRRSXAzR2dMdE4wZw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1376646/",
@@ -908,6 +908,16 @@
     "published": "2026-09-25T07:00:00+00:00",
     "description": "【北海道各地で冷え込み強まる】稚内市沼川で今季全国初の“氷点下0.4℃”！草木に霜が…＿大沼では幻想的な「けあらし」も発生＿日中は20℃前後まで気温上昇し寒暖差大きいため〈体調管理に注意を〉 UHB 北海道文化放送",
     "image": "https://www.uhb.jp/news/data/62365/image.jpg?v=1790305037"
+  },
+  {
+    "id": "ebeed610e978c3322cbdd97af8e30bdf3454d2e2a37e7de27aa7c271575c1670",
+    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iT2V2SGphd0V3M2Zyb2RqeVBvS1BFbzBBeF9ERjNOLUtYRkNqZy1TNDZOZGFzVEF6T1dxQ2RxYjNhNGszSXhvRjZRdV9uSmRjblRMYXVvQXpiZGVo?oc=5",
+    "url": "https://j-defense.ikaros.jp/docs/mod/006016.html",
+    "title": "ロシア海軍ミサイル巡洋艦とミサイル観測支援艦が宗谷海峡を東進（9月23日、スラバ級など） - J ディフェンス ニュース",
+    "source": "J ディフェンス ニュース",
+    "published": "2026-09-25T07:00:00+00:00",
+    "description": "ロシア海軍ミサイル巡洋艦とミサイル観測支援艦が宗谷海峡を東進（9月23日、スラバ級など） J ディフェンス ニュース",
+    "image": "https://j-defense.ikaros.jp/img/jdn/list/006/016/01.jpg"
   },
   {
     "id": "720fccc130af7de835cb3f635957a1424383354af29f9049b47f7c89f09668f2",
@@ -1250,16 +1260,6 @@
     "image": "https://image.gallery.play.jp/stv-news/articles/d2599cdd37fb4397aa7676ed6438d72a/430e11a3-c1b6-46fc-9287-1d534b42f0ab.jpg?w=1200"
   },
   {
-    "id": "e6494e50f2e17fc996ef6dd2551bf749435a715076612d05f5bfb4324fe32362",
-    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWcDB6XzBwcWRhcGRwTUZlNzRYT1JyaE9zLTNfX3NWUGhiLTl2NnNoYURya0VOZ2JCTm41MDgyNHpPTXZyMUpQTUFWemRjbFhFRkc2cTh3?oc=5",
-    "url": "https://www.saga-s.co.jp/articles/-/1797154",
-    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - 佐賀新聞",
-    "source": "佐賀新聞",
-    "published": "2026-09-24T07:00:00+00:00",
-    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 佐賀新聞",
-    "image": "https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png"
-  },
-  {
     "id": "8ea913eb07aec5679583a87e55aa10dee855cbfaf45ec31377feeab49287088b",
     "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05dk15ekFvVGloUGJ0VVhvNDUzMkt1STlkT2VJUVlzUWlnTGdWREYtV3I1NkZOM2R1VlI3VTB0YlE2dVk0SWY3RkpDYUZLeWoyemVLRERlR21GLURydVVET1ZaTl9TcW1oUjFr?oc=5",
     "url": "https://www.shinmai.co.jp/news/article/gfkn2026092402000025",
@@ -1278,6 +1278,16 @@
     "published": "2026-09-24T07:00:00+00:00",
     "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表｜全国のニュース｜Web東奥 東奥日報社",
     "image": "https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png"
+  },
+  {
+    "id": "e6494e50f2e17fc996ef6dd2551bf749435a715076612d05f5bfb4324fe32362",
+    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWcDB6XzBwcWRhcGRwTUZlNzRYT1JyaE9zLTNfX3NWUGhiLTl2NnNoYURya0VOZ2JCTm41MDgyNHpPTXZyMUpQTUFWemRjbFhFRkc2cTh3?oc=5",
+    "url": "https://www.saga-s.co.jp/articles/-/1797154",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - 佐賀新聞",
+    "source": "佐賀新聞",
+    "published": "2026-09-24T07:00:00+00:00",
+    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 佐賀新聞",
+    "image": "https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png"
   },
   {
     "id": "f29ca69d7928970d28d472fee9587d15b810ab28ab6a2f1072b8743058e78854",
@@ -1488,15 +1498,5 @@
     "published": "2026-09-22T07:00:00+00:00",
     "description": "台風25号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
     "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
-  },
-  {
-    "id": "19c0cd0c2e93f4889d49ed451d10f3e5a85a4770afcb7c4eb5d5431e02cd0052",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ibENrVVpnZFhJeTh3RGZZbEg1LXRFSm1wUlJicWFiMDYzUEo5VzJYOVZPdU5YdXVGXzJIdEdSMmcweXpZOWNoMGpWVkZuUQ?oc=5",
-    "url": "https://www.fnn.jp/articles/-/1118828",
-    "title": "【北海道(宗谷地方)】9/22の天気予報 - fnn.jp",
-    "source": "fnn.jp",
-    "published": "2026-09-21T20:10:00+00:00",
-    "description": "【北海道(宗谷地方)】9/22の天気予報 fnn.jp",
-    "image": "https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg"
   }
 ]
