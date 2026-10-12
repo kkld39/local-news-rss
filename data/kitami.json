@@ -210,16 +210,6 @@
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/9/6/b/7/96b70c339592b3aaba44ad4a4a74f5d3_1.webp?20261010160848"
   },
   {
-    "id": "4dc9f7b07774788b8c8a11f18607c10e8f55866090f636e3475efc528135b8cf",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UTFBxSVdsMllKTElpdEtwRnJwYkpYeXMtU1R0ZUNDUzV5MkU4MWdjZWpuVGt6OTF5OFZDelVhRnE4TkRyWTVxWGE3dw?oc=5",
-    "url": "https://www.47news.jp/15059700.html",
-    "title": "生命保険協会北見協会 北見市内の福祉3団体へ支援金10万円ずつを贈呈 - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-10-09T05:32:46+00:00",
-    "description": "生命保険協会北見協会 北見市内の福祉3団体へ支援金10万円ずつを贈呈 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/8a13008b02e6bd24b1e95c4ddf42810b/photo.jpg"
-  },
-  {
     "id": "ce50d0f81f4e8d982afada269f3bb65398df328de3a1107f70beeb24ea5daee5",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14TzdFeWVkdU1hOG8tMng3alpEVEdWV2hfcVVxZk4wTGd6MEI5YzNWa2ZMeTlwTE96S0hjcnZQOXpweWVNYXJqMjVyUjFLczRTNW5EV3BFY1FDZw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1387041/",
@@ -228,6 +218,16 @@
     "published": "2026-10-09T05:32:46+00:00",
     "description": "生命保険協会北見協会 北見市内の福祉3団体へ支援金10万円ずつを贈呈 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/7/a/c/4/7ac4b6b336c9394e8600256525e4ccd7_1.webp?20261009180538"
+  },
+  {
+    "id": "4dc9f7b07774788b8c8a11f18607c10e8f55866090f636e3475efc528135b8cf",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UTFBxSVdsMllKTElpdEtwRnJwYkpYeXMtU1R0ZUNDUzV5MkU4MWdjZWpuVGt6OTF5OFZDelVhRnE4TkRyWTVxWGE3dw?oc=5",
+    "url": "https://www.47news.jp/15059700.html",
+    "title": "生命保険協会北見協会 北見市内の福祉3団体へ支援金10万円ずつを贈呈 - 47NEWS",
+    "source": "47NEWS",
+    "published": "2026-10-09T05:32:46+00:00",
+    "description": "生命保険協会北見協会 北見市内の福祉3団体へ支援金10万円ずつを贈呈 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/8a13008b02e6bd24b1e95c4ddf42810b/photo.jpg"
   },
   {
     "id": "c866473703935061af223a2d1d15e3635d3d8d64b46aed20456ea935c2b8c636",
@@ -255,19 +255,9 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261009de57148",
     "title": "姉妹都市40周年 高知市からの訪問団が北見市に - NHKニュース",
     "source": "NHKニュース",
-    "published": "2026-10-09T04:51:46+00:00",
+    "published": "2026-10-09T04:51:00+00:00",
     "description": "姉妹都市40周年 高知市からの訪問団が北見市に NHKニュース",
     "image": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
-  },
-  {
-    "id": "e424cad0ff54212a56b5e74261e2a1c84ec2f8466d5d72b0abbd75e4ac407734",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tcW5ZUFozbVJfcEN4RVJRR2YxbnZIRzU2MDRhRlVLMmZhZkl3MEFYNjdBZ3UwNGNUeVpqeXVLdmw0cDBoTFdJTDltOA?oc=5",
-    "url": "https://www.47news.jp/15059088.html",
-    "title": "＜輝いて 道東ひと巡り＞納棺師 梅沢朋永さん（53）＝北見市 納棺の「地域格差」なくしたい - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-10-09T03:46:00+00:00",
-    "description": "＜輝いて 道東ひと巡り＞納棺師 梅沢朋永さん（53）＝北見市 納棺の「地域格差」なくしたい 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/14852722fc45736d5e5c6fca3f4b15d6/photo.jpg"
   },
   {
     "id": "1eda8bfde7d471a43955687712049fd894f6a093c6b332b6a3bd862b5d1db349",
@@ -278,6 +268,16 @@
     "published": "2026-10-09T03:46:00+00:00",
     "description": "＜輝いて 道東ひと巡り＞納棺師 梅沢朋永さん（53）＝北見市 納棺の「地域格差」なくしたい 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/d/5/d/7/d5d7668cb47ac162f9fe642c529e94e0_1.webp?20261009180521"
+  },
+  {
+    "id": "e424cad0ff54212a56b5e74261e2a1c84ec2f8466d5d72b0abbd75e4ac407734",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tcW5ZUFozbVJfcEN4RVJRR2YxbnZIRzU2MDRhRlVLMmZhZkl3MEFYNjdBZ3UwNGNUeVpqeXVLdmw0cDBoTFdJTDltOA?oc=5",
+    "url": "https://www.47news.jp/15059088.html",
+    "title": "＜輝いて 道東ひと巡り＞納棺師 梅沢朋永さん（53）＝北見市 納棺の「地域格差」なくしたい - 47NEWS",
+    "source": "47NEWS",
+    "published": "2026-10-09T03:46:00+00:00",
+    "description": "＜輝いて 道東ひと巡り＞納棺師 梅沢朋永さん（53）＝北見市 納棺の「地域格差」なくしたい 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/14852722fc45736d5e5c6fca3f4b15d6/photo.jpg"
   },
   {
     "id": "a777b0653dc4cab52cddbd21d36dd0ebedc4a63f375ccd8433c42b8a0105db8f",
@@ -298,6 +298,16 @@
     "published": "2026-10-09T02:00:00+00:00",
     "description": "二地域居住、函館市「お試し」補助で呼ぶ 北見市はテレワーク環境整備 日本経済新聞",
     "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3696018007102026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.35&fp-y=0.21&h=630&w=1200&s=740b2997eb12b4847fd5ece723c98e65"
+  },
+  {
+    "id": "299c778fb95c999a251a921246b9db505ad1f8f97df9a6a488d53537936fdd45",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wLW1jYTBvUFE5ZXJQNEw3SHZ5c1ZPcEZoUWRvMkJicHVMRFpKTFR6c0hZS1E4N3A1WmdtUUtfRlFTcjc4UmRaSm9lZ0c0MjBNVnlhLUhScVhNQQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1386448/",
+    "title": "北見・オホーツク（１０月９日付）おくやみ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-10-08T11:30:00+00:00",
+    "description": "北見・オホーツク（１０月９日付）おくやみ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
   },
   {
     "id": "aa0670d733f25d530c365d4b3bd0ed4dff8486bf676e77d68b1edaed999ea9b2",
@@ -478,6 +488,16 @@
     "published": "2026-10-08T06:40:31+00:00",
     "description": "北見市営緑ケ丘霊園でヒグマのふん 10月9日まで臨時閉園 市は巡回強化 47NEWS",
     "image": "https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png"
+  },
+  {
+    "id": "b3b657f847327139f8cd68f09bb152f127b142185854ab498a14d231189e44ac",
+    "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10aGxIUFU0aFdEQXNuYzRxaHZUTzczTUd3M3hyN1dhUGtIM0R5UEc1eFV4Mk4xSGFKZWpQNEtxYnJsdmZwV1A4Qk45QXZjcVBGdHBMalFkejZleVRTSDZZb1cwRFFNekEyMExwSksydnNsVmg3QUthQzY1d1PSAYIBQVVfeXFMTmhlR0lCQ2NKcnEzcHNIdFdnOUpuNVRYdVI5QzNlNGRZelNobERVQmxTLXZNbDB5VUhfUFlfR3A4NDg0d1c0WXdGU1Iwa09OaXppQV9SdGExOE1ydlRoQVVjdHlpbjl6N0NRZDhfZUQ4THZydk9DRkRGb2pGQkFSMnE1QQ?oc=5",
+    "url": "https://topics.smt.docomo.ne.jp/article/hokkaido/region/hokkaido-1386300",
+    "title": "北見市営緑ケ丘霊園でヒグマのふん　10月9日まで臨時閉園　市は巡回強化 - ｄメニューニュース",
+    "source": "ｄメニューニュース",
+    "published": "2026-10-08T06:40:00+00:00",
+    "description": "北見市営緑ケ丘霊園でヒグマのふん　10月9日まで臨時閉園　市は巡回強化 ｄメニューニュース",
+    "image": "https://img.topics.smt.news.goo.ne.jp/-/20261009110318/img/dmenu_service-brand-logo_200x200.png"
   },
   {
     "id": "a69a1f0e34986e13d11555dd3d6f282a0a304f7cae15ce5b7793630de76477d9",
@@ -850,16 +870,6 @@
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/a/a/4/b/aa4bea02c44ed7a7a1ff886b7a96e806_1.webp?20261007174019"
   },
   {
-    "id": "32b2988d3901702cc6d053e0f87137da35040015369dbeb0741f325a3a474ccc",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zakxFc2FUbGlzV0c0NUMyWG5STXJYaWZnNnVOclVib0Z5XzJ6QzE4S2JSbThBLS1tR2tjcWZDQ0NITlotNUwtOXdIdw?oc=5",
-    "url": "https://www.47news.jp/15048434.html",
-    "title": "北見市防災総合訓練 豪雨想定に34団体・約400人が参加 - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-10-07T02:53:08+00:00",
-    "description": "北見市防災総合訓練 豪雨想定に34団体・約400人が参加 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/242168090a50fbaed1f78465ad9ef04e/photo.jpg"
-  },
-  {
     "id": "add223eb2aae2aada6093cbb41006e7d4c55c20be237cb13bc5431151275b82d",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WZjl6UlRzRklhQTN1OFdrMV9pRnA2ZkFtSW1KaF9RM1lWeEVCQkt5LWFYNjlrMU0xbkEzVDFmUzlXLUhITkNNVFVBamg2ODUycmtfVEpRY09xQQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1385354/",
@@ -868,6 +878,16 @@
     "published": "2026-10-07T02:53:08+00:00",
     "description": "北見市防災総合訓練 豪雨想定に34団体・約400人が参加 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/3/5/e/5/35e54aaf7e01a67b4964a1ee8cc8fab7_1.webp?20261007174024"
+  },
+  {
+    "id": "32b2988d3901702cc6d053e0f87137da35040015369dbeb0741f325a3a474ccc",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zakxFc2FUbGlzV0c0NUMyWG5STXJYaWZnNnVOclVib0Z5XzJ6QzE4S2JSbThBLS1tR2tjcWZDQ0NITlotNUwtOXdIdw?oc=5",
+    "url": "https://www.47news.jp/15048434.html",
+    "title": "北見市防災総合訓練 豪雨想定に34団体・約400人が参加 - 47NEWS",
+    "source": "47NEWS",
+    "published": "2026-10-07T02:53:08+00:00",
+    "description": "北見市防災総合訓練 豪雨想定に34団体・約400人が参加 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/242168090a50fbaed1f78465ad9ef04e/photo.jpg"
   },
   {
     "id": "ef46d3a1ae70d7f458332d159c1cb978981ac537021decfee9e06757914bf290",
@@ -1478,25 +1498,5 @@
     "published": "2026-10-04T10:08:10+00:00",
     "description": "仏国籍の夫と登山のドイツ人死亡 北海道・北見 琉球新報デジタル",
     "image": "https://ryukyushimpo.jp/tachyon/2024/05/ogp_1200-675_ryukyushimpo_logo.png?resize=1200%2C630&gravity&crop_strategy=smart"
-  },
-  {
-    "id": "59387675588df16a7657174bfdfe821e10207782250c05060034bcdc7310298a",
-    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3c2hxbEo5YTdWMTloazBFYjhQcDRXMmVoSHdObzZNTFktb3dVdUlqZVhzbDdiN1pvbzFCTTllM0dxRHBBckhMNkxhYTNYcEkw?oc=5",
-    "url": "https://www.nnn.co.jp/articles/-/808999",
-    "title": "仏国籍の夫と登山のドイツ人死亡 北海道・北見 - nnn.co.jp",
-    "source": "nnn.co.jp",
-    "published": "2026-10-04T10:08:10+00:00",
-    "description": "仏国籍の夫と登山のドイツ人死亡 北海道・北見 nnn.co.jp",
-    "image": "https://nihonkai.ismcdn.jp/common/images/nnn/noimg_nnn.png"
-  },
-  {
-    "id": "67d24c3494e9ae642607d8847704433968f2bfaaefdcc079d8ecb0b9759e2298",
-    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwWVlzeGZTWlgydzBKMGdoN0k3d24xRGJ2YzZ1VTRSS05CMkdYS0xuV2ctVGtXSlhCZEQxRXBBR2tkbHVXRlV3eExqQ1NHeVhrUDNqMXgyamc4dkxBclE?oc=5",
-    "url": "https://www.fukuishimbun.co.jp/articles/-/2714257",
-    "title": "仏国籍の夫と登山のドイツ人死亡 - 福井新聞社",
-    "source": "福井新聞社",
-    "published": "2026-10-04T10:08:08+00:00",
-    "description": "仏国籍の夫と登山のドイツ人死亡 福井新聞社",
-    "image": "https://fki.ismcdn.jp/mwimgs/7/b/-/img_7b35b2b5a2e217030b06b3fc6df1588c17434.png"
   }
 ]
