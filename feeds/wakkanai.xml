@@ -6,7 +6,17 @@
     <description>稚内の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/wakkanai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 12 Oct 2026 06:17:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 10:30:00 +0000</lastBuildDate>
+    <item>
+      <title>【北海道(宗谷地方)】10/13の天気予報 - FNNプライムオンライン</title>
+      <link>https://www.fnn.jp/articles/-/1131241</link>
+      <pubDate>Mon, 12 Oct 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">ec43b7d2465ea7035e06c17d40529c31d9d1318bd5300511a9654c9f030a18de</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">FNNプライムオンライン</source>
+      <media:thumbnail url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" />
+      <media:content url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道(宗谷地方)】10/13の天気予報 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
+    </item>
     <item>
       <title>船の科学館「宗谷」、11月8日に満船飾 第1次南極観測隊の出港70周年を記念 「しらせ」応援企画も展開 - フネコ - Funeco</title>
       <link>https://funeco.jp/news/news-34433/</link>
@@ -18,6 +28,16 @@
       <description>&lt;p&gt;&lt;img src="https://funeco.jp/wp-content/uploads/2018/07/IMG_6967s.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;船の科学館「宗谷」、11月8日に満船飾 第1次南極観測隊の出港70周年を記念 「しらせ」応援企画も展開 フネコ - Funeco&lt;/p&gt;&lt;p&gt;配信元: フネコ - Funeco&lt;/p&gt;</description>
     </item>
     <item>
+      <title>【北海道(宗谷地方)】10/12の天気予報 - FNNプライムオンライン</title>
+      <link>https://www.fnn.jp/articles/-/1130839</link>
+      <pubDate>Sun, 11 Oct 2026 20:10:00 +0000</pubDate>
+      <guid isPermaLink="false">59aeff2f9e82f0692f4639e790fb0f52a2df43e8ac9101f8e5e5722345ba7be9</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">FNNプライムオンライン</source>
+      <media:thumbnail url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" />
+      <media:content url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道(宗谷地方)】10/12の天気予報 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>留萌・宗谷（１０月１２日付）おくやみ - 北海道新聞デジタル</title>
       <link>https://www.hokkaido-np.co.jp/article/1388040/</link>
       <pubDate>Sun, 11 Oct 2026 11:30:00 +0000</pubDate>
@@ -26,16 +46,6 @@
       <media:thumbnail url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" />
       <media:content url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;留萌・宗谷（１０月１２日付）おくやみ 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【北海道(宗谷地方)】10/12の天気予報 - FNNプライムオンライン</title>
-      <link>https://www.fnn.jp/articles/-/1130839</link>
-      <pubDate>Sun, 11 Oct 2026 10:30:00 +0000</pubDate>
-      <guid isPermaLink="false">59aeff2f9e82f0692f4639e790fb0f52a2df43e8ac9101f8e5e5722345ba7be9</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">FNNプライムオンライン</source>
-      <media:thumbnail url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" />
-      <media:content url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道(宗谷地方)】10/12の天気予報 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
     </item>
     <item>
       <title>「日本一美しい“未舗装路”」では…？ 絶対に道路以外に足を踏み入れてはならない絶景ロード 熊も注意 - au Webポータル</title>
@@ -928,6 +938,16 @@
       <description>&lt;p&gt;&lt;img src="https://www.uhb.jp/news/data/62365/image.jpg?v=1790305037" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道各地で冷え込み強まる】稚内市沼川で今季全国初の“氷点下0.4℃”！草木に霜が…＿大沼では幻想的な「けあらし」も発生＿日中は20℃前後まで気温上昇し寒暖差大きいため〈体調管理に注意を〉 UHB 北海道文化放送&lt;/p&gt;&lt;p&gt;配信元: UHB 北海道文化放送&lt;/p&gt;</description>
     </item>
     <item>
+      <title>【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に - UHB 北海道文化放送</title>
+      <link>https://www.uhb.jp/news/single.html?id=62368</link>
+      <pubDate>Fri, 25 Sep 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">9a429581576336ee8f349ef5518c5823f71a16d84c791c6d60d857878fdc04e3</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">UHB 北海道文化放送</source>
+      <media:thumbnail url="https://www.uhb.jp/news/data/62368/image.jpg?v=1790305910" />
+      <media:content url="https://www.uhb.jp/news/data/62368/image.jpg?v=1790305910" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.uhb.jp/news/data/62368/image.jpg?v=1790305910" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に UHB 北海道文化放送&lt;/p&gt;&lt;p&gt;配信元: UHB 北海道文化放送&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>ロシア海軍ミサイル巡洋艦とミサイル観測支援艦が宗谷海峡を東進（9月23日、スラバ級など） - J ディフェンス ニュース</title>
       <link>https://j-defense.ikaros.jp/docs/mod/006016.html</link>
       <pubDate>Fri, 25 Sep 2026 07:00:00 +0000</pubDate>
@@ -1034,16 +1054,6 @@
       <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-07328459-jnn-000-2-thumb.jpg?exp=10800" />
       <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-07328459-jnn-000-2-thumb.jpg?exp=10800" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-07328459-jnn-000-2-thumb.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北海道稚内市でマイナス0.4℃に…今季初めて氷点下観測 笹の葉もうっすらと白く（TBS NEWS DIG Powered by JNN） Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に - UHB 北海道文化放送</title>
-      <link>https://www.uhb.jp/news/single.html?id=62368</link>
-      <pubDate>Fri, 25 Sep 2026 03:19:38 +0000</pubDate>
-      <guid isPermaLink="false">9a429581576336ee8f349ef5518c5823f71a16d84c791c6d60d857878fdc04e3</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">UHB 北海道文化放送</source>
-      <media:thumbnail url="https://www.uhb.jp/news/data/62368/image.jpg?v=1790305910" />
-      <media:content url="https://www.uhb.jp/news/data/62368/image.jpg?v=1790305910" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.uhb.jp/news/data/62368/image.jpg?v=1790305910" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に UHB 北海道文化放送&lt;/p&gt;&lt;p&gt;配信元: UHB 北海道文化放送&lt;/p&gt;</description>
     </item>
     <item>
       <title>【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に(放送局のニュース ) - tenki.jp</title>
@@ -1228,16 +1238,6 @@
       <description>&lt;p&gt;&lt;img src="https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表 佐賀新聞&lt;/p&gt;&lt;p&gt;配信元: 佐賀新聞&lt;/p&gt;</description>
     </item>
     <item>
-      <title>宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - 京都新聞デジタル</title>
-      <link>https://www.kyoto-np.co.jp/articles/-/1795825</link>
-      <pubDate>Thu, 24 Sep 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">c8fd36209732ca4087b59d53b3fa78cf2b3644a9aa7629dac61b117959c3cd92</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">京都新聞デジタル</source>
-      <media:thumbnail url="https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png" />
-      <media:content url="https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 京都新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 京都新聞デジタル&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表｜全国のニュース｜Web東奥 - 東奥日報社</title>
       <link>https://www.toonippo.co.jp/articles/-/2368261</link>
       <pubDate>Thu, 24 Sep 2026 07:00:00 +0000</pubDate>
@@ -1258,6 +1258,16 @@
       <description>&lt;p&gt;&lt;img src="https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表｜全国のニュース｜Web東奥 東奥日報社&lt;/p&gt;&lt;p&gt;配信元: 東奥日報社&lt;/p&gt;</description>
     </item>
     <item>
+      <title>宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - 京都新聞デジタル</title>
+      <link>https://www.kyoto-np.co.jp/articles/-/1795825</link>
+      <pubDate>Thu, 24 Sep 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c8fd36209732ca4087b59d53b3fa78cf2b3644a9aa7629dac61b117959c3cd92</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">京都新聞デジタル</source>
+      <media:thumbnail url="https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png" />
+      <media:content url="https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 京都新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 京都新聞デジタル&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>“利尻富士”を眺めながら…地元で獲れたホッケの定食！絶景に魅了され…カフェがオープン 稚内市 - 日テレNEWS NNN</title>
       <link>https://news.ntv.co.jp/n/stv/category/society/stbcd3e1428ad04fdba3d3a0726a279231</link>
       <pubDate>Thu, 24 Sep 2026 07:00:00 +0000</pubDate>
@@ -1276,6 +1286,16 @@
       <media:thumbnail url="https://image.shinmai.co.jp/web-image/noPhoto/noPhoto_M.jpg" />
       <media:content url="https://image.shinmai.co.jp/web-image/noPhoto/noPhoto_M.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://image.shinmai.co.jp/web-image/noPhoto/noPhoto_M.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷地方気象防災速報（竜巻注意） 第3号＝気象庁発表 信濃毎日新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 信濃毎日新聞デジタル&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>宗谷地方気象防災速報（竜巻注意） 第2号＝気象庁発表 - 信濃毎日新聞デジタル</title>
+      <link>https://www.shinmai.co.jp/news/article/gfkn2026092402000016</link>
+      <pubDate>Thu, 24 Sep 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">7861aabab55e1b2ab7528e1ed99dd26254268be16d38be650bedce3e524fa0fb</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">信濃毎日新聞デジタル</source>
+      <media:thumbnail url="https://image.shinmai.co.jp/web-image/noPhoto/noPhoto_M.jpg" />
+      <media:content url="https://image.shinmai.co.jp/web-image/noPhoto/noPhoto_M.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://image.shinmai.co.jp/web-image/noPhoto/noPhoto_M.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷地方気象防災速報（竜巻注意） 第2号＝気象庁発表 信濃毎日新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 信濃毎日新聞デジタル&lt;/p&gt;</description>
     </item>
     <item>
       <title>宗谷地方気象防災速報（竜巻注意） 第２号＝気象庁発表 - 京都新聞デジタル</title>
@@ -1386,16 +1406,6 @@
       <description>&lt;p&gt;&lt;img src="https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷地方気象防災速報（竜巻注意） 第２号＝気象庁発表｜全国のニュース｜Web東奥 東奥日報社&lt;/p&gt;&lt;p&gt;配信元: 東奥日報社&lt;/p&gt;</description>
     </item>
     <item>
-      <title>宗谷地方気象防災速報（竜巻注意） 第2号＝気象庁発表 - shinmai.co.jp</title>
-      <link>https://www.shinmai.co.jp/news/article/gfkn2026092402000016</link>
-      <pubDate>Wed, 23 Sep 2026 19:43:03 +0000</pubDate>
-      <guid isPermaLink="false">7861aabab55e1b2ab7528e1ed99dd26254268be16d38be650bedce3e524fa0fb</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">shinmai.co.jp</source>
-      <media:thumbnail url="https://image.shinmai.co.jp/web-image/noPhoto/noPhoto_M.jpg" />
-      <media:content url="https://image.shinmai.co.jp/web-image/noPhoto/noPhoto_M.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://image.shinmai.co.jp/web-image/noPhoto/noPhoto_M.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷地方気象防災速報（竜巻注意） 第2号＝気象庁発表 shinmai.co.jp&lt;/p&gt;&lt;p&gt;配信元: shinmai.co.jp&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>宗谷地方気象防災速報（竜巻注意） 第２号＝気象庁発表 - 琉球新報デジタル</title>
       <link>https://ryukyushimpo.jp/kyodo/entry-5522371.html</link>
       <pubDate>Wed, 23 Sep 2026 19:43:03 +0000</pubDate>
@@ -1454,16 +1464,6 @@
       <media:thumbnail url="https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1475401942291448479/origin_1.jpg" />
       <media:content url="https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1475401942291448479/origin_1.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1475401942291448479/origin_1.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北海道ツーリングで宗谷丘陵へ 絶景2500kmを支えた「ブレードランナー」を紹介 千葉テレビ放送&lt;/p&gt;&lt;p&gt;配信元: 千葉テレビ放送&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>北海道ツーリングで宗谷丘陵へ 絶景2500kmを支えた「ブレードランナー」を紹介 - MotoMegane(モトメガネ)</title>
-      <link>https://www.motomegane.com/news-release/featured-articles/pl_hokkaido-touring-4_20260923</link>
-      <pubDate>Wed, 23 Sep 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">3589066065938ecaf83a79709f5dc2d075dda80b63811470d415a5697262fb71</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">MotoMegane(モトメガネ)</source>
-      <media:thumbnail url="https://www.motomegane.com/wp-content/uploads/2026/08/plot_141-1.webp" />
-      <media:content url="https://www.motomegane.com/wp-content/uploads/2026/08/plot_141-1.webp" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.motomegane.com/wp-content/uploads/2026/08/plot_141-1.webp" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北海道ツーリングで宗谷丘陵へ 絶景2500kmを支えた「ブレードランナー」を紹介 MotoMegane(モトメガネ)&lt;/p&gt;&lt;p&gt;配信元: MotoMegane(モトメガネ)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
