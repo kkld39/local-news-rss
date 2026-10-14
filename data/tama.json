@@ -1,5 +1,35 @@
 [
   {
+    "id": "f0dca04466af23ee6ee7a9b761756bded3c32b5f7718ef26ecfc200272edd617",
+    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JR0lhNnZncFkxRGpsVnRIQXFwWF8wVmx1b0FFdXA0ek0zYURDSm04dG9UbnRzcTVYbHVZMHNiTU1vWUc3NHRRZmpPRUNUM0NubDYyRXFxT09QVG0xWVBqUkJjNHU?oc=5",
+    "url": "https://www.townnews.co.jp/0305/2026/10/15/857188.html",
+    "title": "八王子ジャズフェスティバル実行委員会の代表を務める 北澤 一也さん 多摩市在住 44歳 - タウンニュース",
+    "source": "タウンニュース",
+    "published": "2026-10-14T16:03:44+00:00",
+    "description": "八王子ジャズフェスティバル実行委員会の代表を務める 北澤 一也さん 多摩市在住 44歳 タウンニュース",
+    "image": "https://www.townnews.co.jp/0305/images/a001482971_01.jpg"
+  },
+  {
+    "id": "8de141a30459423cae28ee900e76ec93c1aba6d0694875ec6b0674724218cda4",
+    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyQlpoOEx1VjZCcmhjQzZNbTFTLXlOTWh5VW1NOXJQSDFnYVM4emM2SC1WS2hQQkdhWF9OVmFuS3hvUUFhd3FsejdjWkdtbVZhT1ktanpHSjcxdFVab2pXZzBERWxqTDBwcTROMEZ5T0o5MG5yLU9jUGlxUWZnOGc?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/a4befd1291f76ea6ebefc4de8ddaed58722c3334",
+    "title": "多摩センターで「TAMATAMA FESTIVAL」 音楽ライブなど展開（みんなの経済新聞ネットワーク） - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-10-14T12:51:47+00:00",
+    "description": "多摩センターで「TAMATAMA FESTIVAL」 音楽ライブなど展開（みんなの経済新聞ネットワーク） Yahoo!ニュース",
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-00000085-minkei-000-1-view.jpg?exp=10800"
+  },
+  {
+    "id": "5f207c6ceea214b5b49e1237e304bd2222778847638d006d13d649583e38f173",
+    "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXhlaW9LZTBWTmh4NF9za1E0am1zMlBYV2hCRmR0UENlYk5oWlNhWURRR045empqTFpnYXB5dVJ2QmlxRUJhWU5SZHhvbEZBdjlfVW9iY0xWVy1HNWtYWEpnVHBrSnRKQWJ4UVIxOW5od040LTNMU2Q5UmEwM3lxM01BY25DaV90d0hOOENR0gGAAUFVX3lxTE9NOXV2QXpnekNaeFBaWS11M0R2dy1KWFA1SkhRbmZYUGxXT0VnY1lwU2U0a0tvMmFFWF9iMG94dnlFa0pZaUFSb3NpdGFiSzM3UUQ1R0k4M2E5T0FqZDBuc0hjeXQya2xtazVQLTJjZF9Td1lMWVhWMXEtM0paMUpQ?oc=5",
+    "url": "https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-856841?fm=latestnews",
+    "title": "多摩市　検定で健康に　デジタル版開設〈多摩市〉 - ｄメニューニュース",
+    "source": "ｄメニューニュース",
+    "published": "2026-10-14T11:00:00+00:00",
+    "description": "多摩市　検定で健康に　デジタル版開設〈多摩市〉 ｄメニューニュース",
+    "image": "https://img.topics.smt.news.goo.ne.jp/-/20261014100231/img/dmenu_service-brand-logo_200x200.png"
+  },
+  {
     "id": "18756bbc9b5e4242aea681a7eacd63d85b7017cd9fbc7b74a32b285fdec6b783",
     "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00aFBlMkNnZExvZklrenBIQWFYdzRrN2NraWhlZm93aUZkMTRhY2VMbTR4ZUxhYW5ONDF4UjZHel90OXQyc0tJQ1FnR0RtQVpGeVlFc3l6Ty1maGoyWjBiTVdNUm9CUTVBc05PRHIzZkl5QQ?oc=5",
     "url": "https://news.infoseek.co.jp/article/prtimes_000000036_000064207/",
@@ -61,7 +91,7 @@
   },
   {
     "id": "dec05a8d304d499ae34a3c5574afcaa0e4e3e193dbc739a9bbd79f85358ed3be",
-    "google_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUC1jUVJCNVExYmd2LUJXLTEwQ1VXZDFHUlpmd3BmUGRYWHQ3ZHBNVXNuQVpkR2xyaV8xeHB0V0p0bjNueURzQUdaU2lmTlJNQUFlOTYzdV93QnRWcnNCc0o3TU5nVDRaZzZMU0RUV1NvR3FPb2pIdWtjck92QVNTY3FQekVfdlZYUWJXZjNnOG9vUTdxY042NlJjZ3PSAaIBQVVfeXFMTTYwbGUtbEVOeWR6em5fblU4UUcxWjUyQlZJTVRLOXpVNkNMSXZpa3VRMlc4VEFkekQzbzN0a1dxMEZ4WDRsdUFVVjY2VWpqc0pVUXhEUWNkcmV6OElRVnoyUjFaeFhCTlU0RjRjN1RxNTVDT1VWWWFiQUJnSG5HN0VvUUs3SWtZMkFjV1ZoN25mcTVEeFF2OHJSR2c0VlJER1hR?oc=5",
+    "google_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNjBsZS1sRU55ZHp6bl9uVThRRzFaNTJCVklNVEs5elU2Q0xJdmlrdVEyVzhUQWR6RDNvM3RrV3EwRnhYNGx1QVVWNjZVampzSlVReERRY2RyZXo4SVFWejJSMVp4WEJOVTRGNGM3VHE1NUNPVVZZYWJBQmdIbkc3RW9RSzdJa1kyQWNXVmg3bmZxNUR4UXY4clJHZzRWUkRHWFHSAaIBQVVfeXFMTTYwbGUtbEVOeWR6em5fblU4UUcxWjUyQlZJTVRLOXpVNkNMSXZpa3VRMlc4VEFkekQzbzN0a1dxMEZ4WDRsdUFVVjY2VWpqc0pVUXhEUWNkcmV6OElRVnoyUjFaeFhCTlU0RjRjN1RxNTVDT1VWWWFiQUJnSG5HN0VvUUs3SWtZMkFjV1ZoN25mcTVEeFF2OHJSR2c0VlJER1hR?oc=5",
     "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1482643518018339448",
     "title": "（東京）多摩市鶴牧２丁目で暴行　１０月８日 - ｄメニューニュース",
     "source": "ｄメニューニュース",
@@ -1070,6 +1100,16 @@
     "image": "https://prcdn.freetls.fastly.net/release_image/191699/1/191699-1-417bd1dcbd322f6b82e2e289552854d8-424x601.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
   },
   {
+    "id": "912e1a23f331bc27ca50568b95f5c75498deddf37e81592b7bf47135f6d90bc6",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NU013WXRvUzRQOVd6SFNLYWtIMHpzc3l0R3h5X3E2NVRjd2hxRnBHZDVsSEtYSndmRnBnVTZlVllxZEdhSThZRnlLZnUxN29nOGpTRUJkZG1Kdw?oc=5",
+    "url": "https://www.oricon.co.jp/pressrelease/3019796/",
+    "title": "第2回「多摩市アイスランド風まちバル」11月開催 - オリコンニュース",
+    "source": "オリコンニュース",
+    "published": "2026-10-02T07:00:00+00:00",
+    "description": "第2回「多摩市アイスランド風まちバル」11月開催 オリコンニュース",
+    "image": "https://prtimes.jp/img/191699/1/thumb/d191699-1-40fd6ac41f0f7ff36486-0.jpg"
+  },
+  {
     "id": "4c2ccf439e092edf8e37abfad5b0a9d1dbc515d2a983fe953da35df63613ae7e",
     "google_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZlhBTmh0N3I0bTF0dmZLQXhSRHR2blk1Ukt1OHBMVTNuc0t6bkl0Nk9ySmhnUjNlRVJmTGctQVBlUnAzQkJ5SmVpRHR2VlBzOFlGSXVseXI0a1JhNk0xRDBMLWhzSFROR09iWVE4d3VtaFQyU1pNU1lIam4tX0l3bHhSeFk3UDBMdHRXVkJpbTdJd29tRWxDVXYwcVLSAaIBQVVfeXFMTXh1MmdpQkNfbU9FbFo1RXdBUmtoNnBRWTlkOVR0dFhFVHJQWUhfcGRZWE1iVl9rdEZ2SWJuYWJWcVVpNUlhSDlyQTFxWE5RSUdPYTFsMEktSHRkZmxKMUhHUmUySldTVWtMNExmLU00R0Z1eTZxbmcxdXpJNy1OVG5LdGNHUFFiS2JGN25oLVpBMUp4emwtX05yZTFGN1pMSGln?oc=5",
     "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1478737782011888567",
@@ -1118,16 +1158,6 @@
     "published": "2026-10-02T05:21:56+00:00",
     "description": "第2回「多摩市アイスランド風まちバル」11月開催 毎日キレイ",
     "image": "https://prtimes.jp/img/191699/1/resize/d191699-1-40fd6ac41f0f7ff36486-0.jpg"
-  },
-  {
-    "id": "912e1a23f331bc27ca50568b95f5c75498deddf37e81592b7bf47135f6d90bc6",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NU013WXRvUzRQOVd6SFNLYWtIMHpzc3l0R3h5X3E2NVRjd2hxRnBHZDVsSEtYSndmRnBnVTZlVllxZEdhSThZRnlLZnUxN29nOGpTRUJkZG1Kdw?oc=5",
-    "url": "https://www.oricon.co.jp/pressrelease/3019796/",
-    "title": "第2回「多摩市アイスランド風まちバル」11月開催 - オリコンニュース",
-    "source": "オリコンニュース",
-    "published": "2026-10-02T04:46:00+00:00",
-    "description": "第2回「多摩市アイスランド風まちバル」11月開催 オリコンニュース",
-    "image": "https://prtimes.jp/img/191699/1/thumb/d191699-1-40fd6ac41f0f7ff36486-0.jpg"
   },
   {
     "id": "508e217a483820c41b3e3a0b5b1ace553af4ec105e636a54d266bd578b8ccaa2",
@@ -1468,35 +1498,5 @@
     "published": "2026-09-27T07:00:00+00:00",
     "description": "多摩市立総合体育館の新愛称 「リフォームプライス 多摩アリーナ」 東京新聞",
     "image": "https://static.tokyo-np.co.jp/image/article/size1/2/5/e/6/25e6503f3b1cc560b949b7c70f6dc344_1.jpg"
-  },
-  {
-    "id": "3247458d226716759e9ea101304b41d6f37d837d374a4e44000f38c8532802cf",
-    "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oZlgxMEpSX1FlOFcxVHBfT3M1RTdHZXV2MEFEVnJDYUF4TldoaXdMTFF4a3I1WndyVVdzcDVUWjZ4bkdVcG9Qa2phVXFUXy1ud1BsempvSHRCTGJvQW1BeHZFNl9OU3Y0dTRQWF9NSHFHLUZLOUNZTzhNUXQ?oc=5",
-    "url": "https://tama-inagi.goguynet.jp/2026/09/27/yatsugatake-nanroku-fair-2026/",
-    "title": "【多摩市】10月3日（土）グリナード永山で「八ヶ岳南麓フェア2026」開催！ - 地域ニュースサイト号外NET",
-    "source": "地域ニュースサイト号外NET",
-    "published": "2026-09-27T07:00:00+00:00",
-    "description": "【多摩市】10月3日（土）グリナード永山で「八ヶ岳南麓フェア2026」開催！ 地域ニュースサイト号外NET",
-    "image": "https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/PXL_20260923_072331941.MP_.jpg"
-  },
-  {
-    "id": "7ff1d47c0bc0729eb00e9feff1ae65181b5f914bccd2611a1b82f8dbe8d9199a",
-    "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtV1gwcHladFo3dGI0UTVTUmtjZkdCN1lFNzhKMEtIaGlYaEhrbUF0WHVRVDVBc1ZwYy1GNlJBcldWV01aZlhoOXpSTHJZWGNkQ0gxWjVTYWE4dFhfVFdkRmZiMG1RYkVKWkg2OHhwUFd6bjhib0lEaHM0c9IBgAFBVV95cUxPX3lvSDktd1JFS204NjJiRDNwSFlMWWh3LWx0aEJLbmpUNEVMRzBVeEdYMTZvcGphUUJKTmN6aThuNEVmdFZFc3FVNUpGSU55LTNPUTd1Rzl3VlNlUDhFU2lLOFl3MlVMeGUtSGFCaUhxZTNNdElFdDB1LXQ0SURCbw?oc=5",
-    "url": "https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-854079?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch3",
-    "title": "関戸防災ワークショップ　10月11日、ろくせぶ公園〈多摩市〉 - ｄメニューニュース",
-    "source": "ｄメニューニュース",
-    "published": "2026-09-27T06:00:00+00:00",
-    "description": "関戸防災ワークショップ　10月11日、ろくせぶ公園〈多摩市〉 ｄメニューニュース",
-    "image": "https://img.topics.smt.news.goo.ne.jp/-/20260916102946/img/dmenu_service-brand-logo_200x200.png"
-  },
-  {
-    "id": "d41147d0b9b0dadff17dbe09ffeaa4046a9e16619286afa5d14ebc7aaf08bf3f",
-    "google_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjUtZTE5bkhuUlFDSjlKdEJ1b3djbTVERkRKdzR2MW9zNVk1QzNSeHU1M05hTFF2MmRsMTdZQ0VpVFI3aUh5a1VmR1JOWkowelF5OEVOelRpY1ZsV2JlczNEeHozNUZKYnNBeFc0TEdEOE9kSHN1cno1TFBWR3F5MzdqeDRidF8x?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/2562e93ef7bdf1109b79770ff3e47bc74b047e62",
-    "title": "「激推しです……」 “永住したい東京・多摩地域の市町村”ランキング上位に「家賃が爆上がりしない限り住み続けたい」「緑も多いし、生活にも便利」の声（ねとらぼ） - news.yahoo.co.jp",
-    "source": "news.yahoo.co.jp",
-    "published": "2026-09-26T11:20:00+00:00",
-    "description": "「激推しです……」 “永住したい東京・多摩地域の市町村”ランキング上位に「家賃が爆上がりしない限り住み続けたい」「緑も多いし、生活にも便利」の声（ねとらぼ） news.yahoo.co.jp",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-10169765-it_nlab-000-1-view.jpg?exp=10800"
   }
 ]
