@@ -10,6 +10,16 @@
     "image": "https://img.topics.smt.news.goo.ne.jp/picture/tbs/m_tbs-3009425.jpg"
   },
   {
+    "id": "d97c6ce3d103b6aa6ff267bf6fc7982664cdc06b7743683cbd66a0400ce5ea38",
+    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16UnRoT2Z1a21WUTdEcjZBay1MZ1RTMkZQWGxUb3g0QkFXMWhISnlRSHgtaFl4cUxSaGY5ZHZNdjdlRXlzdy1DUWkxQmdhZw?oc=5",
+    "url": "https://www.fnn.jp/articles/-/1132256",
+    "title": "【北海道(宗谷地方)】10/14の天気予報 - FNNプライムオンライン",
+    "source": "FNNプライムオンライン",
+    "published": "2026-10-13T20:10:00+00:00",
+    "description": "【北海道(宗谷地方)】10/14の天気予報 FNNプライムオンライン",
+    "image": "https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg"
+  },
+  {
     "id": "f9ef70022a9ad5de479f9ff7454632ab583a6aa0cbaacab7556f6922ffb7b2b4",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85cmxoNnJYNi03NVNrY3RnTHZ4dzdaUXhETVVmaFBLczNldHJ0aWdNWHJiZmI0bWNTMlFpRHUzMzhZZzFqYTVaejU5dmdjejdneVkxdHNld2g0dw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1388688/",
@@ -1340,6 +1350,16 @@
     "image": "https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png"
   },
   {
+    "id": "6eaa07451e53509dcb60c75786513ef2399605b445e8767f49fdee50b2bc219b",
+    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBeWJvaGUtSVl3dGFNSXl1LWx4NHllOG1Yci1BRkR4WGNlVUZqUTZQOHpwNjVKZXpBX2NNT3VUUFlrTXRrMzFuOWhFcDBhZGNtaWpxT1FEZEc?oc=5",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1795812",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第２号＝気象庁発表 - 京都新聞デジタル",
+    "source": "京都新聞デジタル",
+    "published": "2026-09-24T07:00:00+00:00",
+    "description": "宗谷地方気象防災速報（竜巻注意） 第２号＝気象庁発表 京都新聞デジタル",
+    "image": "https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png"
+  },
+  {
     "id": "c8fd36209732ca4087b59d53b3fa78cf2b3644a9aa7629dac61b117959c3cd92",
     "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rWVJaMXVGQjNxcE5fcjNTSjNtTjd1b19iTmVoVFhmWWZrdk9HdGpNcFFKSWdmWUYxU01hR2VqNFlHMUpUR1ZsajhwZlhFdG9fM2M3RHJpRjY?oc=5",
     "url": "https://www.kyoto-np.co.jp/articles/-/1795825",
@@ -1400,6 +1420,16 @@
     "image": "https://image.shinmai.co.jp/web-image/noPhoto/noPhoto_M.jpg"
   },
   {
+    "id": "e6494e50f2e17fc996ef6dd2551bf749435a715076612d05f5bfb4324fe32362",
+    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mRzhPTVRjRU5OdzBxYklHUThIckppRDBZOXJ2UDQ5Q0RDQm5DZ1JrZ0ctdXNZU0NiM2xMbEZGX2tfMlRNQ2pRcG9oQ2M5Y1BNX2NiaW9n?oc=5",
+    "url": "https://www.saga-s.co.jp/articles/-/1797154",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - 佐賀新聞",
+    "source": "佐賀新聞",
+    "published": "2026-09-24T07:00:00+00:00",
+    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 佐賀新聞",
+    "image": "https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png"
+  },
+  {
     "id": "7861aabab55e1b2ab7528e1ed99dd26254268be16d38be650bedce3e524fa0fb",
     "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kOFhINW5ZX2NzaUJaXzRjWEJndmd6NE5pZks4U0xoSnMzaW96OF92aGJRbjhhS1BxWUxfX2dlQkF0ajJHNWtRSjZ1emo1d3J5UG5KZ2pSMVUxVEx2WDdWa2UwQzk4Z18xcW53?oc=5",
     "url": "https://www.shinmai.co.jp/news/article/gfkn2026092402000016",
@@ -1408,26 +1438,6 @@
     "published": "2026-09-24T07:00:00+00:00",
     "description": "宗谷地方気象防災速報（竜巻注意） 第2号＝気象庁発表 信濃毎日新聞デジタル",
     "image": "https://image.shinmai.co.jp/web-image/noPhoto/noPhoto_M.jpg"
-  },
-  {
-    "id": "6eaa07451e53509dcb60c75786513ef2399605b445e8767f49fdee50b2bc219b",
-    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBeWJvaGUtSVl3dGFNSXl1LWx4NHllOG1Yci1BRkR4WGNlVUZqUTZQOHpwNjVKZXpBX2NNT3VUUFlrTXRrMzFuOWhFcDBhZGNtaWpxT1FEZEc?oc=5",
-    "url": "https://www.kyoto-np.co.jp/articles/-/1795812",
-    "title": "宗谷地方気象防災速報（竜巻注意） 第２号＝気象庁発表 - 京都新聞デジタル",
-    "source": "京都新聞デジタル",
-    "published": "2026-09-24T07:00:00+00:00",
-    "description": "宗谷地方気象防災速報（竜巻注意） 第２号＝気象庁発表 京都新聞デジタル",
-    "image": "https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png"
-  },
-  {
-    "id": "e6494e50f2e17fc996ef6dd2551bf749435a715076612d05f5bfb4324fe32362",
-    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWcDB6XzBwcWRhcGRwTUZlNzRYT1JyaE9zLTNfX3NWUGhiLTl2NnNoYURya0VOZ2JCTm41MDgyNHpPTXZyMUpQTUFWemRjbFhFRkc2cTh3?oc=5",
-    "url": "https://www.saga-s.co.jp/articles/-/1797154",
-    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 - 佐賀新聞",
-    "source": "佐賀新聞",
-    "published": "2026-09-24T07:00:00+00:00",
-    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 佐賀新聞",
-    "image": "https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png"
   },
   {
     "id": "f29ca69d7928970d28d472fee9587d15b810ab28ab6a2f1072b8743058e78854",
@@ -1488,15 +1498,5 @@
     "published": "2026-09-23T20:43:11+00:00",
     "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 琉球新報デジタル",
     "image": "https://ryukyushimpo.jp/tachyon/2024/05/ogp_1200-675_ryukyushimpo_logo.png?resize=1200%2C630&gravity&crop_strategy=smart"
-  },
-  {
-    "id": "f5d38ee810b811745e6ac43f7025954d40f13c4cc016d09665030f75a65b631a",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IUl9hc3pkSVRlaDRaNDdqekhHT3RILTFCd3MyRGZGQlFpYkNCOFB6RHY4S2hvaDMwM09tbFhhUmNFMnNpelVERmNkWTdHUQ?oc=5",
-    "url": "https://www.fnn.jp/articles/-/1119582",
-    "title": "【北海道(宗谷地方)】9/24の天気予報 - FNNプライムオンライン",
-    "source": "FNNプライムオンライン",
-    "published": "2026-09-23T20:10:00+00:00",
-    "description": "【北海道(宗谷地方)】9/24の天気予報 FNNプライムオンライン",
-    "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
   }
 ]

@@ -6,7 +6,17 @@
     <description>多摩の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/tama.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 13 Oct 2026 22:11:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 01:01:52 +0000</lastBuildDate>
+    <item>
+      <title>【多摩市】11/1（日）『東京ヴェルディ パブリックビューイング in LINK FOREST』開催のお知らせ - 東京ヴェルディ / Tokyo Verdy</title>
+      <link>https://www.verdy.co.jp/news/15289</link>
+      <pubDate>Wed, 14 Oct 2026 01:01:52 +0000</pubDate>
+      <guid isPermaLink="false">0df05b0bfbfab40bbb78ca6730bd16c7adcf810bc550a9498bd078e0cf9aee86</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">東京ヴェルディ / Tokyo Verdy</source>
+      <media:thumbnail url="https://verdy.s3.ap-northeast-1.amazonaws.com/image/article/84152_1200x675_6ac8da0327fbe.png" />
+      <media:content url="https://verdy.s3.ap-northeast-1.amazonaws.com/image/article/84152_1200x675_6ac8da0327fbe.png" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://verdy.s3.ap-northeast-1.amazonaws.com/image/article/84152_1200x675_6ac8da0327fbe.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【多摩市】11/1（日）『東京ヴェルディ パブリックビューイング in LINK FOREST』開催のお知らせ 東京ヴェルディ / Tokyo Verdy&lt;/p&gt;&lt;p&gt;配信元: 東京ヴェルディ / Tokyo Verdy&lt;/p&gt;</description>
+    </item>
     <item>
       <title>【多摩市】永山駅前で食べて・飲んで・楽しむ3日間！10月16日(金)〜18日(日)「永山バンケット」第2弾が開催！ - 地域ニュースサイト号外NET</title>
       <link>https://tama-inagi.goguynet.jp/2026/10/14/nagayama-banquet-october-2026/</link>
@@ -1464,16 +1474,6 @@
       <media:thumbnail url="https://img.topics.smt.news.goo.ne.jp/picture/townnews/m_townnews-853990.jpg" />
       <media:content url="https://img.topics.smt.news.goo.ne.jp/picture/townnews/m_townnews-853990.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://img.topics.smt.news.goo.ne.jp/picture/townnews/m_townnews-853990.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;２００個のランタン灯る　10月５日から、多摩八角堂で〈多摩市〉 ｄメニューニュース&lt;/p&gt;&lt;p&gt;配信元: ｄメニューニュース&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【多摩市】残念…。グリナード永山１階の北京樓が閉店していました。 - 地域ニュースサイト号外NET</title>
-      <link>https://tama-inagi.goguynet.jp/2026/09/26/pekinro-greenade-close/</link>
-      <pubDate>Sat, 26 Sep 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">b76717f0be501f1bf5d5e2c7d5b55f9fbec9573d38b6df3193341b11f94dc1f0</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">地域ニュースサイト号外NET</source>
-      <media:thumbnail url="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/Pekin_close_out.jpg" />
-      <media:content url="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/Pekin_close_out.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/Pekin_close_out.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【多摩市】残念…。グリナード永山１階の北京樓が閉店していました。 地域ニュースサイト号外NET&lt;/p&gt;&lt;p&gt;配信元: 地域ニュースサイト号外NET&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
