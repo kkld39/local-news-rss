@@ -6,7 +6,17 @@
     <description>北見の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/kitami.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 13 Oct 2026 10:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 11:30:00 +0000</lastBuildDate>
+    <item>
+      <title>北見・オホーツク（１０月１４日付）おくやみ - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1388687/</link>
+      <pubDate>Tue, 13 Oct 2026 11:30:00 +0000</pubDate>
+      <guid isPermaLink="false">1a0a9c908250adf2c63b3681e59efb2094b3c8e4981c706284e8cffa458064d0</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" />
+      <media:content url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見・オホーツク（１０月１４日付）おくやみ 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+    </item>
     <item>
       <title>「北海道民が一番恐れるやつら」が出現 ⇒ 指先を見ると……〝見慣れた姿〟に「恐ろしい…」「今年も終わった」 - au Webポータル</title>
       <link>https://article.auone.jp/a82b3884-f11b-404c-8f09-b447d2904492</link>
@@ -1392,6 +1402,16 @@
       <description>&lt;p&gt;&lt;img src="https://minpo.ismcdn.jp/mwimgs/0/0/1200w/img_00745c8ed26c384b7297d10f7dc76b0c42306.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;窓口改革 地方から飛躍 北海道北見市と地元企業開発システム 福島市など７５市町契約 福島民報デジタル&lt;/p&gt;&lt;p&gt;配信元: 福島民報デジタル&lt;/p&gt;</description>
     </item>
     <item>
+      <title>北見市、借り上げ市住の契約解除方針 住民や所有者が見直し要求 協議難航 - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1384065/</link>
+      <pubDate>Tue, 06 Oct 2026 00:38:00 +0000</pubDate>
+      <guid isPermaLink="false">47b3e40085c44b7db9a351372bb28eafe3b31e1863ad446cff8c4374a9370c5f</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/a/d/e/e/adeed34e8512c14f5d07e64af4561fbf_1.webp?20261014092011" />
+      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/a/d/e/e/adeed34e8512c14f5d07e64af4561fbf_1.webp?20261014092011" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/a/d/e/e/adeed34e8512c14f5d07e64af4561fbf_1.webp?20261014092011" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見市、借り上げ市住の契約解除方針 住民や所有者が見直し要求 協議難航 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>指定ごみ袋1枚が135円 人口減で財政危機の北海道北見市 歳入増向けあれやこれや（テレビ朝日系（ANN）） - Yahoo!ニュース</title>
       <link>https://news.yahoo.co.jp/articles/6e1161d10061fe4d8f7dc5134658e853132d22b6</link>
       <pubDate>Mon, 05 Oct 2026 23:12:00 +0000</pubDate>
@@ -1466,26 +1486,6 @@
       <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/3/8/8/e/388e56e50db3f101b38bdd5d3ad4f7f2_1.webp?20261006191332" />
       <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/3/8/8/e/388e56e50db3f101b38bdd5d3ad4f7f2_1.webp?20261006191332" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/3/8/8/e/388e56e50db3f101b38bdd5d3ad4f7f2_1.webp?20261006191332" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見 留辺蘂神社で秋季例大祭 尺八と剣道演武で盛り上がる hokkaido-np.co.jp&lt;/p&gt;&lt;p&gt;配信元: hokkaido-np.co.jp&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>北見　留辺蘂神社で秋季例大祭　尺八と剣道演武で盛り上がる - ｄメニューニュース</title>
-      <link>https://topics.smt.docomo.ne.jp/article/hokkaido/region/hokkaido-1384101</link>
-      <pubDate>Mon, 05 Oct 2026 09:23:00 +0000</pubDate>
-      <guid isPermaLink="false">ef5c42cb6272c9aec92ca6b7dfee31cb0a2e9b936e1be5b443f5ac76a64d40e3</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">ｄメニューニュース</source>
-      <media:thumbnail url="https://img.topics.smt.news.goo.ne.jp/picture/hokkaido/m_hokkaido-1384101.jpg" />
-      <media:content url="https://img.topics.smt.news.goo.ne.jp/picture/hokkaido/m_hokkaido-1384101.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://img.topics.smt.news.goo.ne.jp/picture/hokkaido/m_hokkaido-1384101.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見　留辺蘂神社で秋季例大祭　尺八と剣道演武で盛り上がる ｄメニューニュース&lt;/p&gt;&lt;p&gt;配信元: ｄメニューニュース&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>借り上げ市営住宅3棟 北見市の返還方針に住民「待った」 家賃増額など懸念 市は移転料16万9千円提示 - 47NEWS</title>
-      <link>https://www.47news.jp/15039875.html</link>
-      <pubDate>Mon, 05 Oct 2026 08:27:15 +0000</pubDate>
-      <guid isPermaLink="false">1c16293a4c2dfa67d4fa654f81aeb72365d054e639988ef6a739c225cc2929c7</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">47NEWS</source>
-      <media:thumbnail url="https://img.cf.47news.jp/public/photo/a0b90148f5576d4b04e946c86ed798a8/photo.jpg" />
-      <media:content url="https://img.cf.47news.jp/public/photo/a0b90148f5576d4b04e946c86ed798a8/photo.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://img.cf.47news.jp/public/photo/a0b90148f5576d4b04e946c86ed798a8/photo.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;借り上げ市営住宅3棟 北見市の返還方針に住民「待った」 家賃増額など懸念 市は移転料16万9千円提示 47NEWS&lt;/p&gt;&lt;p&gt;配信元: 47NEWS&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

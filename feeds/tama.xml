@@ -6,11 +6,21 @@
     <description>多摩の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/tama.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 13 Oct 2026 10:18:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 22:11:15 +0000</lastBuildDate>
+    <item>
+      <title>【多摩市】永山駅前で食べて・飲んで・楽しむ3日間！10月16日(金)〜18日(日)「永山バンケット」第2弾が開催！ - 地域ニュースサイト号外NET</title>
+      <link>https://tama-inagi.goguynet.jp/2026/10/14/nagayama-banquet-october-2026/</link>
+      <pubDate>Tue, 13 Oct 2026 22:11:15 +0000</pubDate>
+      <guid isPermaLink="false">844b049a5552c8437fe90c3014bf2425b67fcb98d37863b859b997ffba6297e8</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">地域ニュースサイト号外NET</source>
+      <media:thumbnail url="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/10/PXL_20261010_010102983.MP_.jpg" />
+      <media:content url="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/10/PXL_20261010_010102983.MP_.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/10/PXL_20261010_010102983.MP_.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【多摩市】永山駅前で食べて・飲んで・楽しむ3日間！10月16日(金)〜18日(日)「永山バンケット」第2弾が開催！ 地域ニュースサイト号外NET&lt;/p&gt;&lt;p&gt;配信元: 地域ニュースサイト号外NET&lt;/p&gt;</description>
+    </item>
     <item>
       <title>2エリアの20店舗で独自のメニューを楽しめる「多摩市アイスランド風まちバル」開催 - STRAIGHT PRESS</title>
       <link>https://straightpress.jp/20261013/1730013</link>
-      <pubDate>Tue, 13 Oct 2026 10:18:45 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 10:20:11 +0000</pubDate>
       <guid isPermaLink="false">854bfa8a314722df1aa003dcd999013701768b02f0d21a64093616100f990eca</guid>
       <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">STRAIGHT PRESS</source>
       <media:thumbnail url="https://straightpress.jp/wp-content/uploads/2026/10/yama2610051830-300x225.jpg" />
@@ -1464,16 +1474,6 @@
       <media:thumbnail url="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/Pekin_close_out.jpg" />
       <media:content url="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/Pekin_close_out.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/09/Pekin_close_out.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【多摩市】残念…。グリナード永山１階の北京樓が閉店していました。 地域ニュースサイト号外NET&lt;/p&gt;&lt;p&gt;配信元: 地域ニュースサイト号外NET&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>多摩大学「多摩祭2026」が10/24(土)開催！仮面ライダーマイスショーやハロウィン縁日、スタンプラリーも - 多摩ポン</title>
-      <link>https://tamapon.com/2026/09/26/tamasai2026/</link>
-      <pubDate>Sat, 26 Sep 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1e4cf4522b6be5e05a4914e39607dbfbc127170732c04d73a6b7340b859f586a</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">多摩ポン</source>
-      <media:thumbnail url="https://tamapon.com/wp-content/uploads/2026/09/tamasai2026_page-0001.jpeg" />
-      <media:content url="https://tamapon.com/wp-content/uploads/2026/09/tamasai2026_page-0001.jpeg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://tamapon.com/wp-content/uploads/2026/09/tamasai2026_page-0001.jpeg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;多摩大学「多摩祭2026」が10/24(土)開催！仮面ライダーマイスショーやハロウィン縁日、スタンプラリーも 多摩ポン&lt;/p&gt;&lt;p&gt;配信元: 多摩ポン&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
