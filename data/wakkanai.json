@@ -20,6 +20,16 @@
     "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
   },
   {
+    "id": "a559fb777cb64a7fbb1a671dcec11d12efd75ae096727a37f9ab8ded4b47fe65",
+    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZZjY0WUJaZlZneHBwbXlQQ3ppQWpiWFg1RW4yQTVqQjdRVndHTGt0NnRRZjI3eklTUWZRS25XUVROLUQ2Ykc3cG1PTHFyUmpDNDdaTEpMLTBKcEJTMjdHYzhCT0ZOb1kwZWVTN216Zw?oc=5",
+    "url": "https://tenki.jp/lite/bousai/typhoon/storm/2630/1/1/1100/1110/",
+    "title": "台風30号(2026年)の道北宗谷北部の暴風域に入る確率 - tenki.jp",
+    "source": "tenki.jp",
+    "published": "2026-10-15T06:00:00+00:00",
+    "description": "台風30号(2026年)の道北宗谷北部の暴風域に入る確率 tenki.jp",
+    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
+  },
+  {
     "id": "08d8cb937a4a60b0030c2911241519793398b178ac3d10eb2d76703026227e1e",
     "google_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa1N2THNNZnEtc0pkdWFCQnRTOWlqMjlLQlF4dWNzc2prdE9CVUtDRTRGVWpfa2xtUFl4c2pFelR6TjIwSDJHMkJnaURLcDBiTkdpR2V4V3RkWmc3MVNyVHFhREVxVHRGeHZtNEVaeXpEaTloTzlPUkd3S0tTNENGUDRUUnpPdlUwUW9XbmJIVWc?oc=5",
     "url": "https://www.city.minato.tokyo.jp/kouhou/kuse/koho/minato2026/202610/20261015top/12.html",
@@ -740,16 +750,6 @@
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
   },
   {
-    "id": "d440691d6b5b6967fdea8b9995bdf1ff7396b4c3e1fcf118ebfe5556c6efd1e5",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BM2VXWnlUeTJfUC0wUDZVOEZtMWhUc04wNmlvNW94TW5aWmQ0OWVsVTRMWXN0OU9kMzZpcGJpcHl1Z2t5QzViRkRhcWlXcE5iSDVnUVFJZUtqUzRneEJSTWdQMnRkZnVQ?oc=5",
-    "url": "https://tenki.jp/lite/bousai/typhoon/storm/2626/1/1/1100/1110/",
-    "title": "台風26号(2026年)の道北宗谷北部の暴風域に入る確率 - tenki.jp",
-    "source": "tenki.jp",
-    "published": "2026-10-01T07:00:00+00:00",
-    "description": "台風26号(2026年)の道北宗谷北部の暴風域に入る確率 tenki.jp",
-    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
-  },
-  {
     "id": "6bc187a2fe512763cdb4a51ac4bfaa9f9c6091e548c57cffd7d222141321b1ce",
     "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tUjhDcjNBSzR3TWl1VkxXTkNFbzF2MVBqRVJxdmNqc0xnVU9Jd3VTNnFhcXBLa3dseURPVC02a1JzRzNzWkEtTEN2TUhBd24tZW5FUGxfY090SWpyeUxwNUl2TlE1VHZOR1FWM0xCZw?oc=5",
     "url": "https://tenki.jp/lite/bousai/typhoon/storm/2626/1/1/1100/1120/",
@@ -757,6 +757,16 @@
     "source": "tenki.jp",
     "published": "2026-10-01T07:00:00+00:00",
     "description": "台風26号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
+    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
+  },
+  {
+    "id": "d440691d6b5b6967fdea8b9995bdf1ff7396b4c3e1fcf118ebfe5556c6efd1e5",
+    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BM2VXWnlUeTJfUC0wUDZVOEZtMWhUc04wNmlvNW94TW5aWmQ0OWVsVTRMWXN0OU9kMzZpcGJpcHl1Z2t5QzViRkRhcWlXcE5iSDVnUVFJZUtqUzRneEJSTWdQMnRkZnVQ?oc=5",
+    "url": "https://tenki.jp/lite/bousai/typhoon/storm/2626/1/1/1100/1110/",
+    "title": "台風26号(2026年)の道北宗谷北部の暴風域に入る確率 - tenki.jp",
+    "source": "tenki.jp",
+    "published": "2026-10-01T07:00:00+00:00",
+    "description": "台風26号(2026年)の道北宗谷北部の暴風域に入る確率 tenki.jp",
     "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
   },
   {
@@ -1488,15 +1498,5 @@
     "published": "2026-09-24T07:00:00+00:00",
     "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表 京都新聞デジタル",
     "image": "https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png"
-  },
-  {
-    "id": "33542c5d6eeb400804612fa9fe57fca1ea2034e01de7009741ac0e1a88abeda8",
-    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KZk44SkhlMlZrcFF3OERxaTVrZ0pSX2NNX1pfUVVIeTZFLUluVEVvVzM1TzJzWWthTi14amxINlEzRFkyM1BpUU55bU1FU0NvdENGQWRLYjA?oc=5",
-    "url": "https://www.toonippo.co.jp/articles/-/2368261",
-    "title": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表｜全国のニュース｜Web東奥 - 東奥日報社",
-    "source": "東奥日報社",
-    "published": "2026-09-24T07:00:00+00:00",
-    "description": "宗谷地方気象防災速報（竜巻注意） 第３号＝気象庁発表｜全国のニュース｜Web東奥 東奥日報社",
-    "image": "https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png"
   }
 ]
