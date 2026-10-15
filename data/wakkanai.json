@@ -1150,16 +1150,6 @@
     "image": "https://j-defense.ikaros.jp/img/jdn/list/006/016/01.jpg"
   },
   {
-    "id": "afa4ba0cf22e69e1bb232b37122bb9e12076eeab3d82acce06f3de3c947f77ed",
-    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81STE3UVRXbVVCc2k5QlRpOTVXMXRCa2kybFlaeXpxR19QcDVwQnRKLWR0WkxrQXdldlRvdW9IWW1XemdMdEdlNE5adTNwZHFSeFZjdnR6QmdKcElITDNYRmFpWmlTcVFjb3lGcmNGMA?oc=5",
-    "url": "https://topics.smt.docomo.ne.jp/article/fnn/nation/fnn-1120643",
-    "title": "北海道で今季初の氷点下 稚内市で−0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み（FNNプライムオンライン） - ｄメニューニュース",
-    "source": "ｄメニューニュース",
-    "published": "2026-09-25T07:00:00+00:00",
-    "description": "北海道で今季初の氷点下 稚内市で−0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み（FNNプライムオンライン） ｄメニューニュース",
-    "image": "https://img.topics.smt.news.goo.ne.jp/picture/fnn/m_fnn-1120643.jpg"
-  },
-  {
     "id": "720fccc130af7de835cb3f635957a1424383354af29f9049b47f7c89f09668f2",
     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DeDNOSGkxUl9jX2REWmlDSVJvTi1oRE1ENDQ2bTJRSlcwVXVtWUZLUXBERmdScmZrbElLQk9oRTY0d20yWWdacHp5R0FHUQ?oc=5",
     "url": "https://www.fnn.jp/articles/-/1120643",
@@ -1178,6 +1168,16 @@
     "published": "2026-09-25T07:00:00+00:00",
     "description": "北海道で今季初の冬日 寒気と放射冷却で氷点下 稚内市内で－0.4℃ テレ朝NEWS",
     "image": "https://news.tv-asahi.co.jp/articles_img/000535776_1200.jpg"
+  },
+  {
+    "id": "afa4ba0cf22e69e1bb232b37122bb9e12076eeab3d82acce06f3de3c947f77ed",
+    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81STE3UVRXbVVCc2k5QlRpOTVXMXRCa2kybFlaeXpxR19QcDVwQnRKLWR0WkxrQXdldlRvdW9IWW1XemdMdEdlNE5adTNwZHFSeFZjdnR6QmdKcElITDNYRmFpWmlTcVFjb3lGcmNGMA?oc=5",
+    "url": "https://topics.smt.docomo.ne.jp/article/fnn/nation/fnn-1120643",
+    "title": "北海道で今季初の氷点下 稚内市で−0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み（FNNプライムオンライン） - ｄメニューニュース",
+    "source": "ｄメニューニュース",
+    "published": "2026-09-25T07:00:00+00:00",
+    "description": "北海道で今季初の氷点下 稚内市で−0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み（FNNプライムオンライン） ｄメニューニュース",
+    "image": "https://img.topics.smt.news.goo.ne.jp/picture/fnn/m_fnn-1120643.jpg"
   },
   {
     "id": "bc4c8b4545c0b2e6dfe6fa4684d3b6e4b3722ef05948daa0d05afeb1af7b10d8",
@@ -1470,16 +1470,6 @@
     "image": "https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png"
   },
   {
-    "id": "deb02760c62a6172987a3ba528360066cb74e29912748fb35acfc65887a15c0a",
-    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52Y2JyNDdKdV9zNkgxVHJ3MVVlc2tBMEpwcWxaTTRRSUZTRno0Vi1yYmpWeXpURzZEWDRQUWNXekhXRWliNVg5OGpFd0swXzNOLXFwY3RyaXM?oc=5",
-    "url": "https://www.toonippo.co.jp/articles/-/2349680",
-    "title": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表｜全国のニュース｜Web東奥 - 東奥日報社",
-    "source": "東奥日報社",
-    "published": "2026-09-24T07:00:00+00:00",
-    "description": "宗谷地方気象防災速報（竜巻注意） 第１号＝気象庁発表｜全国のニュース｜Web東奥 東奥日報社",
-    "image": "https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png"
-  },
-  {
     "id": "33542c5d6eeb400804612fa9fe57fca1ea2034e01de7009741ac0e1a88abeda8",
     "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KZk44SkhlMlZrcFF3OERxaTVrZ0pSX2NNX1pfUVVIeTZFLUluVEVvVzM1TzJzWWthTi14amxINlEzRFkyM1BpUU55bU1FU0NvdENGQWRLYjA?oc=5",
     "url": "https://www.toonippo.co.jp/articles/-/2368261",
@@ -1498,5 +1488,15 @@
     "published": "2026-09-24T07:00:00+00:00",
     "description": "“利尻富士”を眺めながら…地元で獲れたホッケの定食！絶景に魅了され…カフェがオープン 稚内市 日テレNEWS NNN",
     "image": "https://image.gallery.play.jp/stv-news/articles/d2599cdd37fb4397aa7676ed6438d72a/430e11a3-c1b6-46fc-9287-1d534b42f0ab.jpg?w=1200"
+  },
+  {
+    "id": "8ea913eb07aec5679583a87e55aa10dee855cbfaf45ec31377feeab49287088b",
+    "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05dk15ekFvVGloUGJ0VVhvNDUzMkt1STlkT2VJUVlzUWlnTGdWREYtV3I1NkZOM2R1VlI3VTB0YlE2dVk0SWY3RkpDYUZLeWoyemVLRERlR21GLURydVVET1ZaTl9TcW1oUjFr?oc=5",
+    "url": "https://www.shinmai.co.jp/news/article/gfkn2026092402000025",
+    "title": "宗谷地方気象防災速報（竜巻注意） 第3号＝気象庁発表 - 信濃毎日新聞デジタル",
+    "source": "信濃毎日新聞デジタル",
+    "published": "2026-09-24T07:00:00+00:00",
+    "description": "宗谷地方気象防災速報（竜巻注意） 第3号＝気象庁発表 信濃毎日新聞デジタル",
+    "image": "https://image.shinmai.co.jp/web-image/noPhoto/noPhoto_M.jpg"
   }
 ]
