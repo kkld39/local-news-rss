@@ -6,7 +6,17 @@
     <description>北見の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/kitami.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 15 Oct 2026 13:25:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 19:00:00 +0000</lastBuildDate>
+    <item>
+      <title>＜推しニュース＞住みよい北見へ支援金 生保協会 市内3団体に各10万円 - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1390456/</link>
+      <pubDate>Thu, 15 Oct 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">0bedac65ad73901b5298b07558a9aa6d0f5a4a8983ba9e7f81d37b20b43ed0d0</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/2/b/2/a/2b2a3eb3d93513e4bb66cbce2c7c6f11_1.webp?20261016071834" />
+      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/2/b/2/a/2b2a3eb3d93513e4bb66cbce2c7c6f11_1.webp?20261016071834" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/2/b/2/a/2b2a3eb3d93513e4bb66cbce2c7c6f11_1.webp?20261016071834" alt="" /&gt;&lt;/p&gt;&lt;p&gt;＜推しニュース＞住みよい北見へ支援金 生保協会 市内3団体に各10万円 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+    </item>
     <item>
       <title>（北海道）北見市豊田でクマ出没　１０月１５日 - ｄメニューニュース</title>
       <link>https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1483457883351630743</link>
@@ -1450,16 +1460,6 @@
       <description>&lt;p&gt;&lt;img src="https://ibarakinews.jp/images/common/kennonews.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;龍ケ崎市協力隊に北見さん Sクライミングで貢献 茨城 茨城新聞クロスアイ&lt;/p&gt;&lt;p&gt;配信元: 茨城新聞クロスアイ&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【速報】乗用車が信号柱に衝突し大破 男女２人けが 北海道北見市 - TBS NEWS DIG</title>
-      <link>https://newsdig.tbs.co.jp/articles/gallery/2994641</link>
-      <pubDate>Wed, 07 Oct 2026 02:00:00 +0000</pubDate>
-      <guid isPermaLink="false">3a536ef02ddcd32d1ca5d55c8045ce1eec5e7a7f4a8c110206fd4e9a8a308ec5</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">TBS NEWS DIG</source>
-      <media:thumbnail url="https://newsdig.ismcdn.jp/mwimgs/3/8/1200w/img_38c47683d4deab44e66aa92a38f4434b1783706.jpg" />
-      <media:content url="https://newsdig.ismcdn.jp/mwimgs/3/8/1200w/img_38c47683d4deab44e66aa92a38f4434b1783706.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newsdig.ismcdn.jp/mwimgs/3/8/1200w/img_38c47683d4deab44e66aa92a38f4434b1783706.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【速報】乗用車が信号柱に衝突し大破 男女２人けが 北海道北見市 TBS NEWS DIG&lt;/p&gt;&lt;p&gt;配信元: TBS NEWS DIG&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>【速報】乗用車が信号柱に衝突し大破 男女２人けが 北海道北見市 | 北海道のニュース｜HBC北海道放送 - TBS NEWS DIG</title>
       <link>https://newsdig.tbs.co.jp/articles/hbc/2994641</link>
       <pubDate>Wed, 07 Oct 2026 02:00:00 +0000</pubDate>
@@ -1470,6 +1470,16 @@
       <description>&lt;p&gt;&lt;img src="https://newsdig.ismcdn.jp/mwimgs/3/8/1200w/img_38c47683d4deab44e66aa92a38f4434b1783706.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【速報】乗用車が信号柱に衝突し大破 男女２人けが 北海道北見市 | 北海道のニュース｜HBC北海道放送 TBS NEWS DIG&lt;/p&gt;&lt;p&gt;配信元: TBS NEWS DIG&lt;/p&gt;</description>
     </item>
     <item>
+      <title>【速報】乗用車が信号柱に衝突し大破 男女２人けが 北海道北見市 - TBS NEWS DIG</title>
+      <link>https://newsdig.tbs.co.jp/articles/gallery/2994641</link>
+      <pubDate>Wed, 07 Oct 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">3a536ef02ddcd32d1ca5d55c8045ce1eec5e7a7f4a8c110206fd4e9a8a308ec5</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">TBS NEWS DIG</source>
+      <media:thumbnail url="https://newsdig.ismcdn.jp/mwimgs/3/8/1200w/img_38c47683d4deab44e66aa92a38f4434b1783706.jpg" />
+      <media:content url="https://newsdig.ismcdn.jp/mwimgs/3/8/1200w/img_38c47683d4deab44e66aa92a38f4434b1783706.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://newsdig.ismcdn.jp/mwimgs/3/8/1200w/img_38c47683d4deab44e66aa92a38f4434b1783706.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【速報】乗用車が信号柱に衝突し大破 男女２人けが 北海道北見市 TBS NEWS DIG&lt;/p&gt;&lt;p&gt;配信元: TBS NEWS DIG&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>【速報】乗用車が信号柱に衝突し大破　男女２人けが　北海道北見市 - ｄメニューニュース</title>
       <link>https://topics.smt.docomo.ne.jp/article/hbc/region/hbc-2994641</link>
       <pubDate>Wed, 07 Oct 2026 02:00:00 +0000</pubDate>
@@ -1478,16 +1488,6 @@
       <media:thumbnail url="https://img.topics.smt.news.goo.ne.jp/picture/hbc/m_hbc-2994641.jpg" />
       <media:content url="https://img.topics.smt.news.goo.ne.jp/picture/hbc/m_hbc-2994641.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://img.topics.smt.news.goo.ne.jp/picture/hbc/m_hbc-2994641.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【速報】乗用車が信号柱に衝突し大破　男女２人けが　北海道北見市 ｄメニューニュース&lt;/p&gt;&lt;p&gt;配信元: ｄメニューニュース&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>「今日どこ行こう？」をもっと簡単に。北見・網走・オホーツクの地域イベント情報サイト「イベ掘る」β版を公開 - PR TIMES</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000006.000142194.html</link>
-      <pubDate>Wed, 07 Oct 2026 01:30:02 +0000</pubDate>
-      <guid isPermaLink="false">ce692a3f2c1fb322495957a59d6b48d0faac2270e02408004b70fc6c86373b9d</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">PR TIMES</source>
-      <media:thumbnail url="https://prcdn.freetls.fastly.net/release_image/142194/6/142194-6-2eae459cd2acaae8dc92fe058871f0a9-1774x887.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260" />
-      <media:content url="https://prcdn.freetls.fastly.net/release_image/142194/6/142194-6-2eae459cd2acaae8dc92fe058871f0a9-1774x887.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://prcdn.freetls.fastly.net/release_image/142194/6/142194-6-2eae459cd2acaae8dc92fe058871f0a9-1774x887.png?format=jpeg&amp;amp;auto=webp&amp;amp;fit=bounds&amp;amp;width=2400&amp;amp;height=1260" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「今日どこ行こう？」をもっと簡単に。北見・網走・オホーツクの地域イベント情報サイト「イベ掘る」β版を公開 PR TIMES&lt;/p&gt;&lt;p&gt;配信元: PR TIMES&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

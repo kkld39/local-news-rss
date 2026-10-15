@@ -1102,6 +1102,13 @@
     "next_retry": "2026-10-10T02:10:23.992626+00:00",
     "url": "https://www.hokkaido-np.co.jp/article/1386394/"
   },
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KbVo4UENxUXlIaEVMNHhzUFlxR2J6NDhEbTFOM2w1UWxXMzM1WDFBR3hpdnVaNEFkcFpGUHF0YVRZR0t5NWNkS0tucnRoc2VEbnhuY1Y1ajJadw?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/2/b/2/a/2b2a3eb3d93513e4bb66cbce2c7c6f11_1.webp?20261016071834",
+    "next_retry": "2026-10-16T22:18:29.367640+00:00",
+    "url": "https://www.hokkaido-np.co.jp/article/1390456/"
+  },
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NU013WXRvUzRQOVd6SFNLYWtIMHpzc3l0R3h5X3E2NVRjd2hxRnBHZDVsSEtYSndmRnBnVTZlVllxZEdhSThZRnlLZnUxN29nOGpTRUJkZG1Kdw?oc=5": {
     "attempts": 1,
     "error": null,
@@ -1552,9 +1559,9 @@
     "url": "https://hochi.news/articles/20261012-OHT1T51248.html"
   },
   "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TMUNZeS02NnZEOHNuTF9CeFhlZGE3WXNHbDlIVmFXaU9Yd2lUbTRWb3hJLWlwM2ViVjlPMmlSYTJzVDhpeENCdmlGT0dBRjlJbHJmSk1MZXpncDc5ZXJLSjJR?oc=5": {
-    "attempts": 2,
+    "attempts": 3,
     "error": "ValueError: HTTP 404",
-    "next_retry": "2026-10-15T21:14:52.816295+00:00",
+    "next_retry": "2026-10-18T22:18:29.367640+00:00",
     "url": "https://press.moviewalker.jp/mv93022/schedule/th408/"
   },
   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12QWJDeFJzblJFX3JPNk9FTWp0S0hoUnVtQVNRNFlFdnpScU9tWXBPYS1Oak9KUlJ5eTY5cUZ0MGdtX3pTTFhOanZIWHF6Y1BOMVkxUTllZHl6aE9JOUZzNU5TZGd6UEk?oc=5": {
@@ -1974,13 +1981,6 @@
     "image": "https://prtimes.jp/common/pc_v4/og.png",
     "next_retry": "2026-10-08T01:32:34.362832+00:00",
     "url": "https://prtimes.jp/main/html/rd/p/000001276.000088209.html"
-  },
-  "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuSTZOWjNqWE9RRnN0VHhLVXhfTlhSMnNfNDBfUnJQUFFrZW5haFhtLXptMXg3QmlrcVRQNGVKUDhJRVNrenVSZWpHRkxCQ2xoZGZVWXRsYVVNVDVRSWF3bk9QTl9Id0pxbWc?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://prcdn.freetls.fastly.net/release_image/142194/6/142194-6-2eae459cd2acaae8dc92fe058871f0a9-1774x887.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "next_retry": "2026-10-08T01:32:34.362832+00:00",
-    "url": "https://prtimes.jp/main/html/rd/p/000000006.000142194.html"
   },
   "https://news.google.com/rss/articles/CBMiakFVX3lxTFByM2pYMW94VlNqQ0NqbktEdUIxUndQdXloX1A4V3oxYWRrSEdkbXVXdHhOTkc5aUxZei1IMzAwc21FbzFJdHM5OEx4TVpDTE5LM0tvMjQ0UFJuZzdLZDExRVJYZHNlVTRSaFHSAW9BVV95cUxQSkRJX1VySldyVE1sM05OZ2tOUGV0ZEF3Uzl1cDV4TzJ2WXJBaE94V29qY1RjRDRTUV9rNE5BNUU4d256eER2OHFpRjZnQlM2dHNRNEx5Qms4NnU2aHdjdDRmbjlmR19sRGdCLXY5ZTA?oc=5": {
     "attempts": 1,
