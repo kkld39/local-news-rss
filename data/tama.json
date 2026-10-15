@@ -1,5 +1,25 @@
 [
   {
+    "id": "974caacd137fe53b9fa78212b09ece62ad61292bf497e439ec3b47beb1b71867",
+    "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a3N2OGZlVEhkbmpJNXh1UW5tdzl6QnBVYUpHWjJ2RGVZQldhRDZEbTJmMHZQVkhJazY5Qm1LYTY4TUVVZmRDazdkalpEdlZOU0MyakRFS3FtdXVJdDE4NFZVb09palYtUXI4?oc=5",
+    "url": "https://www.jiji.com/jc/article?k=000000214.000008822&g=prt",
+    "title": "「ゲーム×学び×居場所」のモデルが東京・多摩市にも拡大。eスポーツに特化したフリースクールが開校 - 時事ドットコム",
+    "source": "時事ドットコム",
+    "published": "2026-10-15T13:10:00+00:00",
+    "description": "「ゲーム×学び×居場所」のモデルが東京・多摩市にも拡大。eスポーツに特化したフリースクールが開校 時事ドットコム",
+    "image": "https://prcdn.freetls.fastly.net/release_image/8822/214/8822-214-c3916c53498f2843ae4a88873235ac4d-1477x1108.jpg"
+  },
+  {
+    "id": "b02b6cd9d1adf1a4e42b10ce95224bfe0664f0d1bd754a69b98c0c6a3c8dbd09",
+    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mODJ0c2o3MEFhdGhEVmVyUU5CeUNCbDFXOTFmV0czQlhCdEozc0ljbzRtN2hxMjNMQzNOQm5IV1B4VkFxTEc2cHNUdE45WkJnX1hHQ1JFTQ?oc=5",
+    "url": "https://www.famitsu.com/article/202610/91058",
+    "title": "eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す - ファミ通.com",
+    "source": "ファミ通.com",
+    "published": "2026-10-15T09:56:00+00:00",
+    "description": "eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す ファミ通.com",
+    "image": "https://cimg.kgl-systems.io/camion/files/91058/thumbnail_HPqr.jpg?x=1280"
+  },
+  {
     "id": "e6c88a65784dbfcd2ae17946c2fb7b56c60bb2100ad7f6f9e3e969a05c8862e2",
     "google_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRXhVbnhZYUtuWVo1SmdOWDYwVlhSbTBDYnFaTEc0cDR3SDdBdkNKeVNZRmFaWXd6TDMzc0JrVTIxYjRYVmgtNDY0WTc2Yld6S3d1alBacFFqemc5SVd4c0hhTkJPcXdHN01wRzVYeWJDUHJHUkx5SFpycU53dkM5b2JB?oc=5",
     "url": "https://www.rakumachi.jp/syuuekibukken/kanto/tokyo/dim1002/3768938/show.html",
@@ -28,16 +48,6 @@
     "published": "2026-10-15T04:04:22+00:00",
     "description": "ライオンズマンション多摩永山第３ rakumachi.jp",
     "image": null
-  },
-  {
-    "id": "974caacd137fe53b9fa78212b09ece62ad61292bf497e439ec3b47beb1b71867",
-    "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a3N2OGZlVEhkbmpJNXh1UW5tdzl6QnBVYUpHWjJ2RGVZQldhRDZEbTJmMHZQVkhJazY5Qm1LYTY4TUVVZmRDazdkalpEdlZOU0MyakRFS3FtdXVJdDE4NFZVb09palYtUXI4?oc=5",
-    "url": "https://www.jiji.com/jc/article?k=000000214.000008822&g=prt",
-    "title": "「ゲーム×学び×居場所」のモデルが東京・多摩市にも拡大。eスポーツに特化したフリースクールが開校 - 時事ドットコム",
-    "source": "時事ドットコム",
-    "published": "2026-10-15T01:46:00+00:00",
-    "description": "「ゲーム×学び×居場所」のモデルが東京・多摩市にも拡大。eスポーツに特化したフリースクールが開校 時事ドットコム",
-    "image": "https://prcdn.freetls.fastly.net/release_image/8822/214/8822-214-c3916c53498f2843ae4a88873235ac4d-1477x1108.jpg"
   },
   {
     "id": "a6c47d1130867af4b228504ae914e73103440fa7f88001ba8f69dffb98e7b036",
@@ -760,6 +770,16 @@
     "image": null
   },
   {
+    "id": "18a274a0662b5ab5a4a01dda4684a103d84431131c1f1af0ce113aba857c65b8",
+    "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NNVBvd1ZOamg1VUhoYlpMM2ljOHdGVHg1T2Vvb05zNUpoWmRpdDM4T3RPNzRPUC1ZMi01SkdIdWlCVXl2Vmo4bmdwdTBuUUZjOXc0VFltQmx1Nnd2WS1ubnVEbVl5Z2xzbkE?oc=5",
+    "url": "https://prtimes.jp/main/html/rd/p/000000011.000186586.html",
+    "title": "多摩センターが “ポップカルチャー” であふれかえる特別な週末「TAMATAMA FESTIVAL 2026」×「京王eスポーツ祭り」10/18(日)、初のスペシャルコラボが実現！ - PR TIMES",
+    "source": "PR TIMES",
+    "published": "2026-10-07T07:00:00+00:00",
+    "description": "多摩センターが “ポップカルチャー” であふれかえる特別な週末「TAMATAMA FESTIVAL 2026」×「京王eスポーツ祭り」10/18(日)、初のスペシャルコラボが実現！ PR TIMES",
+    "image": "https://prcdn.freetls.fastly.net/release_image/186586/11/186586-11-e49ab9ee5626eee9d61c4c5b0a5bad9b-2560x1920.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+  },
+  {
     "id": "27f62841965e93e804fcdf46fc6a3a76cc9eecee9027acd06dd624759badf65a",
     "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXY1ZuYy1yanZaLUlydWtFQldHTXI0TG5SbXhVOHFhUi05OTFQMEZTdTdWTHppbVN6OW5NWmgzX2VkMUJuUTBSTTZsU2lBaXQyRUNCOE5yRlhvczJmVDZaVm84ZFhxU1d4OUtIWUktSkxmX1RpZWpFbUhNSdIBgAFBVV95cUxQNFV3cXlqYjlhN2gwZ0JuOHFsWlFlaW0tREhiRG1udllMb1M0SHdnZ2JSdVM2V0hvdWN4eWFSNkVicEU2ZWNUOEplNVJQRWZoU2ZLODZaNWNfd0ZDN2kzV2FNU1hBejNpNzNZZWx4Tm8xTXFKNlE1bThFZFJ4Tk12dQ?oc=5",
     "url": "https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-855779",
@@ -828,16 +848,6 @@
     "published": "2026-10-07T01:50:30+00:00",
     "description": "借金4000万円からの大逆転…お客10人→400人､年商1億円に成長させた多摩ラーメン店夫婦の｢起死回生の一手｣ Yahoo!ニュース",
     "image": "https://s.yimg.jp/images/news-web/versions/20261007-202d7eb/all/images/ogp_default.png"
-  },
-  {
-    "id": "18a274a0662b5ab5a4a01dda4684a103d84431131c1f1af0ce113aba857c65b8",
-    "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NNVBvd1ZOamg1VUhoYlpMM2ljOHdGVHg1T2Vvb05zNUpoWmRpdDM4T3RPNzRPUC1ZMi01SkdIdWlCVXl2Vmo4bmdwdTBuUUZjOXc0VFltQmx1Nnd2WS1ubnVEbVl5Z2xzbkE?oc=5",
-    "url": "https://prtimes.jp/main/html/rd/p/000000011.000186586.html",
-    "title": "多摩センターが “ポップカルチャー” であふれかえる特別な週末「TAMATAMA FESTIVAL 2026」×「京王eスポーツ祭り」10/18(日)、初のスペシャルコラボが実現！ - PR TIMES",
-    "source": "PR TIMES",
-    "published": "2026-10-07T01:00:02+00:00",
-    "description": "多摩センターが “ポップカルチャー” であふれかえる特別な週末「TAMATAMA FESTIVAL 2026」×「京王eスポーツ祭り」10/18(日)、初のスペシャルコラボが実現！ PR TIMES",
-    "image": "https://prcdn.freetls.fastly.net/release_image/186586/11/186586-11-e49ab9ee5626eee9d61c4c5b0a5bad9b-2560x1920.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
   },
   {
     "id": "bf3d221ba903767c078c2b2c1abaa1d9dadf6bc55fdd34b86927f01efd2ca99c",
@@ -975,7 +985,7 @@
     "url": "https://www.nikkei.com/article/DGXZQOCC0527C0V01C26A0000000/",
     "title": "東京都多摩市、アイスランド首都と姉妹都市に 五輪・パラ縁に交流 - 日本経済新聞",
     "source": "日本経済新聞",
-    "published": "2026-10-05T08:09:30+00:00",
+    "published": "2026-10-05T07:00:00+00:00",
     "description": "東京都多摩市、アイスランド首都と姉妹都市に 五輪・パラ縁に交流 日本経済新聞",
     "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3681447005102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=7d75b94d175815db4c0c84183011a6bf"
   },
@@ -1488,15 +1498,5 @@
     "published": "2026-09-28T13:00:00+00:00",
     "description": "本について話そう　10月10日、中央図書館〈多摩市〉 ｄメニューニュース",
     "image": "https://img.topics.smt.news.goo.ne.jp/-/20260916102946/img/dmenu_service-brand-logo_200x200.png"
-  },
-  {
-    "id": "398c1bfc4103758542119c6969b74aa682d06e85de56aee897e453c3d85bd56a",
-    "google_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWTAzM0hnS0xhMGYxTzlycFkxR3FJaHFWRXhvSXhUWW1NaUpGdHlQTFdPYVYteXFyU193ZkstYm91U3hldm04VjdtXzdTbnRoM2sxb2xDSllOZW5UV21YcXJWZ0ZiWTZlczQ4LXZkR0N4OHFuN2RsWUhTYU4zS0lTZGlB?oc=5",
-    "url": "https://www.rakumachi.jp/syuuekibukken/kanto/tokyo/dim1003/3752038/show.html",
-    "title": "【楽待】東京都多摩市 1棟商業ビル | 収益物件数No.1不動産投資サイト - rakumachi.jp",
-    "source": "rakumachi.jp",
-    "published": "2026-09-28T10:27:45+00:00",
-    "description": "【楽待】東京都多摩市 1棟商業ビル | 収益物件数No.1不動産投資サイト rakumachi.jp",
-    "image": null
   }
 ]
