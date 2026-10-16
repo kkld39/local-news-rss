@@ -840,16 +840,6 @@
     "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
   },
   {
-    "id": "1af1862265762542f83598dcf0e4f37fe9745a168cf7c7c841e984ea7b1d1cca",
-    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xbXIwYmxvMWtfN2NBYXg0ejEzN3pTU3FfWHQxdkZGa0ozRWtoQzNoSXplYU5UUWlLSk1TVndyYWQzSDRqN2ZkeFFNS1pyVWZucjh6SzVB?oc=5",
-    "url": "https://wakkanaipress.com/2026/10/01/25051/",
-    "title": "新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 - 稚内プレス社",
-    "source": "稚内プレス社",
-    "published": "2026-10-01T07:00:00+00:00",
-    "description": "新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 稚内プレス社",
-    "image": null
-  },
-  {
     "id": "126798bd2fa5bf37055c4a10e502048115ebeb619c23e67f96c6de11d5aebb9a",
     "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwblFEVnZVcTJGdm12ZDVSVFBIRUROWlkwV1hhTnJvekl0X0J2MlNNamlwVkpMdDUwMXZyTjlXa04yX2oyVmJYWjViZw?oc=5",
     "url": "https://www.47news.jp/15021072.html",
@@ -868,6 +858,16 @@
     "published": "2026-10-01T06:02:00+00:00",
     "description": "稚内市、GX戦略地域に選ばれず　DC集積の産業団地計画に修正や遅れを懸念 topics.smt.docomo.ne.jp",
     "image": "https://img.topics.smt.news.goo.ne.jp/picture/hokkaido/m_hokkaido-1380377.jpg"
+  },
+  {
+    "id": "1af1862265762542f83598dcf0e4f37fe9745a168cf7c7c841e984ea7b1d1cca",
+    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xbXIwYmxvMWtfN2NBYXg0ejEzN3pTU3FfWHQxdkZGa0ozRWtoQzNoSXplYU5UUWlLSk1TVndyYWQzSDRqN2ZkeFFNS1pyVWZucjh6SzVB?oc=5",
+    "url": "https://wakkanaipress.com/2026/10/01/25051/",
+    "title": "新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 - 稚内プレス社",
+    "source": "稚内プレス社",
+    "published": "2026-10-01T03:39:54+00:00",
+    "description": "新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 稚内プレス社",
+    "image": null
   },
   {
     "id": "2caac6873cd09ad1edbef9ca8a7d33cb3d3588cf3eaf7575e99cc442c5ccacea",
@@ -1240,6 +1240,16 @@
     "image": null
   },
   {
+    "id": "3fdc864cd3be4240081b1b5368de34910a0a77ad5d615f23ef1f91c6686a2863",
+    "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40UE9QYTU5Vm5OM1hjUU9SY3NndHJXZlRtaXZVRG5YOWNRUkZfaFBzOWtsQmtYam9WVFZUQS1hUzZKQ09Wdk5vbVlWLVB0cEo4YWJZNEJUNUxHZWJaY0hJbEpNUVIxbTZReV95eXZWQ1lpbWF2OWJn?oc=5",
+    "url": "https://www.daihatsu.co.jp/local-activities/023/20260925_016180.html",
+    "title": "（稚内市）シニア向け安全運転セミナー - www.daihatsu.co.jp",
+    "source": "www.daihatsu.co.jp",
+    "published": "2026-09-25T07:00:00+00:00",
+    "description": "（稚内市）シニア向け安全運転セミナー www.daihatsu.co.jp",
+    "image": "https://www.daihatsu.co.jp/lyu_action/023/assets_c/2026/09/5bddf72d73c511df2c06864943694737-260925144611356-thumb-1200xauto-136291.jpg"
+  },
+  {
     "id": "6d1cd4fad2b1d6608f5df08ec8ab02db548e6b8db63ef3b115e2f75fd9bc0a6e",
     "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sTzJSdWROTmladzVWNHE4YS1XS05LeVFpd05kU3hTWWc0ZHh4NnN2TXFIYVEtN1V0VW5PUWkyU1hQZ3JON3JMSXF6dG5UWW53eVc3NlRqNA?oc=5",
     "url": "https://www.uhb.jp/news/single.html?id=62365",
@@ -1268,16 +1278,6 @@
     "published": "2026-09-25T07:00:00+00:00",
     "description": "北海道で今季初の氷点下 稚内市で−0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み（FNNプライムオンライン） ｄメニューニュース",
     "image": "https://img.topics.smt.news.goo.ne.jp/picture/fnn/m_fnn-1120643.jpg"
-  },
-  {
-    "id": "3fdc864cd3be4240081b1b5368de34910a0a77ad5d615f23ef1f91c6686a2863",
-    "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40UE9QYTU5Vm5OM1hjUU9SY3NndHJXZlRtaXZVRG5YOWNRUkZfaFBzOWtsQmtYam9WVFZUQS1hUzZKQ09Wdk5vbVlWLVB0cEo4YWJZNEJUNUxHZWJaY0hJbEpNUVIxbTZReV95eXZWQ1lpbWF2OWJn?oc=5",
-    "url": "https://www.daihatsu.co.jp/local-activities/023/20260925_016180.html",
-    "title": "（稚内市）シニア向け安全運転セミナー - www.daihatsu.co.jp",
-    "source": "www.daihatsu.co.jp",
-    "published": "2026-09-25T07:00:00+00:00",
-    "description": "（稚内市）シニア向け安全運転セミナー www.daihatsu.co.jp",
-    "image": "https://www.daihatsu.co.jp/lyu_action/023/assets_c/2026/09/5bddf72d73c511df2c06864943694737-260925144611356-thumb-1200xauto-136291.jpg"
   },
   {
     "id": "720fccc130af7de835cb3f635957a1424383354af29f9049b47f7c89f09668f2",

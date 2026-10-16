@@ -564,6 +564,13 @@
     "next_retry": "2026-10-01T06:43:47.047862+00:00",
     "url": "https://www.uhb.jp/news/single.html?id=62474"
   },
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IM1d0TWcxOHR1MENodHdlNEU5blo1SkNzM1VjZGNXV3pSZEFKa1c5YkZCdDdnWlpCM09UVXk1b2IzY2FlX3p0NHNXZWF2SkNSbUVZNEhEYw?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://chihososei-journal.jp/wp-content/uploads/2026/10/main-14.png",
+    "next_retry": "2026-10-17T23:36:09.311161+00:00",
+    "url": "https://chihososei-journal.jp/topics/900357/"
+  },
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9maGc5UHpRS2h3Y2xOVHFQT1RpOElrZXZwZlgwYlRpNWlTTkc3TnhiYWpNSFVkT2puWEtaLXYtajZhVHNGY0xCalBWaTlIU0R1ZlFQdmQzcw?oc=5": {
     "attempts": 1,
     "error": null,
@@ -1773,13 +1780,6 @@
     "next_retry": "2026-10-08T21:58:42.015555+00:00",
     "url": "https://www.townnews.co.jp/0306/2026/10/08/856142.html"
   },
-  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rdW5FY192bGp5T0s2ZnNJQkYxaUtmbjBKRENuY0xraDkyT3doT293LWdSbW5ZZjNEZFpWV29VSUNxMk1oVFJRNHdvZldXOW5FSDhRd01FdXF6bk5ObDJNcUxFZFI?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/a/a/4/b/aa4bea02c44ed7a7a1ff886b7a96e806_1.webp?20261007174019",
-    "next_retry": "2026-10-08T08:39:30.475214+00:00",
-    "url": "https://www.hokkaido-np.co.jp/article/1385356/?ref=top"
-  },
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwZVh6RXV3ay0tOVpFNGVOd3lPMi1wNlRqenJYT2ZOLWprWkFpenBYdVBsSm5lYVBrSUhQTThNZFZLbk1FSVZUR0ZiRjN6TjFtb0hPU3JsSnBYUHhBX0xvZVY3OHc?oc=5": {
     "attempts": 1,
     "error": null,
@@ -1833,13 +1833,6 @@
     "image": "https://tamapon.com/wp-content/uploads/2026/10/49_poster_rev.jpeg",
     "next_retry": "2026-10-10T09:04:59.018845+00:00",
     "url": "https://tamapon.com/2026/10/09/49th-tamashiminbunkasai/"
-  },
-  "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zYm5iQ2lBOE5IOXZJQ0toZC1XMGR5V1pnQVhfUktpQ2FWMzhIUXotTlRtNlhDMHJuNDBQYVhMS2VVbHV1b1FVS00wZE9QSmdzRHN0eTJRUGpXdThkU2dtUXY5WUJFbThoYWI0?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://prcdn.freetls.fastly.net/release_image/186586/9/186586-9-4ed62331209942aac3b2b9aa6a5ab05b-1200x800.jpg",
-    "next_retry": "2026-10-01T13:44:05.261920+00:00",
-    "url": "https://www.jiji.com/jc/article?k=000000009.000186586&g=prt"
   },
   "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vUWxyeWVLem5yS1p5VThzQ09NUFBNM3IwRDZFOUlmbXVSRzUtaEVGV2NYMVM5c3lXbF95a2htTWRZRGxvajEydS1WaWRWcXRMLWxCWmh3Mm9QTE9rNFZybXlFT0hMVzhZTEcw?oc=5": {
     "attempts": 3,
@@ -2395,6 +2388,13 @@
     "image": "https://img.topics.smt.news.goo.ne.jp/picture/tbs/m_tbs-3009425.jpg",
     "next_retry": "2026-10-15T00:19:56.800580+00:00",
     "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3009425"
+  },
+  "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LQkdJOHJDQktVby1jOVpXSVR5X05KUlB3SVZ5a3ctYkNvZWZBRnZNeFk2WnhpYXl0UmNZaG04LWRZMVZTOTQ4bEgtRkJqcVJaQW4xSjZmS21ORWp0U09xemJhU3BYTG56YUNlLWpkRktSbG9D?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/10/nagayama-banquet-view.png",
+    "next_retry": "2026-10-17T23:36:09.311161+00:00",
+    "url": "https://tama-inagi.goguynet.jp/2026/10/17/nagayama-banquet-report/"
   },
   "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EZFNkR3FFSGVTdTRxa1ZiY2FkN1BOaXA5UWFkZDREZFRGOERiZUdwenFMUDV5a1k3c0Jjd3FlbHBxV0R5MnFxeldVajA0VjNsRF93T0ZUNWFIZ0NGQ1Q2U2J1eU5fRjF2TGVpLWpOdzIwMGViM2c?oc=5": {
     "attempts": 3,
@@ -3089,19 +3089,19 @@
     "next_retry": "2026-10-14T07:42:47.732096+00:00",
     "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1482643518018339448"
   },
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUFRzbUxCUElUeVZMT0owVnBRbW9mLVFvSDlEdVpCOTBKMTBlaU9lc05wb1ZJYjFnZ3RoZzdVZGdtVlRPaERLYWl1bWl5WW9QOG1BN2phS3BwaUhhRFhkQUI0d0JTUTJQSkl3SkxILWJRNkJpaUZURzNZQko1bWhXaDc4N0FmVHFBV2hsRnk4cEZRVzRSNFQxNFZNNkjSAaIBQVVfeXFMT3ZKNmFXY0xNNHgtcUlUdEVwYlBhakk1U1dLZnBLT2RRRUYtbkJIYXhFa29aeng1aWNLR1BWUDA5dkRIOVBvS1poNmZnWXZoZkhHN1pSM010THVVSXotcC1kYjNaV1h0dUk3WlVTVHJVNUFoYkh2QnNmWWl5YlAwNElNMGlFMTZOcVEyeGs3a0F4Zm9NODVfcFhRTmJBWHRHT0ZR?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://img.topics.smt.news.goo.ne.jp/region_tmb/16_9/132241.png?fushinsha_joho-1482555941676515516",
+    "next_retry": "2026-10-14T03:05:24.186686+00:00",
+    "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1482555941676515516"
+  },
   "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaG5Yb0tkOE9JbWZzZlFUUnl3enp6ZFp3QWozdWQzcGtJQWFWTTFqa0JjWE5lVGFJdHlXVmtfRWZBcUd5LXphNm84elBDbXJGZldyRVc2VVpwckNRMkhLOGQ0QmdLYUVFTTgwZ1FsQkJtQkd0VW5idWdHRWd0ZkRaZnpKVzJTaUtMaFhyNF9CSUcydGRDelBnZm5TcEjSAaIBQVVfeXFMTzZVbVBnbnBsaXFKVEtuSnp1VXdEUW1lSmJWVTJzMC1KdXhlY21zSmx3T0d6LUxDZlZ1UHpONVBLeTh6YWZTWWZXNEI1SXJSeG13TjR6a1B5VmhWMHFCTWpFUTNzd0pwcWl4YjBjTy1kblBkWFRqNGoxekxoaE9RR1dPOS13QTRkOVJrbk90eHF5TVpVVm5GU2prZE5VaVBtS2Jn?oc=5": {
     "attempts": 1,
     "error": null,
     "image": "https://img.topics.smt.news.goo.ne.jp/region_tmb/16_9/132241.png?fushinsha_joho-1478621012618526932",
     "next_retry": "2026-10-03T08:38:08.887944+00:00",
     "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1478621012618526932"
-  },
-  "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdko2YVdjTE00eC1xSVR0RXBiUGFqSTVTV0tmcEtPZFFFRi1uQkhheEVrb1p6eDVpY0tHUFZQMDl2REg5UG9LWmg2ZmdZdmhmSEc3WlIzTXRMdVVJei1wLWRiM1pXWHR1STdaVVNUclU1QWhiSHZCc2ZZaXliUDA0SU0waUUxNk5xUTJ4azdrQXhmb004NV9wWFFOYkFYdEdPRlHSAaIBQVVfeXFMT3ZKNmFXY0xNNHgtcUlUdEVwYlBhakk1U1dLZnBLT2RRRUYtbkJIYXhFa29aeng1aWNLR1BWUDA5dkRIOVBvS1poNmZnWXZoZkhHN1pSM010THVVSXotcC1kYjNaV1h0dUk3WlVTVHJVNUFoYkh2QnNmWWl5YlAwNElNMGlFMTZOcVEyeGs3a0F4Zm9NODVfcFhRTmJBWHRHT0ZR?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://img.topics.smt.news.goo.ne.jp/region_tmb/16_9/132241.png?fushinsha_joho-1482555941676515516",
-    "next_retry": "2026-10-14T03:05:24.186686+00:00",
-    "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1482555941676515516"
   },
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZmMzUzRzZUpqZFVnWjZsZ05obkN5a2ZzMjlPcjZqRnVLTkVaZVlSa2IyNnE3dzJSc2ppbVE3YXRzVUg4a3dycS1RRlo3WkxFYTRzcnBzZGNRNlVmbzBGNlB4R1dGckp0WTR4WlJtRjdKU2ZrMUU0b3p0bENRWlRyOTJBbW0zV2Q5NDc4Z1JtYkZrOFQwazVhUVhUNUpWRW1wLVHSAaIBQVVfeXFMUGZjM1M0c2VKamRVZ1o2bGdOaG5DeWtmczI5T3I2akZ1S05FWmVZUmtiMjZxN3cyUnNqaW1RN2F0c1VIOGt3cnEtUUZaN1pMRWE0c3Jwc2RjUTZVZm8wRjZQeEdXRnJKdFk0eFpSbUY3SlNmazFFNG96dGxDUVpUcjkyQW1tM1dkOTQ3OGdSbWJGazhUMGs1YVFYVDVKVkVtcC1R?oc=5": {
     "attempts": 1,

@@ -1,5 +1,15 @@
 [
   {
+    "id": "84bcc53af397c60958523d7c00fbf86aaf7a5bd2f9a346d85528564112f2a9c8",
+    "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LQkdJOHJDQktVby1jOVpXSVR5X05KUlB3SVZ5a3ctYkNvZWZBRnZNeFk2WnhpYXl0UmNZaG04LWRZMVZTOTQ4bEgtRkJqcVJaQW4xSjZmS21ORWp0U09xemJhU3BYTG56YUNlLWpkRktSbG9D?oc=5",
+    "url": "https://tama-inagi.goguynet.jp/2026/10/17/nagayama-banquet-report/",
+    "title": "【多摩市】永山バンケット第2弾の１日目は、大盛り上がりでした。明日10月18日まで開催！！ - 地域ニュースサイト号外NET",
+    "source": "地域ニュースサイト号外NET",
+    "published": "2026-10-16T22:11:01+00:00",
+    "description": "【多摩市】永山バンケット第2弾の１日目は、大盛り上がりでした。明日10月18日まで開催！！ 地域ニュースサイト号外NET",
+    "image": "https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/10/nagayama-banquet-view.png"
+  },
+  {
     "id": "29936ce0e81af424f363003726ef27d0e3a8ccef0cc7ff9fd40fbba14deaea24",
     "google_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSTdZRVhuRHpBNW5rX0ZaY2JpQUlScnloNUk1WnZibC1vSEp2X1Y4ZlYxNk85UkJDR2FYQnczSnpCaTU5TWdCdlgxR2xVV1RvTGZ4SUxfSWVkZWVfRFdxaDNza1BXQ2pyMFcyWWl1SmRlOUN5TlQ5c3VTZEVfOXZPbnh3?oc=5",
     "url": "https://www.rakumachi.jp/syuuekibukken/kanto/tokyo/dim1002/3759576/show.html",
@@ -351,7 +361,7 @@
   },
   {
     "id": "6506f4e492c0aed1016cb97c13e4cefd3a9fda3c34f1bfbd38fc44212413b033",
-    "google_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdko2YVdjTE00eC1xSVR0RXBiUGFqSTVTV0tmcEtPZFFFRi1uQkhheEVrb1p6eDVpY0tHUFZQMDl2REg5UG9LWmg2ZmdZdmhmSEc3WlIzTXRMdVVJei1wLWRiM1pXWHR1STdaVVNUclU1QWhiSHZCc2ZZaXliUDA0SU0waUUxNk5xUTJ4azdrQXhmb004NV9wWFFOYkFYdEdPRlHSAaIBQVVfeXFMT3ZKNmFXY0xNNHgtcUlUdEVwYlBhakk1U1dLZnBLT2RRRUYtbkJIYXhFa29aeng1aWNLR1BWUDA5dkRIOVBvS1poNmZnWXZoZkhHN1pSM010THVVSXotcC1kYjNaV1h0dUk3WlVTVHJVNUFoYkh2QnNmWWl5YlAwNElNMGlFMTZOcVEyeGs3a0F4Zm9NODVfcFhRTmJBWHRHT0ZR?oc=5",
+    "google_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUFRzbUxCUElUeVZMT0owVnBRbW9mLVFvSDlEdVpCOTBKMTBlaU9lc05wb1ZJYjFnZ3RoZzdVZGdtVlRPaERLYWl1bWl5WW9QOG1BN2phS3BwaUhhRFhkQUI0d0JTUTJQSkl3SkxILWJRNkJpaUZURzNZQko1bWhXaDc4N0FmVHFBV2hsRnk4cEZRVzRSNFQxNFZNNkjSAaIBQVVfeXFMT3ZKNmFXY0xNNHgtcUlUdEVwYlBhakk1U1dLZnBLT2RRRUYtbkJIYXhFa29aeng1aWNLR1BWUDA5dkRIOVBvS1poNmZnWXZoZkhHN1pSM010THVVSXotcC1kYjNaV1h0dUk3WlVTVHJVNUFoYkh2QnNmWWl5YlAwNElNMGlFMTZOcVEyeGs3a0F4Zm9NODVfcFhRTmJBWHRHT0ZR?oc=5",
     "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1482555941676515516",
     "title": "（東京）多摩市永山２丁目で下半身露出　１０月１２日 - ｄメニューニュース",
     "source": "ｄメニューニュース",
@@ -1360,16 +1370,6 @@
     "image": "https://prtimes.jp/img/191699/1/thumb/d191699-1-40fd6ac41f0f7ff36486-0.jpg"
   },
   {
-    "id": "4c2ccf439e092edf8e37abfad5b0a9d1dbc515d2a983fe953da35df63613ae7e",
-    "google_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZlhBTmh0N3I0bTF0dmZLQXhSRHR2blk1Ukt1OHBMVTNuc0t6bkl0Nk9ySmhnUjNlRVJmTGctQVBlUnAzQkJ5SmVpRHR2VlBzOFlGSXVseXI0a1JhNk0xRDBMLWhzSFROR09iWVE4d3VtaFQyU1pNU1lIam4tX0l3bHhSeFk3UDBMdHRXVkJpbTdJd29tRWxDVXYwcVLSAaIBQVVfeXFMTXh1MmdpQkNfbU9FbFo1RXdBUmtoNnBRWTlkOVR0dFhFVHJQWUhfcGRZWE1iVl9rdEZ2SWJuYWJWcVVpNUlhSDlyQTFxWE5RSUdPYTFsMEktSHRkZmxKMUhHUmUySldTVWtMNExmLU00R0Z1eTZxbmcxdXpJNy1OVG5LdGNHUFFiS2JGN25oLVpBMUp4emwtX05yZTFGN1pMSGln?oc=5",
-    "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1478737782011888567",
-    "title": "（東京）多摩市落合２丁目で声かけ　９月３０日 - ｄメニューニュース",
-    "source": "ｄメニューニュース",
-    "published": "2026-10-02T07:00:00+00:00",
-    "description": "（東京）多摩市落合２丁目で声かけ　９月３０日 ｄメニューニュース",
-    "image": "https://img.topics.smt.news.goo.ne.jp/region_tmb/16_9/132241.png?fushinsha_joho-1478737782011888567"
-  },
-  {
     "id": "3bd9135e3d167a722b1ef70cfc5ad616b84d283fec04dde5fd00438d71b571aa",
     "google_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaG5Yb0tkOE9JbWZzZlFUUnl3enp6ZFp3QWozdWQzcGtJQWFWTTFqa0JjWE5lVGFJdHlXVmtfRWZBcUd5LXphNm84elBDbXJGZldyRVc2VVpwckNRMkhLOGQ0QmdLYUVFTTgwZ1FsQkJtQkd0VW5idWdHRWd0ZkRaZnpKVzJTaUtMaFhyNF9CSUcydGRDelBnZm5TcEjSAaIBQVVfeXFMTzZVbVBnbnBsaXFKVEtuSnp1VXdEUW1lSmJWVTJzMC1KdXhlY21zSmx3T0d6LUxDZlZ1UHpONVBLeTh6YWZTWWZXNEI1SXJSeG13TjR6a1B5VmhWMHFCTWpFUTNzd0pwcWl4YjBjTy1kblBkWFRqNGoxekxoaE9RR1dPOS13QTRkOVJrbk90eHF5TVpVVm5GU2prZE5VaVBtS2Jn?oc=5",
     "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1478621012618526932",
@@ -1378,6 +1378,16 @@
     "published": "2026-10-02T07:00:00+00:00",
     "description": "（東京）多摩市落川で声かけ　１０月１日 ｄメニューニュース",
     "image": "https://img.topics.smt.news.goo.ne.jp/region_tmb/16_9/132241.png?fushinsha_joho-1478621012618526932"
+  },
+  {
+    "id": "4c2ccf439e092edf8e37abfad5b0a9d1dbc515d2a983fe953da35df63613ae7e",
+    "google_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZlhBTmh0N3I0bTF0dmZLQXhSRHR2blk1Ukt1OHBMVTNuc0t6bkl0Nk9ySmhnUjNlRVJmTGctQVBlUnAzQkJ5SmVpRHR2VlBzOFlGSXVseXI0a1JhNk0xRDBMLWhzSFROR09iWVE4d3VtaFQyU1pNU1lIam4tX0l3bHhSeFk3UDBMdHRXVkJpbTdJd29tRWxDVXYwcVLSAaIBQVVfeXFMTXh1MmdpQkNfbU9FbFo1RXdBUmtoNnBRWTlkOVR0dFhFVHJQWUhfcGRZWE1iVl9rdEZ2SWJuYWJWcVVpNUlhSDlyQTFxWE5RSUdPYTFsMEktSHRkZmxKMUhHUmUySldTVWtMNExmLU00R0Z1eTZxbmcxdXpJNy1OVG5LdGNHUFFiS2JGN25oLVpBMUp4emwtX05yZTFGN1pMSGln?oc=5",
+    "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1478737782011888567",
+    "title": "（東京）多摩市落合２丁目で声かけ　９月３０日 - ｄメニューニュース",
+    "source": "ｄメニューニュース",
+    "published": "2026-10-02T07:00:00+00:00",
+    "description": "（東京）多摩市落合２丁目で声かけ　９月３０日 ｄメニューニュース",
+    "image": "https://img.topics.smt.news.goo.ne.jp/region_tmb/16_9/132241.png?fushinsha_joho-1478737782011888567"
   },
   {
     "id": "2893e2a543a302d41a9ccef5295cad203b932df87a9ab135d6e8d7cbe7c06d75",
@@ -1488,15 +1498,5 @@
     "published": "2026-10-01T01:42:23+00:00",
     "description": "カモゴローのTシャツがピンチ！洗濯機に取り付ける「バブリッシュ」で洗ってみた【PR】 多摩ポン",
     "image": "https://tamapon.com/wp-content/uploads/2026/08/8a3303d1-4899-433e-a8b0-5f7df71fd718.jpeg"
-  },
-  {
-    "id": "ce7487ea58945f329c93f00f5293455c07abba8b059338cabdd42105681c9685",
-    "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zYm5iQ2lBOE5IOXZJQ0toZC1XMGR5V1pnQVhfUktpQ2FWMzhIUXotTlRtNlhDMHJuNDBQYVhMS2VVbHV1b1FVS00wZE9QSmdzRHN0eTJRUGpXdThkU2dtUXY5WUJFbThoYWI0?oc=5",
-    "url": "https://www.jiji.com/jc/article?k=000000009.000186586&g=prt",
-    "title": "ファミリー世代の転入が進む多摩ニュータウンで、次世代が紡ぐ“未来のあかり”「多摩ランタンフェスティバル2026」開催！ - 時事ドットコム",
-    "source": "時事ドットコム",
-    "published": "2026-09-30T07:46:00+00:00",
-    "description": "ファミリー世代の転入が進む多摩ニュータウンで、次世代が紡ぐ“未来のあかり”「多摩ランタンフェスティバル2026」開催！ 時事ドットコム",
-    "image": "https://prcdn.freetls.fastly.net/release_image/186586/9/186586-9-4ed62331209942aac3b2b9aa6a5ab05b-1200x800.jpg"
   }
 ]
