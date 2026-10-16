@@ -140,6 +140,16 @@
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-23009425-jnn-000-1-view.jpg?exp=10800"
   },
   {
+    "id": "7fa93d9775adfa7dcd7e6e9b2c80324a1a994a95bb7ee3b205da879448cc11df",
+    "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzV6Vk1LdjhXWmNfNnF4RlFvemx5RENubUx6Q0J0d09nampHY21XUEF3OHN1eGdUNkNkT1dIcVh5SXpCMEdCTmwxMFlNV2x5VFVZUW9sLUVOVFp0eHF0SzI5eDAyZUFnQThLVHZiTm9WVFUtVzRneUR3Ukc1OUxpNlRkaFJUZmYtQ3VZLUNB?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/50e1590c97c99d3643217892245a79aa944230ba/images/000",
+    "title": "【暴風警報】北海道・稚内市、猿払村、豊富町などに発表 06:16時点 (TBS NEWS DIG Powered by JNN) - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-10-13T21:18:18+00:00",
+    "description": "【暴風警報】北海道・稚内市、猿払村、豊富町などに発表 06:16時点 (TBS NEWS DIG Powered by JNN) Yahoo!ニュース",
+    "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJneRC9FTMh-uSkw5p31xYB7GKflMQudXoCEr8sdn5GBeFDXAT5_M0Q5549ejEW0fCxuRwf0FRFDiLZc0ROQD22cKkUOBqmG99FnesRKC2fUUY"
+  },
+  {
     "id": "389ec548c2f90721480a016bb6ad50fc22089bcc3689466095a68362498eaf4f",
     "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KajIyNUFqTlN3SmtZalB2cWdPTzNQaVo5aEpFajd3UWJvQ2wwSWNaZEozYUVreHVlMmlFTndvTEtvbGxsbk9Ma29ENk1sOU9zSTRSWHhpZml1Q2QtNHltWllGQmlZTFBXU0F5UFhSVUxUdGZF0gF0QVVfeXFMTUpqMjI1QWpOU3dKa1lqUHZxZ09PM1BpWjloSkVqN3dRYm9DbDBJY1pkSjNhRWt4dWUyaUVOd29MS29sbGxuT0xrb0Q2TWw5T3NJNFJYeGlmaXVDZC00eW1aWUZCaVlMUFdTQXlQWFJVTFR0ZkU?oc=5",
     "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3009425",
@@ -158,6 +168,16 @@
     "published": "2026-10-13T20:10:00+00:00",
     "description": "【北海道(宗谷地方)】10/14の天気予報 FNNプライムオンライン",
     "image": "https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg"
+  },
+  {
+    "id": "7444c1f962540e9b637c6247befdd3ab680379b5893e7913bfd2933d4ca94297",
+    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lbUZsbUNYVTJxdVpoclpHLURLRldWeWF5UmZMTHN4NnRGbFBqSlowNlFwaFVzQ2FMbXA1X2F4Qy16YnlGckhqbURMU2p0UTRDb2tJVURNLThFMmJL?oc=5",
+    "url": "https://j-defense.ikaros.jp/docs/mod/006110.html",
+    "title": "ロシア海軍フリゲートが宗谷海峡を東進（10月9日、ステレグシチー級） - J ディフェンス ニュース",
+    "source": "J ディフェンス ニュース",
+    "published": "2026-10-13T17:39:32+00:00",
+    "description": "ロシア海軍フリゲートが宗谷海峡を東進（10月9日、ステレグシチー級） J ディフェンス ニュース",
+    "image": "https://j-defense.ikaros.jp/img/jdn/list/006/110/01.jpg"
   },
   {
     "id": "f9ef70022a9ad5de479f9ff7454632ab583a6aa0cbaacab7556f6922ffb7b2b4",
@@ -210,22 +230,12 @@
     "image": "https://image.news.livedoor.com/newsimage/stf/1/4/14301_1748_14faac53_11ac33d9.jpg"
   },
   {
-    "id": "7444c1f962540e9b637c6247befdd3ab680379b5893e7913bfd2933d4ca94297",
-    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lbUZsbUNYVTJxdVpoclpHLURLRldWeWF5UmZMTHN4NnRGbFBqSlowNlFwaFVzQ2FMbXA1X2F4Qy16YnlGckhqbURMU2p0UTRDb2tJVURNLThFMmJL?oc=5",
-    "url": "https://j-defense.ikaros.jp/docs/mod/006110.html",
-    "title": "ロシア海軍フリゲートが宗谷海峡を東進（10月9日、ステレグシチー級） - J ディフェンス ニュース",
-    "source": "J ディフェンス ニュース",
-    "published": "2026-10-13T05:39:32+00:00",
-    "description": "ロシア海軍フリゲートが宗谷海峡を東進（10月9日、ステレグシチー級） J ディフェンス ニュース",
-    "image": "https://j-defense.ikaros.jp/img/jdn/list/006/110/01.jpg"
-  },
-  {
     "id": "ec43b7d2465ea7035e06c17d40529c31d9d1318bd5300511a9654c9f030a18de",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04cmlzaTJPMzZRMDRwN3A2aGlMVDBwdUQzem1XWVhEOUdMMS1nNGpSbG4yaVBNcjRSVzZ1T0VGWk1QY0tLSlZJREkxeWZxdw?oc=5",
+    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kdE9sY2V2dzVrc0VybTJMRjJXNU9LaUdqOG5lUFBxSG1kN05lWVpfZTQyaDRMNFQ0TmxQb09xb3FCWmxyR3Z2TnhWdExTQQ?oc=5",
     "url": "https://www.fnn.jp/articles/-/1131241",
     "title": "【北海道(宗谷地方)】10/13の天気予報 - FNNプライムオンライン",
     "source": "FNNプライムオンライン",
-    "published": "2026-10-12T10:30:00+00:00",
+    "published": "2026-10-12T20:10:00+00:00",
     "description": "【北海道(宗谷地方)】10/13の天気予報 FNNプライムオンライン",
     "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
   },
@@ -1210,6 +1220,16 @@
     "image": null
   },
   {
+    "id": "3fdc864cd3be4240081b1b5368de34910a0a77ad5d615f23ef1f91c6686a2863",
+    "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40UE9QYTU5Vm5OM1hjUU9SY3NndHJXZlRtaXZVRG5YOWNRUkZfaFBzOWtsQmtYam9WVFZUQS1hUzZKQ09Wdk5vbVlWLVB0cEo4YWJZNEJUNUxHZWJaY0hJbEpNUVIxbTZReV95eXZWQ1lpbWF2OWJn?oc=5",
+    "url": "https://www.daihatsu.co.jp/local-activities/023/20260925_016180.html",
+    "title": "（稚内市）シニア向け安全運転セミナー - www.daihatsu.co.jp",
+    "source": "www.daihatsu.co.jp",
+    "published": "2026-09-25T07:00:00+00:00",
+    "description": "（稚内市）シニア向け安全運転セミナー www.daihatsu.co.jp",
+    "image": "https://www.daihatsu.co.jp/lyu_action/023/assets_c/2026/09/5bddf72d73c511df2c06864943694737-260925144611356-thumb-1200xauto-136291.jpg"
+  },
+  {
     "id": "6d1cd4fad2b1d6608f5df08ec8ab02db548e6b8db63ef3b115e2f75fd9bc0a6e",
     "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sTzJSdWROTmladzVWNHE4YS1XS05LeVFpd05kU3hTWWc0ZHh4NnN2TXFIYVEtN1V0VW5PUWkyU1hQZ3JON3JMSXF6dG5UWW53eVc3NlRqNA?oc=5",
     "url": "https://www.uhb.jp/news/single.html?id=62365",
@@ -1288,16 +1308,6 @@
     "published": "2026-09-25T07:00:00+00:00",
     "description": "北海道で今季初の冬日 寒気と放射冷却で氷点下 稚内市内で－0.4℃（テレビ朝日系（ANN）） Yahoo!ニュース",
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00000018-ann-000-5-thumb.jpg?exp=10800"
-  },
-  {
-    "id": "3fdc864cd3be4240081b1b5368de34910a0a77ad5d615f23ef1f91c6686a2863",
-    "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40UE9QYTU5Vm5OM1hjUU9SY3NndHJXZlRtaXZVRG5YOWNRUkZfaFBzOWtsQmtYam9WVFZUQS1hUzZKQ09Wdk5vbVlWLVB0cEo4YWJZNEJUNUxHZWJaY0hJbEpNUVIxbTZReV95eXZWQ1lpbWF2OWJn?oc=5",
-    "url": "https://www.daihatsu.co.jp/local-activities/023/20260925_016180.html",
-    "title": "（稚内市）シニア向け安全運転セミナー - daihatsu.co.jp",
-    "source": "daihatsu.co.jp",
-    "published": "2026-09-25T07:00:00+00:00",
-    "description": "（稚内市）シニア向け安全運転セミナー daihatsu.co.jp",
-    "image": "https://www.daihatsu.co.jp/lyu_action/023/assets_c/2026/09/5bddf72d73c511df2c06864943694737-260925144611356-thumb-1200xauto-136291.jpg"
   },
   {
     "id": "981138eadd9cefc60d03cd7c3a7fe9a3538d67d70e3c17f447c6a8b3a3174e28",
@@ -1488,15 +1498,5 @@
     "published": "2026-09-24T11:30:00+00:00",
     "description": "留萌・宗谷（９月２５日付）おくやみ 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
-  },
-  {
-    "id": "271cdaaa00adf6e2e0c17cd8827ff345abaaa8234c2ea8783638feda49d80579",
-    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XYlJGVW5XRjdqeFIybDZFTUxkaExQZnBxQ09pbW9wb3cyX2JMbEx0eEFJSXVrTWtuUU5tSHd4b0Vjd0FJbVVkSm02U0ZVM25MVEpkVUZ5Q1czSndhYi1GRnE5bnJndko0bEQxZFNB?oc=5",
-    "url": "https://article.auone.jp/7b082593-2b0c-4cdd-8d0b-35ec5620ccde",
-    "title": "“利尻富士”を眺めながら…地元で獲れたホッケの定食！絶景に魅了され…カフェがオープン 稚内市 - au Webポータル",
-    "source": "au Webポータル",
-    "published": "2026-09-24T09:54:00+00:00",
-    "description": "“利尻富士”を眺めながら…地元で獲れたホッケの定食！絶景に魅了され…カフェがオープン 稚内市 au Webポータル",
-    "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/09/24/https___news_jp_i_1475793006421361265_w1280.webp"
   }
 ]
