@@ -1,5 +1,25 @@
 [
   {
+    "id": "5b506759678e488c3d718be10a8fa6a99ae63259f53278377df397a253b3cb2d",
+    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pQXQxbUNVMkFYVi1xMUp3aXplczFDZUNGeXFCN04zNEFKRWdXb1dTNm1Kb3FVN01KSUluSjZkS3AxS0VXeVNyc3N6SW16dw?oc=5",
+    "url": "https://www.fnn.jp/articles/-/1134521",
+    "title": "【北海道(宗谷地方)】10/17の天気予報 - FNNプライムオンライン",
+    "source": "FNNプライムオンライン",
+    "published": "2026-10-16T20:10:00+00:00",
+    "description": "【北海道(宗谷地方)】10/17の天気予報 FNNプライムオンライン",
+    "image": "https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg"
+  },
+  {
+    "id": "568589c1724b98233ce505f0d08cb2b786ccc683418449a5b011be33cb9082fe",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RM1RUNmdPNDlFUnZlQ25jSFBaMVlKc2c4UnZ2ZHZuLV8tQVRZN1kwNGNhbnZtWjA3OUduVjE4Nk9GV2NrUXN2cGdpZmtDZ2hFUkpkNWFsVnhCQQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1391269/",
+    "title": "農水相に武部新氏 「最適な人」宗谷に期待の声 漁業・酪農関係者 根強い支持 - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-10-16T19:00:00+00:00",
+    "description": "農水相に武部新氏 「最適な人」宗谷に期待の声 漁業・酪農関係者 根強い支持 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/5/f/a/2/5fa2d2be1b68992c84695ecb50b1822d_1.webp?20261017060437"
+  },
+  {
     "id": "cad7e3a7182a4b8478e0b53b9c21431d84059c3291ddc4acdb7eeca2255953a0",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhcEhtYWROaVJhMk9VY3hxNk1McXBqVHdnNEJWaDNRVUVaVkctbk44Znl2SENhODJDckt3aXlxMHQ1N3Mxb1VMOXQ5RF83eUNXWi12UHZFV0xhUQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1391092/",
@@ -170,16 +190,6 @@
     "image": "https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg"
   },
   {
-    "id": "7444c1f962540e9b637c6247befdd3ab680379b5893e7913bfd2933d4ca94297",
-    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lbUZsbUNYVTJxdVpoclpHLURLRldWeWF5UmZMTHN4NnRGbFBqSlowNlFwaFVzQ2FMbXA1X2F4Qy16YnlGckhqbURMU2p0UTRDb2tJVURNLThFMmJL?oc=5",
-    "url": "https://j-defense.ikaros.jp/docs/mod/006110.html",
-    "title": "ロシア海軍フリゲートが宗谷海峡を東進（10月9日、ステレグシチー級） - J ディフェンス ニュース",
-    "source": "J ディフェンス ニュース",
-    "published": "2026-10-13T17:39:32+00:00",
-    "description": "ロシア海軍フリゲートが宗谷海峡を東進（10月9日、ステレグシチー級） J ディフェンス ニュース",
-    "image": "https://j-defense.ikaros.jp/img/jdn/list/006/110/01.jpg"
-  },
-  {
     "id": "f9ef70022a9ad5de479f9ff7454632ab583a6aa0cbaacab7556f6922ffb7b2b4",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85cmxoNnJYNi03NVNrY3RnTHZ4dzdaUXhETVVmaFBLczNldHJ0aWdNWHJiZmI0bWNTMlFpRHUzMzhZZzFqYTVaejU5dmdjejdneVkxdHNld2g0dw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1388688/",
@@ -228,6 +238,16 @@
     "published": "2026-10-13T08:10:01+00:00",
     "description": "刃物持った人物が侵入したら 稚内市の幼稚園で対応訓練 「不信を感じたらすぐ110番」 北海道 (2026年10月13日掲載) ライブドアニュース",
     "image": "https://image.news.livedoor.com/newsimage/stf/1/4/14301_1748_14faac53_11ac33d9.jpg"
+  },
+  {
+    "id": "7444c1f962540e9b637c6247befdd3ab680379b5893e7913bfd2933d4ca94297",
+    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lbUZsbUNYVTJxdVpoclpHLURLRldWeWF5UmZMTHN4NnRGbFBqSlowNlFwaFVzQ2FMbXA1X2F4Qy16YnlGckhqbURMU2p0UTRDb2tJVURNLThFMmJL?oc=5",
+    "url": "https://j-defense.ikaros.jp/docs/mod/006110.html",
+    "title": "ロシア海軍フリゲートが宗谷海峡を東進（10月9日、ステレグシチー級） - J ディフェンス ニュース",
+    "source": "J ディフェンス ニュース",
+    "published": "2026-10-13T05:30:31+00:00",
+    "description": "ロシア海軍フリゲートが宗谷海峡を東進（10月9日、ステレグシチー級） J ディフェンス ニュース",
+    "image": "https://j-defense.ikaros.jp/img/jdn/list/006/110/01.jpg"
   },
   {
     "id": "ec43b7d2465ea7035e06c17d40529c31d9d1318bd5300511a9654c9f030a18de",
@@ -820,6 +840,16 @@
     "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
   },
   {
+    "id": "1af1862265762542f83598dcf0e4f37fe9745a168cf7c7c841e984ea7b1d1cca",
+    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xbXIwYmxvMWtfN2NBYXg0ejEzN3pTU3FfWHQxdkZGa0ozRWtoQzNoSXplYU5UUWlLSk1TVndyYWQzSDRqN2ZkeFFNS1pyVWZucjh6SzVB?oc=5",
+    "url": "https://wakkanaipress.com/2026/10/01/25051/",
+    "title": "新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 - 稚内プレス社",
+    "source": "稚内プレス社",
+    "published": "2026-10-01T07:00:00+00:00",
+    "description": "新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 稚内プレス社",
+    "image": null
+  },
+  {
     "id": "126798bd2fa5bf37055c4a10e502048115ebeb619c23e67f96c6de11d5aebb9a",
     "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwblFEVnZVcTJGdm12ZDVSVFBIRUROWlkwV1hhTnJvekl0X0J2MlNNamlwVkpMdDUwMXZyTjlXa04yX2oyVmJYWjViZw?oc=5",
     "url": "https://www.47news.jp/15021072.html",
@@ -838,16 +868,6 @@
     "published": "2026-10-01T06:02:00+00:00",
     "description": "稚内市、GX戦略地域に選ばれず　DC集積の産業団地計画に修正や遅れを懸念 topics.smt.docomo.ne.jp",
     "image": "https://img.topics.smt.news.goo.ne.jp/picture/hokkaido/m_hokkaido-1380377.jpg"
-  },
-  {
-    "id": "1af1862265762542f83598dcf0e4f37fe9745a168cf7c7c841e984ea7b1d1cca",
-    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xbXIwYmxvMWtfN2NBYXg0ejEzN3pTU3FfWHQxdkZGa0ozRWtoQzNoSXplYU5UUWlLSk1TVndyYWQzSDRqN2ZkeFFNS1pyVWZucjh6SzVB?oc=5",
-    "url": "https://wakkanaipress.com/2026/10/01/25051/",
-    "title": "新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 - 稚内プレス社",
-    "source": "稚内プレス社",
-    "published": "2026-10-01T03:39:54+00:00",
-    "description": "新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 稚内プレス社",
-    "image": null
   },
   {
     "id": "2caac6873cd09ad1edbef9ca8a7d33cb3d3588cf3eaf7575e99cc442c5ccacea",
@@ -1220,16 +1240,6 @@
     "image": null
   },
   {
-    "id": "3fdc864cd3be4240081b1b5368de34910a0a77ad5d615f23ef1f91c6686a2863",
-    "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40UE9QYTU5Vm5OM1hjUU9SY3NndHJXZlRtaXZVRG5YOWNRUkZfaFBzOWtsQmtYam9WVFZUQS1hUzZKQ09Wdk5vbVlWLVB0cEo4YWJZNEJUNUxHZWJaY0hJbEpNUVIxbTZReV95eXZWQ1lpbWF2OWJn?oc=5",
-    "url": "https://www.daihatsu.co.jp/local-activities/023/20260925_016180.html",
-    "title": "（稚内市）シニア向け安全運転セミナー - www.daihatsu.co.jp",
-    "source": "www.daihatsu.co.jp",
-    "published": "2026-09-25T07:00:00+00:00",
-    "description": "（稚内市）シニア向け安全運転セミナー www.daihatsu.co.jp",
-    "image": "https://www.daihatsu.co.jp/lyu_action/023/assets_c/2026/09/5bddf72d73c511df2c06864943694737-260925144611356-thumb-1200xauto-136291.jpg"
-  },
-  {
     "id": "6d1cd4fad2b1d6608f5df08ec8ab02db548e6b8db63ef3b115e2f75fd9bc0a6e",
     "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sTzJSdWROTmladzVWNHE4YS1XS05LeVFpd05kU3hTWWc0ZHh4NnN2TXFIYVEtN1V0VW5PUWkyU1hQZ3JON3JMSXF6dG5UWW53eVc3NlRqNA?oc=5",
     "url": "https://www.uhb.jp/news/single.html?id=62365",
@@ -1258,6 +1268,16 @@
     "published": "2026-09-25T07:00:00+00:00",
     "description": "北海道で今季初の氷点下 稚内市で−0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み（FNNプライムオンライン） ｄメニューニュース",
     "image": "https://img.topics.smt.news.goo.ne.jp/picture/fnn/m_fnn-1120643.jpg"
+  },
+  {
+    "id": "3fdc864cd3be4240081b1b5368de34910a0a77ad5d615f23ef1f91c6686a2863",
+    "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40UE9QYTU5Vm5OM1hjUU9SY3NndHJXZlRtaXZVRG5YOWNRUkZfaFBzOWtsQmtYam9WVFZUQS1hUzZKQ09Wdk5vbVlWLVB0cEo4YWJZNEJUNUxHZWJaY0hJbEpNUVIxbTZReV95eXZWQ1lpbWF2OWJn?oc=5",
+    "url": "https://www.daihatsu.co.jp/local-activities/023/20260925_016180.html",
+    "title": "（稚内市）シニア向け安全運転セミナー - www.daihatsu.co.jp",
+    "source": "www.daihatsu.co.jp",
+    "published": "2026-09-25T07:00:00+00:00",
+    "description": "（稚内市）シニア向け安全運転セミナー www.daihatsu.co.jp",
+    "image": "https://www.daihatsu.co.jp/lyu_action/023/assets_c/2026/09/5bddf72d73c511df2c06864943694737-260925144611356-thumb-1200xauto-136291.jpg"
   },
   {
     "id": "720fccc130af7de835cb3f635957a1424383354af29f9049b47f7c89f09668f2",
@@ -1478,25 +1498,5 @@
     "published": "2026-09-24T19:12:59+00:00",
     "description": "全国で今シーズン初の冬日(最低気温0℃未満)を観測 25日 北海道稚内市沼川で(気象予報士 日直主任) tenki.jp",
     "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/407/40740/main/20260925040858/large.jpg"
-  },
-  {
-    "id": "4bee12e00d1567036ad343741d0db4b1f2984b2769009f64669dde181d7277c0",
-    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJWDVsYkR0TE4taU1GWklOZnIyV2ZZZXlWMFhqaU1iVjFudDAwMWdJRmdvX2kwdVlqVno2R1RiY0xOaV96TW9BUzF3bXNIQUVUcS12TFllenUyMGY1?oc=5",
-    "url": "https://www.youtube.com/watch?si=rOHV2-99akfaabyN&v=FdgvmTgXKn8&feature=youtu.be",
-    "title": "【BOMBANANA!】 #宗谷いちか #飛良ひかり #堰代ミコ #ななしいんく #vtuber #切り抜き - YouTube",
-    "source": "YouTube",
-    "published": "2026-09-24T13:59:11+00:00",
-    "description": "【BOMBANANA!】 #宗谷いちか #飛良ひかり #堰代ミコ #ななしいんく #vtuber #切り抜き YouTube",
-    "image": null
-  },
-  {
-    "id": "6db324b32ce378c1f68084324d812026ffb0edf34dced86049da8b805fdb9573",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52RUpiMFVyVlRCZm91X05hMlFXOWM1RHdiczVEa2hFZ2dKWHJSaVVHSG9oT3MxbWJRZ2ZWWHRKbHM2NWRzOTkzb1otc3AybWNnOWM0Smk2NFhqQQ?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1375958/",
-    "title": "留萌・宗谷（９月２５日付）おくやみ - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-09-24T11:30:00+00:00",
-    "description": "留萌・宗谷（９月２５日付）おくやみ 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
   }
 ]
