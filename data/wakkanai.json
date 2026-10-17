@@ -250,6 +250,16 @@
     "image": "https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg"
   },
   {
+    "id": "4b2eb9a88d83a4f960cdd6e7c0a1724a77da961f1691e862f51b646f34b89691",
+    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Yc3BEeGFDcUlLVmhvcUdGcmVoYmlPSjRJVVFrd3hxanc5Q0JOX0tIbTl1ek5fYzJPLXNIeVlzbG5kSkJ6VDlOazJDaHNkSHBzN25pSWVwTjBXY3pQbmRoUkJ6WHZLd2M2?oc=5",
+    "url": "https://tenki.jp/bousai/typhoon/storm/2629/1/1/1100/1120/",
+    "title": "台風29号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp",
+    "source": "tenki.jp",
+    "published": "2026-10-13T18:00:00+00:00",
+    "description": "台風29号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
+    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
+  },
+  {
     "id": "f9ef70022a9ad5de479f9ff7454632ab583a6aa0cbaacab7556f6922ffb7b2b4",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85cmxoNnJYNi03NVNrY3RnTHZ4dzdaUXhETVVmaFBLczNldHJ0aWdNWHJiZmI0bWNTMlFpRHUzMzhZZzFqYTVaejU5dmdjejdneVkxdHNld2g0dw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1388688/",
@@ -730,16 +740,6 @@
     "image": "https://newsdig.ismcdn.jp/mwimgs/7/d/1200w/img_7d29ec2300bdedea85878100819155dd164317.jpg"
   },
   {
-    "id": "4b2eb9a88d83a4f960cdd6e7c0a1724a77da961f1691e862f51b646f34b89691",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Yc3BEeGFDcUlLVmhvcUdGcmVoYmlPSjRJVVFrd3hxanc5Q0JOX0tIbTl1ek5fYzJPLXNIeVlzbG5kSkJ6VDlOazJDaHNkSHBzN25pSWVwTjBXY3pQbmRoUkJ6WHZLd2M2?oc=5",
-    "url": "https://tenki.jp/bousai/typhoon/storm/2629/1/1/1100/1120/",
-    "title": "台風29号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp",
-    "source": "tenki.jp",
-    "published": "2026-10-06T01:25:22+00:00",
-    "description": "台風29号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
-    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
-  },
-  {
     "id": "034578b8b1970ecc9b558a57c2f508b0f30185fc5970d14fa2238b3ba0bd31bc",
     "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nd1dTMUVlbDVnLUZfRGtJWGlpMFJ1aHVDSk5DMHQwQXlvX1BEcHpPNE5iVEFnVjdrcDBLWWNxdTBGN1RKVm5wcUtKRVJQZGthYzA0dnhFLWZtdzJQWndsOEx1QnV5M3VyUUR1OVM4RWs5SEJZZHN3RGx4T0xkQzA?oc=5",
     "url": "https://news.yahoo.co.jp/articles/b37959fcb9906d2201ebb6790012b676a3eb39a4",
@@ -900,16 +900,6 @@
     "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
   },
   {
-    "id": "126798bd2fa5bf37055c4a10e502048115ebeb619c23e67f96c6de11d5aebb9a",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwblFEVnZVcTJGdm12ZDVSVFBIRUROWlkwV1hhTnJvekl0X0J2MlNNamlwVkpMdDUwMXZyTjlXa04yX2oyVmJYWjViZw?oc=5",
-    "url": "https://www.47news.jp/15021072.html",
-    "title": "稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-10-01T07:00:00+00:00",
-    "description": "稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/7458c0f38ec03e7aa816aa3afa6d01c9/photo.jpg"
-  },
-  {
     "id": "1af1862265762542f83598dcf0e4f37fe9745a168cf7c7c841e984ea7b1d1cca",
     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xbXIwYmxvMWtfN2NBYXg0ejEzN3pTU3FfWHQxdkZGa0ozRWtoQzNoSXplYU5UUWlLSk1TVndyYWQzSDRqN2ZkeFFNS1pyVWZucjh6SzVB?oc=5",
     "url": "https://wakkanaipress.com/2026/10/01/25051/",
@@ -918,6 +908,16 @@
     "published": "2026-10-01T07:00:00+00:00",
     "description": "新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 稚内プレス社",
     "image": null
+  },
+  {
+    "id": "126798bd2fa5bf37055c4a10e502048115ebeb619c23e67f96c6de11d5aebb9a",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwblFEVnZVcTJGdm12ZDVSVFBIRUROWlkwV1hhTnJvekl0X0J2MlNNamlwVkpMdDUwMXZyTjlXa04yX2oyVmJYWjViZw?oc=5",
+    "url": "https://www.47news.jp/15021072.html",
+    "title": "稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 - 47NEWS",
+    "source": "47NEWS",
+    "published": "2026-10-01T06:02:00+00:00",
+    "description": "稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/7458c0f38ec03e7aa816aa3afa6d01c9/photo.jpg"
   },
   {
     "id": "ba2aefa4d1207da55cbdf9849949d8750147a0a68708414524b150cc9495ddbb",
@@ -988,6 +988,16 @@
     "published": "2026-09-30T08:48:00+00:00",
     "description": "密漁を助けた疑いで新たに62歳男を逮捕 これまで9人逮捕のナマコ密漁事件 ボンベに空気を充填 暴力団介在も視野に捜査 北海道稚内市 au Webポータル",
     "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/09/30/https___news_jp_i_1477950732015321707_w1200.webp"
+  },
+  {
+    "id": "dd480bd46fd1d23cce8e4c2651583e624a41f5a7a9d4c177fdd693be53281d2d",
+    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlQ2swZkVYdVV2UHNuOXEtdExRNXE4eUozem5neHRpamU0QXdkZ2tkM2NPQmp3QXMyYVZZNncwMnJNR0NkU0hQWlc2cWlDWDZhZ3l1czNEQ0tvRDMxQ3BBMlZveXVqNGF6MmgxYWgzMS0tak1fMWtwOXpuZDlQV1U?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/db106108b37326720cfa00e7943f457333535ac0",
+    "title": "ナマコ密漁事件…ボート転覆で1人死亡―実行役にボンベ提供か“漁業法違反幇助”の疑いで札幌市の62歳男を逮捕―暴力団やトクリュウとの関連も視野に捜査〈北海道稚内市〉 - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-09-30T07:00:00+00:00",
+    "description": "ナマコ密漁事件…ボート転覆で1人死亡―実行役にボンベ提供か“漁業法違反幇助”の疑いで札幌市の62歳男を逮捕―暴力団やトクリュウとの関連も視野に捜査〈北海道稚内市〉 Yahoo!ニュース",
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260930-90062474-hokkaibunv-000-1-view.jpg?exp=10800"
   },
   {
     "id": "0f2c7f7f4309c9471ca6e565ea6ccd404827a80ad212cb94d63facb19865ccb5",
@@ -1488,15 +1498,5 @@
     "published": "2026-09-25T03:02:00+00:00",
     "description": "もう霜が…今季 全国で初めて氷点下に 北海道稚内市郊外でマイナス0.4℃観測 上空の寒気と晴れたことによる放射冷却の影響 | 北海道のニュース｜HBC北海道放送 TBS NEWS DIG",
     "image": null
-  },
-  {
-    "id": "30e8058fd29848770b5b7a49cac595116682a7239b56f3bbccbd94d3ee7fc4f0",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jZW9QSXdGejJnbXV1aWxSZ2tRSk0xMk0yS1ZlVGlQQUxaVGpjeWZubWF4WnhsX3lpdHNpSHRxSUhPT2drdlJ6cGxtdDNIQQ?oc=5",
-    "url": "https://www.fnn.jp/articles/-/1120760",
-    "title": "【北海道各地で冷え込み強まる】稚内市沼川で今季全国初の“氷点下0.4℃”！草木に霜が…＿大沼では幻想的な「けあらし」も発生＿日中は20℃前後まで気温上昇し寒暖差大きいため〈体調管理に注意を〉 - FNNプライムオンライン",
-    "source": "FNNプライムオンライン",
-    "published": "2026-09-25T02:55:00+00:00",
-    "description": "【北海道各地で冷え込み強まる】稚内市沼川で今季全国初の“氷点下0.4℃”！草木に霜が…＿大沼では幻想的な「けあらし」も発生＿日中は20℃前後まで気温上昇し寒暖差大きいため〈体調管理に注意を〉 FNNプライムオンライン",
-    "image": "https://fnn.ismcdn.jp/mwimgs/4/1/600/img_41bd9088ea608f35803f89d5230c8f0a124954.jpg"
   }
 ]
