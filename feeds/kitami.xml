@@ -6,7 +6,17 @@
     <description>北見の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/kitami.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 17 Oct 2026 08:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 11:30:00 +0000</lastBuildDate>
+    <item>
+      <title>北見・オホーツク（１０月１８日付）おくやみ - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1391618/</link>
+      <pubDate>Sat, 17 Oct 2026 11:30:00 +0000</pubDate>
+      <guid isPermaLink="false">65169c32e67b9b0e0ae4a100987f89dfebce9119ecfed03d7ca9379f297fb014</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" />
+      <media:content url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見・オホーツク（１０月１８日付）おくやみ 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+    </item>
     <item>
       <title>２０２６年９月３０日オープン♪立ち飲みスタイルの小さな美味しいカフェ♪ 北見 ICHI COFFEE/イチコーヒー - YouTube</title>
       <link>https://www.youtube.com/watch?v=7q0Eb504jsY&amp;feature=youtu.be</link>
@@ -384,16 +394,6 @@
       <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/6/b/1/b/6b1b035e726156ccd7846e38a5cbe787_1.webp?20261014205205" alt="" /&gt;&lt;/p&gt;&lt;p&gt;パソコン室機材再活用 北見・美山小がモニターなど33台で「情報の見える化」 児童も画像制作 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
     </item>
     <item>
-      <title>キャンプ愛好家でにぎわう 北見で「KITAMI CAMP TIME2026」 たき火囲んで交流 - 47NEWS</title>
-      <link>https://www.47news.jp/15080118.html</link>
-      <pubDate>Wed, 14 Oct 2026 05:53:17 +0000</pubDate>
-      <guid isPermaLink="false">f745d8cf82220c0bdf0144dcfe344d0e41352d0114a9bf8b517ae5a5a8f047de</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">47NEWS</source>
-      <media:thumbnail url="https://img.cf.47news.jp/public/photo/93f26b80c06e5b6cd996ba27dc4b4a30/photo.jpg" />
-      <media:content url="https://img.cf.47news.jp/public/photo/93f26b80c06e5b6cd996ba27dc4b4a30/photo.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://img.cf.47news.jp/public/photo/93f26b80c06e5b6cd996ba27dc4b4a30/photo.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;キャンプ愛好家でにぎわう 北見で「KITAMI CAMP TIME2026」 たき火囲んで交流 47NEWS&lt;/p&gt;&lt;p&gt;配信元: 47NEWS&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>キャンプ愛好家でにぎわう 北見で「KITAMI CAMP TIME2026」 たき火囲んで交流 - 北海道新聞デジタル</title>
       <link>https://www.hokkaido-np.co.jp/article/1389302/</link>
       <pubDate>Wed, 14 Oct 2026 05:53:17 +0000</pubDate>
@@ -402,6 +402,16 @@
       <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/f/6/8/7/f687c146ae2b2b468f8524309a4668a8_1.webp?20261014150637" />
       <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/f/6/8/7/f687c146ae2b2b468f8524309a4668a8_1.webp?20261014150637" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/f/6/8/7/f687c146ae2b2b468f8524309a4668a8_1.webp?20261014150637" alt="" /&gt;&lt;/p&gt;&lt;p&gt;キャンプ愛好家でにぎわう 北見で「KITAMI CAMP TIME2026」 たき火囲んで交流 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>キャンプ愛好家でにぎわう 北見で「KITAMI CAMP TIME2026」 たき火囲んで交流 - 47NEWS</title>
+      <link>https://www.47news.jp/15080118.html</link>
+      <pubDate>Wed, 14 Oct 2026 05:53:17 +0000</pubDate>
+      <guid isPermaLink="false">f745d8cf82220c0bdf0144dcfe344d0e41352d0114a9bf8b517ae5a5a8f047de</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">47NEWS</source>
+      <media:thumbnail url="https://img.cf.47news.jp/public/photo/93f26b80c06e5b6cd996ba27dc4b4a30/photo.jpg" />
+      <media:content url="https://img.cf.47news.jp/public/photo/93f26b80c06e5b6cd996ba27dc4b4a30/photo.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.cf.47news.jp/public/photo/93f26b80c06e5b6cd996ba27dc4b4a30/photo.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;キャンプ愛好家でにぎわう 北見で「KITAMI CAMP TIME2026」 たき火囲んで交流 47NEWS&lt;/p&gt;&lt;p&gt;配信元: 47NEWS&lt;/p&gt;</description>
     </item>
     <item>
       <title>キャンプ愛好家でにぎわう　北見で「KITAMI CAMP TIME2026」　たき火囲んで交流 - ｄメニューニュース</title>
@@ -1476,14 +1486,6 @@
       <media:thumbnail url="https://img.topics.smt.news.goo.ne.jp/-/20260916102946/img/dmenu_service-brand-logo_200x200.png" />
       <media:content url="https://img.topics.smt.news.goo.ne.jp/-/20260916102946/img/dmenu_service-brand-logo_200x200.png" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://img.topics.smt.news.goo.ne.jp/-/20260916102946/img/dmenu_service-brand-logo_200x200.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;消費者金融・クレジットカードの借金に悩む人へ　10月9日北見で無料相談会　北海道財務局 ｄメニューニュース&lt;/p&gt;&lt;p&gt;配信元: ｄメニューニュース&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>「今日どこ行こう？」をもっと簡単に。北見・網走・オホーツクの地域イベント情報サイト「イベ掘る」β版を公開 - ニコニコニュース</title>
-      <link>https://news.nicovideo.jp/watch/nw19854551?news_ref=watch_60_nw19797204</link>
-      <pubDate>Wed, 07 Oct 2026 06:00:30 +0000</pubDate>
-      <guid isPermaLink="false">275e37b935265b04c1465ace1b748f86ff9013f84c59ca3e7929ba403694e119</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">ニコニコニュース</source>
-      <description>&lt;p&gt;「今日どこ行こう？」をもっと簡単に。北見・網走・オホーツクの地域イベント情報サイト「イベ掘る」β版を公開 ニコニコニュース&lt;/p&gt;&lt;p&gt;配信元: ニコニコニュース&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
