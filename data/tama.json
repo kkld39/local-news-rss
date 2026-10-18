@@ -213,10 +213,10 @@
     "id": "b02b6cd9d1adf1a4e42b10ce95224bfe0664f0d1bd754a69b98c0c6a3c8dbd09",
     "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mODJ0c2o3MEFhdGhEVmVyUU5CeUNCbDFXOTFmV0czQlhCdEozc0ljbzRtN2hxMjNMQzNOQm5IV1B4VkFxTEc2cHNUdE45WkJnX1hHQ1JFTQ?oc=5",
     "url": "https://www.famitsu.com/article/202610/91058",
-    "title": "eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す - ファミ通.com",
-    "source": "ファミ通.com",
+    "title": "eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す - ファミ通",
+    "source": "ファミ通",
     "published": "2026-10-15T09:56:00+00:00",
-    "description": "eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す ファミ通.com",
+    "description": "eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す ファミ通",
     "image": "https://cimg.kgl-systems.io/camion/files/91058/thumbnail_HPqr.jpg?x=1280"
   },
   {
@@ -740,6 +740,16 @@
     "image": "https://img.topics.smt.news.goo.ne.jp/-/20261009110318/img/dmenu_service-brand-logo_200x200.png"
   },
   {
+    "id": "2b3df765b5a0a0b744980df73917a1b827936fc3ef7ac04a736e2a30f5f4e2cc",
+    "google_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Na0xMLVYxQTl0SV9semo5b1EwRWk0TFV5dmZLMzhIaGMtWlRTc1ZsSjBsVkFMZjhPdDhGQTBPMmlDdUIxSmJZbWR4dmNDUldXZGtTLVRpdUl5Z3ZmeHVJSzJlNFVzUQ?oc=5",
+    "url": "https://tamapon.com/2026/10/09/49th-tamashiminbunkasai/",
+    "title": "第49回多摩市民文化祭が10/11(日)〜11/8(日)開催！多摩市内3会場で多彩な文化・芸術イベント - 多摩ポン",
+    "source": "多摩ポン",
+    "published": "2026-10-09T07:00:00+00:00",
+    "description": "第49回多摩市民文化祭が10/11(日)〜11/8(日)開催！多摩市内3会場で多彩な文化・芸術イベント 多摩ポン",
+    "image": "https://tamapon.com/wp-content/uploads/2026/10/49_poster_rev.jpeg"
+  },
+  {
     "id": "fb0979b572537df91548004c36c2c601a5e86c51a7131c44a3a022877714fee5",
     "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRE9pXzJMU1JhYS1sc3E3WER3eEo0QWw1SFJYd2Z2VWg4R2c2SW9KWjc5aHZZNThzN3hMNUlhZjhQY0NHT1Q1SGVmTDkzdVVLc21Hb1FLYWoxbkdkWlRWajh1M3VFYUdDcTdReGx1SmVnbXBfX1RMMkd6bkQzWmNUOQ?oc=5",
     "url": "https://digital.kentsu.co.jp/articles/artcl_rglr/01M47ZZWX3CQPYE4DX0D7GTH06",
@@ -748,16 +758,6 @@
     "published": "2026-10-09T07:00:00+00:00",
     "description": "多摩市 庁舎建替の発注に向けサウンディング調査 10月20日まで受付 建通新聞",
     "image": "https://digital.kentsu.co.jp/logo_sns.png"
-  },
-  {
-    "id": "2b3df765b5a0a0b744980df73917a1b827936fc3ef7ac04a736e2a30f5f4e2cc",
-    "google_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Na0xMLVYxQTl0SV9semo5b1EwRWk0TFV5dmZLMzhIaGMtWlRTc1ZsSjBsVkFMZjhPdDhGQTBPMmlDdUIxSmJZbWR4dmNDUldXZGtTLVRpdUl5Z3ZmeHVJSzJlNFVzUQ?oc=5",
-    "url": "https://tamapon.com/2026/10/09/49th-tamashiminbunkasai/",
-    "title": "第49回多摩市民文化祭が10/11(日)〜11/8(日)開催！多摩市内3会場で多彩な文化・芸術イベント - 多摩ポン",
-    "source": "多摩ポン",
-    "published": "2026-10-09T01:11:49+00:00",
-    "description": "第49回多摩市民文化祭が10/11(日)〜11/8(日)開催！多摩市内3会場で多彩な文化・芸術イベント 多摩ポン",
-    "image": "https://tamapon.com/wp-content/uploads/2026/10/49_poster_rev.jpeg"
   },
   {
     "id": "aee54efcfc3184cd84e5d3c7c578a2e4cb578aab35a9f66fea112a16117f3c02",
@@ -1190,6 +1190,16 @@
     "image": "https://img.topics.smt.news.goo.ne.jp/-/20260916102946/img/dmenu_service-brand-logo_200x200.png"
   },
   {
+    "id": "3b188e1f56ea0988bfaf729b20172546eb250cf10a737a6291c3c69e6e383b39",
+    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XT3lzYnhRemk0NTVGcmhBRlVzR3FQc1djUmZCa2lMVEVPRjdPTXVxWXlrRGVPNXprYmt0RUxkczBEZmQzU2hwRXJ2eVUzZ0lKOGlpazVIbU5RdHlTV1RpRFJYaEZTaGMwd1J5aC1tcUdhM1BocEtFSzRFMXpLZ0U?oc=5",
+    "url": "https://tama-inagi.goguynet.jp/2026/10/06/tama-city-iceland-machibar-2026/",
+    "title": "【多摩市】聖蹟桜ヶ丘・多摩センターで“アイスランドを食べ歩く”！11月に「第2回 多摩市アイスランド風まちバル」開催決定 - 地域ニュースサイト号外NET",
+    "source": "地域ニュースサイト号外NET",
+    "published": "2026-10-06T07:00:00+00:00",
+    "description": "【多摩市】聖蹟桜ヶ丘・多摩センターで“アイスランドを食べ歩く”！11月に「第2回 多摩市アイスランド風まちバル」開催決定 地域ニュースサイト号外NET",
+    "image": "https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/10/main-1.jpg"
+  },
+  {
     "id": "692c74fc1777d46e3ad57a5152d0204229993f0d389a57d811bbb4e1d319375c",
     "google_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE10X0NoYlU1SWNieU1BVFZUSGFQY21KZTBWYzFyUFFsX2FLUTZaUkZsTDRCX0hKWmxRVEQ1QTlrX05fa2M?oc=5",
     "url": "https://digitalpr.jp/r/145156",
@@ -1218,16 +1228,6 @@
     "published": "2026-10-06T05:00:00+00:00",
     "description": "【京王ストア】産官学連携企画からだ幸せごはん～秋香るたんぱく弁当～を京王ストアにて販売します 商品開発した駒沢女子大学学生による店頭販売も実施！ Infoseek",
     "image": "https://media.image.infoseek.co.jp/isnews/photos/digitalprplatform/digitalprplatform_145156_0.png"
-  },
-  {
-    "id": "3b188e1f56ea0988bfaf729b20172546eb250cf10a737a6291c3c69e6e383b39",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XT3lzYnhRemk0NTVGcmhBRlVzR3FQc1djUmZCa2lMVEVPRjdPTXVxWXlrRGVPNXprYmt0RUxkczBEZmQzU2hwRXJ2eVUzZ0lKOGlpazVIbU5RdHlTV1RpRFJYaEZTaGMwd1J5aC1tcUdhM1BocEtFSzRFMXpLZ0U?oc=5",
-    "url": "https://tama-inagi.goguynet.jp/2026/10/06/tama-city-iceland-machibar-2026/",
-    "title": "【多摩市】聖蹟桜ヶ丘・多摩センターで“アイスランドを食べ歩く”！11月に「第2回 多摩市アイスランド風まちバル」開催決定 - 地域ニュースサイト号外NET",
-    "source": "地域ニュースサイト号外NET",
-    "published": "2026-10-05T22:11:54+00:00",
-    "description": "【多摩市】聖蹟桜ヶ丘・多摩センターで“アイスランドを食べ歩く”！11月に「第2回 多摩市アイスランド風まちバル」開催決定 地域ニュースサイト号外NET",
-    "image": "https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/10/main-1.jpg"
   },
   {
     "id": "1c64f8b7fe87ff83a1bfb3cb69d62c3a67d23e41becd63860ab2a69cb3d1a2b2",
