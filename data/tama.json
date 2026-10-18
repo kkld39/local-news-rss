@@ -223,10 +223,10 @@
     "id": "b02b6cd9d1adf1a4e42b10ce95224bfe0664f0d1bd754a69b98c0c6a3c8dbd09",
     "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mODJ0c2o3MEFhdGhEVmVyUU5CeUNCbDFXOTFmV0czQlhCdEozc0ljbzRtN2hxMjNMQzNOQm5IV1B4VkFxTEc2cHNUdE45WkJnX1hHQ1JFTQ?oc=5",
     "url": "https://www.famitsu.com/article/202610/91058",
-    "title": "eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す - ファミ通",
-    "source": "ファミ通",
+    "title": "eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す - ファミ通.com",
+    "source": "ファミ通.com",
     "published": "2026-10-15T09:56:00+00:00",
-    "description": "eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す ファミ通",
+    "description": "eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す ファミ通.com",
     "image": "https://cimg.kgl-systems.io/camion/files/91058/thumbnail_HPqr.jpg?x=1280"
   },
   {
@@ -840,6 +840,16 @@
     "image": "https://img.topics.smt.news.goo.ne.jp/picture/townnews/m_townnews-856108.jpg"
   },
   {
+    "id": "9dd64f949da311a4a2ec4470e0b6ea206b201bc82eae6d8e0517b51362141b8a",
+    "google_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUXdmYmN3VTg3M0VCeXFFVnlGLVBEQy1SZkxFYWtDVWNQTU01LUFKWDl6TXdqTGpGRDhjb1I4U1YzOThObml3b3k4aW5hX2hIWjBIS1ZuNnZFRGFIZWc0SFJQUklyUFU4dTJiRGdEY2kxTDBCUFJ3d0tWMWVncjE3UVJLOA?oc=5",
+    "url": "https://www.yomiuri.co.jp/local/tokyo23/feature/CO068336/20261008-GYTAT00001/",
+    "title": "東京：高浜虚子 〈２９〉 多摩の横山先人想う ：地域ニュース - 読売新聞",
+    "source": "読売新聞",
+    "published": "2026-10-08T07:00:00+00:00",
+    "description": "東京：高浜虚子 〈２９〉 多摩の横山先人想う ：地域ニュース 読売新聞",
+    "image": "https://www.yomiuri.co.jp/media/2026/10/20261008-GYTAI00004-1.jpg?type=ogp"
+  },
+  {
     "id": "24b7028c45849b53af6069e416e43f23e68a79b9df0f2db94efa0e688b1424ba",
     "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EdXdlaUFTMzlDZFZzRG1tejk2VWtqOUFPa2ZSelV6RWl4bmp6UUFWN2FrdUVINFUxSU5WWEFuMThYTURVWnhISlhTaXpFdlZyUDJXVE4wTTByYUZzTUNlUWh2RU00eE96V1NaWUxn?oc=5",
     "url": "https://article.auone.jp/118e6c5d-a7f9-45d9-990d-1f891522840c",
@@ -888,16 +898,6 @@
     "published": "2026-10-08T00:00:00+00:00",
     "description": "市民が実証 新移動手段へ　自動走行モビリティ実証〈多摩市〉 ｄメニューニュース",
     "image": "https://img.topics.smt.news.goo.ne.jp/picture/townnews/m_townnews-856141.jpg"
-  },
-  {
-    "id": "9dd64f949da311a4a2ec4470e0b6ea206b201bc82eae6d8e0517b51362141b8a",
-    "google_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUXdmYmN3VTg3M0VCeXFFVnlGLVBEQy1SZkxFYWtDVWNQTU01LUFKWDl6TXdqTGpGRDhjb1I4U1YzOThObml3b3k4aW5hX2hIWjBIS1ZuNnZFRGFIZWc0SFJQUklyUFU4dTJiRGdEY2kxTDBCUFJ3d0tWMWVncjE3UVJLOA?oc=5",
-    "url": "https://www.yomiuri.co.jp/local/tokyo23/feature/CO068336/20261008-GYTAT00001/",
-    "title": "東京：高浜虚子 〈２９〉 多摩の横山先人想う ：地域ニュース - 読売新聞",
-    "source": "読売新聞",
-    "published": "2026-10-07T20:00:00+00:00",
-    "description": "東京：高浜虚子 〈２９〉 多摩の横山先人想う ：地域ニュース 読売新聞",
-    "image": "https://www.yomiuri.co.jp/media/2026/10/20261008-GYTAI00004-1.jpg?type=ogp"
   },
   {
     "id": "0ed8a5dfd55631480d56d5ff28c3183ed9edbd49de5b89699743e53dd05291bd",
