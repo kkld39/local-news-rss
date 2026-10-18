@@ -260,6 +260,16 @@
     "image": "https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg"
   },
   {
+    "id": "4b2eb9a88d83a4f960cdd6e7c0a1724a77da961f1691e862f51b646f34b89691",
+    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Yc3BEeGFDcUlLVmhvcUdGcmVoYmlPSjRJVVFrd3hxanc5Q0JOX0tIbTl1ek5fYzJPLXNIeVlzbG5kSkJ6VDlOazJDaHNkSHBzN25pSWVwTjBXY3pQbmRoUkJ6WHZLd2M2?oc=5",
+    "url": "https://tenki.jp/bousai/typhoon/storm/2629/1/1/1100/1120/",
+    "title": "台風29号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp",
+    "source": "tenki.jp",
+    "published": "2026-10-13T18:00:00+00:00",
+    "description": "台風29号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
+    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
+  },
+  {
     "id": "f9ef70022a9ad5de479f9ff7454632ab583a6aa0cbaacab7556f6922ffb7b2b4",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85cmxoNnJYNi03NVNrY3RnTHZ4dzdaUXhETVVmaFBLczNldHJ0aWdNWHJiZmI0bWNTMlFpRHUzMzhZZzFqYTVaejU5dmdjejdneVkxdHNld2g0dw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1388688/",
@@ -748,16 +758,6 @@
     "published": "2026-10-06T07:00:00+00:00",
     "description": "南極の海面上昇リスクと地球温暖化の脅威 観測船しらせ隊長が「海氷がない」と明かす異変の実態 北海道稚内市 TBS NEWS DIG",
     "image": "https://newsdig.ismcdn.jp/mwimgs/7/d/1200w/img_7d29ec2300bdedea85878100819155dd164317.jpg"
-  },
-  {
-    "id": "4b2eb9a88d83a4f960cdd6e7c0a1724a77da961f1691e862f51b646f34b89691",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Yc3BEeGFDcUlLVmhvcUdGcmVoYmlPSjRJVVFrd3hxanc5Q0JOX0tIbTl1ek5fYzJPLXNIeVlzbG5kSkJ6VDlOazJDaHNkSHBzN25pSWVwTjBXY3pQbmRoUkJ6WHZLd2M2?oc=5",
-    "url": "https://tenki.jp/bousai/typhoon/storm/2629/1/1/1100/1120/",
-    "title": "台風29号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp",
-    "source": "tenki.jp",
-    "published": "2026-10-06T01:25:22+00:00",
-    "description": "台風29号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
-    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
   },
   {
     "id": "034578b8b1970ecc9b558a57c2f508b0f30185fc5970d14fa2238b3ba0bd31bc",
@@ -1360,16 +1360,6 @@
     "image": "https://j-defense.ikaros.jp/img/jdn/list/006/016/01.jpg"
   },
   {
-    "id": "afa4ba0cf22e69e1bb232b37122bb9e12076eeab3d82acce06f3de3c947f77ed",
-    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81STE3UVRXbVVCc2k5QlRpOTVXMXRCa2kybFlaeXpxR19QcDVwQnRKLWR0WkxrQXdldlRvdW9IWW1XemdMdEdlNE5adTNwZHFSeFZjdnR6QmdKcElITDNYRmFpWmlTcVFjb3lGcmNGMA?oc=5",
-    "url": "https://topics.smt.docomo.ne.jp/article/fnn/nation/fnn-1120643",
-    "title": "北海道で今季初の氷点下 稚内市で−0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み（FNNプライムオンライン） - ｄメニューニュース",
-    "source": "ｄメニューニュース",
-    "published": "2026-09-25T07:00:00+00:00",
-    "description": "北海道で今季初の氷点下 稚内市で−0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み（FNNプライムオンライン） ｄメニューニュース",
-    "image": "https://img.topics.smt.news.goo.ne.jp/picture/fnn/m_fnn-1120643.jpg"
-  },
-  {
     "id": "720fccc130af7de835cb3f635957a1424383354af29f9049b47f7c89f09668f2",
     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DeDNOSGkxUl9jX2REWmlDSVJvTi1oRE1ENDQ2bTJRSlcwVXVtWUZLUXBERmdScmZrbElLQk9oRTY0d20yWWdacHp5R0FHUQ?oc=5",
     "url": "https://www.fnn.jp/articles/-/1120643",
@@ -1378,6 +1368,16 @@
     "published": "2026-09-25T07:00:00+00:00",
     "description": "北海道で今季初の氷点下 稚内市で－0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み FNNプライムオンライン",
     "image": "https://fnn.ismcdn.jp/mwimgs/a/0/600/img_a0778bb1660dc713b2f6e506e6e222dc75552.jpg"
+  },
+  {
+    "id": "afa4ba0cf22e69e1bb232b37122bb9e12076eeab3d82acce06f3de3c947f77ed",
+    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81STE3UVRXbVVCc2k5QlRpOTVXMXRCa2kybFlaeXpxR19QcDVwQnRKLWR0WkxrQXdldlRvdW9IWW1XemdMdEdlNE5adTNwZHFSeFZjdnR6QmdKcElITDNYRmFpWmlTcVFjb3lGcmNGMA?oc=5",
+    "url": "https://topics.smt.docomo.ne.jp/article/fnn/nation/fnn-1120643",
+    "title": "北海道で今季初の氷点下 稚内市で−0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み（FNNプライムオンライン） - ｄメニューニュース",
+    "source": "ｄメニューニュース",
+    "published": "2026-09-25T07:00:00+00:00",
+    "description": "北海道で今季初の氷点下 稚内市で−0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み（FNNプライムオンライン） ｄメニューニュース",
+    "image": "https://img.topics.smt.news.goo.ne.jp/picture/fnn/m_fnn-1120643.jpg"
   },
   {
     "id": "a75fb2917ccd1e95631862e7b2680dd1fdc209e445ef92c327bdee16bbd488d9",

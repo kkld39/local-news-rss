@@ -1,5 +1,15 @@
 [
   {
+    "id": "2aef44af089689b9cbc3e5d875067da985b82447ac91ed6be41a45f704e5cdfe",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xSWIwWUhJcmVvNmh2NWsyejBSR1BxcENSeW1raE5HLWZPWG9NeGlQLWZUSHNLanYtbWZPUHF1bERJVk5INkg5NWU3dEpBRWNoNXY1QTI5MFBkQQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1391851/",
+    "title": "第66回北見合唱祭に17団体270人 北見緑陵高吹奏楽部も歌声披露 - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-10-18T05:36:08+00:00",
+    "description": "第66回北見合唱祭に17団体270人 北見緑陵高吹奏楽部も歌声披露 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/8/c/8/1/8c81a991587191197f7ae3f58493c5c6_1.webp?20261018143811"
+  },
+  {
     "id": "65169c32e67b9b0e0ae4a100987f89dfebce9119ecfed03d7ca9379f297fb014",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zR2JXYUx6bGIwNlR6QzY4elNzd1dpVXY5MW9DVGxtNkJDeVFfTzZYNkUwTVBrZEJobXBOaS1sbGlNTWJrVlhKY2MwakViVWUyYllMX1FwOUk3QQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1391618/",
@@ -20,16 +30,6 @@
     "image": null
   },
   {
-    "id": "5e2218690eb9e62370ba6479edcc59ec2edd63a6d312c58783e1027a784c410f",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HSXJ4LVVuT2ZDV2dENjhxRFVSNU1ObGxzakphc1Z3THNBRnltMWh4UXJBTHFoTW5BZlpScXVUVW5kX0xncUdELTRVaw?oc=5",
-    "url": "https://www.47news.jp/15096573.html",
-    "title": "北見工業高の魅力発信の北工フェス、高校生自作のクレーンゲーム楽しむ - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-10-17T07:39:59+00:00",
-    "description": "北見工業高の魅力発信の北工フェス、高校生自作のクレーンゲーム楽しむ 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/3b001a538313ab4489cc2d20cb22a4d0/photo.jpg"
-  },
-  {
     "id": "553e3391f1adfd3f633fd545a6e242c1df78da0491fab9964677073797b941d6",
     "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GeUlNQlJRWWxyTlh0WE1YdDV6Uk9QSlFQT2R5dFRiMEJQdFRVN19fMlQ3MWU5Xzk3c1B1eENUemZ3M0ptUzN4YkpPQ1Z4cFpxdTVKX2g2dkw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1391580/",
@@ -38,6 +38,16 @@
     "published": "2026-10-17T07:39:59+00:00",
     "description": "北見工業高の魅力発信の北工フェス、高校生自作のクレーンゲーム楽しむ 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/8/b/b/8/8bb8dd6fab2545e11e6ccbdac985d008_1.webp?20261017182149"
+  },
+  {
+    "id": "5e2218690eb9e62370ba6479edcc59ec2edd63a6d312c58783e1027a784c410f",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HSXJ4LVVuT2ZDV2dENjhxRFVSNU1ObGxzakphc1Z3THNBRnltMWh4UXJBTHFoTW5BZlpScXVUVW5kX0xncUdELTRVaw?oc=5",
+    "url": "https://www.47news.jp/15096573.html",
+    "title": "北見工業高の魅力発信の北工フェス、高校生自作のクレーンゲーム楽しむ - 47NEWS",
+    "source": "47NEWS",
+    "published": "2026-10-17T07:39:59+00:00",
+    "description": "北見工業高の魅力発信の北工フェス、高校生自作のクレーンゲーム楽しむ 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/3b001a538313ab4489cc2d20cb22a4d0/photo.jpg"
   },
   {
     "id": "afa58972f02dac7e0133d766f21d0516e2a48b12e8e2903b6894ec1051dc107b",
@@ -1488,15 +1498,5 @@
     "published": "2026-10-07T06:56:31+00:00",
     "description": "消費者金融・クレジットカードの借金に悩む人へ 10月9日北見で無料相談会 北海道財務局 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
-  },
-  {
-    "id": "59fab153e593379f282a82c787de2367cdf1aa0430078597a83cd62e421abb74",
-    "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtTEhyU3pzMkpPWEVVamFFb2d1c2gtTlN3NlpRWE1kX3ZkSVFkTS1meXVOejRKSnJ2Y2VQZ2E5Sm9lSGgyUnZTWGhsaWhoOWw2ZlpUMmFjLUt0cnJzZW00UjN3aFNsemhUSS1wS2xoLTdsRW9tSmpzRWxxbTfSAYIBQVVfeXFMTmsyYW9lcVRHYVF3aUlRTFdXV3ZrLXpVbWtfR2pIREFFa2JtZnE0Z05QMk5Od1N2NnUza0p6OUpjeTFZY2NYcnJPekIzbDhmektqMW1nSEo0OFBoODlFUzJZTTdkNF9HMG00NTg0LWxJcHY4Umw0TDkyZ2hqQkVQcktvdw?oc=5",
-    "url": "https://topics.smt.docomo.ne.jp/article/hokkaido/region/hokkaido-1385503",
-    "title": "消費者金融・クレジットカードの借金に悩む人へ　10月9日北見で無料相談会　北海道財務局 - ｄメニューニュース",
-    "source": "ｄメニューニュース",
-    "published": "2026-10-07T06:56:00+00:00",
-    "description": "消費者金融・クレジットカードの借金に悩む人へ　10月9日北見で無料相談会　北海道財務局 ｄメニューニュース",
-    "image": "https://img.topics.smt.news.goo.ne.jp/-/20260916102946/img/dmenu_service-brand-logo_200x200.png"
   }
 ]

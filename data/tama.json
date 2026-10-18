@@ -1,5 +1,15 @@
 [
   {
+    "id": "e0c34799edf333c357494bd58d715474944d89c9a811c7c24c2e6fcb585c8457",
+    "google_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWUx2NTAxa0hMX0xSR2hKYUFaM0dqLTVzelVyXzl1VHhwZU9qcGJ3QzhhUkpFUHJyMnFqZl9MYlNJOWlTQ29DX1g0MGVqcDl4VzBoLVZxelZrY2kxTEwxQzZmSmZDOXpBdE95WVBMcWNNMjFpREtsdElHYVBHbl9Sdkg2bTRiY1NUeTFqazh0ZkJHeGc0b0E?oc=5",
+    "url": "https://www.spaceref.com/%E5%A4%A9%E6%B0%97/%E6%97%A5%E6%9C%AC/%E5%A4%9A%E6%91%A9%E5%B8%82/",
+    "title": "多摩市、東京都の時間別天気予報 - SpaceRef",
+    "source": "SpaceRef",
+    "published": "2026-10-18T01:10:12+00:00",
+    "description": "多摩市、東京都の時間別天気予報 SpaceRef",
+    "image": "https://www.spaceref.com/images/meteo-page.jpg"
+  },
+  {
     "id": "4926dec26c9c7329df2d1969e094e6a12d21da306b315f1f64fc8aad58cb3a97",
     "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUYVd3ZXV2c0x4cHdSc0N1Y2lFa1Rldmp4Q1ZjVUFhcDIxM01ZUHQtOElwQVFTeWRxXzFHTG8xdDlPWW0tWlNySUxzUHNsRDlaRDRKRUU2SzNzX1pxWC1kSDRkYjA?oc=5",
     "url": "https://tama-inagi.goguynet.jp/2026/10/18/miyabi-prep/",
@@ -48,6 +58,16 @@
     "published": "2026-10-16T22:11:01+00:00",
     "description": "【多摩市】永山バンケット第2弾の１日目は、大盛り上がりでした。明日10月18日まで開催！！ 地域ニュースサイト号外NET",
     "image": "https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/10/nagayama-banquet-view.png"
+  },
+  {
+    "id": "5d0f6e978dc5db92e325e8294f725d7e4498d2cf88b0ae418d4122e4ab8cc73e",
+    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kbUdyRllxZUJCN1NqM01feVdaMk91NXUwXzR3MUR6Z3NVTllDclQ5Y2NKLXVna1RKLW9yb0V4enlGR0Z0NnA0aWIyeGFqUEJjc0tNVzZueE9jSUYwSTg1TUh1dDQ1Vld4?oc=5",
+    "url": "https://news.nicovideo.jp/watch/nw19888858?news_ref=20_20",
+    "title": "多摩市とアイスランド・レイキャビク市が姉妹都市提携。市内20店舗で「アイスランド風まちバル」を開催！ - ニコニコニュース",
+    "source": "ニコニコニュース",
+    "published": "2026-10-16T17:15:24+00:00",
+    "description": "多摩市とアイスランド・レイキャビク市が姉妹都市提携。市内20店舗で「アイスランド風まちバル」を開催！ ニコニコニュース",
+    "image": null
   },
   {
     "id": "29936ce0e81af424f363003726ef27d0e3a8ccef0cc7ff9fd40fbba14deaea24",
@@ -1478,25 +1498,5 @@
     "published": "2026-10-02T05:35:28+00:00",
     "description": "第2回「多摩市アイスランド風まちバル」11月開催 MANTANWEB",
     "image": "https://prtimes.jp/img/191699/1/resize/d191699-1-40fd6ac41f0f7ff36486-0.jpg"
-  },
-  {
-    "id": "b830537f416b2023dd08fb63ccce39a50a470f098a659bc75e41c3889ecd1ed7",
-    "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE52S0hfSGdHSndNZWZTZnlzRlNQcVFQVWppUThQYm12V0lkYTVFN0xOME14a19LSzJVNXQtTWZUcWY0WnBDdEdJV0JKQU03WGI5N191XzkzYUtQZEpzZDk1X2phVXU3NXZPNWUzNmlIb0tsQQ?oc=5",
-    "url": "https://crea.bunshun.jp/ud/pressrelease/6abf3e057079c8873f000007",
-    "title": "第2回「多摩市アイスランド風まちバル」11月開催 - CREA WEB",
-    "source": "CREA WEB",
-    "published": "2026-10-02T05:24:04+00:00",
-    "description": "第2回「多摩市アイスランド風まちバル」11月開催 CREA WEB",
-    "image": "https://crea.bunshun.jp/common/crea/images/crea-ogp-image.png"
-  },
-  {
-    "id": "508e217a483820c41b3e3a0b5b1ace553af4ec105e636a54d266bd578b8ccaa2",
-    "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14VGhLODEwdWFNeEZWQ3FrZVpkQXRnbVByZ3F1bHBYS1ZTdHhacHJvX2lvQ2VJTW9KYy1KdXVrMmQxRVhPVS0wd2RvQUNlenpleDlfcjJrYkIwUmprX3hZMGlR?oc=5",
-    "url": "https://news.livedoor.com/pr_topics/detail/32471096/",
-    "title": "第2回「多摩市アイスランド風まちバル」11月開催 (2026年10月2日掲載) - ライブドアニュース",
-    "source": "ライブドアニュース",
-    "published": "2026-10-02T04:30:00+00:00",
-    "description": "第2回「多摩市アイスランド風まちバル」11月開催 (2026年10月2日掲載) ライブドアニュース",
-    "image": "https://image.news.livedoor.com/newsimage/stf/3/4/3422a_1863_a3941785_c771b3d6.jpg"
   }
 ]
