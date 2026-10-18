@@ -1,5 +1,15 @@
 [
   {
+    "id": "bc0882153cf30f3cd1cfdb7369d2a69239f96ff660d6f965bbbf78590daeb721",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55LWdtWjNfdHBOYlB3MklDVHNRS2M3djU2bFpZZ2xMM3VlNnJYbDVmcXlWVWg0RXh2SDQ4LVdjMUV2czRFMUpBZzJpLWNualhBNi10dHZvTnItUQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1391924/",
+    "title": "留萌・宗谷（１０月１９日付）のおくやみ情報はありません - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-10-18T11:30:00+00:00",
+    "description": "留萌・宗谷（１０月１９日付）のおくやみ情報はありません 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
     "id": "8e536ae2385456e82f607a48de85d5755ef9a606435239bfa0f0dc8c5a556c56",
     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IVkVlM1VzdjJRWWQ1cUNNczNxTTNvQy1LLU5ScUwtNVhhSWpPaDZzRUxIWWZac0o5ZWZXX2V3T3QtN3I1eDJBN3ZTSEc0QQ?oc=5",
     "url": "https://www.fnn.jp/articles/-/1134680",
@@ -460,6 +470,16 @@
     "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
   },
   {
+    "id": "a23bd4e63df2606d945163b695acc2471abab3565b2bbd04efb6bc558e10b451",
+    "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jQU85ZHJKTUxGcWdZOHY1eFNXbmNzMnl2STgwMHZUdmlFNGN6WGRYZ29iX1o0TE8tOEtIVWttNzR6ZENlSmFnT3Rpd1k?oc=5",
+    "url": "https://hokkaido-nl.jp/article/44221",
+    "title": "稚内市・富岡ユアーズ店40年の歴史に幕 コープさっぽろへ事業譲渡 - 北海道ニュースリンク",
+    "source": "北海道ニュースリンク",
+    "published": "2026-10-10T07:00:00+00:00",
+    "description": "稚内市・富岡ユアーズ店40年の歴史に幕 コープさっぽろへ事業譲渡 北海道ニュースリンク",
+    "image": null
+  },
+  {
     "id": "2375c9c2cd795e154123b3e28bc48b72abdb417254ec22ddcea4feb75c47345e",
     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wTXlZdjBlVV96bDBRNG9ja2toc0QzLVFZczQwUFgxQjBmNmJWRVBkaHZMc2RZMmZCY1k2Wjk3R3gxcFc4bDJsVnVYT1NWbkV0eC16U3Z3?oc=5",
     "url": "https://wakkanaipress.com/2026/10/10/25199/",
@@ -498,16 +518,6 @@
     "published": "2026-10-09T20:10:00+00:00",
     "description": "【北海道(宗谷地方)】10/10の天気予報 FNNプライムオンライン",
     "image": "https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg"
-  },
-  {
-    "id": "a23bd4e63df2606d945163b695acc2471abab3565b2bbd04efb6bc558e10b451",
-    "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jQU85ZHJKTUxGcWdZOHY1eFNXbmNzMnl2STgwMHZUdmlFNGN6WGRYZ29iX1o0TE8tOEtIVWttNzR6ZENlSmFnT3Rpd1k?oc=5",
-    "url": "https://hokkaido-nl.jp/article/44221",
-    "title": "稚内市・富岡ユアーズ店40年の歴史に幕 コープさっぽろへ事業譲渡 - 北海道ニュースリンク",
-    "source": "北海道ニュースリンク",
-    "published": "2026-10-09T19:02:20+00:00",
-    "description": "稚内市・富岡ユアーズ店40年の歴史に幕 コープさっぽろへ事業譲渡 北海道ニュースリンク",
-    "image": null
   },
   {
     "id": "c0b203678281bf6e9d8671c438054099bd08c79c80e5f2f93b59f74b1b58e627",
@@ -1360,16 +1370,6 @@
     "image": "https://j-defense.ikaros.jp/img/jdn/list/006/016/01.jpg"
   },
   {
-    "id": "720fccc130af7de835cb3f635957a1424383354af29f9049b47f7c89f09668f2",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DeDNOSGkxUl9jX2REWmlDSVJvTi1oRE1ENDQ2bTJRSlcwVXVtWUZLUXBERmdScmZrbElLQk9oRTY0d20yWWdacHp5R0FHUQ?oc=5",
-    "url": "https://www.fnn.jp/articles/-/1120643",
-    "title": "北海道で今季初の氷点下 稚内市で－0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み - FNNプライムオンライン",
-    "source": "FNNプライムオンライン",
-    "published": "2026-09-25T07:00:00+00:00",
-    "description": "北海道で今季初の氷点下 稚内市で－0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み FNNプライムオンライン",
-    "image": "https://fnn.ismcdn.jp/mwimgs/a/0/600/img_a0778bb1660dc713b2f6e506e6e222dc75552.jpg"
-  },
-  {
     "id": "afa4ba0cf22e69e1bb232b37122bb9e12076eeab3d82acce06f3de3c947f77ed",
     "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81STE3UVRXbVVCc2k5QlRpOTVXMXRCa2kybFlaeXpxR19QcDVwQnRKLWR0WkxrQXdldlRvdW9IWW1XemdMdEdlNE5adTNwZHFSeFZjdnR6QmdKcElITDNYRmFpWmlTcVFjb3lGcmNGMA?oc=5",
     "url": "https://topics.smt.docomo.ne.jp/article/fnn/nation/fnn-1120643",
@@ -1378,6 +1378,16 @@
     "published": "2026-09-25T07:00:00+00:00",
     "description": "北海道で今季初の氷点下 稚内市で−0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み（FNNプライムオンライン） ｄメニューニュース",
     "image": "https://img.topics.smt.news.goo.ne.jp/picture/fnn/m_fnn-1120643.jpg"
+  },
+  {
+    "id": "720fccc130af7de835cb3f635957a1424383354af29f9049b47f7c89f09668f2",
+    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DeDNOSGkxUl9jX2REWmlDSVJvTi1oRE1ENDQ2bTJRSlcwVXVtWUZLUXBERmdScmZrbElLQk9oRTY0d20yWWdacHp5R0FHUQ?oc=5",
+    "url": "https://www.fnn.jp/articles/-/1120643",
+    "title": "北海道で今季初の氷点下 稚内市で－0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み - FNNプライムオンライン",
+    "source": "FNNプライムオンライン",
+    "published": "2026-09-25T07:00:00+00:00",
+    "description": "北海道で今季初の氷点下 稚内市で－0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み FNNプライムオンライン",
+    "image": "https://fnn.ismcdn.jp/mwimgs/a/0/600/img_a0778bb1660dc713b2f6e506e6e222dc75552.jpg"
   },
   {
     "id": "a75fb2917ccd1e95631862e7b2680dd1fdc209e445ef92c327bdee16bbd488d9",
@@ -1488,15 +1498,5 @@
     "published": "2026-09-25T03:13:01+00:00",
     "description": "【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に news.yahoo.co.jp",
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-90062368-hokkaibunv-000-1-thumb.jpg?exp=10800"
-  },
-  {
-    "id": "68b60bb168131a38ca90eb7ad16dc30c404729dc41992505e81fe6ff474bd911",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wTjRnM0c5M1ZzSjl3d2lORjJaT3VfSW01TVpCWmRuMHhOVTVrN0Q2OUtLR2VoT0xVQmdFeXhBU1h6Q1ZERlZIbUVLZUNSY2RKSU5PSGpIUVhEQlFRUHlwR2ppU2pFRkhiSDFrbDFtREJiVFA0YVQwRC1wSG5paUU?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/19a704c48949b5d9c56b17f4988e21bea0cfc5cf",
-    "title": "もう霜が…今季 全国で初めて氷点下に 北海道稚内市郊外でマイナス0.4℃観測 上空の寒気と晴れたことによる放射冷却の影響 - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
-    "published": "2026-09-25T03:05:21+00:00",
-    "description": "もう霜が…今季 全国で初めて氷点下に 北海道稚内市郊外でマイナス0.4℃観測 上空の寒気と晴れたことによる放射冷却の影響 Yahoo!ニュース",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-22966643-hbcv-000-1-thumb.jpg?exp=10800"
   }
 ]
