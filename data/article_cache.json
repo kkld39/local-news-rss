@@ -1801,6 +1801,13 @@
     "next_retry": "2026-10-13T00:32:29.306250+00:00",
     "url": "https://tamapon.com/2026/10/11/mopminamiosawa-2026oct/"
   },
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUYVd3ZXV2c0x4cHdSc0N1Y2lFa1Rldmp4Q1ZjVUFhcDIxM01ZUHQtOElwQVFTeWRxXzFHTG8xdDlPWW0tWlNySUxzUHNsRDlaRDRKRUU2SzNzX1pxWC1kSDRkYjA?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/10/miyabi-sign.jpg",
+    "next_retry": "2026-10-19T01:02:41.833487+00:00",
+    "url": "https://tama-inagi.goguynet.jp/2026/10/18/miyabi-prep/"
+  },
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01bjc4RUdDMHl2MTJ3SVNtNExVSVEwZW9UUEJUenJ3YUd4SG93T2FSTmw1ZzJfV2J1a0pXa3RyQ2NxWlFsZWZ4dndrc2luOTlfZlQyN3N6SUhpVE14T1F3bVhPejM0dw?oc=5": {
     "attempts": 3,
     "error": "ValueError: HTTP 403",
@@ -2899,12 +2906,6 @@
     "image": "https://www.uqwimax.jp/common2/images/ogp.png",
     "next_retry": "2026-10-09T22:04:39.268229+00:00",
     "url": "https://www.uqwimax.jp/mobile/support/app/life/"
-  },
-  "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMzVfQkJ3YjZHMXZ1eDZkTVE0bGpOYWxDVVlSQ3JHck1GTC1BcnlBR29OQWR2cHg4T29WTlUxTGQzX1Z6NFAzNGx0UXZxZ3B2eDdDNWE0VXhDbm9yaXpxejFMbHRmZEFGUHRwZmhXaVc4LS1RZE5lcExjaVlpQVY0b05B?oc=5": {
-    "attempts": 3,
-    "error": "ValueError: HTTP 403",
-    "next_retry": "2026-10-08T07:03:16.228294+00:00",
-    "url": "https://www.rakumachi.jp/syuuekibukken/kanto/tokyo/dim1001/3755542/show.html"
   },
   "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQV9uUUF2c0Z2dXlfOVlVcGdmMW10dEMzdXBOcTJKYmFhLThhZWhYM08tdFVLeXhBeXFPRXhPZ2Y5dWQ1ZlA4eDNJMmQzYkUycHAtcG0yS3E4cE1EeF9ySlRpUTFETnVRb3FzQWFDdGF0dWxaclh3dzFBUnlIQUJXUVdB?oc=5": {
     "attempts": 2,

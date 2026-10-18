@@ -6,7 +6,17 @@
     <description>多摩の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/tama.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 17 Oct 2026 11:18:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 22:11:19 +0000</lastBuildDate>
+    <item>
+      <title>【多摩市】丘の上パティオ１階にオープン予定の「カフェ＆ベーカリー ミヤビ」、工事が進んでいます！ - 地域ニュースサイト号外NET</title>
+      <link>https://tama-inagi.goguynet.jp/2026/10/18/miyabi-prep/</link>
+      <pubDate>Sat, 17 Oct 2026 22:11:19 +0000</pubDate>
+      <guid isPermaLink="false">4926dec26c9c7329df2d1969e094e6a12d21da306b315f1f64fc8aad58cb3a97</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">地域ニュースサイト号外NET</source>
+      <media:thumbnail url="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/10/miyabi-sign.jpg" />
+      <media:content url="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/10/miyabi-sign.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/10/miyabi-sign.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【多摩市】丘の上パティオ１階にオープン予定の「カフェ＆ベーカリー ミヤビ」、工事が進んでいます！ 地域ニュースサイト号外NET&lt;/p&gt;&lt;p&gt;配信元: 地域ニュースサイト号外NET&lt;/p&gt;</description>
+    </item>
     <item>
       <title>TAMATAMA FESTIVAL 2026が開幕！カレーフェスやマーケットでにぎわう初日をレポ - 多摩ポン</title>
       <link>https://tamapon.com/2026/10/17/tamatamafes2026-day1repo/</link>
@@ -1462,14 +1472,6 @@
       <media:thumbnail url="https://image.news.livedoor.com/newsimage/stf/3/4/3422a_1863_a3941785_c771b3d6.jpg" />
       <media:content url="https://image.news.livedoor.com/newsimage/stf/3/4/3422a_1863_a3941785_c771b3d6.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://image.news.livedoor.com/newsimage/stf/3/4/3422a_1863_a3941785_c771b3d6.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;第2回「多摩市アイスランド風まちバル」11月開催 (2026年10月2日掲載) ライブドアニュース&lt;/p&gt;&lt;p&gt;配信元: ライブドアニュース&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>多摩市 8,580万円 6.61% 一棟マンション - www.rakumachi.jp</title>
-      <link>https://www.rakumachi.jp/syuuekibukken/kanto/tokyo/dim1001/3755542/show.html</link>
-      <pubDate>Fri, 02 Oct 2026 02:15:12 +0000</pubDate>
-      <guid isPermaLink="false">9cf720e70c215d2fc995f0c67ed09734bb6e0942110bbae46754bd7cd0abdabd</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">www.rakumachi.jp</source>
-      <description>&lt;p&gt;多摩市 8,580万円 6.61% 一棟マンション www.rakumachi.jp&lt;/p&gt;&lt;p&gt;配信元: www.rakumachi.jp&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
