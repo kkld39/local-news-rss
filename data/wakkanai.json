@@ -230,6 +230,16 @@
     "image": null
   },
   {
+    "id": "f97d5d871ccddef3cbca40f2111d6adc9417ce67775f6b827045b21eb9a6a454",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DMU1kdmNDQVNYUndtNkZpUG5vY3BXS2VmcXVYeUdZY3J3ajlSNFI2d0JuZXh5SjBGZktRMG9oWXhWQkIyRHdyLU1MdjZoMnJtWTR1b19wbWRFdw?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1389259/",
+    "title": "稚内のスーパー「富岡ユアーズ店」が閉店 後継のコープ、12月上旬開店 - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-10-14T04:20:22+00:00",
+    "description": "稚内のスーパー「富岡ユアーズ店」が閉店 後継のコープ、12月上旬開店 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/a/0/8/6/a086ac2e7b28dac3374e01c3f97cb1ea_1.webp?20261019164657"
+  },
+  {
     "id": "6b2c3e8effb39cb11d6e487319da4a86b402261dcfffd16592db8721581cdcd1",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xY1BNN2ZwOFA2cXU0dDhNcWQycVVjSldBRnBqV0tTU3FEYy1IUFZIRmdaZTJ2SkdKM3dHczliSHNKUWJ3M1ltUWU1VWdjRVhfOEF2N3dkcDNWQQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1389251/",
@@ -700,6 +710,16 @@
     "image": "https://prtimes.jp/common/pc_v4/og.png"
   },
   {
+    "id": "420509d1ef16e071e4c092d3073d2b159f14cc7de1d7ba98fc0f321f0517668a",
+    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qNUFVSjdrSzlDWU1pdEdCUFBjNFBmVEVQYnMyQ2tLQjZ6T2FJa3RuZl92dWxmalFuODlIOV80X0RVX0NJQ1ZmT2J6dmhHbm0tSkV1Sy1rcGNTN2p1SV9nNE9uMEJXQnhN?oc=5",
+    "url": "https://tenki.jp/bousai/typhoon/storm/2627/1/1/1100/1110/",
+    "title": "台風27号(2026年)の道北宗谷北部の暴風域に入る確率 - tenki.jp",
+    "source": "tenki.jp",
+    "published": "2026-10-07T07:00:00+00:00",
+    "description": "台風27号(2026年)の道北宗谷北部の暴風域に入る確率 tenki.jp",
+    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
+  },
+  {
     "id": "889ae25a9cce2e48fef8e879d0421c09133814e1d40eadb2326c442a77f577b8",
     "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jTDhxUDJWdGJ5MldudWIxbk5NYVh2X3p4aVBpR0dxSTA0SGRnVXBNSFktcjEzX3MtRUdhNFEwWjlwVVdPUERPZG02R0xGZGh0cDBDN05yZkl6MFNrUWl4RzVPaDFoRjVy?oc=5",
     "url": "https://tenki.jp/lite/bousai/typhoon/storm/2627/1/1/1100/1120/",
@@ -707,16 +727,6 @@
     "source": "tenki.jp",
     "published": "2026-10-07T07:00:00+00:00",
     "description": "台風27号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
-    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
-  },
-  {
-    "id": "420509d1ef16e071e4c092d3073d2b159f14cc7de1d7ba98fc0f321f0517668a",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qNUFVSjdrSzlDWU1pdEdCUFBjNFBmVEVQYnMyQ2tLQjZ6T2FJa3RuZl92dWxmalFuODlIOV80X0RVX0NJQ1ZmT2J6dmhHbm0tSkV1Sy1rcGNTN2p1SV9nNE9uMEJXQnhN?oc=5",
-    "url": "https://tenki.jp/bousai/typhoon/storm/2627/1/1/1100/1110/",
-    "title": "台風27号(2026年)の道北宗谷北部の暴風域に入る確率 - tenki.jp",
-    "source": "tenki.jp",
-    "published": "2026-10-07T06:00:00+00:00",
-    "description": "台風27号(2026年)の道北宗谷北部の暴風域に入る確率 tenki.jp",
     "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
   },
   {
@@ -930,6 +940,26 @@
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
   },
   {
+    "id": "1af1862265762542f83598dcf0e4f37fe9745a168cf7c7c841e984ea7b1d1cca",
+    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xbXIwYmxvMWtfN2NBYXg0ejEzN3pTU3FfWHQxdkZGa0ozRWtoQzNoSXplYU5UUWlLSk1TVndyYWQzSDRqN2ZkeFFNS1pyVWZucjh6SzVB?oc=5",
+    "url": "https://wakkanaipress.com/2026/10/01/25051/",
+    "title": "新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 - 稚内プレス社",
+    "source": "稚内プレス社",
+    "published": "2026-10-01T07:00:00+00:00",
+    "description": "新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 稚内プレス社",
+    "image": null
+  },
+  {
+    "id": "126798bd2fa5bf37055c4a10e502048115ebeb619c23e67f96c6de11d5aebb9a",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwblFEVnZVcTJGdm12ZDVSVFBIRUROWlkwV1hhTnJvekl0X0J2MlNNamlwVkpMdDUwMXZyTjlXa04yX2oyVmJYWjViZw?oc=5",
+    "url": "https://www.47news.jp/15021072.html",
+    "title": "稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 - 47NEWS",
+    "source": "47NEWS",
+    "published": "2026-10-01T07:00:00+00:00",
+    "description": "稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/7458c0f38ec03e7aa816aa3afa6d01c9/photo.jpg"
+  },
+  {
     "id": "d440691d6b5b6967fdea8b9995bdf1ff7396b4c3e1fcf118ebfe5556c6efd1e5",
     "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BM2VXWnlUeTJfUC0wUDZVOEZtMWhUc04wNmlvNW94TW5aWmQ0OWVsVTRMWXN0OU9kMzZpcGJpcHl1Z2t5QzViRkRhcWlXcE5iSDVnUVFJZUtqUzRneEJSTWdQMnRkZnVQ?oc=5",
     "url": "https://tenki.jp/lite/bousai/typhoon/storm/2626/1/1/1100/1110/",
@@ -948,26 +978,6 @@
     "published": "2026-10-01T07:00:00+00:00",
     "description": "台風26号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
     "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
-  },
-  {
-    "id": "126798bd2fa5bf37055c4a10e502048115ebeb619c23e67f96c6de11d5aebb9a",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwblFEVnZVcTJGdm12ZDVSVFBIRUROWlkwV1hhTnJvekl0X0J2MlNNamlwVkpMdDUwMXZyTjlXa04yX2oyVmJYWjViZw?oc=5",
-    "url": "https://www.47news.jp/15021072.html",
-    "title": "稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-10-01T07:00:00+00:00",
-    "description": "稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/7458c0f38ec03e7aa816aa3afa6d01c9/photo.jpg"
-  },
-  {
-    "id": "1af1862265762542f83598dcf0e4f37fe9745a168cf7c7c841e984ea7b1d1cca",
-    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xbXIwYmxvMWtfN2NBYXg0ejEzN3pTU3FfWHQxdkZGa0ozRWtoQzNoSXplYU5UUWlLSk1TVndyYWQzSDRqN2ZkeFFNS1pyVWZucjh6SzVB?oc=5",
-    "url": "https://wakkanaipress.com/2026/10/01/25051/",
-    "title": "新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 - 稚内プレス社",
-    "source": "稚内プレス社",
-    "published": "2026-10-01T07:00:00+00:00",
-    "description": "新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 稚内プレス社",
-    "image": null
   },
   {
     "id": "ba2aefa4d1207da55cbdf9849949d8750147a0a68708414524b150cc9495ddbb",
@@ -1350,16 +1360,6 @@
     "image": "https://www.daihatsu.co.jp/lyu_action/023/assets_c/2026/09/5bddf72d73c511df2c06864943694737-260925144611356-thumb-1200xauto-136291.jpg"
   },
   {
-    "id": "854abe82cbef481b966c1e9e976d6107a59c574244b7409600a11c6ae94ad1a8",
-    "google_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EZFNkR3FFSGVTdTRxa1ZiY2FkN1BOaXA5UWFkZDREZFRGOERiZUdwenFMUDV5a1k3c0Jjd3FlbHBxV0R5MnFxeldVajA0VjNsRF93T0ZUNWFIZ0NGQ1Q2U2J1eU5fRjF2TGVpLWpOdzIwMGViM2c?oc=5",
-    "url": "https://tenki.jp/news/fnn/e4a45b3e-e0df-4810-9414-5d4202fc4252.html",
-    "title": "【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に(放送局のニュース ) - tenki.jp",
-    "source": "tenki.jp",
-    "published": "2026-09-25T07:00:00+00:00",
-    "description": "【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に(放送局のニュース ) tenki.jp",
-    "image": null
-  },
-  {
     "id": "6d1cd4fad2b1d6608f5df08ec8ab02db548e6b8db63ef3b115e2f75fd9bc0a6e",
     "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sTzJSdWROTmladzVWNHE4YS1XS05LeVFpd05kU3hTWWc0ZHh4NnN2TXFIYVEtN1V0VW5PUWkyU1hQZ3JON3JMSXF6dG5UWW53eVc3NlRqNA?oc=5",
     "url": "https://www.uhb.jp/news/single.html?id=62365",
@@ -1378,6 +1378,26 @@
     "published": "2026-09-25T07:00:00+00:00",
     "description": "ロシア海軍ミサイル巡洋艦とミサイル観測支援艦が宗谷海峡を東進（9月23日、スラバ級など） J ディフェンス ニュース",
     "image": "https://j-defense.ikaros.jp/img/jdn/list/006/016/01.jpg"
+  },
+  {
+    "id": "9a429581576336ee8f349ef5518c5823f71a16d84c791c6d60d857878fdc04e3",
+    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMemk4dUFmRXprQVc4bXhkUGVicE44WVhPYzZBWi1fOG4wcHpvdGpYYWtpOThFLWhRbHhtTjBPUXZJWmpTZ3pkYWtVdENfNk1vbUppNk8zcw?oc=5",
+    "url": "https://www.uhb.jp/news/single.html?id=62368",
+    "title": "【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に - UHB 北海道文化放送",
+    "source": "UHB 北海道文化放送",
+    "published": "2026-09-25T07:00:00+00:00",
+    "description": "【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に UHB 北海道文化放送",
+    "image": "https://www.uhb.jp/news/data/62368/image.jpg?v=1790305910"
+  },
+  {
+    "id": "854abe82cbef481b966c1e9e976d6107a59c574244b7409600a11c6ae94ad1a8",
+    "google_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EZFNkR3FFSGVTdTRxa1ZiY2FkN1BOaXA5UWFkZDREZFRGOERiZUdwenFMUDV5a1k3c0Jjd3FlbHBxV0R5MnFxeldVajA0VjNsRF93T0ZUNWFIZ0NGQ1Q2U2J1eU5fRjF2TGVpLWpOdzIwMGViM2c?oc=5",
+    "url": "https://tenki.jp/news/fnn/e4a45b3e-e0df-4810-9414-5d4202fc4252.html",
+    "title": "【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に(放送局のニュース ) - tenki.jp",
+    "source": "tenki.jp",
+    "published": "2026-09-25T07:00:00+00:00",
+    "description": "【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に(放送局のニュース ) tenki.jp",
+    "image": null
   },
   {
     "id": "720fccc130af7de835cb3f635957a1424383354af29f9049b47f7c89f09668f2",
@@ -1430,16 +1450,6 @@
     "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/09/25/https___news_jp_i_1476043925843296881_w1280.webp"
   },
   {
-    "id": "9a429581576336ee8f349ef5518c5823f71a16d84c791c6d60d857878fdc04e3",
-    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMemk4dUFmRXprQVc4bXhkUGVicE44WVhPYzZBWi1fOG4wcHpvdGpYYWtpOThFLWhRbHhtTjBPUXZJWmpTZ3pkYWtVdENfNk1vbUppNk8zcw?oc=5",
-    "url": "https://www.uhb.jp/news/single.html?id=62368",
-    "title": "【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に - UHB 北海道文化放送",
-    "source": "UHB 北海道文化放送",
-    "published": "2026-09-25T07:00:00+00:00",
-    "description": "【北海道の天気 25日(金)】稚内市沼川で-0.4℃！今シーズン全国で初氷点下！各地で冷え込み強まる 今夜は十五夜 お月見日和に UHB 北海道文化放送",
-    "image": "https://www.uhb.jp/news/data/62368/image.jpg?v=1790305910"
-  },
-  {
     "id": "77c325bc121733751107adbf67c513cc84d4a9330af431a0d8da402b14a7ec61",
     "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95Y295eXBYUWF1dFlRNHpsdHRTa3VLTlRGWF9rS3dWUEtfWEhQanp4aWRQNHJRNVpuaUJuWExFRlRpRVhBZzN4YURBUGQ4RkkyN1ljeG44T2VPZFVfck9DcW45Qzk2S1VpRzhvMkkxdWxxMnR0RXhIZlNpM01mZkk?oc=5",
     "url": "https://news.yahoo.co.jp/articles/573fe646b58449d0e298991c9ae69a565d1d3f3a",
@@ -1488,15 +1498,5 @@
     "published": "2026-09-25T03:35:31+00:00",
     "description": "北海道稚内市でマイナス0.4℃に…今季初めて氷点下観測 笹の葉もうっすらと白く TBS NEWS DIG",
     "image": "https://newsdig.ismcdn.jp/mwimgs/4/c/1200w/img_4c50e30c82d91a517f77390bafa412b2564858.jpg"
-  },
-  {
-    "id": "f2a057de35f545421b73b2d26bacbb99886c792aa8971cb31949838adbe52aa9",
-    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FaHcxaFA0b2E4ZkJnVmd3OF9JRkl0d2hUSHRJMmZHamtwaURCektiTHBEcE14NnpTdTBwOTR1YVhLejZZSlkwVUJuOHI3SzJtN0RWbzBSTFNZWnRPc2V1NmFZM21CVmdXdWIwUENPWdIBdEFVX3lxTE9tbkVneDg0VUp1ZXdIdUVMUEVfSHRUM1JodjlNS2RJT2UxNWFaeXpfSHM0Zl8yb2FsaUZtY0xvR3hvejhfMlh2R3Jqc202STJYaGdWNUpLTXU0VEF1MTJWRnN2QmVrTlVsZDhRdnFEcTZjYXpX?oc=5",
-    "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-2966758",
-    "title": "北海道稚内市でマイナス0.4℃に…今季初めて氷点下観測 笹の葉もうっすらと白く - ｄメニューニュース",
-    "source": "ｄメニューニュース",
-    "published": "2026-09-25T03:35:00+00:00",
-    "description": "北海道稚内市でマイナス0.4℃に…今季初めて氷点下観測 笹の葉もうっすらと白く ｄメニューニュース",
-    "image": "https://img.topics.smt.news.goo.ne.jp/-/20260916102946/img/dmenu_service-brand-logo_200x200.png"
   }
 ]
