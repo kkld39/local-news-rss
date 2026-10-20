@@ -1,5 +1,15 @@
 [
   {
+    "id": "45de7019a9c1a69b4cb552ae317926e525087f648c5d5591745bfc16e02a02a6",
+    "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA0QkVNOW5mUm9FR1M4cWpBZTM5VmJqdlF3UG9IS2VfYi02QXMxeklFQlYwTGVHT1EyTld5cGRGMmo1TE56cGRkQw?oc=5",
+    "url": "https://www.giants.jp/news/31546/",
+    "title": "GIANTS HOMETOWN fes 2026 supported by 共立メンテナンス - 読売巨人軍公式サイト",
+    "source": "読売巨人軍公式サイト",
+    "published": "2026-10-20T06:01:29+00:00",
+    "description": "GIANTS HOMETOWN fes 2026 supported by 共立メンテナンス 読売巨人軍公式サイト",
+    "image": null
+  },
+  {
     "id": "ef192eb05bf487b1022c60f46420e7b0d15bcc922157266ad78e494ccf377477",
     "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tNzMzTExzUHBBdlRyY29Pa2duc1ZvQjY3SWdadmFNRVZoVnpIVlp6Wm5tcVVENkdzcWxMN0N2Szh4SUZGMUhMREZwYw?oc=5",
     "url": "https://esports-world.jp/news/66973",
@@ -1390,16 +1400,6 @@
     "image": "https://tamapon.com/wp-content/uploads/2026/10/sub22.jpeg"
   },
   {
-    "id": "9a96fe732a9bbf85480c5b1180d9d9eb793561bd09c2ae88f3c8c8fa52068583",
-    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12QWJDeFJzblJFX3JPNk9FTWp0S0hoUnVtQVNRNFlFdnpScU9tWXBPYS1Oak9KUlJ5eTY5cUZ0MGdtX3pTTFhOanZIWHF6Y1BOMVkxUTllZHl6aE9JOUZzNU5TZGd6UEk?oc=5",
-    "url": "https://tama-inagi.goguynet.jp/2026/10/03/sportsday2026/",
-    "title": "【多摩市】スポーツの日に無料イベント「快汗スポーツDAY」が開催されます！ワタリ119さんも登場 - 地域ニュースサイト号外NET",
-    "source": "地域ニュースサイト号外NET",
-    "published": "2026-10-03T07:00:00+00:00",
-    "description": "【多摩市】スポーツの日に無料イベント「快汗スポーツDAY」が開催されます！ワタリ119さんも登場 地域ニュースサイト号外NET",
-    "image": "https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/10/sportsday_2026.png"
-  },
-  {
     "id": "71f650537e107892d3104b01c4b97a6ee68e669fcd052b91282a85bbb94f8500",
     "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91MkowZ2dYNWRWc1pjc2dZcUFnX2xHMzZwOVY3cmk0dE5YSlZVZmNXWGU2ZU90Uk8xTGJWdGUxNVdjZGZYTngtRkJud0dYeVVqZ29FeWtlbGFDazlUSjVxR2pKYXM1X1NS?oc=5",
     "url": "https://tamapon.com/2026/10/03/reykjavik-tama-sistercity/",
@@ -1408,6 +1408,16 @@
     "published": "2026-10-03T07:00:00+00:00",
     "description": "多摩市がアイスランドの首都レイキャビク市と姉妹都市提携へ！ホラン千秋さん登壇の報告会も 多摩ポン",
     "image": "https://tamapon.com/wp-content/uploads/2026/10/tama-iceland.jpeg"
+  },
+  {
+    "id": "9a96fe732a9bbf85480c5b1180d9d9eb793561bd09c2ae88f3c8c8fa52068583",
+    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12QWJDeFJzblJFX3JPNk9FTWp0S0hoUnVtQVNRNFlFdnpScU9tWXBPYS1Oak9KUlJ5eTY5cUZ0MGdtX3pTTFhOanZIWHF6Y1BOMVkxUTllZHl6aE9JOUZzNU5TZGd6UEk?oc=5",
+    "url": "https://tama-inagi.goguynet.jp/2026/10/03/sportsday2026/",
+    "title": "【多摩市】スポーツの日に無料イベント「快汗スポーツDAY」が開催されます！ワタリ119さんも登場 - 地域ニュースサイト号外NET",
+    "source": "地域ニュースサイト号外NET",
+    "published": "2026-10-03T07:00:00+00:00",
+    "description": "【多摩市】スポーツの日に無料イベント「快汗スポーツDAY」が開催されます！ワタリ119さんも登場 地域ニュースサイト号外NET",
+    "image": "https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/10/sportsday_2026.png"
   },
   {
     "id": "876dbaa52c03ff9e26d158dae2937dafd08b6fe0736ed709d0a6cc2e94003b29",
@@ -1488,15 +1498,5 @@
     "published": "2026-10-02T15:30:32+00:00",
     "description": "【東京・多摩地域】立川で３つのイベント開催、清瀬市と東久留米市連携「街バル」、「TAMA☆ろくと巡礼物語！スタンプラリ news.nicovideo.jp",
     "image": null
-  },
-  {
-    "id": "566b70a5670f1cffddc304d0eebf9cb5b3e5971965b800cb3719ef6adc74f0c6",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JOFYzLTNfaUE3YmNGeDl4aThKc011QUNJUUtDNmhUTjZ4RERRaTk3cS1nSlNnUmFWRGJIQkxsVnB2Z2MwTUhPVFQ5cUxVbnlGMXRsMG1yU214ZjRCRnExeGRIQV9BOFJydXJYSGItMUo5a3FraGxGYlZPMjhTaGs?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/ee2acd33585474ed5bfadb3d6a81258628718c36",
-    "title": "居住実態ないと判断 4月補選で初当選の多摩市議、当選無効に（毎日新聞） - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
-    "published": "2026-10-02T11:45:37+00:00",
-    "description": "居住実態ないと判断 4月補選で初当選の多摩市議、当選無効に（毎日新聞） Yahoo!ニュース",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261002-00000072-mai-000-1-view.jpg?exp=10800"
   }
 ]
