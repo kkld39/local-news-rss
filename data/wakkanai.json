@@ -350,6 +350,16 @@
     "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJneRC9FTMh-uSkw5p31xYB7GKflMQudXoCEr8sdn5GBeFDXAT5_M0Q5549ejEW0fCxuRwf0FRFDiLZc0ROQD22cKkUOBqmG99FnesRKC2fUUY"
   },
   {
+    "id": "23de779b42bda1bf4b8c0aef12f8d3836673b0ea60c6d98b037b2f0a3f7f3794",
+    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oam1lU3JoUGFKSE5yMWFocTZscVpmLTlHR2tkRGJNUmNNZTdlaGJLRllRVDNjRTNJVjJMTGVxU0pGV2Etd3d5ZTdRdUF4eERhaUN2WGhPd0Q5ajlqNjFIZldQMWN1bS1RUzNZY3dB?oc=5",
+    "url": "https://article.auone.jp/c625d47e-e0df-4c21-bbe0-328a6c3f5f12",
+    "title": "【暴風警報】北海道・稚内市、猿払村、豊富町などに発表 06:16時点 - au Webポータル",
+    "source": "au Webポータル",
+    "published": "2026-10-13T21:16:00+00:00",
+    "description": "【暴風警報】北海道・稚内市、猿払村、豊富町などに発表 06:16時点 au Webポータル",
+    "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/13/https___newsdig_tbs_co_jp_articles_-_3009425_w1200.webp"
+  },
+  {
     "id": "389ec548c2f90721480a016bb6ad50fc22089bcc3689466095a68362498eaf4f",
     "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KajIyNUFqTlN3SmtZalB2cWdPTzNQaVo5aEpFajd3UWJvQ2wwSWNaZEozYUVreHVlMmlFTndvTEtvbGxsbk9Ma29ENk1sOU9zSTRSWHhpZml1Q2QtNHltWllGQmlZTFBXU0F5UFhSVUxUdGZF0gF0QVVfeXFMTUpqMjI1QWpOU3dKa1lqUHZxZ09PM1BpWjloSkVqN3dRYm9DbDBJY1pkSjNhRWt4dWUyaUVOd29MS29sbGxuT0xrb0Q2TWw5T3NJNFJYeGlmaXVDZC00eW1aWUZCaVlMUFdTQXlQWFJVTFR0ZkU?oc=5",
     "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3009425",
@@ -1488,15 +1498,5 @@
     "published": "2026-09-25T07:00:00+00:00",
     "description": "【冬の足音】北海道内7割超の観測地点で今季一番の冷え込みに！稚内市では今季全国初の“氷点下”観測で霜や蜃気楼…七飯町では大沼の湖面に幻想的な「けあらし」―26日朝も冷え込む予想に Yahoo!ニュース",
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-90062374-hokkaibunv-000-1-thumb.jpg?exp=10800"
-  },
-  {
-    "id": "afa4ba0cf22e69e1bb232b37122bb9e12076eeab3d82acce06f3de3c947f77ed",
-    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81STE3UVRXbVVCc2k5QlRpOTVXMXRCa2kybFlaeXpxR19QcDVwQnRKLWR0WkxrQXdldlRvdW9IWW1XemdMdEdlNE5adTNwZHFSeFZjdnR6QmdKcElITDNYRmFpWmlTcVFjb3lGcmNGMA?oc=5",
-    "url": "https://topics.smt.docomo.ne.jp/article/fnn/nation/fnn-1120643",
-    "title": "北海道で今季初の氷点下 稚内市で−0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み（FNNプライムオンライン） - ｄメニューニュース",
-    "source": "ｄメニューニュース",
-    "published": "2026-09-25T07:00:00+00:00",
-    "description": "北海道で今季初の氷点下 稚内市で−0.4℃ 札幌市も10.8℃など道内7割以上で今季一番の冷え込み（FNNプライムオンライン） ｄメニューニュース",
-    "image": "https://img.topics.smt.news.goo.ne.jp/picture/fnn/m_fnn-1120643.jpg"
   }
 ]

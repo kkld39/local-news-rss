@@ -6,7 +6,17 @@
     <description>多摩の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/tama.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 20 Oct 2026 06:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:26:59 +0000</lastBuildDate>
+    <item>
+      <title>多摩市、東京都の時間別天気予報 - SpaceRef</title>
+      <link>https://www.spaceref.com/%E5%A4%A9%E6%B0%97/%E6%97%A5%E6%9C%AC/%E5%A4%9A%E6%91%A9%E5%B8%82/</link>
+      <pubDate>Tue, 20 Oct 2026 16:26:59 +0000</pubDate>
+      <guid isPermaLink="false">e0c34799edf333c357494bd58d715474944d89c9a811c7c24c2e6fcb585c8457</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">SpaceRef</source>
+      <media:thumbnail url="https://www.spaceref.com/images/meteo-page.jpg" />
+      <media:content url="https://www.spaceref.com/images/meteo-page.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.spaceref.com/images/meteo-page.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;多摩市、東京都の時間別天気予報 SpaceRef&lt;/p&gt;&lt;p&gt;配信元: SpaceRef&lt;/p&gt;</description>
+    </item>
     <item>
       <title>GIANTS HOMETOWN fes 2026 supported by 共立メンテナンス - 読売巨人軍公式サイト</title>
       <link>https://www.giants.jp/news/31546/</link>
@@ -92,16 +102,6 @@
       <media:thumbnail url="https://dtimes.jp/wp-content/uploads/2026/10/dtimes-engine-192da27bd58b00b6c7436e618a20762c-20261018-0f74b8.jpg" />
       <media:content url="https://dtimes.jp/wp-content/uploads/2026/10/dtimes-engine-192da27bd58b00b6c7436e618a20762c-20261018-0f74b8.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://dtimes.jp/wp-content/uploads/2026/10/dtimes-engine-192da27bd58b00b6c7436e618a20762c-20261018-0f74b8.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;わんちゃんと一緒に楽しめるポムポムプリン30周年フィナーレの2イベント！サンリオピューロランド「ポムポムプリンわんわん日和at多摩中央公園」＆「わんことNAKAYOKUナイトinサンリオピューロランド」 Dtimes&lt;/p&gt;&lt;p&gt;配信元: Dtimes&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>多摩市、東京都の時間別天気予報 - SpaceRef</title>
-      <link>https://www.spaceref.com/%E5%A4%A9%E6%B0%97/%E6%97%A5%E6%9C%AC/%E5%A4%9A%E6%91%A9%E5%B8%82/</link>
-      <pubDate>Sun, 18 Oct 2026 01:10:12 +0000</pubDate>
-      <guid isPermaLink="false">e0c34799edf333c357494bd58d715474944d89c9a811c7c24c2e6fcb585c8457</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">SpaceRef</source>
-      <media:thumbnail url="https://www.spaceref.com/images/meteo-page.jpg" />
-      <media:content url="https://www.spaceref.com/images/meteo-page.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.spaceref.com/images/meteo-page.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;多摩市、東京都の時間別天気予報 SpaceRef&lt;/p&gt;&lt;p&gt;配信元: SpaceRef&lt;/p&gt;</description>
     </item>
     <item>
       <title>【多摩市】丘の上パティオ１階にオープン予定の「カフェ＆ベーカリー ミヤビ」、工事が進んでいます！ - 地域ニュースサイト号外NET</title>
@@ -296,14 +296,14 @@
       <description>&lt;p&gt;&lt;img src="https://prcdn.freetls.fastly.net/release_image/8822/214/8822-214-c3916c53498f2843ae4a88873235ac4d-1477x1108.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「ゲーム×学び×居場所」のモデルが東京・多摩市にも拡大。eスポーツに特化したフリースクールが開校 時事ドットコム&lt;/p&gt;&lt;p&gt;配信元: 時事ドットコム&lt;/p&gt;</description>
     </item>
     <item>
-      <title>eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す - ファミ通.com</title>
+      <title>eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す - ファミ通</title>
       <link>https://www.famitsu.com/article/202610/91058</link>
       <pubDate>Thu, 15 Oct 2026 09:56:00 +0000</pubDate>
       <guid isPermaLink="false">b02b6cd9d1adf1a4e42b10ce95224bfe0664f0d1bd754a69b98c0c6a3c8dbd09</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">ファミ通.com</source>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">ファミ通</source>
       <media:thumbnail url="https://cimg.kgl-systems.io/camion/files/91058/thumbnail_HPqr.jpg?x=1280" />
       <media:content url="https://cimg.kgl-systems.io/camion/files/91058/thumbnail_HPqr.jpg?x=1280" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/91058/thumbnail_HPqr.jpg?x=1280" alt="" /&gt;&lt;/p&gt;&lt;p&gt;eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す ファミ通.com&lt;/p&gt;&lt;p&gt;配信元: ファミ通.com&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://cimg.kgl-systems.io/camion/files/91058/thumbnail_HPqr.jpg?x=1280" alt="" /&gt;&lt;/p&gt;&lt;p&gt;eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す ファミ通&lt;/p&gt;&lt;p&gt;配信元: ファミ通&lt;/p&gt;</description>
     </item>
     <item>
       <title>稲城・若葉台で「TAMA DOG FES」11/21(土)・22(日)開催！わんちゃん向けマルシェや撮影ブースも - 多摩ポン</title>
