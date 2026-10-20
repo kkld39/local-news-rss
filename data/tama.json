@@ -1,5 +1,25 @@
 [
   {
+    "id": "ef192eb05bf487b1022c60f46420e7b0d15bcc922157266ad78e494ccf377477",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tNzMzTExzUHBBdlRyY29Pa2duc1ZvQjY3SWdadmFNRVZoVnpIVlp6Wm5tcVVENkdzcWxMN0N2Szh4SUZGMUhMREZwYw?oc=5",
+    "url": "https://esports-world.jp/news/66973",
+    "title": "【eスポーツ×フリースクール】「RE:VISIONフリースクール 聖蹟桜ヶ丘校」が東京・多摩市に開校——「ゲーム×学び×居場所」のモデルが拡大 - https://esports-world.jp/",
+    "source": "https://esports-world.jp/",
+    "published": "2026-10-19T23:03:18+00:00",
+    "description": "【eスポーツ×フリースクール】「RE:VISIONフリースクール 聖蹟桜ヶ丘校」が東京・多摩市に開校——「ゲーム×学び×居場所」のモデルが拡大 https://esports-world.jp/",
+    "image": "https://esports-world.jp/images/upload/2026/10/45670e3fad06e9956cd7f5f685456047.jpg"
+  },
+  {
+    "id": "76e16bf91ce8c9935241a5def8d8def920d6abd5d85b2a3ab91f783d5db4e01a",
+    "google_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJLTJwSkZYcUJOOFlCdm4tYmpaLVhXcVpBRDlVV2hBb3NUaHRKSFR6Y1dyZFpqaDlhWWdOTTVqdU5PYTF1bU5HTkh3WVprcjBUcTREdEtxQzJHYUVnQ1JjRm9nVGhZZw?oc=5",
+    "url": "https://tama-inagi.goguynet.jp/2026/10/20/tama-dog-fes/",
+    "title": "【稲城市】前回1.5万人が来場！11月21日・22日に若葉台駅前で「TAMA DOG FES」が開催されます。 - 地域ニュースサイト号外NET",
+    "source": "地域ニュースサイト号外NET",
+    "published": "2026-10-19T22:11:38+00:00",
+    "description": "【稲城市】前回1.5万人が来場！11月21日・22日に若葉台駅前で「TAMA DOG FES」が開催されます。 地域ニュースサイト号外NET",
+    "image": "https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/10/tama-dog-fes-info.jpg"
+  },
+  {
     "id": "eea05cc08579066b6c67bc231714834da9b7ba57f7bd787f6894f4038488687a",
     "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKU0plTG50eFhPMjhSVksyY3JwWi1DeHRXT280NnlQTmNfRV9RRlRmcmgxM1ZkaVdEVzhXcGNZM0ZMXy1jTk5yRzFpMzhTcmwyU3pJQVpieVdDMzVSNWc?oc=5",
     "url": "https://tamapon.com/2026/10/19/pertica-tamasakai/",
@@ -210,16 +230,6 @@
     "image": null
   },
   {
-    "id": "e20ce690760044f1ce8183a45e9902ae2b10eab30137753337e8697b3579a8aa",
-    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ucENtdlB2NmJpbkhBZ2x1aUZvN3VDaERPTGNwLTItUVlMOXB2YTkxMTV5Q2U1dVE0Tk9QdElEWUprdURZeXA3alQ2MVQzRTJZaTBadW4wcVl4em1CVkYxZU5adkJHU096ZERQWjV6RQ?oc=5",
-    "url": "https://tamapon.com/2026/10/16/36th-tama-cinema-forum-program/",
-    "title": "第36回映画祭TAMA CINEMA FORUMの上映プログラム発表！吉岡里帆さんら登壇のトークイベントも - 多摩ポン",
-    "source": "多摩ポン",
-    "published": "2026-10-16T00:46:57+00:00",
-    "description": "第36回映画祭TAMA CINEMA FORUMの上映プログラム発表！吉岡里帆さんら登壇のトークイベントも 多摩ポン",
-    "image": "https://tamapon.com/wp-content/uploads/2026/10/B-7_ストリート・キングダム-自分の音を鳴らせ。.jpeg"
-  },
-  {
     "id": "124471eb1fb03f26b2c6c3d37ac5b1103477ab334c40b44811f89c721ef0401c",
     "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1laUZRY0RIMElHemdIS19nZ1B5a0hIT0tlOXV3cHBkNXVhbVdsTTA4SnRrRVZjYkZ0QVBscUZOSWVvalBLRVRWQl9OdnZwam83R294UGVkckdRWDdjOEpjYWxR?oc=5",
     "url": "https://tamapon.com/2026/10/16/fabminamiosawa-asaii/",
@@ -228,6 +238,16 @@
     "published": "2026-10-16T00:38:45+00:00",
     "description": "南大沢駅前にアサイーの冷凍自販機が登場！fab南大沢で実際に買って食べてみた 多摩ポン",
     "image": "https://tamapon.com/wp-content/uploads/2026/10/IMG_0804.jpeg"
+  },
+  {
+    "id": "e20ce690760044f1ce8183a45e9902ae2b10eab30137753337e8697b3579a8aa",
+    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ucENtdlB2NmJpbkhBZ2x1aUZvN3VDaERPTGNwLTItUVlMOXB2YTkxMTV5Q2U1dVE0Tk9QdElEWUprdURZeXA3alQ2MVQzRTJZaTBadW4wcVl4em1CVkYxZU5adkJHU096ZERQWjV6RQ?oc=5",
+    "url": "https://tamapon.com/2026/10/16/36th-tama-cinema-forum-program/",
+    "title": "第36回映画祭TAMA CINEMA FORUMの上映プログラム発表！吉岡里帆さんら登壇のトークイベントも - 多摩ポン",
+    "source": "多摩ポン",
+    "published": "2026-10-15T23:00:19+00:00",
+    "description": "第36回映画祭TAMA CINEMA FORUMの上映プログラム発表！吉岡里帆さんら登壇のトークイベントも 多摩ポン",
+    "image": "https://tamapon.com/wp-content/uploads/2026/10/B-7_ストリート・キングダム-自分の音を鳴らせ。.jpeg"
   },
   {
     "id": "98bc43811c985a4cce4f759ff6fccaba9083bd3c7c1ae258c78a7fae4b49efe3",
@@ -273,10 +293,10 @@
     "id": "b02b6cd9d1adf1a4e42b10ce95224bfe0664f0d1bd754a69b98c0c6a3c8dbd09",
     "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mODJ0c2o3MEFhdGhEVmVyUU5CeUNCbDFXOTFmV0czQlhCdEozc0ljbzRtN2hxMjNMQzNOQm5IV1B4VkFxTEc2cHNUdE45WkJnX1hHQ1JFTQ?oc=5",
     "url": "https://www.famitsu.com/article/202610/91058",
-    "title": "eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す - ファミ通",
-    "source": "ファミ通",
+    "title": "eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す - ファミ通.com",
+    "source": "ファミ通.com",
     "published": "2026-10-15T09:56:00+00:00",
-    "description": "eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す ファミ通",
+    "description": "eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す ファミ通.com",
     "image": "https://cimg.kgl-systems.io/camion/files/91058/thumbnail_HPqr.jpg?x=1280"
   },
   {
@@ -1478,25 +1498,5 @@
     "published": "2026-10-02T11:45:37+00:00",
     "description": "居住実態ないと判断 4月補選で初当選の多摩市議、当選無効に（毎日新聞） Yahoo!ニュース",
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261002-00000072-mai-000-1-view.jpg?exp=10800"
-  },
-  {
-    "id": "08537e3d9c9b33e93cdbee1d67b42a1c3017be03cd109f56c4c23b62e5fd8f98",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16di1yY0x5NjJHVFZlWmJfZ0o4elBkUGsyM0JRNUVpd3VoN05QWFNnS2lsZW41VjlVZWp3ZFZELWZ4MTRhVUo4dVBtZV83RU9lNVNZYmlJQ3NPVU5IRFZYc1BoeFd5MnVS?oc=5",
-    "url": "https://mainichi.jp/articles/20261002/k00/00m/310/329000c",
-    "title": "居住実態ないと判断 4月補選で初当選の多摩市議、当選無効に - 毎日新聞",
-    "source": "毎日新聞",
-    "published": "2026-10-02T11:45:21+00:00",
-    "description": "居住実態ないと判断 4月補選で初当選の多摩市議、当選無効に 毎日新聞",
-    "image": "https://cdn.mainichi.jp/vol1/2026/06/09/20260609k0000m040169000p/0c10.jpg?1"
-  },
-  {
-    "id": "c586fe86d22ae08a9bfa93cb5fa0256caea6c267201205a93be6c5d505ec36f5",
-    "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNWxfRFBHSktfaWJuQnNpQThwb1YxMUg0VUd2bmVoTkc5X01DZXh2NExLa2xaNTUzLVI4dkIta2VJbDJWeEFWdzdzMm5td01MenNlV21rd3duU0pac0QxOXhSWmpweHR2U3lEX2doVHdTZmhEOUhxcDhscEFEY1ZkNVAwNkhwRTlRMkZSZ2dB0gGAAUFVX3lxTE5vWjE1LWNnelRhVmFHaTB3VkdzQzFBODVNMGt6VHlVVTY2aVBSekw1R0xYcERpTG54VGp5bDJjYV9VZENsdmc1VDZhYk16MWxfaDlmdXVWVEhTcWxaX2hkLUN6ZFNOeVpaOHZHM213ZUZCbzgzejFVRHFrcnE1YXd2?oc=5",
-    "url": "https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-855336?fm=latestnews",
-    "title": "うたごえランド　ゲストは村上さん　11日、ベルブホールで〈多摩市〉 - ｄメニューニュース",
-    "source": "ｄメニューニュース",
-    "published": "2026-10-02T07:56:35+00:00",
-    "description": "うたごえランド　ゲストは村上さん　11日、ベルブホールで〈多摩市〉 ｄメニューニュース",
-    "image": "https://img.topics.smt.news.goo.ne.jp/-/20260916102946/img/dmenu_service-brand-logo_200x200.png"
   }
 ]
