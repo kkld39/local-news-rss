@@ -6,7 +6,15 @@
     <description>多摩の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/tama.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 21 Oct 2026 03:29:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:00:33 +0000</lastBuildDate>
+    <item>
+      <title>【立川市】立川ダイスが多摩ダービーで八王子に連勝！ ホーム2連勝で熱戦を制す。 - 号外NET 立川市・昭島市</title>
+      <link>https://tachikawa-akishima.goguynet.jp/2026/10/21/tachikawa-dice-tama-derby-20261017/</link>
+      <pubDate>Wed, 21 Oct 2026 11:00:33 +0000</pubDate>
+      <guid isPermaLink="false">e9fc796e202b48bf16ba3c0abf2d326ffd7bdca3812568bbe89ffbf06d55927a</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">号外NET 立川市・昭島市</source>
+      <description>&lt;p&gt;【立川市】立川ダイスが多摩ダービーで八王子に連勝！ ホーム2連勝で熱戦を制す。 号外NET 立川市・昭島市&lt;/p&gt;&lt;p&gt;配信元: 号外NET 立川市・昭島市&lt;/p&gt;</description>
+    </item>
     <item>
       <title>eスポGOMI in 多摩永山中学校【2026年11月29日】 - https://esports-world.jp/</title>
       <link>https://esports-world.jp/tournament/67185</link>
@@ -1460,16 +1468,6 @@
       <media:thumbnail url="https://static.tokyo-np.co.jp/image/article/size1/b/9/b/d/b9bd6cf13a0a61b559bb50747f36d98d_1.jpg" />
       <media:content url="https://static.tokyo-np.co.jp/image/article/size1/b/9/b/d/b9bd6cf13a0a61b559bb50747f36d98d_1.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://static.tokyo-np.co.jp/image/article/size1/b/9/b/d/b9bd6cf13a0a61b559bb50747f36d98d_1.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;自民元多摩市議の当選無効を決定 選管「市内に居住実態なし」 東京新聞&lt;/p&gt;&lt;p&gt;配信元: 東京新聞&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>多摩市立図書館×ココリア多摩センター「読書リレーマラソン」が10月開催！本を借りてお得なクーポンをゲット【PR】 - 多摩ポン</title>
-      <link>https://tamapon.com/2026/10/03/dokuhsarelaymarathon2026/</link>
-      <pubDate>Fri, 02 Oct 2026 22:07:11 +0000</pubDate>
-      <guid isPermaLink="false">704d17912a9c09da5b209fad8e9f86d89ce2048abb3b6503376d9d8978820d9a</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">多摩ポン</source>
-      <media:thumbnail url="https://tamapon.com/wp-content/uploads/2026/09/page-0001.jpeg" />
-      <media:content url="https://tamapon.com/wp-content/uploads/2026/09/page-0001.jpeg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://tamapon.com/wp-content/uploads/2026/09/page-0001.jpeg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;多摩市立図書館×ココリア多摩センター「読書リレーマラソン」が10月開催！本を借りてお得なクーポンをゲット【PR】 多摩ポン&lt;/p&gt;&lt;p&gt;配信元: 多摩ポン&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
