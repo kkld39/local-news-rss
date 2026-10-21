@@ -1440,16 +1440,6 @@
     "image": null
   },
   {
-    "id": "3fdc864cd3be4240081b1b5368de34910a0a77ad5d615f23ef1f91c6686a2863",
-    "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40UE9QYTU5Vm5OM1hjUU9SY3NndHJXZlRtaXZVRG5YOWNRUkZfaFBzOWtsQmtYam9WVFZUQS1hUzZKQ09Wdk5vbVlWLVB0cEo4YWJZNEJUNUxHZWJaY0hJbEpNUVIxbTZReV95eXZWQ1lpbWF2OWJn?oc=5",
-    "url": "https://www.daihatsu.co.jp/local-activities/023/20260925_016180.html",
-    "title": "（稚内市）シニア向け安全運転セミナー - daihatsu.co.jp",
-    "source": "daihatsu.co.jp",
-    "published": "2026-09-25T07:00:00+00:00",
-    "description": "（稚内市）シニア向け安全運転セミナー daihatsu.co.jp",
-    "image": "https://www.daihatsu.co.jp/lyu_action/023/assets_c/2026/09/5bddf72d73c511df2c06864943694737-260925144611356-thumb-1200xauto-136291.jpg"
-  },
-  {
     "id": "6d1cd4fad2b1d6608f5df08ec8ab02db548e6b8db63ef3b115e2f75fd9bc0a6e",
     "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sTzJSdWROTmladzVWNHE4YS1XS05LeVFpd05kU3hTWWc0ZHh4NnN2TXFIYVEtN1V0VW5PUWkyU1hQZ3JON3JMSXF6dG5UWW53eVc3NlRqNA?oc=5",
     "url": "https://www.uhb.jp/news/single.html?id=62365",
@@ -1458,6 +1448,16 @@
     "published": "2026-09-25T07:00:00+00:00",
     "description": "【北海道各地で冷え込み強まる】稚内市沼川で今季全国初の“氷点下0.4℃”！草木に霜が…＿大沼では幻想的な「けあらし」も発生＿日中は20℃前後まで気温上昇し寒暖差大きいため〈体調管理に注意を〉 UHB 北海道文化放送",
     "image": "https://www.uhb.jp/news/data/62365/image.jpg?v=1790305037"
+  },
+  {
+    "id": "3fdc864cd3be4240081b1b5368de34910a0a77ad5d615f23ef1f91c6686a2863",
+    "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40UE9QYTU5Vm5OM1hjUU9SY3NndHJXZlRtaXZVRG5YOWNRUkZfaFBzOWtsQmtYam9WVFZUQS1hUzZKQ09Wdk5vbVlWLVB0cEo4YWJZNEJUNUxHZWJaY0hJbEpNUVIxbTZReV95eXZWQ1lpbWF2OWJn?oc=5",
+    "url": "https://www.daihatsu.co.jp/local-activities/023/20260925_016180.html",
+    "title": "（稚内市）シニア向け安全運転セミナー - daihatsu.co.jp",
+    "source": "daihatsu.co.jp",
+    "published": "2026-09-25T07:00:00+00:00",
+    "description": "（稚内市）シニア向け安全運転セミナー daihatsu.co.jp",
+    "image": "https://www.daihatsu.co.jp/lyu_action/023/assets_c/2026/09/5bddf72d73c511df2c06864943694737-260925144611356-thumb-1200xauto-136291.jpg"
   },
   {
     "id": "ebeed610e978c3322cbdd97af8e30bdf3454d2e2a37e7de27aa7c271575c1670",
