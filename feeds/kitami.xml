@@ -6,7 +6,17 @@
     <description>北見の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/kitami.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 22 Oct 2026 11:58:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 19:00:00 +0000</lastBuildDate>
+    <item>
+      <title>＜推しニュース＞夜の北見 反射材付け散歩 歩こう会など 高齢者事故防止へＰＲ - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1394823/</link>
+      <pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">b4c7e5cd36213669e06a0dcb488067cdabbc4cb7e0fa09c7cb239355c384f43a</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/7/6/e/4/76e4d24f500fbebc7192e970fd44db62_1.webp?20261023041632" />
+      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/7/6/e/4/76e4d24f500fbebc7192e970fd44db62_1.webp?20261023041632" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/7/6/e/4/76e4d24f500fbebc7192e970fd44db62_1.webp?20261023041632" alt="" /&gt;&lt;/p&gt;&lt;p&gt;＜推しニュース＞夜の北見 反射材付け散歩 歩こう会など 高齢者事故防止へＰＲ 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+    </item>
     <item>
       <title>焼肉を食べて重症児者を応援！「北見焼肉とんぼ家」×U-mitteの取り組みがスタート - STRAIGHT PRESS</title>
       <link>https://straightpress.jp/20261022/1741725</link>
@@ -1472,16 +1482,6 @@
       <media:thumbnail url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" />
       <media:content url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見・オホーツク（１０月１２日付）おくやみ 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>北見で地域医療セミナー 高校生と医学生がオホーツクの未来を議論 - 47NEWS</title>
-      <link>https://www.47news.jp/15068171.html</link>
-      <pubDate>Sun, 11 Oct 2026 04:32:57 +0000</pubDate>
-      <guid isPermaLink="false">9732a04865e7d2092c3461704c307c7a6e3799b6a2535040f305a7f60de61b0f</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">47NEWS</source>
-      <media:thumbnail url="https://img.cf.47news.jp/public/photo/d011f4d083dcd570291d166b24d487b0/photo.jpg" />
-      <media:content url="https://img.cf.47news.jp/public/photo/d011f4d083dcd570291d166b24d487b0/photo.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://img.cf.47news.jp/public/photo/d011f4d083dcd570291d166b24d487b0/photo.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見で地域医療セミナー 高校生と医学生がオホーツクの未来を議論 47NEWS&lt;/p&gt;&lt;p&gt;配信元: 47NEWS&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

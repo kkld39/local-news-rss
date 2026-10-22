@@ -1,5 +1,15 @@
 [
   {
+    "id": "b4c7e5cd36213669e06a0dcb488067cdabbc4cb7e0fa09c7cb239355c384f43a",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXdlQwRXJPTzNmTHZwdGFzLTV2ZlhPbU1aemRXYVM0UTNJMFlpTkRKb1JpdjRsdGRuRUtCZmVLS2RnajV5aUVQNTAwdnd2T2ZjeGpfMG5PcFdEQQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1394823/",
+    "title": "＜推しニュース＞夜の北見 反射材付け散歩 歩こう会など 高齢者事故防止へＰＲ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-10-22T19:00:00+00:00",
+    "description": "＜推しニュース＞夜の北見 反射材付け散歩 歩こう会など 高齢者事故防止へＰＲ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/7/6/e/4/76e4d24f500fbebc7192e970fd44db62_1.webp?20261023041632"
+  },
+  {
     "id": "c26fe2811286258cf593aa26a67f108f3fb9703b6e2c249d6c81ff9b21666dba",
     "google_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ST3Y1MEdyVUNqbW1kX2QtNlh4dDJuMmZodTBlb1hKa0tQWUFhVm1CVktldlRvd1RsLVd1aVRRS0V2X1hITVp5VmRta2VmVTBzY0ZB?oc=5",
     "url": "https://straightpress.jp/20261022/1741725",
@@ -1488,15 +1498,5 @@
     "published": "2026-10-11T11:30:00+00:00",
     "description": "北見・オホーツク（１０月１２日付）おくやみ 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
-  },
-  {
-    "id": "9732a04865e7d2092c3461704c307c7a6e3799b6a2535040f305a7f60de61b0f",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DdDBUUks2LXZ1N083MkxLN2xTQnU3Ty1NNG9pT2JFdllZTFlkLWpqbzgzOWFYVjJCZGZabmJaMkc0d3loTEFELVM4OA?oc=5",
-    "url": "https://www.47news.jp/15068171.html",
-    "title": "北見で地域医療セミナー 高校生と医学生がオホーツクの未来を議論 - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-10-11T04:32:57+00:00",
-    "description": "北見で地域医療セミナー 高校生と医学生がオホーツクの未来を議論 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/d011f4d083dcd570291d166b24d487b0/photo.jpg"
   }
 ]
