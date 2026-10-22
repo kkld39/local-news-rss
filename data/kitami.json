@@ -20,6 +20,16 @@
     "image": "https://straightpress.jp/wp-content/uploads/2026/10/Oshi2610181311-300x225.jpg"
   },
   {
+    "id": "cc1b4d2ca6c29ee40e2259c8d2fd02739dba097c69571d95d4987f594d212091",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DLWlFMUlUTVVWUTVoYnlPLVJUN2hsYUlzSl8tdmdJMDhCTFZqaEtVbVlRZzdvaW01VVpmcVVHbGo3c2E3MVphNEtHckY4RVRMZUtzQjJmQlhIUQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1394698/",
+    "title": "北見・オホーツク（１０月２３日付）おくやみ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-10-22T11:30:00+00:00",
+    "description": "北見・オホーツク（１０月２３日付）おくやみ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
     "id": "086cb4a468c5c16c19357800d2718d65b694bb993dd0279fb8ecabc954563458",
     "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1USFk5LW9JWmNnRXBycExGTk90b3lwa20zTExrT3NGMFFIa1luWkNHeEgzclNfTkh6ZHpTLTM4bnc4Q29tTGNvYkpyNndmbXNkZkNhRFJEUTdjeTNHXzVBT0hiQzA?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1394687/",
@@ -28,6 +38,16 @@
     "published": "2026-10-22T09:29:23+00:00",
     "description": "北見の子ども食堂、現状を共有する大人食堂を開催 物価高騰や利用料値上げで運営苦しく 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/6/3/e/4/63e48684807b544f51f6589df66a9780_1.webp?20261022191153"
+  },
+  {
+    "id": "bda70f6a3fab04ad59fc4620d721105317db10ce967d6c03643b9280249a617e",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtemszdXhtVnJKU2psT0FGVUVod3VTTE0yRzVkWHJPVkN4VWhDMXFfRnV6Xy11bkg4SzNHbTRDQTVZMmZmOVNzRzJiaw?oc=5",
+    "url": "https://www.47news.jp/15122434.html",
+    "title": "北見の子ども食堂、現状を共有する大人食堂を開催 物価高騰や利用料値上げで運営苦しく - 47NEWS",
+    "source": "47NEWS",
+    "published": "2026-10-22T09:29:23+00:00",
+    "description": "北見の子ども食堂、現状を共有する大人食堂を開催 物価高騰や利用料値上げで運営苦しく 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/67d3a05c56c6a3c809c8b9a2bc96c054/photo.jpg"
   },
   {
     "id": "b4f9a4bf8e03ad3ef33f990677df1263b5ffcd9a0eb2d62a8bd7e039dabfeefa",
@@ -780,6 +800,16 @@
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/d/1/7/d/d17d60648d2813b47599ef7602aba85d_1.webp?20261019030626"
   },
   {
+    "id": "baa2f5ef73a48e28256305ba261d37062f2bdfc0adae3d8e8f9b29f4407987a9",
+    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JOFpWTVFXX19Ba3dpTFBTSEN5cmx2ZHkyMTlVWHI5ZEJ6dXFFVzU3YUF5ekt6Q19VY20ydmVFdkdpTnU5QllPOHRfWEh1RjZvTkYwN002YklQY3FMeEpF?oc=5",
+    "url": "https://newsdig.tbs.co.jp/articles/gallery/2636884",
+    "title": "北見市で住宅火災 住人とみられる2人死亡 さらに高齢男性も軽傷 近所の人から「住宅から黒煙が大量に出ています」と通報 - TBS NEWS DIG",
+    "source": "TBS NEWS DIG",
+    "published": "2026-10-17T10:35:00+00:00",
+    "description": "北見市で住宅火災 住人とみられる2人死亡 さらに高齢男性も軽傷 近所の人から「住宅から黒煙が大量に出ています」と通報 TBS NEWS DIG",
+    "image": "https://newsdig.ismcdn.jp/mwimgs/4/0/1200w/img_40f66e84d7061f5ada916c69de4c8d93321253.jpg"
+  },
+  {
     "id": "b3b04e548e3fbc4f0760a6c0cbdae94b562d75bd376d62b53e5cae4296788479",
     "google_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA0M05UZmZCUU5qaHAyYXJ2RXdQUWoyelN5Z2drYmlTMFFuYmtRREp0UFd1eGJZOVRGRTFwMDljYlduUQ?oc=5",
     "url": "https://www.youtube.com/watch?v=7q0Eb504jsY&feature=youtu.be",
@@ -1468,35 +1498,5 @@
     "published": "2026-10-11T19:00:00+00:00",
     "description": "オホーツク医療 課題は 北見 高校生、医学生ら意見交換 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/5/a/2/c/5a2cab3f744a969002ce145f05737ffd_1.webp?20261012051735"
-  },
-  {
-    "id": "851ba4f948aa340edc9dc366381b78fd4e9be26eddf171d0ac862097cbb668b4",
-    "google_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVXRMRXNWRE5yWG1GZDdWRG92MTdKS3dzaEh2VjZzcDRBbDR6RlF3NzF0bGg2XzlLY0VrTlpnRm5rVXJXVnJCLVFDWXg0SkYwS0VKeEg3YVAyLWREd1NrMTBMc0xxUEpLOXJ2WkxfdlI4Ykhna25QYmVDbnZkYkNUQnFZZ1FSOXFNM2diWmJxWVI1Z2phU2dDUlltNC1HRnpzUC1DYUdKN3B3SU5vLWFNdUdiMmlPS01SMXUxWnpiNA?oc=5",
-    "url": "https://hotelbank.jp/investment/jr-hokkaido-station-hotels-806-rooms-kitami-sapporo-asahikawa-ownership-required-adr-2026/",
-    "title": "JR北海道の駅前ホテル3件・約806室 — 北見・札幌・旭川でオーナーが違う理由と必要ADR - HotelBank",
-    "source": "HotelBank",
-    "published": "2026-10-11T12:31:19+00:00",
-    "description": "JR北海道の駅前ホテル3件・約806室 — 北見・札幌・旭川でオーナーが違う理由と必要ADR HotelBank",
-    "image": "https://hotelbank.jp/wp-content/uploads/eyecatch-187099-auto.png"
-  },
-  {
-    "id": "9e140c319580918bd271b38887d5c0f03194823e722065343ceb5492af66d9d3",
-    "google_url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOTlRHbEZKNVZmQndJVks4bXVkYUZtcHRtanphOWZFLTdnc2lZd1hkSDBWUkJGMjFTRWhBU2VYUlJOQldHUGNuTEk3N1VoRGstdXI1MFVvbDdBMzV5U1Q5V3F0UF9XZWFRVGpMRkN4ckVZMjZvTXNVaUdWUTlsRzNEM2VFMjROS3hKSGJnTUNoZ0M5OVRlT0ZGZEEyS0Vyc2RKNEdjZUE3RHpEa0hqbXR6dGhqQ01tUElKNHZFci1wYmZjUmRjUS1wOHVsMDdlMTVGaHlHVklld212NjZGeV85d3dGWEMyenNhWjN1WERoODJ1T1RQd3ZTb3cybG0xRTJqN1Q1TGc5U29mdG1UV0w2SEludC1lNkhIVlZuZWdIYWpvcGlTUGNqZHZka0ZHWk9lM0dvSGVxY3ZjejBNS3lvZ2pqVGNaNnFYakktcFJEWUhKZU1oR25HbjFXdEVJRUg2QmZCRWVLbzhrV25ISlBV?oc=5",
-    "url": "https://www.komei.or.jp/km/kochi-takagi-tae/2026/10/11/%E9%AB%98%E7%9F%A5%E5%B8%82%E3%83%BB%E5%8C%97%E8%A6%8B%E5%B8%82%E5%A7%89%E5%A6%B9%E9%83%BD%E5%B8%82%E7%B7%A0%E7%B5%90%EF%BC%94%EF%BC%90%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E8%A1%8C%E4%BA%8B%E3%81%AB/",
-    "title": "高知市・北見市姉妹都市締結４０周年記念行事に参加 : ブログ : 高知市議会 高木妙のホームページ - 公明党",
-    "source": "公明党",
-    "published": "2026-10-11T12:00:22+00:00",
-    "description": "高知市・北見市姉妹都市締結４０周年記念行事に参加 : ブログ : 高知市議会 高木妙のホームページ 公明党",
-    "image": "https://www.komei.or.jp/km/kochi-takagi-tae/files/2026/10/840380689_4096538237144546_1367719085376091704_n-300x300.jpg"
-  },
-  {
-    "id": "e8196e315da36c0ed3b4128ae1a6aa327eaa4eb195ca65110806dbe36ed71afc",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoNUF5NVlEWDJTR285eno1WVFaZ3J2S1ZCLTJlNDA5UjZMM2VnM1FVQUFWSHpKWUZrTDZkczRsVnoxZEo1SG95dnloYVRoeGtDVWpwa1VramYtUQ?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1388042/",
-    "title": "北見・オホーツク（１０月１２日付）おくやみ - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-10-11T11:30:00+00:00",
-    "description": "北見・オホーツク（１０月１２日付）おくやみ 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
   }
 ]
