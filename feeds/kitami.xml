@@ -6,7 +6,17 @@
     <description>北見の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/kitami.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 22 Oct 2026 19:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 20:00:00 +0000</lastBuildDate>
+    <item>
+      <title>窓口改革 地方から飛躍 北海道北見市と地元企業 開発システム75市町契約 - www.chukei-news.co.jp</title>
+      <link>https://www.chukei-news.co.jp/news/2026/10/23/OK0002610230f01_02/</link>
+      <pubDate>Thu, 22 Oct 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">97084cbb016b070ffca80b20e6e889b2e52f779d2e7651b6fa444b2ffe5ce5c3</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">www.chukei-news.co.jp</source>
+      <media:thumbnail url="https://www.chukei-news.co.jp/images/20261022_202145_15384.jpg" />
+      <media:content url="https://www.chukei-news.co.jp/images/20261022_202145_15384.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.chukei-news.co.jp/images/20261022_202145_15384.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;窓口改革 地方から飛躍 北海道北見市と地元企業 開発システム75市町契約 www.chukei-news.co.jp&lt;/p&gt;&lt;p&gt;配信元: www.chukei-news.co.jp&lt;/p&gt;</description>
+    </item>
     <item>
       <title>＜推しニュース＞夜の北見 反射材付け散歩 歩こう会など 高齢者事故防止へＰＲ - 北海道新聞デジタル</title>
       <link>https://www.hokkaido-np.co.jp/article/1394823/</link>
@@ -1042,16 +1052,6 @@
       <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見・オホーツク（１０月１６日付）おくやみ 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
     </item>
     <item>
-      <title>北見市の財政健全化計画、初年度は目標達成 「効果相当額」20億円 - 北海道新聞デジタル</title>
-      <link>https://www.hokkaido-np.co.jp/article/1390232/</link>
-      <pubDate>Thu, 15 Oct 2026 09:13:26 +0000</pubDate>
-      <guid isPermaLink="false">6bd7c97b91a7b1812ca9a4dbe67e5098096cdad17b627bb16bca9e7c5e92600f</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
-      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/5/8/c/3/58c3291152e3c9687025699e1208e02a_1.webp?20261015185311" />
-      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/5/8/c/3/58c3291152e3c9687025699e1208e02a_1.webp?20261015185311" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/5/8/c/3/58c3291152e3c9687025699e1208e02a_1.webp?20261015185311" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見市の財政健全化計画、初年度は目標達成 「効果相当額」20億円 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>北見市の財政健全化計画、初年度は目標達成 「効果相当額」20億円 - 47NEWS</title>
       <link>https://www.47news.jp/15086827.html</link>
       <pubDate>Thu, 15 Oct 2026 09:13:26 +0000</pubDate>
@@ -1060,6 +1060,16 @@
       <media:thumbnail url="https://img.cf.47news.jp/public/photo/574403f172a342e599bf40718d9bb302/photo.jpg" />
       <media:content url="https://img.cf.47news.jp/public/photo/574403f172a342e599bf40718d9bb302/photo.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://img.cf.47news.jp/public/photo/574403f172a342e599bf40718d9bb302/photo.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見市の財政健全化計画、初年度は目標達成 「効果相当額」20億円 47NEWS&lt;/p&gt;&lt;p&gt;配信元: 47NEWS&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>北見市の財政健全化計画、初年度は目標達成 「効果相当額」20億円 - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1390232/</link>
+      <pubDate>Thu, 15 Oct 2026 09:13:26 +0000</pubDate>
+      <guid isPermaLink="false">6bd7c97b91a7b1812ca9a4dbe67e5098096cdad17b627bb16bca9e7c5e92600f</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/5/8/c/3/58c3291152e3c9687025699e1208e02a_1.webp?20261015185311" />
+      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/5/8/c/3/58c3291152e3c9687025699e1208e02a_1.webp?20261015185311" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/5/8/c/3/58c3291152e3c9687025699e1208e02a_1.webp?20261015185311" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見市の財政健全化計画、初年度は目標達成 「効果相当額」20億円 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
     </item>
     <item>
       <title>北見市の財政健全化計画、初年度は目標達成　「効果相当額」20億円　 - ｄメニューニュース</title>
@@ -1472,16 +1482,6 @@
       <media:thumbnail url="https://img.topics.smt.news.goo.ne.jp/picture/hokkaido/m_hokkaido-1388272.jpg" />
       <media:content url="https://img.topics.smt.news.goo.ne.jp/picture/hokkaido/m_hokkaido-1388272.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://img.topics.smt.news.goo.ne.jp/picture/hokkaido/m_hokkaido-1388272.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;小学生から大人まで43人が競う　北見・端野町でオホーツク支部珠算選手権 ｄメニューニュース&lt;/p&gt;&lt;p&gt;配信元: ｄメニューニュース&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>オホーツク医療 課題は 北見 高校生、医学生ら意見交換 - 北海道新聞デジタル</title>
-      <link>https://www.hokkaido-np.co.jp/article/1388139/</link>
-      <pubDate>Sun, 11 Oct 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">98d2affa9554230cd3bcbf7525e8b504b170e41c1d2da2ccccf57f5300eaf227</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
-      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/5/a/2/c/5a2cab3f744a969002ce145f05737ffd_1.webp?20261012051735" />
-      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/5/a/2/c/5a2cab3f744a969002ce145f05737ffd_1.webp?20261012051735" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/5/a/2/c/5a2cab3f744a969002ce145f05737ffd_1.webp?20261012051735" alt="" /&gt;&lt;/p&gt;&lt;p&gt;オホーツク医療 課題は 北見 高校生、医学生ら意見交換 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
