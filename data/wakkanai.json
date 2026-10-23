@@ -450,16 +450,6 @@
     "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
   },
   {
-    "id": "1a2613e06a72534c355031d1ac5359da5e329a1e5e4e45ae8d5b3cb85dd674b6",
-    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wcmxrQi1QV2RnaHVPWWdMemd4LUM0OHhkR1RNd3d2WnhoY2xrR2IyWHRWYXRLVndzMVlzTXFRNC1sUHJpVEI4aUhHR0tLcy1fUU8tOTJLMFRleC1KSXozV2ZyRjNfamY3ZmVLT29mZw?oc=5",
-    "url": "https://tenki.jp/lite/bousai/typhoon/storm/2630/1/1/1100/1120/",
-    "title": "台風30号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp",
-    "source": "tenki.jp",
-    "published": "2026-10-18T12:00:00+00:00",
-    "description": "台風30号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
-    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
-  },
-  {
     "id": "bc0882153cf30f3cd1cfdb7369d2a69239f96ff660d6f965bbbf78590daeb721",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55LWdtWjNfdHBOYlB3MklDVHNRS2M3djU2bFpZZ2xMM3VlNnJYbDVmcXlWVWg0RXh2SDQ4LVdjMUV2czRFMUpBZzJpLWNualhBNi10dHZvTnItUQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1391924/",
@@ -598,6 +588,16 @@
     "published": "2026-10-15T11:30:00+00:00",
     "description": "留萌・宗谷（１０月１６日付）おくやみ 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
+    "id": "1a2613e06a72534c355031d1ac5359da5e329a1e5e4e45ae8d5b3cb85dd674b6",
+    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wcmxrQi1QV2RnaHVPWWdMemd4LUM0OHhkR1RNd3d2WnhoY2xrR2IyWHRWYXRLVndzMVlzTXFRNC1sUHJpVEI4aUhHR0tLcy1fUU8tOTJLMFRleC1KSXozV2ZyRjNfamY3ZmVLT29mZw?oc=5",
+    "url": "https://tenki.jp/lite/bousai/typhoon/storm/2630/1/1/1100/1120/",
+    "title": "台風30号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp",
+    "source": "tenki.jp",
+    "published": "2026-10-15T11:00:34+00:00",
+    "description": "台風30号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
+    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
   },
   {
     "id": "a559fb777cb64a7fbb1a671dcec11d12efd75ae096727a37f9ab8ded4b47fe65",
@@ -1400,16 +1400,6 @@
     "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
   },
   {
-    "id": "126798bd2fa5bf37055c4a10e502048115ebeb619c23e67f96c6de11d5aebb9a",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwblFEVnZVcTJGdm12ZDVSVFBIRUROWlkwV1hhTnJvekl0X0J2MlNNamlwVkpMdDUwMXZyTjlXa04yX2oyVmJYWjViZw?oc=5",
-    "url": "https://www.47news.jp/15021072.html",
-    "title": "稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-10-01T07:00:00+00:00",
-    "description": "稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/7458c0f38ec03e7aa816aa3afa6d01c9/photo.jpg"
-  },
-  {
     "id": "1af1862265762542f83598dcf0e4f37fe9745a168cf7c7c841e984ea7b1d1cca",
     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xbXIwYmxvMWtfN2NBYXg0ejEzN3pTU3FfWHQxdkZGa0ozRWtoQzNoSXplYU5UUWlLSk1TVndyYWQzSDRqN2ZkeFFNS1pyVWZucjh6SzVB?oc=5",
     "url": "https://wakkanaipress.com/2026/10/01/25051/",
@@ -1418,6 +1408,16 @@
     "published": "2026-10-01T07:00:00+00:00",
     "description": "新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 稚内プレス社",
     "image": null
+  },
+  {
+    "id": "126798bd2fa5bf37055c4a10e502048115ebeb619c23e67f96c6de11d5aebb9a",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwblFEVnZVcTJGdm12ZDVSVFBIRUROWlkwV1hhTnJvekl0X0J2MlNNamlwVkpMdDUwMXZyTjlXa04yX2oyVmJYWjViZw?oc=5",
+    "url": "https://www.47news.jp/15021072.html",
+    "title": "稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 - 47NEWS",
+    "source": "47NEWS",
+    "published": "2026-10-01T07:00:00+00:00",
+    "description": "稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/7458c0f38ec03e7aa816aa3afa6d01c9/photo.jpg"
   },
   {
     "id": "ba2aefa4d1207da55cbdf9849949d8750147a0a68708414524b150cc9495ddbb",
