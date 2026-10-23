@@ -290,16 +290,6 @@
     "image": "https://www.townnews.co.jp/0306/images/a001484644_14.jpg"
   },
   {
-    "id": "bb7ea265398114c1a5ddf632f8a0f645c7a81096cd601e06b8c0670c3663df10",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ycHhuT1RuR3dYMU9VVXBQQk1GVnhycjNKaXRVVWRYU2NuUlBRbGhuWDI2UjlTc0w3cFB2cDVZVWVJa2lNMzNFWnpPSFpKdkhLaTJ2Q0p2Vk53Qm1RZG0zNFdLWWs?oc=5",
-    "url": "https://www.townnews.co.jp/0306/2026/10/22/858442.html",
-    "title": "緑ケ丘幼稚園 運動会で園児が躍動 同園初 人工芝で開催 - タウンニュース",
-    "source": "タウンニュース",
-    "published": "2026-10-21T15:00:00+00:00",
-    "description": "緑ケ丘幼稚園 運動会で園児が躍動 同園初 人工芝で開催 タウンニュース",
-    "image": "https://www.townnews.co.jp/0306/images/a001484296_02.jpg"
-  },
-  {
     "id": "5f0c88f20649235df0cf0a4879651eea5830e24def6cd48216ad07727730ccaf",
     "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRUTF1bXloMlZnd19lb2ZzV1F0cVhDaldNS3N4NHhVT2xkMzhHR0cxUlppOXdNNE1OeGs3Q1RtOFhBMmc1Y0VPQmtWMWo4ekR3dkpSbl85TmYyQy1HR3NSRDl4ekY?oc=5",
     "url": "https://www.townnews.co.jp/0306/2026/10/22/858433.html",
@@ -308,6 +298,16 @@
     "published": "2026-10-21T15:00:00+00:00",
     "description": "最後の学園祭 11月８日、恵泉女学園大学 タウンニュース",
     "image": "https://www.townnews.co.jp/0306/images/a001484655_03.jpg"
+  },
+  {
+    "id": "bb7ea265398114c1a5ddf632f8a0f645c7a81096cd601e06b8c0670c3663df10",
+    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ycHhuT1RuR3dYMU9VVXBQQk1GVnhycjNKaXRVVWRYU2NuUlBRbGhuWDI2UjlTc0w3cFB2cDVZVWVJa2lNMzNFWnpPSFpKdkhLaTJ2Q0p2Vk53Qm1RZG0zNFdLWWs?oc=5",
+    "url": "https://www.townnews.co.jp/0306/2026/10/22/858442.html",
+    "title": "緑ケ丘幼稚園 運動会で園児が躍動 同園初 人工芝で開催 - タウンニュース",
+    "source": "タウンニュース",
+    "published": "2026-10-21T15:00:00+00:00",
+    "description": "緑ケ丘幼稚園 運動会で園児が躍動 同園初 人工芝で開催 タウンニュース",
+    "image": "https://www.townnews.co.jp/0306/images/a001484296_02.jpg"
   },
   {
     "id": "e9fc796e202b48bf16ba3c0abf2d326ffd7bdca3812568bbe89ffbf06d55927a",
@@ -660,16 +660,6 @@
     "image": "https://prcdn.freetls.fastly.net/release_image/8822/214/8822-214-c3916c53498f2843ae4a88873235ac4d-1477x1108.jpg"
   },
   {
-    "id": "b02b6cd9d1adf1a4e42b10ce95224bfe0664f0d1bd754a69b98c0c6a3c8dbd09",
-    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mODJ0c2o3MEFhdGhEVmVyUU5CeUNCbDFXOTFmV0czQlhCdEozc0ljbzRtN2hxMjNMQzNOQm5IV1B4VkFxTEc2cHNUdE45WkJnX1hHQ1JFTQ?oc=5",
-    "url": "https://www.famitsu.com/article/202610/91058",
-    "title": "eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す - ファミ通",
-    "source": "ファミ通",
-    "published": "2026-10-15T09:56:00+00:00",
-    "description": "eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す ファミ通",
-    "image": "https://cimg.kgl-systems.io/camion/files/91058/thumbnail_HPqr.jpg?x=1280"
-  },
-  {
     "id": "6b958c95145e50e46d145185615ce31b17b5e05013d8d7dac4c7709d6b82b65a",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pTTEzYUJyV3R2T19iak5CTF83Y3ZfN1Z1UThUd05ZRTlDaTB0UGVDakN5UkJjcXZDQnIzVEhGN1A2QnZIMDRtbVhkNnM5NEF2akZWQ2VpakNldw?oc=5",
     "url": "https://tamapon.com/2026/10/15/tamadogfes2026/",
@@ -688,6 +678,16 @@
     "published": "2026-10-15T07:00:00+00:00",
     "description": "【多摩市】多摩センターがポップカルチャーで染まる！「TAMATAMA FESTIVAL 2026」×「京王eスポーツ祭り」が10月17日・18日に初コラボ開催 地域ニュースサイト号外NET",
     "image": "https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/10/main-3.jpg"
+  },
+  {
+    "id": "b02b6cd9d1adf1a4e42b10ce95224bfe0664f0d1bd754a69b98c0c6a3c8dbd09",
+    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mODJ0c2o3MEFhdGhEVmVyUU5CeUNCbDFXOTFmV0czQlhCdEozc0ljbzRtN2hxMjNMQzNOQm5IV1B4VkFxTEc2cHNUdE45WkJnX1hHQ1JFTQ?oc=5",
+    "url": "https://www.famitsu.com/article/202610/91058",
+    "title": "eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す - ファミ通",
+    "source": "ファミ通",
+    "published": "2026-10-15T07:00:00+00:00",
+    "description": "eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す ファミ通",
+    "image": "https://cimg.kgl-systems.io/camion/files/91058/thumbnail_HPqr.jpg?x=1280"
   },
   {
     "id": "9026f41acb29d9fb655c81e3a973d8cbc36c381fd01c7b3f84cbf2d2bb32633c",

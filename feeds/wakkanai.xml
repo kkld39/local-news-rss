@@ -6,7 +6,17 @@
     <description>稚内の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/wakkanai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 23 Oct 2026 04:20:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:30:00 +0000</lastBuildDate>
+    <item>
+      <title>留萌・宗谷（１０月２４日付）おくやみ - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1395514/</link>
+      <pubDate>Fri, 23 Oct 2026 11:30:00 +0000</pubDate>
+      <guid isPermaLink="false">3876b13c8331a9ff15753f0b4c334683bdd59dec1ae2e8621e7f4c6c338c97b7</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" />
+      <media:content url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;留萌・宗谷（１０月２４日付）おくやみ 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+    </item>
     <item>
       <title>竹山、稚内市・利尻島・礼文島を結ぶドローン医療機器輸送実証に成功 - ドローンジャーナル</title>
       <link>https://drone-journal.impress.co.jp/docs/news/1189002.html</link>
@@ -96,19 +106,19 @@
       <description>&lt;p&gt;&lt;img src="https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJneNVlWeso9yXwevgGEYFFJ7MP0j7-b_llbPkOzNsGU3qpBfunZVpQ0GpfHaRMBGgz3qG0gDtOtpCUbw7mNWfDQ-rj8lNLvL9RvaugMC66BVN" alt="" /&gt;&lt;/p&gt;&lt;p&gt;シカそしてクマ…特急宗谷相次いで衝突し遅れ クマの生死確認できず普通列車に乗客１人一時取り残される Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
     <item>
-      <title>シカそしてクマ…特急宗谷相次いで衝突し遅れ クマの生死確認できず普通列車に乗客１人一時取り残される - HTB 北海道テレビ</title>
+      <title>シカそしてクマ…特急宗谷相次いで衝突し遅れ クマの生死確認できず普通列車に乗客１人一時取り残される HTB北海道ニュース - HTB 北海道テレビ</title>
       <link>https://www.htb.co.jp/news/archives_40116.html</link>
       <pubDate>Thu, 22 Oct 2026 13:04:00 +0000</pubDate>
       <guid isPermaLink="false">229fa2872ccac278144cc8910fac4fd88a83a12dd9b56548e643bab349591aae</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">HTB 北海道テレビ</source>
       <media:thumbnail url="https://www.htb.co.jp/news/photo/40116_51835.jpg" />
       <media:content url="https://www.htb.co.jp/news/photo/40116_51835.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.htb.co.jp/news/photo/40116_51835.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;シカそしてクマ…特急宗谷相次いで衝突し遅れ クマの生死確認できず普通列車に乗客１人一時取り残される HTB 北海道テレビ&lt;/p&gt;&lt;p&gt;配信元: HTB 北海道テレビ&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://www.htb.co.jp/news/photo/40116_51835.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;シカそしてクマ…特急宗谷相次いで衝突し遅れ クマの生死確認できず普通列車に乗客１人一時取り残される HTB北海道ニュース HTB 北海道テレビ&lt;/p&gt;&lt;p&gt;配信元: HTB 北海道テレビ&lt;/p&gt;</description>
     </item>
     <item>
       <title>今季一番の寒気 稚内市・旭川市などで初雪を観測 峠は吹雪で見通し悪く、除雪車も出動 北海道 - au Webポータル</title>
       <link>https://article.auone.jp/article/384cdb7f-ced6-49e3-bcec-ba5368652318</link>
-      <pubDate>Thu, 22 Oct 2026 12:48:26 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 12:48:00 +0000</pubDate>
       <guid isPermaLink="false">a009714634db6e431f7de3b9fee6668538a7fdbc21b56e1cb6c0a354aa4a76e7</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">au Webポータル</source>
       <media:thumbnail url="https://newportal.portal.auone.jp/media/thumbnails/2026/10/22/https___news_jp_i_1485983636799996764_w1200.webp" />
@@ -1358,14 +1368,6 @@
       <description>&lt;p&gt;&lt;img src="https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;台風26号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp&lt;/p&gt;&lt;p&gt;配信元: tenki.jp&lt;/p&gt;</description>
     </item>
     <item>
-      <title>新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 - 稚内プレス社</title>
-      <link>https://wakkanaipress.com/2026/10/01/25051/</link>
-      <pubDate>Thu, 01 Oct 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1af1862265762542f83598dcf0e4f37fe9745a168cf7c7c841e984ea7b1d1cca</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">稚内プレス社</source>
-      <description>&lt;p&gt;新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 稚内プレス社&lt;/p&gt;&lt;p&gt;配信元: 稚内プレス社&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 - 47NEWS</title>
       <link>https://www.47news.jp/15021072.html</link>
       <pubDate>Thu, 01 Oct 2026 07:00:00 +0000</pubDate>
@@ -1374,6 +1376,14 @@
       <media:thumbnail url="https://img.cf.47news.jp/public/photo/7458c0f38ec03e7aa816aa3afa6d01c9/photo.jpg" />
       <media:content url="https://img.cf.47news.jp/public/photo/7458c0f38ec03e7aa816aa3afa6d01c9/photo.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://img.cf.47news.jp/public/photo/7458c0f38ec03e7aa816aa3afa6d01c9/photo.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 47NEWS&lt;/p&gt;&lt;p&gt;配信元: 47NEWS&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 - 稚内プレス社</title>
+      <link>https://wakkanaipress.com/2026/10/01/25051/</link>
+      <pubDate>Thu, 01 Oct 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1af1862265762542f83598dcf0e4f37fe9745a168cf7c7c841e984ea7b1d1cca</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">稚内プレス社</source>
+      <description>&lt;p&gt;新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 稚内プレス社&lt;/p&gt;&lt;p&gt;配信元: 稚内プレス社&lt;/p&gt;</description>
     </item>
     <item>
       <title>稚内市、GX戦略地域に選ばれず　DC集積の産業団地計画に修正や遅れを懸念 - topics.smt.docomo.ne.jp</title>
@@ -1442,16 +1452,6 @@
       <media:thumbnail url="https://newportal.portal.auone.jp/media/thumbnails/2026/09/30/https___news_jp_i_1477950732015321707_w1200.webp" />
       <media:content url="https://newportal.portal.auone.jp/media/thumbnails/2026/09/30/https___news_jp_i_1477950732015321707_w1200.webp" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://newportal.portal.auone.jp/media/thumbnails/2026/09/30/https___news_jp_i_1477950732015321707_w1200.webp" alt="" /&gt;&lt;/p&gt;&lt;p&gt;密漁を助けた疑いで新たに62歳男を逮捕 これまで9人逮捕のナマコ密漁事件 ボンベに空気を充填 暴力団介在も視野に捜査 北海道稚内市 au Webポータル&lt;/p&gt;&lt;p&gt;配信元: au Webポータル&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ナマコ密漁事件…ボート転覆で1人死亡―実行役にボンベ提供か“漁業法違反幇助”の疑いで札幌市の62歳男を逮捕―暴力団やトクリュウとの関連も視野に捜査〈北海道稚内市〉 - UHB 北海道文化放送</title>
-      <link>https://www.uhb.jp/news/single.html?id=62474</link>
-      <pubDate>Wed, 30 Sep 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">3c7b5a5fd75b75b9467b3e48f5f98df82e949b413816314461c1af6a4f06883d</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">UHB 北海道文化放送</source>
-      <media:thumbnail url="https://www.uhb.jp/news/data/62474/image.jpg?v=1790720722" />
-      <media:content url="https://www.uhb.jp/news/data/62474/image.jpg?v=1790720722" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.uhb.jp/news/data/62474/image.jpg?v=1790720722" alt="" /&gt;&lt;/p&gt;&lt;p&gt;ナマコ密漁事件…ボート転覆で1人死亡―実行役にボンベ提供か“漁業法違反幇助”の疑いで札幌市の62歳男を逮捕―暴力団やトクリュウとの関連も視野に捜査〈北海道稚内市〉 UHB 北海道文化放送&lt;/p&gt;&lt;p&gt;配信元: UHB 北海道文化放送&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
