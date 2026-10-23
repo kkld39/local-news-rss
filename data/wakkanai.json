@@ -83,10 +83,10 @@
     "id": "1ebbb189f8580b8bc3f5fdf932605e9356bc2e81204d1aa7b9c9c5d26a689673",
     "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdnFVbGV4YWxyanBSZ29VWU1USks3cXhIWEJla1d1NzNYaW9uSXJ6OVN2Um9VaVNaMmxGR3M3VGRXVGI2VDlQazFoWTZKdkJiZFRwTjlSekFxWlNvaVdaWjBuVEx1VmxJZXo5dHU4NE5aOUdkS3NISlJRMHhkQm1BLVoyRDJvT2pLMkF0Y1VR?oc=5",
     "url": "https://news.yahoo.co.jp/articles/242fc9cae4aeceab6f1062de9c7fe47d582bbb67/images/000",
-    "title": "シカそしてクマ…特急宗谷相次いで衝突し遅れ クマの生死確認できず普通列車には人が残される - Yahoo!ニュース",
+    "title": "シカそしてクマ…特急宗谷相次いで衝突し遅れ クマの生死確認できず普通列車に乗客１人一時取り残される - Yahoo!ニュース",
     "source": "Yahoo!ニュース",
     "published": "2026-10-22T13:04:26+00:00",
-    "description": "シカそしてクマ…特急宗谷相次いで衝突し遅れ クマの生死確認できず普通列車には人が残される Yahoo!ニュース",
+    "description": "シカそしてクマ…特急宗谷相次いで衝突し遅れ クマの生死確認できず普通列車に乗客１人一時取り残される Yahoo!ニュース",
     "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJneNVlWeso9yXwevgGEYFFJ7MP0j7-b_llbPkOzNsGU3qpBfunZVpQ0GpfHaRMBGgz3qG0gDtOtpCUbw7mNWfDQ-rj8lNLvL9RvaugMC66BVN"
   },
   {
@@ -260,16 +260,6 @@
     "image": "https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png"
   },
   {
-    "id": "b86d55af77d1c770c8e4fd2c258a0d112fcd96b19da938da9bacc529135d3005",
-    "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KRzJEOF8ydGdFRDVUTnpseUVsUmNwdzU0M2hfTTg3WVM5R0V3Sk0zb0JtTGFMdnBVR1dwbUpGNmxGWVdOT1FBU3JTT0FGeEVRMUVqRm5mMDR4R29zRVE3amU4Nm5FbHQ4UlNEVEJqRjlSNTBS0gF0QVVfeXFMT0pHMkQ4XzJ0Z0VENVROemx5RWxSY3B3NTQzaF9NODdZUzlHRXdKTTNvQm1MYUx2cFVHV3BtSkY2bEZZV05PUUFTclNPQUZ4RVExRWpGbmYwNHhHb3NFUTdqZTg2bkVsdDhSU0RUQmpGOVI1MFI?oc=5",
-    "url": "https://news.infoseek.co.jp/amp/article/kyodo_1485808035347906764/",
-    "title": "北海道稚内市で初雪 - Infoseek",
-    "source": "Infoseek",
-    "published": "2026-10-22T01:10:20+00:00",
-    "description": "北海道稚内市で初雪 Infoseek",
-    "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_poli-soci-1.0.png"
-  },
-  {
     "id": "903c2c3473a21db9179da59321de3942efc69f10c7714afa38d80db305852e3b",
     "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85V1doX0pwQ2lvSXg2azJxWkFHcVVYZlNFSUNWM1JZZ000cHIwQnFTTUtud0tWSng3Vm5LQ05hSlhMakFpUlFZa1dzaGM2aXJkUWYzR08yTkg?oc=5",
     "url": "https://www.toonippo.co.jp/articles/-/2387907",
@@ -278,6 +268,16 @@
     "published": "2026-10-22T01:10:20+00:00",
     "description": "北海道稚内市で初雪｜全国のニュース｜Web東奥 東奥日報社",
     "image": "https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png"
+  },
+  {
+    "id": "b86d55af77d1c770c8e4fd2c258a0d112fcd96b19da938da9bacc529135d3005",
+    "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KRzJEOF8ydGdFRDVUTnpseUVsUmNwdzU0M2hfTTg3WVM5R0V3Sk0zb0JtTGFMdnBVR1dwbUpGNmxGWVdOT1FBU3JTT0FGeEVRMUVqRm5mMDR4R29zRVE3amU4Nm5FbHQ4UlNEVEJqRjlSNTBS0gF0QVVfeXFMT0pHMkQ4XzJ0Z0VENVROemx5RWxSY3B3NTQzaF9NODdZUzlHRXdKTTNvQm1MYUx2cFVHV3BtSkY2bEZZV05PUUFTclNPQUZ4RVExRWpGbmYwNHhHb3NFUTdqZTg2bkVsdDhSU0RUQmpGOVI1MFI?oc=5",
+    "url": "https://news.infoseek.co.jp/amp/article/kyodo_1485808035347906764/",
+    "title": "北海道稚内市で初雪 - Infoseek",
+    "source": "Infoseek",
+    "published": "2026-10-22T01:10:20+00:00",
+    "description": "北海道稚内市で初雪 Infoseek",
+    "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_poli-soci-1.0.png"
   },
   {
     "id": "a535c511893634c721d8ebc61c79a43707b84b94e1140897339bafd0ebe95cb0",
@@ -430,6 +430,16 @@
     "image": "https://funeco.jp/wp-content/uploads/2026/10/fa4ece384ce7f231e5428c72e467504d.jpg"
   },
   {
+    "id": "63184b0e8f7ca81e233a9e6d0ecfe5a699654d3f936a2aade2ba46b70eec1d56",
+    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyWXRHUUFMd1dfZlhjWFZnTUEwNEg4ZFB3WGdlNFg3YVlJeTF5U0lNQ0FLZHZmb05YTmNXQ0tuVThfc1VnenBULXJrQklOQQ?oc=5",
+    "url": "https://www.fnn.jp/articles/-/1134995",
+    "title": "【北海道(宗谷地方)】10/19の天気予報 - FNNプライムオンライン",
+    "source": "FNNプライムオンライン",
+    "published": "2026-10-18T20:10:00+00:00",
+    "description": "【北海道(宗谷地方)】10/19の天気予報 FNNプライムオンライン",
+    "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
+  },
+  {
     "id": "1a2613e06a72534c355031d1ac5359da5e329a1e5e4e45ae8d5b3cb85dd674b6",
     "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wcmxrQi1QV2RnaHVPWWdMemd4LUM0OHhkR1RNd3d2WnhoY2xrR2IyWHRWYXRLVndzMVlzTXFRNC1sUHJpVEI4aUhHR0tLcy1fUU8tOTJLMFRleC1KSXozV2ZyRjNfamY3ZmVLT29mZw?oc=5",
     "url": "https://tenki.jp/lite/bousai/typhoon/storm/2630/1/1/1100/1120/",
@@ -448,16 +458,6 @@
     "published": "2026-10-18T11:30:00+00:00",
     "description": "留萌・宗谷（１０月１９日付）のおくやみ情報はありません 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
-  },
-  {
-    "id": "63184b0e8f7ca81e233a9e6d0ecfe5a699654d3f936a2aade2ba46b70eec1d56",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzZ05vWW4zREZ4Uy1saVVIdHRtZHJiRWhiVlViRDY4LUp4UU1IOFNpM1ZyQU5jSml3WWUwS2pMRGVSM2ZCTzNZeks5WVUwQQ?oc=5",
-    "url": "https://www.fnn.jp/articles/-/1134995",
-    "title": "【北海道(宗谷地方)】10/19の天気予報 - FNNプライムオンライン",
-    "source": "FNNプライムオンライン",
-    "published": "2026-10-18T10:30:00+00:00",
-    "description": "【北海道(宗谷地方)】10/19の天気予報 FNNプライムオンライン",
-    "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
   },
   {
     "id": "8e536ae2385456e82f607a48de85d5755ef9a606435239bfa0f0dc8c5a556c56",
@@ -1390,16 +1390,6 @@
     "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
   },
   {
-    "id": "126798bd2fa5bf37055c4a10e502048115ebeb619c23e67f96c6de11d5aebb9a",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwblFEVnZVcTJGdm12ZDVSVFBIRUROWlkwV1hhTnJvekl0X0J2MlNNamlwVkpMdDUwMXZyTjlXa04yX2oyVmJYWjViZw?oc=5",
-    "url": "https://www.47news.jp/15021072.html",
-    "title": "稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-10-01T07:00:00+00:00",
-    "description": "稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/7458c0f38ec03e7aa816aa3afa6d01c9/photo.jpg"
-  },
-  {
     "id": "1af1862265762542f83598dcf0e4f37fe9745a168cf7c7c841e984ea7b1d1cca",
     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xbXIwYmxvMWtfN2NBYXg0ejEzN3pTU3FfWHQxdkZGa0ozRWtoQzNoSXplYU5UUWlLSk1TVndyYWQzSDRqN2ZkeFFNS1pyVWZucjh6SzVB?oc=5",
     "url": "https://wakkanaipress.com/2026/10/01/25051/",
@@ -1408,6 +1398,16 @@
     "published": "2026-10-01T07:00:00+00:00",
     "description": "新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 稚内プレス社",
     "image": null
+  },
+  {
+    "id": "126798bd2fa5bf37055c4a10e502048115ebeb619c23e67f96c6de11d5aebb9a",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwblFEVnZVcTJGdm12ZDVSVFBIRUROWlkwV1hhTnJvekl0X0J2MlNNamlwVkpMdDUwMXZyTjlXa04yX2oyVmJYWjViZw?oc=5",
+    "url": "https://www.47news.jp/15021072.html",
+    "title": "稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 - 47NEWS",
+    "source": "47NEWS",
+    "published": "2026-10-01T07:00:00+00:00",
+    "description": "稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/7458c0f38ec03e7aa816aa3afa6d01c9/photo.jpg"
   },
   {
     "id": "ba2aefa4d1207da55cbdf9849949d8750147a0a68708414524b150cc9495ddbb",
