@@ -6,7 +6,17 @@
     <description>多摩の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/tama.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 24 Oct 2026 02:31:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 06:53:45 +0000</lastBuildDate>
+    <item>
+      <title>稲城長沼駅の高架下に新施設が2027年春オープンへ！東京ヴェルディと協働、飲食店や広場を整備 - 多摩ポン</title>
+      <link>https://tamapon.com/2026/10/24/inaginaganuma-newspot/</link>
+      <pubDate>Sat, 24 Oct 2026 06:53:45 +0000</pubDate>
+      <guid isPermaLink="false">0329cfd3e7545b22743f5ba2b76a70d4d82ef5a4d35ac659e3775aacfd7c3ab0</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">多摩ポン</source>
+      <media:thumbnail url="https://tamapon.com/wp-content/uploads/2026/10/main-3-2.jpeg" />
+      <media:content url="https://tamapon.com/wp-content/uploads/2026/10/main-3-2.jpeg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://tamapon.com/wp-content/uploads/2026/10/main-3-2.jpeg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;稲城長沼駅の高架下に新施設が2027年春オープンへ！東京ヴェルディと協働、飲食店や広場を整備 多摩ポン&lt;/p&gt;&lt;p&gt;配信元: 多摩ポン&lt;/p&gt;</description>
+    </item>
     <item>
       <title>スポ―ツ医療学科細川ゼミが多摩ランタンフェスティバル2026に参加しました - 帝京大学</title>
       <link>https://www.teikyo-u.ac.jp/topics/2026/1024-2</link>
@@ -1466,16 +1476,6 @@
       <media:thumbnail url="https://www.townnews.co.jp/0306/images/a001480342_02.jpg" />
       <media:content url="https://www.townnews.co.jp/0306/images/a001480342_02.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001480342_02.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;メカイの魅力にふれる 保存団体がサミット タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>たま食ねっと。 ｢こども音楽食堂｣ 開始 オーケストラが音楽演奏 - タウンニュース</title>
-      <link>https://www.townnews.co.jp/0306/2026/10/08/856144.html</link>
-      <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">cf257e02caf96a24dfe7e5eebde51cc0a4931936fe1daad378a9c7207f61e80f</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
-      <media:thumbnail url="https://www.townnews.co.jp/0306/images/a001479702_04.jpg" />
-      <media:content url="https://www.townnews.co.jp/0306/images/a001479702_04.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0306/images/a001479702_04.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;たま食ねっと。 ｢こども音楽食堂｣ 開始 オーケストラが音楽演奏 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

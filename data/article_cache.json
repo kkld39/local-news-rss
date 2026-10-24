@@ -1670,9 +1670,9 @@
     "url": "https://tamapon.com/2026/10/19/pertica-tamasakai/"
   },
   "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00RVFZS1dyUGFOR2dyWVVMdWIwWE9ZLTFSYVU1NTk5R2ZYa2QxV0xsb3RlRzBLRElCaklaNVRmYWI4TU1UVEVsUnNFeDQ0ald3bDRSYV9nVDdXdnhUMGloM3ZjYw?oc=5": {
-    "attempts": 1,
+    "attempts": 2,
     "error": "ValueError: HTTP 403",
-    "next_retry": "2026-10-24T13:27:18.369125+00:00",
+    "next_retry": "2026-10-26T14:33:21.255092+00:00",
     "url": "http://www.excite.co.jp/news/article/TBSRadio_113304/"
   },
   "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vMFVHYmE5Wm5yUW95ZkdCTzQyOV9QRGNmbjJjcHJhYmxNWENtdzRnTXpXZlJuWFA1YjhUajFLNFdlaWUtajlWbmhrc3BtQzVLZndoeTNVaW1idC1uMzNCOW9scw?oc=5": {
@@ -1681,6 +1681,13 @@
     "image": "https://www.nippon.com/ja/ncommon/contents/category_thumbnails/7/1448637/1448637.jpg",
     "next_retry": "2026-10-23T04:46:19.973728+00:00",
     "url": "https://www.nippon.com/ja/news/kd1485808035347906764/"
+  },
+  "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0alhNQXVHemswdVIzemt0YWVCWmFfZmlPbS1fSVpUV0JFcE9QSDNiQWVZYTJLZVJZazFUeUYydTJuTlk4cjRSOUFiWUZMLWdjcldEQVV6Wm01OVFoNTNTTmp3dw?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://tamapon.com/wp-content/uploads/2026/10/main-3-2.jpeg",
+    "next_retry": "2026-10-25T14:33:21.255092+00:00",
+    "url": "https://tamapon.com/2026/10/24/inaginaganuma-newspot/"
   },
   "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GMzk2QjRjR0JwMlRiSWY1dlB3TVFtMHhTRFU4TFF3NVhsWXFsV0g3MjdDb0pRVDA0VGszSmtPY0xXZTN2ZUk5VlRqZ1I2N09DTUFEQUREZmNGVEF5c0Q4N2Fn?oc=5": {
     "attempts": 1,
@@ -1863,13 +1870,6 @@
     "image": "https://www.townnews.co.jp/0306/images/a001480588_04.jpg",
     "next_retry": "2026-10-08T16:28:54.220960+00:00",
     "url": "https://www.townnews.co.jp/0306/2026/10/08/856141.html"
-  },
-  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DZ2pHR2ZkTFBtNTExdndhS1dTUF9FTG1feGhCUWt4b0pmSjMtMEFVSlFKRlp1R0wzWlBkRFphZ3dNYUJMXzQ2VTllU2IzUHRaUldPdmdHc2ROcWY4RkdfQVhGYmI?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://www.townnews.co.jp/0306/images/a001479702_04.jpg",
-    "next_retry": "2026-10-08T16:28:54.220960+00:00",
-    "url": "https://www.townnews.co.jp/0306/2026/10/08/856144.html"
   },
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZTmJuNzNlSUpTYTRSdDc2LWRMcjI4YTFJOF9oYk9ENEE4ZWRrMTYxSG9NYzAwN2Q1d1JYVkhWdkN5TkFYN0tSQlVVMlpYRmh2SmFMWGI3ajBPRWZ3dG1XeHV6X0k?oc=5": {
     "attempts": 1,
@@ -2211,6 +2211,13 @@
     "next_retry": "2026-10-13T17:54:44.855585+00:00",
     "url": "https://tamapon.com/2026/10/12/seria-crossgardentama-closeday/"
   },
+  "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zbm1JNFVJNkZMYW0xU3BFOWYzT0pTLUxxYWQ3RGR0NGpoTzVyLU1aYmppdlUxOEJ6N1MwQm9NX3Y1bzNybDNFckRWNm1vSUJfWDBiU3pyVkJWenlUbUdHZ2NpNHhkeG03bVJXcmotVdIBdEFVX3lxTE9KRzJEOF8ydGdFRDVUTnpseUVsUmNwdzU0M2hfTTg3WVM5R0V3Sk0zb0JtTGFMdnBVR1dwbUpGNmxGWVdOT1FBU3JTT0FGeEVRMUVqRm5mMDR4R29zRVE3amU4Nm5FbHQ4UlNEVEJqRjlSNTBS?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_poli-soci-1.0.png",
+    "next_retry": "2026-10-23T04:46:19.973728+00:00",
+    "url": "https://news.infoseek.co.jp/amp/article/kyodo_1485808035347906764/"
+  },
   "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTbWNnQUJLRVpjLUpPTGxmNE9YRzFlU2tuQ3dCN3Q4Xy1nZGxtaWs4QTQ3M2hIQzF2dGxYaFQyT0oxS3Y4V0ctR1pWRV9lQW56WHVoQkpadGgzRXdzclNiX0tRV3NGUXZoUXBJNHNwYw?oc=5": {
     "attempts": 1,
     "error": null,
@@ -2462,13 +2469,6 @@
     "image": "https://img.topics.smt.news.goo.ne.jp/picture/hbc/m_hbc-3019300.jpg",
     "next_retry": "2026-10-18T22:19:09.992458+00:00",
     "url": "https://topics.smt.docomo.ne.jp/amp/article/hbc/region/hbc-3019300"
-  },
-  "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KRzJEOF8ydGdFRDVUTnpseUVsUmNwdzU0M2hfTTg3WVM5R0V3Sk0zb0JtTGFMdnBVR1dwbUpGNmxGWVdOT1FBU3JTT0FGeEVRMUVqRm5mMDR4R29zRVE3amU4Nm5FbHQ4UlNEVEJqRjlSNTBS0gF0QVVfeXFMT0pHMkQ4XzJ0Z0VENVROemx5RWxSY3B3NTQzaF9NODdZUzlHRXdKTTNvQm1MYUx2cFVHV3BtSkY2bEZZV05PUUFTclNPQUZ4RVExRWpGbmYwNHhHb3NFUTdqZTg2bkVsdDhSU0RUQmpGOVI1MFI?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_poli-soci-1.0.png",
-    "next_retry": "2026-10-23T04:46:19.973728+00:00",
-    "url": "https://news.infoseek.co.jp/amp/article/kyodo_1485808035347906764/"
   },
   "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LQkdJOHJDQktVby1jOVpXSVR5X05KUlB3SVZ5a3ctYkNvZWZBRnZNeFk2WnhpYXl0UmNZaG04LWRZMVZTOTQ4bEgtRkJqcVJaQW4xSjZmS21ORWp0U09xemJhU3BYTG56YUNlLWpkRktSbG9D?oc=5": {
     "attempts": 1,
