@@ -80,16 +80,6 @@
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
   },
   {
-    "id": "c9fd2c2c5d5b317f49dd538f5c4b1363bfa7369d5891b407300f69b8561ae407",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xSnFkZW5xNXowaTNJRzR2SGFGSXhEVWVnWE9EMzRkQUx2LXR2NGZpdW80QldXSV9BTFV0VXl3YmNwa3R5cGY5UzZRbw?oc=5",
-    "url": "https://www.47news.jp/15132325.html",
-    "title": "北見でオホーツクデンタルショー 歯科衛生士の復職や定着を後押し - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-10-24T09:18:03+00:00",
-    "description": "北見でオホーツクデンタルショー 歯科衛生士の復職や定着を後押し 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/278a8812c3159526f49a7ecd0c1790cf/photo.jpg"
-  },
-  {
     "id": "399214a8f332587787dc4b1cf402478940f539800e1b0a78d5396e6570831496",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mSG0yM3lQaVRGOFBQZFVDR0g4eExWN0RLM1E2OXE3Vk52Q1ZmUWVoQzNFT0RiTmZleTZsaE5PTlVSc0lCVVpTYTJQMWJfV3FjM0NTcHg0ZUFGUQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1396011/",
@@ -98,6 +88,16 @@
     "published": "2026-10-24T09:18:03+00:00",
     "description": "北見でオホーツクデンタルショー 歯科衛生士の復職や定着を後押し 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/d/0/a/d/d0ad97c77af5b6a7a9db248cf45d4ac0_1.webp?20261024200132"
+  },
+  {
+    "id": "c9fd2c2c5d5b317f49dd538f5c4b1363bfa7369d5891b407300f69b8561ae407",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xSnFkZW5xNXowaTNJRzR2SGFGSXhEVWVnWE9EMzRkQUx2LXR2NGZpdW80QldXSV9BTFV0VXl3YmNwa3R5cGY5UzZRbw?oc=5",
+    "url": "https://www.47news.jp/15132325.html",
+    "title": "北見でオホーツクデンタルショー 歯科衛生士の復職や定着を後押し - 47NEWS",
+    "source": "47NEWS",
+    "published": "2026-10-24T09:18:03+00:00",
+    "description": "北見でオホーツクデンタルショー 歯科衛生士の復職や定着を後押し 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/278a8812c3159526f49a7ecd0c1790cf/photo.jpg"
   },
   {
     "id": "4e9c529524dc9a24b3f8a997fe6e5c111102b1745820d920d984aa5d12284721",

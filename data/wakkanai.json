@@ -320,6 +320,16 @@
     "image": "https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png"
   },
   {
+    "id": "13cd00478530b55371dcc5b714dbcfad6d9d554c890de5ba6622e93a01c1a4b0",
+    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sSTJpRTY2S1VaOVpscldOcEhSejN6STJPZURiSk1mODh5UFJybW13QVV5S21lNjdtSFVWdGo0Vklxb1J4UjJva1hROEN4eFlr?oc=5",
+    "url": "https://www.nnn.co.jp/articles/-/817913",
+    "title": "北海道稚内市で初雪 - nnn.co.jp",
+    "source": "nnn.co.jp",
+    "published": "2026-10-22T01:10:20+00:00",
+    "description": "北海道稚内市で初雪 nnn.co.jp",
+    "image": "https://nihonkai.ismcdn.jp/common/images/nnn/noimg_nnn.png"
+  },
+  {
     "id": "b86d55af77d1c770c8e4fd2c258a0d112fcd96b19da938da9bacc529135d3005",
     "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zbm1JNFVJNkZMYW0xU3BFOWYzT0pTLUxxYWQ3RGR0NGpoTzVyLU1aYmppdlUxOEJ6N1MwQm9NX3Y1bzNybDNFckRWNm1vSUJfWDBiU3pyVkJWenlUbUdHZ2NpNHhkeG03bVJXcmotVdIBdEFVX3lxTE9KRzJEOF8ydGdFRDVUTnpseUVsUmNwdzU0M2hfTTg3WVM5R0V3Sk0zb0JtTGFMdnBVR1dwbUpGNmxGWVdOT1FBU3JTT0FGeEVRMUVqRm5mMDR4R29zRVE3amU4Nm5FbHQ4UlNEVEJqRjlSNTBS?oc=5",
     "url": "https://news.infoseek.co.jp/amp/article/kyodo_1485808035347906764/",
@@ -540,12 +550,22 @@
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
   },
   {
+    "id": "e9936235d71a5cdf5100322e585d30f7a9009d39076c5fa2e5619598c565baa0",
+    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DSW5ON2gzaHliLUtSdDZBOWJ4b1JpZXdDUGdZSk9CY005MnR0NGxVQlNTVFhoaXZKendudnFaS3FBcGs4R0l1TEZPUi1UUEdWNzhyTDNNM3htaUd1SzFCUkhKbEQ2WlJPRVd6bG9lXy1XdTAwU182U2h1NFBPZW8?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/e24498cd86ee937d025a0b538406023f61262d3d",
+    "title": "運転手不足の解消へ 稚内市で運転手なしの自動運転バス実証運行がスタート 駅や病院などをめぐるルートで10月25日まで実施 - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-10-17T07:00:00+00:00",
+    "description": "運転手不足の解消へ 稚内市で運転手なしの自動運転バス実証運行がスタート 駅や病院などをめぐるルートで10月25日まで実施 Yahoo!ニュース",
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261017-23019300-hbcv-000-1-thumb.jpg?exp=10800"
+  },
+  {
     "id": "9349159d415cdbcad571573175493ce12ab16ac0a24bd4fd8a776678c7ae2a19",
-    "google_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcGszVmpDZ1NwcEJBaWhHMXQyZk5OUWx1T2pCM3ZkaEg2Z01RMzNMUXhKcElhT3lzZEd1WVVyMmdEb1dTdjV2eTRuMFVrMWVSaURHb0xRR01SOVNnN193TzNWNEE3SWxRRGxoc1M3MDBHX3dtZkxFY0ZHZEtPQ20zdzRCN2I4bV9vU3JQeUxRLTVxNUh3X044Unc2UjNBeThKaG0wY1d6Uy1zZzYweEJsM3JQZS1WS0dlVkFteHFoVWwxZGpTZG1VVmNlUXlkSFg0blM5Y21jU3pXYmZKVHZQY0QzRC1XZFB4ejJrNjlYbzRuSkRSX1E?oc=5",
+    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXeE4xZFV2N2Rkd2J1SHpCeVFKSXhzc2Q1UHkxZ3lDSEJZNmJiTkJpWXJIenVEQ05tNHdpSXkyZnpybTB2NmFaN2VRWlFJZ3FRbGdjd01WQQ?oc=5",
     "url": "https://newsdig.tbs.co.jp/articles/gallery/3019300?utm_source=news.yahoo.co.jp&utm_medium=referral&utm_campaign=partnerLink&ex_position=photo&ex_id=3019300&image=2",
     "title": "運転手不足の解消へ 稚内市で運転手なしの自動運転バス実証運行がスタート 駅や病院などをめぐるルートで10月25日まで実施 - TBS NEWS DIG",
     "source": "TBS NEWS DIG",
-    "published": "2026-10-17T05:00:18+00:00",
+    "published": "2026-10-17T07:00:00+00:00",
     "description": "運転手不足の解消へ 稚内市で運転手なしの自動運転バス実証運行がスタート 駅や病院などをめぐるルートで10月25日まで実施 TBS NEWS DIG",
     "image": "https://newsdig.ismcdn.jp/mwimgs/6/b/1200w/img_6b01bcf556c60af450f27a9c5dbf9a51231046.jpg"
   },
@@ -568,16 +588,6 @@
     "published": "2026-10-17T04:03:00+00:00",
     "description": "運転手不足の解消へ 稚内市で運転手なしの自動運転バス実証運行がスタート 駅や病院などをめぐるルートで10月25日まで実施 au Webポータル",
     "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/17/https___news_jp_i_1484039589869928712_w1200.webp"
-  },
-  {
-    "id": "e9936235d71a5cdf5100322e585d30f7a9009d39076c5fa2e5619598c565baa0",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DSW5ON2gzaHliLUtSdDZBOWJ4b1JpZXdDUGdZSk9CY005MnR0NGxVQlNTVFhoaXZKendudnFaS3FBcGs4R0l1TEZPUi1UUEdWNzhyTDNNM3htaUd1SzFCUkhKbEQ2WlJPRVd6bG9lXy1XdTAwU182U2h1NFBPZW8?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/e24498cd86ee937d025a0b538406023f61262d3d",
-    "title": "運転手不足の解消へ 稚内市で運転手なしの自動運転バス実証運行がスタート 駅や病院などをめぐるルートで10月25日まで実施 - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
-    "published": "2026-10-17T03:52:13+00:00",
-    "description": "運転手不足の解消へ 稚内市で運転手なしの自動運転バス実証運行がスタート 駅や病院などをめぐるルートで10月25日まで実施 Yahoo!ニュース",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261017-23019300-hbcv-000-1-thumb.jpg?exp=10800"
   },
   {
     "id": "16b1458d2059fb7e8e9e8f75024817298b20f136042bf8c1f9349619384bc6e4",
@@ -1478,15 +1488,5 @@
     "published": "2026-10-01T07:00:00+00:00",
     "description": "台風26号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
     "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
-  },
-  {
-    "id": "ba2aefa4d1207da55cbdf9849949d8750147a0a68708414524b150cc9495ddbb",
-    "google_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUEt6OG15MTM0ZE11RWE2T1U5eVUtYzRBRml0OEpxc2w1VlJCSDBhZzJUMFJlUTh4b0ItNUVBNURxRjZraHVKeFVyaGVDYjdKaDNXV295VkxiRUFtMnhWRk9JNFhnd2pkaXRzVUFTSWhPUDRKbmZUaG9CMzVwTXJ1NEluLU0xaHV4el9idldXT1FuemVSOHRVNHQtZ0EtbEx6TEtaU1hBeDdqV3E0OXQydjhTMk91b0JiRzZub3d1Wm5NbGFDTEVxSmIzd2Q1S0ZuZlHSAYIBQVVfeXFMTk9kRmVSUGk1WTdfTXptZXEtbi1RaXQ3RjIxQ0s3ZVFTTEFMaWtqem9uNUthaUw4NjFjbC1CX19OSEJjN2pYLVQ5S1NLRWQtTHRWNjBZaVpnQzFoZ1dZZXVBTXZuTXFEZ0xSSDJzYk9fSzdBb0VLU3lHNmx2RFk0NU9wUQ?oc=5",
-    "url": "https://topics.smt.docomo.ne.jp/article/hokkaido/region/hokkaido-1380377?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch7",
-    "title": "稚内市、GX戦略地域に選ばれず　DC集積の産業団地計画に修正や遅れを懸念 - topics.smt.docomo.ne.jp",
-    "source": "topics.smt.docomo.ne.jp",
-    "published": "2026-10-01T06:02:00+00:00",
-    "description": "稚内市、GX戦略地域に選ばれず　DC集積の産業団地計画に修正や遅れを懸念 topics.smt.docomo.ne.jp",
-    "image": "https://img.topics.smt.news.goo.ne.jp/picture/hokkaido/m_hokkaido-1380377.jpg"
   }
 ]
