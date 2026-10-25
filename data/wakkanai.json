@@ -1,5 +1,25 @@
 [
   {
+    "id": "ddc262c10efb6e8024c52f61ff2357fdbd29b78d473ee7ed9a52151c88c1b3e3",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41YzhPTE1mNVY2NGZPRGRMYmJKMUJXVkEtak04MVcwbjd0M2pUTUNPZHhYano4aWRKNE1FSnE0Ul92WjJUWnNPcnFmMW1Oa00wSDBuUzQ3MFplUQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1396303/",
+    "title": "留萌・宗谷（１０月２６日付）おくやみ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-10-25T11:30:00+00:00",
+    "description": "留萌・宗谷（１０月２６日付）おくやみ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
+    "id": "db0f09d6f5afb7541f979bc691ca55a72cdb7c2af000f6df42f73e9a20cdea7d",
+    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqYzBnWnR3VGZwU05jNVR1RW11eTZOYW4zaDlzcGJBNExFM0lUZGpTQ2ZFTTlqNTdBQXhFQ2t6QWhXLWxmaTFmc202SmxTUQ?oc=5",
+    "url": "https://www.fnn.jp/articles/-/1139487",
+    "title": "【北海道(宗谷地方)】10/26の天気予報 - FNNプライムオンライン",
+    "source": "FNNプライムオンライン",
+    "published": "2026-10-25T10:30:00+00:00",
+    "description": "【北海道(宗谷地方)】10/26の天気予報 FNNプライムオンライン",
+    "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
+  },
+  {
     "id": "f048cf109e30fa670c1279a512e00c792532422530fca29f2c25b9b4ba89ac90",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10N1VURUFJRThFS0E5Q3pFUC1jYVB6dmRVa0RDMTI2c2hWTnpZZEQ0MVpqWmpLSVNtZU9FemdPZVBvMjZrMTMxNVk1WHhDUGVKcnpseVhIeWZ3QQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1396029/",
@@ -1468,25 +1488,5 @@
     "published": "2026-10-01T07:00:00+00:00",
     "description": "新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 稚内プレス社",
     "image": null
-  },
-  {
-    "id": "126798bd2fa5bf37055c4a10e502048115ebeb619c23e67f96c6de11d5aebb9a",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwblFEVnZVcTJGdm12ZDVSVFBIRUROWlkwV1hhTnJvekl0X0J2MlNNamlwVkpMdDUwMXZyTjlXa04yX2oyVmJYWjViZw?oc=5",
-    "url": "https://www.47news.jp/15021072.html",
-    "title": "稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-10-01T07:00:00+00:00",
-    "description": "稚内市、GX戦略地域に選ばれず DC集積の産業団地計画に修正や遅れを懸念 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/7458c0f38ec03e7aa816aa3afa6d01c9/photo.jpg"
-  },
-  {
-    "id": "6bc187a2fe512763cdb4a51ac4bfaa9f9c6091e548c57cffd7d222141321b1ce",
-    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tUjhDcjNBSzR3TWl1VkxXTkNFbzF2MVBqRVJxdmNqc0xnVU9Jd3VTNnFhcXBLa3dseURPVC02a1JzRzNzWkEtTEN2TUhBd24tZW5FUGxfY090SWpyeUxwNUl2TlE1VHZOR1FWM0xCZw?oc=5",
-    "url": "https://tenki.jp/lite/bousai/typhoon/storm/2626/1/1/1100/1120/",
-    "title": "台風26号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp",
-    "source": "tenki.jp",
-    "published": "2026-10-01T07:00:00+00:00",
-    "description": "台風26号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
-    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
   }
 ]
