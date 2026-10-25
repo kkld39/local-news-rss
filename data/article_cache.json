@@ -1500,6 +1500,13 @@
     "next_retry": "2026-10-16T03:05:24.186686+00:00",
     "url": "https://go2senkyo.com/seijika/157603/posts/1530363"
   },
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BSkxmLS1LdUNKZFB6Ynd1dkVWM3ZTeC1EWGF2a2Nsa2p2ZWhraDQ0TFhQUjJDQzNBNmxRNjBRa2ZJM2d3c0RwTEhvSnRha0lBWEw2OVhya3p0VFdEb3Vj?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://newsdig.ismcdn.jp/mwimgs/f/a/1200w/img_fa12802e3a4098bfc142781373bdc649131572.jpg",
+    "next_retry": "2026-10-26T01:14:19.244116+00:00",
+    "url": "https://newsdig.tbs.co.jp/articles/gallery/2987063"
+  },
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JOFpWTVFXX19Ba3dpTFBTSEN5cmx2ZHkyMTlVWHI5ZEJ6dXFFVzU3YUF5ekt6Q19VY20ydmVFdkdpTnU5QllPOHRfWEh1RjZvTkYwN002YklQY3FMeEpF?oc=5": {
     "attempts": 1,
     "error": null,
@@ -2434,13 +2441,6 @@
     "image": "https://media.image.infoseek.co.jp/isnews/photos/stv/stv_1482652377139839949_0-enlarge.jpg",
     "next_retry": "2026-10-14T15:59:25.920965+00:00",
     "url": "https://news.infoseek.co.jp/amp/article/stv_1482652377139839949/"
-  },
-  "https://news.google.com/rss/articles/CBMickFVX3lxTFBzNE5aSmFGdzZILS1lUUtlUm9UOG1ORVhRR3lzZURiamUtSEFkd3BsQXd3NGd2Mjc4ZUxqU3RINVpYSWktWkdqbHZvZDNBVDN5UUM3UTRlSWZTdVJRaHF2ODljQXNad09LTTJHUzBEMkJpZw?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
-    "next_retry": "2026-10-16T04:39:43.123807+00:00",
-    "url": "https://news.infoseek.co.jp/article/prtimes_000000020_000018676/"
   },
   "https://news.google.com/rss/articles/CBMidEFVX3lxTE01VXZNTlYyLUdOV0MwcjZqWG9lZDlpVGE4U01JZm9weENCYmxsZ0FkVkhZNTRQV01ZQVl5Z1M0TW85UENoRXhiU1NDbG1aejFvWThtbVZRRzlTNDNocGVTZU96Wm1SeDdaMWNxSU5uckNSS3c4?oc=5": {
     "attempts": 1,
