@@ -6,7 +6,37 @@
     <description>北見の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/kitami.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 24 Oct 2026 19:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 08:36:03 +0000</lastBuildDate>
+    <item>
+      <title>北見市常呂町 (東方向)のライブカメラ - ウェザーニュース</title>
+      <link>https://weathernews.jp/onebox/livecam/hokkaido/doutou/7CDDE908D8DB/</link>
+      <pubDate>Sun, 25 Oct 2026 08:36:03 +0000</pubDate>
+      <guid isPermaLink="false">5dcaffd27733c498828c59e5071248ebba9d941d22340a59a9c25cd0463bc369</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">ウェザーニュース</source>
+      <media:thumbnail url="https://gvs.weathernews.jp/common/images/ogp/livecam@1x.png" />
+      <media:content url="https://gvs.weathernews.jp/common/images/ogp/livecam@1x.png" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://gvs.weathernews.jp/common/images/ogp/livecam@1x.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見市常呂町 (東方向)のライブカメラ ウェザーニュース&lt;/p&gt;&lt;p&gt;配信元: ウェザーニュース&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>なの花カップタグラグビー北見大会 小学生ら160人熱戦、網走小が優勝 - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1396269/</link>
+      <pubDate>Sun, 25 Oct 2026 07:38:26 +0000</pubDate>
+      <guid isPermaLink="false">3aaf725c3908d59c0b143266b4e48460fffa520ef13c11b4fa3ec5f60e25d680</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/d/0/5/4/d054fc4d42b2627d9df135c1509d9437_1.webp?20261025203019" />
+      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/d/0/5/4/d054fc4d42b2627d9df135c1509d9437_1.webp?20261025203019" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/d/0/5/4/d054fc4d42b2627d9df135c1509d9437_1.webp?20261025203019" alt="" /&gt;&lt;/p&gt;&lt;p&gt;なの花カップタグラグビー北見大会 小学生ら160人熱戦、網走小が優勝 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>なの花カップタグラグビー北見大会 小学生ら160人熱戦、網走小が優勝 - 47NEWS</title>
+      <link>https://www.47news.jp/15135826.html</link>
+      <pubDate>Sun, 25 Oct 2026 07:38:26 +0000</pubDate>
+      <guid isPermaLink="false">afd9c19950f6c4347d850be5404ed30327caed69a2d75b25782c9fc8793c7c61</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">47NEWS</source>
+      <media:thumbnail url="https://img.cf.47news.jp/public/photo/acc52d6f81589c946db375d3ae22a85b/photo.jpg" />
+      <media:content url="https://img.cf.47news.jp/public/photo/acc52d6f81589c946db375d3ae22a85b/photo.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.cf.47news.jp/public/photo/acc52d6f81589c946db375d3ae22a85b/photo.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;なの花カップタグラグビー北見大会 小学生ら160人熱戦、網走小が優勝 47NEWS&lt;/p&gt;&lt;p&gt;配信元: 47NEWS&lt;/p&gt;</description>
+    </item>
     <item>
       <title>＜年30億円縮減 北見市プラン＞公共施設利用14％減 25年度 財政効果見込み下回る - 北海道新聞デジタル</title>
       <link>https://www.hokkaido-np.co.jp/article/1396101/</link>
@@ -1456,36 +1486,6 @@
       <media:thumbnail url="https://img.cf.47news.jp/public/photo/45bc19df4157f784d3351b88d3f138a0/photo.jpg" />
       <media:content url="https://img.cf.47news.jp/public/photo/45bc19df4157f784d3351b88d3f138a0/photo.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://img.cf.47news.jp/public/photo/45bc19df4157f784d3351b88d3f138a0/photo.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見たまねぎまつり 11月1日開催 段ボール早積み王決定戦やタマネギ詰め放題も 47NEWS&lt;/p&gt;&lt;p&gt;配信元: 47NEWS&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>北見たまねぎまつり 11月1日開催 段ボール早積み王決定戦やタマネギ詰め放題も - 北海道新聞デジタル</title>
-      <link>https://www.hokkaido-np.co.jp/article/1390130/</link>
-      <pubDate>Thu, 15 Oct 2026 07:06:55 +0000</pubDate>
-      <guid isPermaLink="false">2032b7c440e2b743571028a84c161152fba763879fdccdd1619ea4085c668d6b</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
-      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/8/f/9/0/8f90252ca5837649867f26af43d5e78d_1.webp?20261015185546" />
-      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/8/f/9/0/8f90252ca5837649867f26af43d5e78d_1.webp?20261015185546" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/8/f/9/0/8f90252ca5837649867f26af43d5e78d_1.webp?20261015185546" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見たまねぎまつり 11月1日開催 段ボール早積み王決定戦やタマネギ詰め放題も 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>地域暮らしに関心ある東京圏のテレワーカーの73.3％が1週間以上の長期滞在希望、北見市が空き家を使った長期滞在支援モデル推進 - Glocal Mission Times</title>
-      <link>https://chihososei-journal.jp/topics/900357/</link>
-      <pubDate>Thu, 15 Oct 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">853fff7fee77aca311e73d463c94d575b2bcafe2369c411c34dff0d8f246ec86</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Glocal Mission Times</source>
-      <media:thumbnail url="https://chihososei-journal.jp/wp-content/uploads/2026/10/main-14.png" />
-      <media:content url="https://chihososei-journal.jp/wp-content/uploads/2026/10/main-14.png" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://chihososei-journal.jp/wp-content/uploads/2026/10/main-14.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;地域暮らしに関心ある東京圏のテレワーカーの73.3％が1週間以上の長期滞在希望、北見市が空き家を使った長期滞在支援モデル推進 Glocal Mission Times&lt;/p&gt;&lt;p&gt;配信元: Glocal Mission Times&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>北見焼肉とんぼ家 × NPO法人U-mitte「とんぼで美味しい もくもくプロジェクト」始動 - PR TIMES</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000012.000142872.html</link>
-      <pubDate>Thu, 15 Oct 2026 03:48:15 +0000</pubDate>
-      <guid isPermaLink="false">645341f5487a7d20a6784d35b2daa1848652c1155a66263e2b8b0708beb3ebb2</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">PR TIMES</source>
-      <media:thumbnail url="https://prcdn.freetls.fastly.net/release_image/142872/12/142872-12-8839cc275e26ebd47e9364f201e324af-1920x1280.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260" />
-      <media:content url="https://prcdn.freetls.fastly.net/release_image/142872/12/142872-12-8839cc275e26ebd47e9364f201e324af-1920x1280.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://prcdn.freetls.fastly.net/release_image/142872/12/142872-12-8839cc275e26ebd47e9364f201e324af-1920x1280.png?format=jpeg&amp;amp;auto=webp&amp;amp;fit=bounds&amp;amp;width=2400&amp;amp;height=1260" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見焼肉とんぼ家 × NPO法人U-mitte「とんぼで美味しい もくもくプロジェクト」始動 PR TIMES&lt;/p&gt;&lt;p&gt;配信元: PR TIMES&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

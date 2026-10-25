@@ -165,7 +165,7 @@
     "url": "https://article.auone.jp/article/384cdb7f-ced6-49e3-bcec-ba5368652318",
     "title": "今季一番の寒気 稚内市・旭川市などで初雪を観測 峠は吹雪で見通し悪く、除雪車も出動 北海道 - au Webポータル",
     "source": "au Webポータル",
-    "published": "2026-10-22T12:48:00+00:00",
+    "published": "2026-10-22T12:48:26+00:00",
     "description": "今季一番の寒気 稚内市・旭川市などで初雪を観測 峠は吹雪で見通し悪く、除雪車も出動 北海道 au Webポータル",
     "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/22/https___news_jp_i_1485983636799996764_w1200.webp"
   },
@@ -498,6 +498,16 @@
     "published": "2026-10-18T20:10:00+00:00",
     "description": "【北海道(宗谷地方)】10/19の天気予報 FNNプライムオンライン",
     "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
+  },
+  {
+    "id": "36178ca9dd57256f06e12783211dbfdf32faa5d805f730e404d81fcedb4833d2",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LQ1NnS2tpQUtpY0hXQ1VKVFp5X0FfQlUwS3pNSVEyNmJDMDBpV2lNZ3BrS0FXQXo0QU5aSUVuOFdLYTA1bXp5S1hsZTRWZHNPc1dhODd1T0lPUQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1392038/",
+    "title": "宗谷の秋風 歩いて体感 稚内で催し - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-10-18T19:00:00+00:00",
+    "description": "宗谷の秋風 歩いて体感 稚内で催し 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/4/0/0/8/400825a00f81fcd9f5857cecf9547119_1.webp?20261025203008"
   },
   {
     "id": "bc0882153cf30f3cd1cfdb7369d2a69239f96ff660d6f965bbbf78590daeb721",
@@ -1478,15 +1488,5 @@
     "published": "2026-10-01T06:02:00+00:00",
     "description": "稚内市、GX戦略地域に選ばれず　DC集積の産業団地計画に修正や遅れを懸念 topics.smt.docomo.ne.jp",
     "image": "https://img.topics.smt.news.goo.ne.jp/picture/hokkaido/m_hokkaido-1380377.jpg"
-  },
-  {
-    "id": "2caac6873cd09ad1edbef9ca8a7d33cb3d3588cf3eaf7575e99cc442c5ccacea",
-    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9maGc5UHpRS2h3Y2xOVHFQT1RpOElrZXZwZlgwYlRpNWlTTkc3TnhiYWpNSFVkT2puWEtaLXYtajZhVHNGY0xCalBWaTlIU0R1ZlFQdmQzcw?oc=5",
-    "url": "https://www.uhb.jp/news/single.html?id=62499",
-    "title": "【ナマコ密漁でさらなる逮捕者】大量の酸素用ボンベやコンプレッサーなどを押収…密漁の実行グループを手助けした62歳男を逮捕〈北海道稚内市〉 - UHB 北海道文化放送",
-    "source": "UHB 北海道文化放送",
-    "published": "2026-10-01T00:32:53+00:00",
-    "description": "【ナマコ密漁でさらなる逮捕者】大量の酸素用ボンベやコンプレッサーなどを押収…密漁の実行グループを手助けした62歳男を逮捕〈北海道稚内市〉 UHB 北海道文化放送",
-    "image": "https://www.uhb.jp/news/data/62499/image.jpg?v=1790772294"
   }
 ]
