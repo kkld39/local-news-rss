@@ -370,6 +370,16 @@
     "image": "https://www.chukei-news.co.jp/images/20261022_202145_15384.jpg"
   },
   {
+    "id": "e3c1ede42506238d91a82e5c56dac923e08960a2fda4973c63f1b526d4dd9f7f",
+    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GbFEyUUU2RWtKaU9WUGhOcEFjd18zSFBwWGk0QVJYNmthOWJCeW5fT2N1MnVrRWl2TERmR09mRUM2UHVlZHZYSnE0UlcyaDZ2M1cwQmpIZEx5cWtqTWNKSWFXWkRKQ2ozc0p4TXRMNG5udnN4MkZMRTdpdUlYd28?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/cef483ccf50ef9d97e670102b046a2784d27dedf",
+    "title": "「火をつけてもいいしね」元妻の自宅を放火する旨を告知し脅迫 男（40）逮捕 北海道 - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-10-22T19:16:00+00:00",
+    "description": "「火をつけてもいいしね」元妻の自宅を放火する旨を告知し脅迫 男（40）逮捕 北海道 Yahoo!ニュース",
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-04482134-stv-000-4-view.jpg?exp=10800"
+  },
+  {
     "id": "15e330047351f055a1dad839afc35ed9d4a295516319e3a33191996078490d18",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZbUEyNmFjTE90UzJaaWszLV94dThJdkthU0pGbVJyY3dkR1JDUU1qLVNTS2plQ195WlpSVmZqc3RBNXVwd1p2VmFSSWFaNWJRQTgxWDJqSEh1Zw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1395003/",
@@ -463,10 +473,10 @@
     "id": "a701c94ee9578ac80ba9caa43a732ad5148d3b15150db269bdadba8913b4062c",
     "google_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTzk0STdRZ3otMS1BSGJoVU9EYVpINkRVWnhwc3lqNFlaQVJONHEtWHd0RTNGdHc5R1pRWWoxQUo0OXRfRUFpMVRhWlJ4ejNfYlR4bVdDVkZaWE45dTdmcHl3TUF5M1VIXzRPbGFJQzZaSHdWMDY2Vnl0ejdiR0FfWHhHd1BybE9YRWc?oc=5",
     "url": "https://www.rakumachi.jp/syuuekibukken/hokkaido/hokkaido/dim1002/3775046/show.html",
-    "title": "【賃貸中】2009年築想定利回13.1% 北見市1棟アパート - www.rakumachi.jp",
-    "source": "www.rakumachi.jp",
+    "title": "【賃貸中】2009年築想定利回13.1% 北見市1棟アパート - rakumachi.jp",
+    "source": "rakumachi.jp",
     "published": "2026-10-22T05:48:41+00:00",
-    "description": "【賃貸中】2009年築想定利回13.1% 北見市1棟アパート www.rakumachi.jp",
+    "description": "【賃貸中】2009年築想定利回13.1% 北見市1棟アパート rakumachi.jp",
     "image": null
   },
   {
@@ -1488,15 +1498,5 @@
     "published": "2026-10-15T13:25:00+00:00",
     "description": "（北海道）北見市豊田でクマ出没　１０月１５日 ｄメニューニュース",
     "image": "https://img.topics.smt.news.goo.ne.jp/region_tmb/16_9/012084.png?fushinsha_joho-1483457883351630743"
-  },
-  {
-    "id": "6d33c7fdd5a13f91f45e04a3086805e9f946285df9a1c2f1dc47bfd9f700e959",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nZ3dqR1FpTFMwWFlua01nT2ZhdGRoaW1ybW5MTVBJZUNtRUVwc01keDZKMTJLTE1zcDJZbnVhRTJPUGJrWU9FRjJXNVdsSW5FWGhlS1BxRGR6Zw?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1390264/",
-    "title": "北見・オホーツク（１０月１６日付）おくやみ - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-10-15T11:30:00+00:00",
-    "description": "北見・オホーツク（１０月１６日付）おくやみ 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
   }
 ]
