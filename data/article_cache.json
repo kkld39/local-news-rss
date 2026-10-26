@@ -6,6 +6,13 @@
     "next_retry": "2026-10-26T06:11:04.308689+00:00",
     "url": "https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-858436?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch2"
   },
+  "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQVA2UHhCbERaclVvQnlvTkE5TUFQQmQyT0w0a2FrMHVnN2VUdUstUk1TX2pOY0FJUXpJQlF3ZXBHX1VPY0FJS2ZvTVRxY0ZwRTFrdW5veEFPVzJEU0NTYUpMcGtydTl0NXItNEtaTDZmRVAyZW9QSU05eWdzVlUzTHlwWFpCbkdaMWx6dWhLQmZqd0tPck1qUVN0emo5Nlp1OGtmWFVXNXNBWndZalNLeld1dkp3NUFDc3NQYjA4MFZabTFpaHlUdDZYUEFuNk1l0gGAAUFVX3lxTE1RV2dENnpYNTVGcFZPd1FKUnNkTlI4Nll2UG43d0JXOHhBbGZJOUJNaHJEZU1Cdk80YkxwMDVIaDNPMTVnV251TFdkOGRVQnNzM3FvTnJ4dE9fYkxLUkJvZUsxNFYzVWx0eDB0MHVCV2FDOGlsbU5tZ2xsZVR2QzVE?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://img.topics.smt.news.goo.ne.jp/picture/townnews/m_townnews-858442.jpg",
+    "next_retry": "2026-10-27T06:14:25.033548+00:00",
+    "url": "https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-858442?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1"
+  },
   "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNejYwZzF1RjZKRkd1aVBJWnd2Qk5fZmRFMW1vM1N4dFlZeXg1Ym9CdnotNktObWRXelk1RENELVNaOUdWRnZMaFB4UFVKanhKUEs0cEl2MTJZLXY3UDFlUDJwajJWMkFLVTVXTGFEM0w1TkVfc3FXZzZNdUVEVzc0emd6aDZRYmM0UUhDMnRXSW5VWGQwdURuaTk2MkdTOFlnWUJ0bDNGR25RRXhXX2xYUzh4ZVRFWjJiU20zRVVKeTRjM3g3MTd2d1F5MzJPSHZL0gGAAUFVX3lxTE8wS3MzTFI1OVFOd1pPYk9oMnVOcWtTcWllWk4tTjZISVFQdUw2cnhnV3hhbGNJQ1JjTWQ2UnI1TkdxdjVZUG1tSk5weUgxT2kwVzJlX0gxOHgtRjFMVGhnSHY0UnBOa3lSenRiYVpna21jeGdpbDR5dDM5ZXJXUlI0?oc=5": {
     "attempts": 1,
     "error": null,
@@ -368,12 +375,12 @@
     "next_retry": "2026-10-23T19:16:08.691799+00:00",
     "url": "https://panora.tokyo/archives/160859"
   },
-  "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jQU85ZHJKTUxGcWdZOHY1eFNXbmNzMnl2STgwMHZUdmlFNGN6WGRYZ29iX1o0TE8tOEtIVWttNzR6ZENlSmFnT3Rpd1k?oc=5": {
-    "attempts": 3,
+  "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0cjlxLUtaYkRsRkE2M0dZTmJWZV9PYVZRbVJMLXBmaXhnamM4OXNFZm5KOXltY1ktSDNjT0ZLNW5PbWE4ZFNHQTEya1M?oc=5": {
+    "attempts": 1,
     "error": "No representative image",
     "image": null,
-    "next_retry": "2026-10-16T03:05:24.186686+00:00",
-    "url": "https://hokkaido-nl.jp/article/44221"
+    "next_retry": "2026-10-27T06:14:25.033548+00:00",
+    "url": "https://hokkaido-nl.jp/article/44390"
   },
   "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14MkJ2amt5akhPbDV5blNBaDQxa25SUEx3Smpib0R5UkdtOS04dkpWUFhxamFMa2hxVWxDb0FIV0l2WHE0c2RraGdYeVBYQQ?oc=5": {
     "attempts": 1,
@@ -743,13 +750,6 @@
     "error": "ConnectTimeoutError: (<HTTPSConnection(host='161.34.22.107', port=443) at 0x7f6cd97f1c10>, 'Connection to 161.34.22.107 timed out. (connect timeout=4)')",
     "next_retry": "2026-10-27T01:10:50.623878+00:00",
     "url": "https://wakkanaipress.com/2026/10/26/25419/"
-  },
-  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xbXIwYmxvMWtfN2NBYXg0ejEzN3pTU3FfWHQxdkZGa0ozRWtoQzNoSXplYU5UUWlLSk1TVndyYWQzSDRqN2ZkeFFNS1pyVWZucjh6SzVB?oc=5": {
-    "attempts": 3,
-    "error": "No representative image",
-    "image": null,
-    "next_retry": "2026-10-07T12:22:22.570592+00:00",
-    "url": "https://wakkanaipress.com/2026/10/01/25051/"
   },
   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aNF80WTNzMGVDbU5hb05FN3pZaEktQ29oQklxTk9jSmdoTldZcTloMEpRY1puNTNRX1NJZnZWT2hESUtkVHlIT2FvRk12UGN2R3kxcUdUa0lrTlk?oc=5": {
     "attempts": 1,
@@ -1863,20 +1863,6 @@
     "next_retry": "2026-10-22T19:20:01.990299+00:00",
     "url": "https://www.townnews.co.jp/0306/2026/10/22/858441.html"
   },
-  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BTzYzWWdiMUc5QThRTnJLLXZVZjhvcGRlYkJPbExkM0QxNkNyUFJTZk1QQkxyNkFOQnU4Z19FbTBWODdtRlVyZkEtallrSzJUVTRhNlZmWlg5Mlp5UVZIQzJVWmE?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://www.townnews.co.jp/0306/images/a001480588_04.jpg",
-    "next_retry": "2026-10-08T16:28:54.220960+00:00",
-    "url": "https://www.townnews.co.jp/0306/2026/10/08/856141.html"
-  },
-  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aUFpZbmJFMXR1bmpRZmRoMEtoRWFfQ3BuNkR1UjFPVkFUTWNDZWE0LWRHUEFGRlFCRm9mN014VnlJckk2clFqZlVnWjlRWk9XOUl4c3lqaXIyV2ZCcnVvdVY1ZjM?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://www.townnews.co.jp/0306/images/a001479470_02.jpg",
-    "next_retry": "2026-10-08T21:58:42.015555+00:00",
-    "url": "https://www.townnews.co.jp/0306/2026/10/08/856142.html"
-  },
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iaGlqYWFKZ2xaakhHemduY19LZmk5YTJWX2NKUmoxQ1drWVl5VEhNR1ZmTDRuYzZQWk9jaFFfS3pHTktVUzdHc2tHNVhFdWpjYVd1U1FfbjBiaTMxZGQ5VzJneW8?oc=5": {
     "attempts": 1,
     "error": null,
@@ -2028,13 +2014,6 @@
     "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg",
     "next_retry": "2026-10-03T20:45:35.675114+00:00",
     "url": "https://tenki.jp/bousai/typhoon/storm/2627/1/1/1100/1110/"
-  },
-  "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BM2VXWnlUeTJfUC0wUDZVOEZtMWhUc04wNmlvNW94TW5aWmQ0OWVsVTRMWXN0OU9kMzZpcGJpcHl1Z2t5QzViRkRhcWlXcE5iSDVnUVFJZUtqUzRneEJSTWdQMnRkZnVQ?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg",
-    "next_retry": "2026-10-09T08:58:31.294311+00:00",
-    "url": "https://tenki.jp/lite/bousai/typhoon/storm/2626/1/1/1100/1110/"
   },
   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SdVJDNGZ3RGdYYlBMTXI2MTduZFhiRl94S21OVnBPaGFJZzVSZWw1LTFfM0pxVGp5Z2ZkYU1VdFlPMUhwX3FuTXhoc2xNb0xhZm03ZUVUcFhaR0hySC1qMG9Gc3NSUk81?oc=5": {
     "attempts": 1,
@@ -2510,6 +2489,13 @@
     "image": "https://img.topics.smt.news.goo.ne.jp/picture/townnews/m_townnews-856134.jpg",
     "next_retry": "2026-10-12T15:41:30.676828+00:00",
     "url": "https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-856134?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1"
+  },
+  "https://news.google.com/rss/articles/CBMie0FVX3lxTE16X3RVS0pibUxzOTNvM1BUazBSajlOaGZlakg4dmtPTHV1SkpqdHg4LUhHbmY4Tkcxb2FOelppOTlmcW5LSVQ3YUN6OWV6ZGFKekJGRkZvbHZremlkS2p2TTFraWx1eTJlWi1uazJIbnNCX3BCSGFCSUFORdIBgAFBVV95cUxNYkNJRHJELTFMQTAxcnNwSks2SFhKQkRORU0wUUJqOFNNWWpNN2M0NXdueGVrdmRxQ3E1ZEp3X3pUZHl2cWxvZjVCM1g3Nm91Uzg1aF9zSHpROFVHQldyVVcyY0FRYTBQOWpZLVM2ODRxNklEZkIyeGtqRURwdHJNWg?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://img.topics.smt.news.goo.ne.jp/picture/townnews/m_townnews-858970.jpg",
+    "next_retry": "2026-10-27T06:14:25.033548+00:00",
+    "url": "https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-858970"
   },
   "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UUHd0TEd1MU5LekNDc0RrRk5VZ2tvczZTWHhldkhUZExoLTFPaExTT2dIMUpEQTMtRkowNG5DWWZxYXJLRm8xcy10NDZramtyZVpoSFF6Zl8yd0l2MVY4S2RDM0VoSUF3clVfd0hlcHA1MVJ6SXlkV0c3UQ?oc=5": {
     "attempts": 1,
@@ -3019,6 +3005,13 @@
     "image": "https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/08/231847.jpg",
     "next_retry": "2026-10-17T01:21:10.419714+00:00",
     "url": "https://tama-inagi.goguynet.jp/2026/10/16/tama-city-verdy-public-viewing-link-forest-2026/"
+  },
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMU9TR0htc2VTazF0Y1RMRU1YMk9YNjdYS0FxQ1lNX012ZHhCaVRycXE1N0tSX19zSmpWdmo2NXRzdWI5WmI2NFZEU1lmdkxqM05fYXNTZ1ZNYmpQaG9jM0JLM1lfSnRSRENYaDFXMktaUnVlTDlfb1FmMkxKNVlWdlQyMUdlZUlFajFjQ3FvQnZVOHhV?oc=5": {
+    "attempts": 3,
+    "error": "No representative image",
+    "image": null,
+    "next_retry": "2026-10-16T03:05:24.186686+00:00",
+    "url": "https://hokkaido-nl.jp/article/44221"
   },
   "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWUx2NTAxa0hMX0xSR2hKYUFaM0dqLTVzelVyXzl1VHhwZU9qcGJ3QzhhUkpFUHJyMnFqZl9MYlNJOWlTQ29DX1g0MGVqcDl4VzBoLVZxelZrY2kxTEwxQzZmSmZDOXpBdE95WVBMcWNNMjFpREtsdElHYVBHbl9Sdkg2bTRiY1NUeTFqazh0ZkJHeGc0b0E?oc=5": {
     "attempts": 1,

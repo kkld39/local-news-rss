@@ -50,6 +50,16 @@
     "image": "https://newsdig.ismcdn.jp/mwimgs/f/5/1200w/img_f5a5e09e4e723725b5574636efdfb9f4178407.jpg"
   },
   {
+    "id": "8773f8b988080adcb6c10e41a6c6cf89095fd91073f3de74e5ffcd3948b31741",
+    "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0cjlxLUtaYkRsRkE2M0dZTmJWZV9PYVZRbVJMLXBmaXhnamM4OXNFZm5KOXltY1ktSDNjT0ZLNW5PbWE4ZFNHQTEya1M?oc=5",
+    "url": "https://hokkaido-nl.jp/article/44390",
+    "title": "利尻山見ながらゆったり 稚内市西浜地区に吉田さんカフェ開業 - 北海道ニュースリンク",
+    "source": "北海道ニュースリンク",
+    "published": "2026-10-24T06:34:39+00:00",
+    "description": "利尻山見ながらゆったり 稚内市西浜地区に吉田さんカフェ開業 北海道ニュースリンク",
+    "image": null
+  },
+  {
     "id": "32529417c3daea5dbeec26ba586fc6e402563d6a7150b98e0c669fc927b23c0e",
     "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iSlFCQmFZOGctQ2owVV82VlBEZmc0RFBqQXdMTTZBUlJmUG1KbUY3RGx1cDNvWG5TcEF3T2hBTjgzT2lJUm4xT3dxYjFNS3h4a2hIb0ctQ0VheGxsTXlSekJiREkybGhp?oc=5",
     "url": "https://tenki.jp/bousai/typhoon/storm/2631/1/1/1100/1110/",
@@ -350,14 +360,14 @@
     "image": "https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png"
   },
   {
-    "id": "903c2c3473a21db9179da59321de3942efc69f10c7714afa38d80db305852e3b",
-    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85V1doX0pwQ2lvSXg2azJxWkFHcVVYZlNFSUNWM1JZZ000cHIwQnFTTUtud0tWSng3Vm5LQ05hSlhMakFpUlFZa1dzaGM2aXJkUWYzR08yTkg?oc=5",
-    "url": "https://www.toonippo.co.jp/articles/-/2387907",
-    "title": "北海道稚内市で初雪｜全国のニュース｜Web東奥 - 東奥日報社",
-    "source": "東奥日報社",
+    "id": "13cd00478530b55371dcc5b714dbcfad6d9d554c890de5ba6622e93a01c1a4b0",
+    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sSTJpRTY2S1VaOVpscldOcEhSejN6STJPZURiSk1mODh5UFJybW13QVV5S21lNjdtSFVWdGo0Vklxb1J4UjJva1hROEN4eFlr?oc=5",
+    "url": "https://www.nnn.co.jp/articles/-/817913",
+    "title": "北海道稚内市で初雪 - nnn.co.jp",
+    "source": "nnn.co.jp",
     "published": "2026-10-22T01:10:20+00:00",
-    "description": "北海道稚内市で初雪｜全国のニュース｜Web東奥 東奥日報社",
-    "image": "https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png"
+    "description": "北海道稚内市で初雪 nnn.co.jp",
+    "image": "https://nihonkai.ismcdn.jp/common/images/nnn/noimg_nnn.png"
   },
   {
     "id": "b86d55af77d1c770c8e4fd2c258a0d112fcd96b19da938da9bacc529135d3005",
@@ -370,14 +380,14 @@
     "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_poli-soci-1.0.png"
   },
   {
-    "id": "13cd00478530b55371dcc5b714dbcfad6d9d554c890de5ba6622e93a01c1a4b0",
-    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sSTJpRTY2S1VaOVpscldOcEhSejN6STJPZURiSk1mODh5UFJybW13QVV5S21lNjdtSFVWdGo0Vklxb1J4UjJva1hROEN4eFlr?oc=5",
-    "url": "https://www.nnn.co.jp/articles/-/817913",
-    "title": "北海道稚内市で初雪 - nnn.co.jp",
-    "source": "nnn.co.jp",
+    "id": "903c2c3473a21db9179da59321de3942efc69f10c7714afa38d80db305852e3b",
+    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85V1doX0pwQ2lvSXg2azJxWkFHcVVYZlNFSUNWM1JZZ000cHIwQnFTTUtud0tWSng3Vm5LQ05hSlhMakFpUlFZa1dzaGM2aXJkUWYzR08yTkg?oc=5",
+    "url": "https://www.toonippo.co.jp/articles/-/2387907",
+    "title": "北海道稚内市で初雪｜全国のニュース｜Web東奥 - 東奥日報社",
+    "source": "東奥日報社",
     "published": "2026-10-22T01:10:20+00:00",
-    "description": "北海道稚内市で初雪 nnn.co.jp",
-    "image": "https://nihonkai.ismcdn.jp/common/images/nnn/noimg_nnn.png"
+    "description": "北海道稚内市で初雪｜全国のニュース｜Web東奥 東奥日報社",
+    "image": "https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png"
   },
   {
     "id": "a535c511893634c721d8ebc61c79a43707b84b94e1140897339bafd0ebe95cb0",
@@ -1070,14 +1080,14 @@
     "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
   },
   {
-    "id": "a23bd4e63df2606d945163b695acc2471abab3565b2bbd04efb6bc558e10b451",
-    "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jQU85ZHJKTUxGcWdZOHY1eFNXbmNzMnl2STgwMHZUdmlFNGN6WGRYZ29iX1o0TE8tOEtIVWttNzR6ZENlSmFnT3Rpd1k?oc=5",
-    "url": "https://hokkaido-nl.jp/article/44221",
-    "title": "稚内市・富岡ユアーズ店40年の歴史に幕 コープさっぽろへ事業譲渡 - 北海道ニュースリンク",
-    "source": "北海道ニュースリンク",
+    "id": "cc35d5d4b23ea78a47fcf4c84d1d263437114a67dbf904202fc4d287030a07bc",
+    "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aNF80WTNzMGVDbU5hb05FN3pZaEktQ29oQklxTk9jSmdoTldZcTloMEpRY1puNTNRX1NJZnZWT2hESUtkVHlIT2FvRk12UGN2R3kxcUdUa0lrTlk?oc=5",
+    "url": "https://dohoku.net/wakkanai-yours-tomioka-2026/",
+    "title": "稚内市・富岡ユアーズ店40年の歴史に幕 コープさっぽろへ事業譲渡 - 道北ネット",
+    "source": "道北ネット",
     "published": "2026-10-10T07:00:00+00:00",
-    "description": "稚内市・富岡ユアーズ店40年の歴史に幕 コープさっぽろへ事業譲渡 北海道ニュースリンク",
-    "image": null
+    "description": "稚内市・富岡ユアーズ店40年の歴史に幕 コープさっぽろへ事業譲渡 道北ネット",
+    "image": "https://media.dohoku.net/wp-content/uploads/2026/10/wakkanai-yours-tomioka-2026-1.jpg"
   },
   {
     "id": "2375c9c2cd795e154123b3e28bc48b72abdb417254ec22ddcea4feb75c47345e",
@@ -1090,14 +1100,14 @@
     "image": null
   },
   {
-    "id": "cc35d5d4b23ea78a47fcf4c84d1d263437114a67dbf904202fc4d287030a07bc",
-    "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aNF80WTNzMGVDbU5hb05FN3pZaEktQ29oQklxTk9jSmdoTldZcTloMEpRY1puNTNRX1NJZnZWT2hESUtkVHlIT2FvRk12UGN2R3kxcUdUa0lrTlk?oc=5",
-    "url": "https://dohoku.net/wakkanai-yours-tomioka-2026/",
-    "title": "稚内市・富岡ユアーズ店40年の歴史に幕 コープさっぽろへ事業譲渡 - 道北ネット",
-    "source": "道北ネット",
-    "published": "2026-10-10T00:00:00+00:00",
-    "description": "稚内市・富岡ユアーズ店40年の歴史に幕 コープさっぽろへ事業譲渡 道北ネット",
-    "image": "https://media.dohoku.net/wp-content/uploads/2026/10/wakkanai-yours-tomioka-2026-1.jpg"
+    "id": "a23bd4e63df2606d945163b695acc2471abab3565b2bbd04efb6bc558e10b451",
+    "google_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMU9TR0htc2VTazF0Y1RMRU1YMk9YNjdYS0FxQ1lNX012ZHhCaVRycXE1N0tSX19zSmpWdmo2NXRzdWI5WmI2NFZEU1lmdkxqM05fYXNTZ1ZNYmpQaG9jM0JLM1lfSnRSRENYaDFXMktaUnVlTDlfb1FmMkxKNVlWdlQyMUdlZUlFajFjQ3FvQnZVOHhV?oc=5",
+    "url": "https://hokkaido-nl.jp/article/44221",
+    "title": "稚内市・富岡ユアーズ店40年の歴史に幕 コープさっぽろへ事業譲渡 - 北海道ニュースリンク",
+    "source": "北海道ニュースリンク",
+    "published": "2026-10-10T07:00:00+00:00",
+    "description": "稚内市・富岡ユアーズ店40年の歴史に幕 コープさっぽろへ事業譲渡 北海道ニュースリンク",
+    "image": null
   },
   {
     "id": "c7f91fc061c3e19b03afbaeed5383fe4243957912048327c8192d7607a0734f3",
@@ -1478,25 +1488,5 @@
     "published": "2026-10-01T11:30:00+00:00",
     "description": "留萌・宗谷（１０月２日付）おくやみ 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
-  },
-  {
-    "id": "d440691d6b5b6967fdea8b9995bdf1ff7396b4c3e1fcf118ebfe5556c6efd1e5",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BM2VXWnlUeTJfUC0wUDZVOEZtMWhUc04wNmlvNW94TW5aWmQ0OWVsVTRMWXN0OU9kMzZpcGJpcHl1Z2t5QzViRkRhcWlXcE5iSDVnUVFJZUtqUzRneEJSTWdQMnRkZnVQ?oc=5",
-    "url": "https://tenki.jp/lite/bousai/typhoon/storm/2626/1/1/1100/1110/",
-    "title": "台風26号(2026年)の道北宗谷北部の暴風域に入る確率 - tenki.jp",
-    "source": "tenki.jp",
-    "published": "2026-10-01T07:00:00+00:00",
-    "description": "台風26号(2026年)の道北宗谷北部の暴風域に入る確率 tenki.jp",
-    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
-  },
-  {
-    "id": "1af1862265762542f83598dcf0e4f37fe9745a168cf7c7c841e984ea7b1d1cca",
-    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xbXIwYmxvMWtfN2NBYXg0ejEzN3pTU3FfWHQxdkZGa0ozRWtoQzNoSXplYU5UUWlLSk1TVndyYWQzSDRqN2ZkeFFNS1pyVWZucjh6SzVB?oc=5",
-    "url": "https://wakkanaipress.com/2026/10/01/25051/",
-    "title": "新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 - 稚内プレス社",
-    "source": "稚内プレス社",
-    "published": "2026-10-01T07:00:00+00:00",
-    "description": "新鮮なホタテ届ける 宗谷漁協 福祉施設に975㌔分 稚内プレス社",
-    "image": null
   }
 ]
