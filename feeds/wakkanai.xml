@@ -6,7 +6,17 @@
     <description>稚内の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/wakkanai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 27 Oct 2026 08:13:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:30:00 +0000</lastBuildDate>
+    <item>
+      <title>留萌・宗谷（１０月２８日付）おくやみ - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1397441/</link>
+      <pubDate>Tue, 27 Oct 2026 11:30:00 +0000</pubDate>
+      <guid isPermaLink="false">99a4d22506ff44fc8c206209a1ef3fd4d063dbde603f42cdacf22e14a75461ea</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" />
+      <media:content url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;留萌・宗谷（１０月２８日付）おくやみ 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+    </item>
     <item>
       <title>朝版 1389日目 北海道稚内市 - NHK ONE</title>
       <link>https://www.web.nhk/tv/an/kokorotabi/pl/series-tep-PKRKV54PVL/ep/HHHG57HAWT</link>
@@ -494,16 +504,6 @@
       <description>&lt;p&gt;&lt;img src="https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北海道稚内市で初雪｜全国のニュース｜Web東奥 東奥日報社&lt;/p&gt;&lt;p&gt;配信元: 東奥日報社&lt;/p&gt;</description>
     </item>
     <item>
-      <title>北海道稚内市で初雪 - nnn.co.jp</title>
-      <link>https://www.nnn.co.jp/articles/-/817913</link>
-      <pubDate>Thu, 22 Oct 2026 01:10:20 +0000</pubDate>
-      <guid isPermaLink="false">13cd00478530b55371dcc5b714dbcfad6d9d554c890de5ba6622e93a01c1a4b0</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">nnn.co.jp</source>
-      <media:thumbnail url="https://nihonkai.ismcdn.jp/common/images/nnn/noimg_nnn.png" />
-      <media:content url="https://nihonkai.ismcdn.jp/common/images/nnn/noimg_nnn.png" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://nihonkai.ismcdn.jp/common/images/nnn/noimg_nnn.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北海道稚内市で初雪 nnn.co.jp&lt;/p&gt;&lt;p&gt;配信元: nnn.co.jp&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>北海道稚内市で初雪 - Infoseek</title>
       <link>https://news.infoseek.co.jp/amp/article/kyodo_1485808035347906764/</link>
       <pubDate>Thu, 22 Oct 2026 01:10:20 +0000</pubDate>
@@ -512,6 +512,16 @@
       <media:thumbnail url="https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_poli-soci-1.0.png" />
       <media:content url="https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_poli-soci-1.0.png" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_poli-soci-1.0.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北海道稚内市で初雪 Infoseek&lt;/p&gt;&lt;p&gt;配信元: Infoseek&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>北海道稚内市で初雪 - nnn.co.jp</title>
+      <link>https://www.nnn.co.jp/articles/-/817913</link>
+      <pubDate>Thu, 22 Oct 2026 01:10:20 +0000</pubDate>
+      <guid isPermaLink="false">13cd00478530b55371dcc5b714dbcfad6d9d554c890de5ba6622e93a01c1a4b0</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">nnn.co.jp</source>
+      <media:thumbnail url="https://nihonkai.ismcdn.jp/common/images/nnn/noimg_nnn.png" />
+      <media:content url="https://nihonkai.ismcdn.jp/common/images/nnn/noimg_nnn.png" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://nihonkai.ismcdn.jp/common/images/nnn/noimg_nnn.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北海道稚内市で初雪 nnn.co.jp&lt;/p&gt;&lt;p&gt;配信元: nnn.co.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>北海道稚内市で初雪 - 沖縄タイムス社</title>
