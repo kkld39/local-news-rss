@@ -1,5 +1,25 @@
 [
   {
+    "id": "5b0220bc11f044bc95228d92288def8304193b0a93cb77354336683249ccdb77",
+    "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTnkwZ0J5VTMwWHVjZm52RUhTRzFRLWoybWhOeXYwa01vd0ZDY0gtXzAzZHI0ZTh1eHBYR0VBYWY2OGFLcHlVQWFHODk0a3lPYmstQjJQejZPMmN0Sjc4M00tTUpBZmQ4Rm9tZC1CaU42VjRMblNpaDBSdGNIajhTVQ?oc=5",
+    "url": "https://www.web.nhk/tv/an/kokorotabi/pl/series-tep-PKRKV54PVL/ep/HHHG57HAWT",
+    "title": "朝版 1389日目 北海道稚内市 - NHK ONE",
+    "source": "NHK ONE",
+    "published": "2026-10-27T08:13:08+00:00",
+    "description": "朝版 1389日目 北海道稚内市 NHK ONE",
+    "image": "https://imgu.web.nhk/static/assets/images/tvseries/ts/PKRKV54PVL/PKRKV54PVL-eyecatch_03151a5a3409b85f3c29ef5ccdc57df2.jpg"
+  },
+  {
+    "id": "c3bcabc1b0ef773efbbea8ef3cf5c67b0176b055e2abfec3ddbb733f87a58f59",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52cHdOcnJqaHpFaXZPcHVIMkpOX2x0YTNIWk9kUW5FS2R0a1JUZUdxVXZZakRsQ25jMWdmUTRnZWZJdGZSajdWakpvUQ?oc=5",
+    "url": "https://tver.jp/episodes/epsjhsyfzn",
+    "title": "JR宗谷線の普通列車がクマと衝突 乗客乗員にけがなし 撤去作業に時間かかり2本運休 北海道名寄市 - TVer",
+    "source": "TVer",
+    "published": "2026-10-27T06:37:53+00:00",
+    "description": "JR宗谷線の普通列車がクマと衝突 乗客乗員にけがなし 撤去作業に時間かかり2本運休 北海道名寄市 TVer",
+    "image": null
+  },
+  {
     "id": "59e221ab4f29a4d3cd95da31564f7768c29a9bf0537a00f04a2582734ef17949",
     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BODBYWXZqQWRvZVVKWFBMQ2JrZ3E3U1h4RXlYdG1FREdibWlQRlRvTDdWeFgtUEJaTUxJeDZ5NV9ydVJ1Xzg3R1g3MXcyUQ?oc=5",
     "url": "https://www.fnn.jp/articles/-/1139974",
@@ -18,6 +38,16 @@
     "published": "2026-10-26T11:30:00+00:00",
     "description": "留萌・宗谷（１０月２７日付）おくやみ 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
+    "id": "9d11c7953c2f57a08757742a1cf3d83c09d8a1f901c91df207bc538d90168897",
+    "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE03bVhZUC13WWlKUXV1SE4zUXFWS2VscG8yUkN1bEN0bnZWMUhtOWxLMEl1ZU1takpkdzRsNTdZdG5reTZBNlpneDZvck83Q0lQbDItUFh5Yk5yQnltS2d0Y2dEU0RibVpqT2lmZ3djQ3ZEUdIBckFVX3lxTE03bVhZUC13WWlKUXV1SE4zUXFWS2VscG8yUkN1bEN0bnZWMUhtOWxLMEl1ZU1takpkdzRsNTdZdG5reTZBNlpneDZvck83Q0lQbDItUFh5Yk5yQnltS2d0Y2dEU0RibVpqT2lmZ3djQ3ZEUQ?oc=5",
+    "url": "https://news.infoseek.co.jp/amp/article/stv_1487372499934413075/",
+    "title": "JR宗谷線の普通列車がクマと衝突　乗客乗員にけがなし　撤去作業に時間かかり2本運休　北海道名寄市 - Infoseek",
+    "source": "Infoseek",
+    "published": "2026-10-26T08:47:17+00:00",
+    "description": "JR宗谷線の普通列車がクマと衝突　乗客乗員にけがなし　撤去作業に時間かかり2本運休　北海道名寄市 Infoseek",
+    "image": "https://media.image.infoseek.co.jp/isnews/photos/stv/stv_1487372499934413075_0-enlarge.jpg"
   },
   {
     "id": "ec37de485c918cbf1f5292b360147e79c4df66215686f94a1d3cd008f709faea",
@@ -60,16 +90,6 @@
     "image": null
   },
   {
-    "id": "660e7c9fc14aba12d7ce59a66c2f094de6e40bf58e67f4d8302aa94c04ae4e9b",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kN2EwTWFqZGxZZlVhWEhkU3hnTFZibkNIX1BvcE1QT0NJbmN0ZEdYNWlwSTVxempWaEFNZmR2WUNlQ2gwWENvZEtoSWpEdkdrX0JScVBpTF96V2xKSzFYdFBqRnBMY1J0Zm5MaFlsb2ROZGJhN2NVaVVHT201aFE?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/6552615dd834a99fe0bed87b8cb70ffbb13c6682",
-    "title": "【ヒグマ速報】JR宗谷線で普通列車がクマと衝突＿乗客・乗務員にケガなし＿線路上に残ったクマの除去に時間かかり夕方の普通列車2本が運休、特急列車も停車中〈北海道〉（北海道ニュースUHB） - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
-    "published": "2026-10-26T08:15:01+00:00",
-    "description": "【ヒグマ速報】JR宗谷線で普通列車がクマと衝突＿乗客・乗務員にケガなし＿線路上に残ったクマの除去に時間かかり夕方の普通列車2本が運休、特急列車も停車中〈北海道〉（北海道ニュースUHB） Yahoo!ニュース",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261026-90063120-hokkaibunv-000-1-view.jpg?exp=10800"
-  },
-  {
     "id": "1676ca278857cca70b99e8314d05ef7623141c00d3d6fe2029c037569cf78bd6",
     "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON0hsV1loQmE3aXZhSDVwQjZ1aDJIMUk2bV9XTVFfT2VlT0tGcTdSTjJJVVI4VHdscVBwQ2V0WHUwMHlpOW05NS1nN1V4cTNleEF6Tzh3bjBXZm9PV2VNWEZCMWI0SmI2ZzRVWlpna1RSMFdVZzdSdUUyRDRsWk1lUTM4b0ZnWTNRZmJ3QXBn?oc=5",
     "url": "https://news.yahoo.co.jp/articles/6552615dd834a99fe0bed87b8cb70ffbb13c6682/images/000",
@@ -78,6 +98,16 @@
     "published": "2026-10-26T08:15:01+00:00",
     "description": "【ヒグマ速報】JR宗谷線で普通列車がクマと衝突＿乗客・乗務員にケガなし＿線路上に残ったクマの除去に時間かかり夕方の普通列車2本が運休、特急列車も停車中〈北海道〉 Yahoo!ニュース",
     "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnerTlSapNtomAza49ZzfJ_L3zMAAmjUVlLslHq4W58o6Iz_nByEWdQim5wS_srXKwXNmVlXug0xU5XNpoqIAmOQQU67LL-rkPI4MIEJL3orqyE7Eelizxj1Uc2U7eHFcug=="
+  },
+  {
+    "id": "660e7c9fc14aba12d7ce59a66c2f094de6e40bf58e67f4d8302aa94c04ae4e9b",
+    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kN2EwTWFqZGxZZlVhWEhkU3hnTFZibkNIX1BvcE1QT0NJbmN0ZEdYNWlwSTVxempWaEFNZmR2WUNlQ2gwWENvZEtoSWpEdkdrX0JScVBpTF96V2xKSzFYdFBqRnBMY1J0Zm5MaFlsb2ROZGJhN2NVaVVHT201aFE?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/6552615dd834a99fe0bed87b8cb70ffbb13c6682",
+    "title": "【ヒグマ速報】JR宗谷線で普通列車がクマと衝突＿乗客・乗務員にケガなし＿線路上に残ったクマの除去に時間かかり夕方の普通列車2本が運休、特急列車も停車中〈北海道〉（北海道ニュースUHB） - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-10-26T08:15:01+00:00",
+    "description": "【ヒグマ速報】JR宗谷線で普通列車がクマと衝突＿乗客・乗務員にケガなし＿線路上に残ったクマの除去に時間かかり夕方の普通列車2本が運休、特急列車も停車中〈北海道〉（北海道ニュースUHB） Yahoo!ニュース",
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261026-90063120-hokkaibunv-000-1-view.jpg?exp=10800"
   },
   {
     "id": "6c2eec4cdafe0cfcb3331b6d66e9c14eb5672c72654b7d1ec6337fa55369e626",
@@ -100,13 +130,13 @@
     "image": null
   },
   {
-    "id": "32529417c3daea5dbeec26ba586fc6e402563d6a7150b98e0c669fc927b23c0e",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iSlFCQmFZOGctQ2owVV82VlBEZmc0RFBqQXdMTTZBUlJmUG1KbUY3RGx1cDNvWG5TcEF3T2hBTjgzT2lJUm4xT3dxYjFNS3h4a2hIb0ctQ0VheGxsTXlSekJiREkybGhp?oc=5",
-    "url": "https://tenki.jp/bousai/typhoon/storm/2631/1/1/1100/1110/",
-    "title": "台風31号(2026年)の道北宗谷北部の暴風域に入る確率 - tenki.jp",
+    "id": "32bd674b861d70b180ee8b775399175273b4d49d707a3f8f5890da86c5900aa0",
+    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkWHM4aDVaemlmVU1PTUpJNk5fb092bDQxUnVFT3hLNmNNYVlibUUyRWRkMlk1TGpGX0stazJvNXdzc28xdmJRTXh2UVB2R0otZUpKVzRHSlFBRnpzd216bF9VbTMtdTF3?oc=5",
+    "url": "https://tenki.jp/lite/bousai/typhoon/storm/2631/1/1/1100/1120/",
+    "title": "台風31号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp",
     "source": "tenki.jp",
     "published": "2026-10-26T00:00:00+00:00",
-    "description": "台風31号(2026年)の道北宗谷北部の暴風域に入る確率 tenki.jp",
+    "description": "台風31号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
     "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
   },
   {
@@ -120,13 +150,13 @@
     "image": "https://media.dohoku.net/wp-content/uploads/2026/10/wakkanai-poro-chise-cafe-hero.jpg"
   },
   {
-    "id": "32bd674b861d70b180ee8b775399175273b4d49d707a3f8f5890da86c5900aa0",
-    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kcmRVenRMRWlvbFBuT2NTRDluN19FRDRvUFU4aURydDY4YWwzUDBsaTkzQ28zR2MyQWdRR3UyVjVyQ2xmUWJfOEpuNWpnb21KT3hSMGRoQ2plc2hEMElQcC1WRTZqa3A4c2U2S2lBaw?oc=5",
-    "url": "https://tenki.jp/lite/bousai/typhoon/storm/2631/1/1/1100/1120/",
-    "title": "台風31号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp",
+    "id": "32529417c3daea5dbeec26ba586fc6e402563d6a7150b98e0c669fc927b23c0e",
+    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iSlFCQmFZOGctQ2owVV82VlBEZmc0RFBqQXdMTTZBUlJmUG1KbUY3RGx1cDNvWG5TcEF3T2hBTjgzT2lJUm4xT3dxYjFNS3h4a2hIb0ctQ0VheGxsTXlSekJiREkybGhp?oc=5",
+    "url": "https://tenki.jp/bousai/typhoon/storm/2631/1/1/1100/1110/",
+    "title": "台風31号(2026年)の道北宗谷北部の暴風域に入る確率 - tenki.jp",
     "source": "tenki.jp",
     "published": "2026-10-26T00:00:00+00:00",
-    "description": "台風31号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
+    "description": "台風31号(2026年)の道北宗谷北部の暴風域に入る確率 tenki.jp",
     "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
   },
   {
@@ -1180,16 +1210,6 @@
     "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
   },
   {
-    "id": "2375c9c2cd795e154123b3e28bc48b72abdb417254ec22ddcea4feb75c47345e",
-    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wTXlZdjBlVV96bDBRNG9ja2toc0QzLVFZczQwUFgxQjBmNmJWRVBkaHZMc2RZMmZCY1k2Wjk3R3gxcFc4bDJsVnVYT1NWbkV0eC16U3Z3?oc=5",
-    "url": "https://wakkanaipress.com/2026/10/10/25199/",
-    "title": "台湾で交流し親睦深める 宗谷ダンスプロジェクト - 稚内プレス社",
-    "source": "稚内プレス社",
-    "published": "2026-10-10T07:00:00+00:00",
-    "description": "台湾で交流し親睦深める 宗谷ダンスプロジェクト 稚内プレス社",
-    "image": null
-  },
-  {
     "id": "cc35d5d4b23ea78a47fcf4c84d1d263437114a67dbf904202fc4d287030a07bc",
     "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aNF80WTNzMGVDbU5hb05FN3pZaEktQ29oQklxTk9jSmdoTldZcTloMEpRY1puNTNRX1NJZnZWT2hESUtkVHlIT2FvRk12UGN2R3kxcUdUa0lrTlk?oc=5",
     "url": "https://dohoku.net/wakkanai-yours-tomioka-2026/",
@@ -1198,6 +1218,16 @@
     "published": "2026-10-10T07:00:00+00:00",
     "description": "稚内市・富岡ユアーズ店40年の歴史に幕 コープさっぽろへ事業譲渡 道北ネット",
     "image": "https://media.dohoku.net/wp-content/uploads/2026/10/wakkanai-yours-tomioka-2026-1.jpg"
+  },
+  {
+    "id": "2375c9c2cd795e154123b3e28bc48b72abdb417254ec22ddcea4feb75c47345e",
+    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wTXlZdjBlVV96bDBRNG9ja2toc0QzLVFZczQwUFgxQjBmNmJWRVBkaHZMc2RZMmZCY1k2Wjk3R3gxcFc4bDJsVnVYT1NWbkV0eC16U3Z3?oc=5",
+    "url": "https://wakkanaipress.com/2026/10/10/25199/",
+    "title": "台湾で交流し親睦深める 宗谷ダンスプロジェクト - 稚内プレス社",
+    "source": "稚内プレス社",
+    "published": "2026-10-10T07:00:00+00:00",
+    "description": "台湾で交流し親睦深める 宗谷ダンスプロジェクト 稚内プレス社",
+    "image": null
   },
   {
     "id": "a23bd4e63df2606d945163b695acc2471abab3565b2bbd04efb6bc558e10b451",
@@ -1325,7 +1355,7 @@
     "url": "https://wakkanaipress.com/2026/10/08/25149/",
     "title": "宗谷の魅力探る意見交換会 開建と振興局 杉谷、マスジ、本山さんら１２人参会 - 稚内プレス社",
     "source": "稚内プレス社",
-    "published": "2026-10-08T03:33:12+00:00",
+    "published": "2026-10-08T07:00:00+00:00",
     "description": "宗谷の魅力探る意見交換会 開建と振興局 杉谷、マスジ、本山さんら１２人参会 稚内プレス社",
     "image": null
   },
@@ -1458,45 +1488,5 @@
     "published": "2026-10-05T21:00:35+00:00",
     "description": "南極の海面上昇リスクと地球温暖化の脅威 観測船しらせ隊長が「海氷がない」と明かす異変の実態 北海道稚内市 Yahoo!ニュース",
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-22990851-hbcv-000-1-thumb.jpg?exp=10800"
-  },
-  {
-    "id": "dcad47b0c4c9bb10d043b91a5d0e07b420ae4ee5bfaf29e363fe86ef9bade3d7",
-    "google_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1PT2N1LWNHdk1kV3k1alFVblF1NC1GckxfUFJlbUtoclpUSHB5NGVtZDd0UkxmMDFVSy1R?oc=5",
-    "url": "https://newsdig.tbs.co.jp/articles/hbc/2990851",
-    "title": "南極の海面上昇リスクと地球温暖化の脅威 観測船しらせ隊長が「海氷がない」と明かす異変の実態 北海道稚内市 - Howl.link",
-    "source": "Howl.link",
-    "published": "2026-10-05T21:00:00+00:00",
-    "description": "南極の海面上昇リスクと地球温暖化の脅威 観測船しらせ隊長が「海氷がない」と明かす異変の実態 北海道稚内市 Howl.link",
-    "image": "https://newsdig.ismcdn.jp/mwimgs/7/d/1200w/img_7d29ec2300bdedea85878100819155dd164317.jpg"
-  },
-  {
-    "id": "1ed78df96629d09b0878535051b31ab27a345028772a1ec2ecf112aed52f1120",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xRWxjOFprM0xUTGVZUFpYY0w3ZHBlMUhvLS1QaEEzV2NiVVhia1hOLWNCVmM4WGFkaFhReXFIMC1PZEl6bm9SZGhHRl82UQ?oc=5",
-    "url": "https://www.fnn.jp/articles/-/1126885",
-    "title": "【北海道(宗谷地方)】10/6の天気予報 - FNNプライムオンライン",
-    "source": "FNNプライムオンライン",
-    "published": "2026-10-05T20:10:00+00:00",
-    "description": "【北海道(宗谷地方)】10/6の天気予報 FNNプライムオンライン",
-    "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
-  },
-  {
-    "id": "a40e18035e800db822e18e725b6504f45dd40a9f9f80f4453531992b3b082764",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vbXFqX0EteHFNWmh4VGlkQlpnN19nNzNrcV9pTnp4cnluRElhZURfQlFsVlZRLWlxdkVIa1oxcmJwSWZodmN2TjY0UUdLM05IMEFFejZYQk12UQ?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1384130/",
-    "title": "留萌・宗谷（１０月６日付）おくやみ - hokkaido-np.co.jp",
-    "source": "hokkaido-np.co.jp",
-    "published": "2026-10-05T11:30:00+00:00",
-    "description": "留萌・宗谷（１０月６日付）おくやみ hokkaido-np.co.jp",
-    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
-  },
-  {
-    "id": "d7377a83064b55ee9c5f1944978d60a06bb6e245ec2d34560aac1075cf157b68",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JcTBSWDZvV1FTTzhpZldxTzRWX3lEZnpJWXZub3dKaVBwSVp5TVdiU0x1Z1ZtYzBCQUo5NUttQ3laOUZvc3ozN1lqZ3JFUQ?oc=5",
-    "url": "https://www.fnn.jp/articles/-/1126543",
-    "title": "【北海道(宗谷地方)】10/5の天気予報 - FNNプライムオンライン",
-    "source": "FNNプライムオンライン",
-    "published": "2026-10-04T20:10:00+00:00",
-    "description": "【北海道(宗谷地方)】10/5の天気予報 FNNプライムオンライン",
-    "image": "https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg"
   }
 ]
