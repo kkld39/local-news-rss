@@ -10,6 +10,16 @@
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-23042750-jnn-000-1-view.jpg?exp=10800"
   },
   {
+    "id": "fd7bf07eec9b97e1ed8a0590fa4a32c2864e34fe74dbc41c8b53b2914a363194",
+    "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaHFOdTBGVDIyMHJ0ak5FYkJDWjFYbmQ4a3YxR21JS0tvemFNeVNxWVplOTBJeWlWX2RldVhxdEpGRzJHM0VWUUxZblFuN0QtZmZCdzlzQzI3SzJ5YjFKeU5yOENfMkJ4TkRFNm1zVDZmOUdnbTllOTgyempyYTFUS0V3RWpvaXVhakYtcll3?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/d1f39cda39d7faf99d2573a8e64cdc1874116dc4/images/000",
+    "title": "【暴風警報】北海道・稚内市、猿払村、豊富町などに発表 04:05時点 (TBS NEWS DIG Powered by JNN) - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-10-27T19:07:12+00:00",
+    "description": "【暴風警報】北海道・稚内市、猿払村、豊富町などに発表 04:05時点 (TBS NEWS DIG Powered by JNN) Yahoo!ニュース",
+    "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnV5G57vWlfc0ayg99v7sFAC2gzby5r_bauLkgn4N0AzJWx7BTGSE-yn05y5jjNe0aHc03Ze7w001d5cSeEyT8DWclF-xBv_JNsJPDYFur_sD"
+  },
+  {
     "id": "a43f908017370c9b5fc739033c318b49b801eac50741d04354fea234047bdd8b",
     "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzeUFBS1JVRkY2MkJlZEo1MHYtVWRDZzZSNS1NY09YWGNTRjNDNnk4azFxckhyVi1SaGg1SWRmel9kUldoY3JKWHFLdV9LWmFFdUhFMmJCUQ?oc=5",
     "url": "https://newsdig.tbs.co.jp/articles/-/3042750",
@@ -220,6 +230,16 @@
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
   },
   {
+    "id": "1a2613e06a72534c355031d1ac5359da5e329a1e5e4e45ae8d5b3cb85dd674b6",
+    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wcmxrQi1QV2RnaHVPWWdMemd4LUM0OHhkR1RNd3d2WnhoY2xrR2IyWHRWYXRLVndzMVlzTXFRNC1sUHJpVEI4aUhHR0tLcy1fUU8tOTJLMFRleC1KSXozV2ZyRjNfamY3ZmVLT29mZw?oc=5",
+    "url": "https://tenki.jp/lite/bousai/typhoon/storm/2630/1/1/1100/1120/",
+    "title": "台風30号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp",
+    "source": "tenki.jp",
+    "published": "2026-10-25T06:00:00+00:00",
+    "description": "台風30号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
+    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
+  },
+  {
     "id": "f048cf109e30fa670c1279a512e00c792532422530fca29f2c25b9b4ba89ac90",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10N1VURUFJRThFS0E5Q3pFUC1jYVB6dmRVa0RDMTI2c2hWTnpZZEQ0MVpqWmpLSVNtZU9FemdPZVBvMjZrMTMxNVk1WHhDUGVKcnpseVhIeWZ3QQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1396029/",
@@ -268,6 +288,16 @@
     "published": "2026-10-23T11:30:00+00:00",
     "description": "留萌・宗谷（１０月２４日付）おくやみ 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
+    "id": "7f176f02be26adc1d46ac24da29742e80e9edbf06052531ad20c80077938f037",
+    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UUUhyUF9fbkJKRWhXZjMyNkl6SHZ0VkRiZ1kwc0JMdGNVN09vYWhvdXM3MmNoeGV4cHh6aHoxZmViTmRaNnlobGpieVJwQQ?oc=5",
+    "url": "https://www.fnn.jp/articles/-/1138546",
+    "title": "【北海道(宗谷地方)】10/24の天気予報 - FNNプライムオンライン",
+    "source": "FNNプライムオンライン",
+    "published": "2026-10-23T10:30:00+00:00",
+    "description": "【北海道(宗谷地方)】10/24の天気予報 FNNプライムオンライン",
+    "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
   },
   {
     "id": "39dc27821e4bea367bf18a1bba2a31bef5f468c2dc00b4f472d1eac10a9b175d",
@@ -880,16 +910,6 @@
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
   },
   {
-    "id": "1a2613e06a72534c355031d1ac5359da5e329a1e5e4e45ae8d5b3cb85dd674b6",
-    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wcmxrQi1QV2RnaHVPWWdMemd4LUM0OHhkR1RNd3d2WnhoY2xrR2IyWHRWYXRLVndzMVlzTXFRNC1sUHJpVEI4aUhHR0tLcy1fUU8tOTJLMFRleC1KSXozV2ZyRjNfamY3ZmVLT29mZw?oc=5",
-    "url": "https://tenki.jp/lite/bousai/typhoon/storm/2630/1/1/1100/1120/",
-    "title": "台風30号(2026年)の道北宗谷南部の暴風域に入る確率 - tenki.jp",
-    "source": "tenki.jp",
-    "published": "2026-10-15T11:00:34+00:00",
-    "description": "台風30号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
-    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
-  },
-  {
     "id": "a559fb777cb64a7fbb1a671dcec11d12efd75ae096727a37f9ab8ded4b47fe65",
     "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZZjY0WUJaZlZneHBwbXlQQ3ppQWpiWFg1RW4yQTVqQjdRVndHTGt0NnRRZjI3eklTUWZRS25XUVROLUQ2Ykc3cG1PTHFyUmpDNDdaTEpMLTBKcEJTMjdHYzhCT0ZOb1kwZWVTN216Zw?oc=5",
     "url": "https://tenki.jp/lite/bousai/typhoon/storm/2630/1/1/1100/1110/",
@@ -1395,7 +1415,7 @@
     "url": "https://wakkanaipress.com/2026/10/08/25149/",
     "title": "宗谷の魅力探る意見交換会 開建と振興局 杉谷、マスジ、本山さんら１２人参会 - 稚内プレス社",
     "source": "稚内プレス社",
-    "published": "2026-10-08T03:33:12+00:00",
+    "published": "2026-10-08T07:00:00+00:00",
     "description": "宗谷の魅力探る意見交換会 開建と振興局 杉谷、マスジ、本山さんら１２人参会 稚内プレス社",
     "image": null
   },
@@ -1468,25 +1488,5 @@
     "published": "2026-10-07T07:00:00+00:00",
     "description": "台風27号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
     "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
-  },
-  {
-    "id": "d6ef9687e623171ff3b6eaef289ac964b4cba83d49ccff3b7b4d487e45d16538",
-    "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oejlCU20zMXZHM2dLUWpBaUluTXdFTE1fTGtnV3dxMUV2VmNQM2xSUHkzS0lGX0dfY0k5R2g2RUJHVG5qTloyZVBtOFpYNDJjTnd4eXBCb0VRclUwQVRvbFJ5MGhuMkJRSEQxbnR3UWpjaDVMLUNyZkNOUQ?oc=5",
-    "url": "https://news.nicovideo.jp/watch/nw19853860?news_ref=watch_20_nw19790593",
-    "title": "東京・港区で北海道・宗谷を味わおう！猿払村・礼文町が地場産品を販売 - ニコニコニュース",
-    "source": "ニコニコニュース",
-    "published": "2026-10-07T03:00:45+00:00",
-    "description": "東京・港区で北海道・宗谷を味わおう！猿払村・礼文町が地場産品を販売 ニコニコニュース",
-    "image": null
-  },
-  {
-    "id": "6b6fc19e4229d11683b8669e8d1a08526043c2da17e5cb4c0fdfc95334eb8bc5",
-    "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HeFFEcTNjeF91SnFTbzRQZ3RROTBVMEJ2MnFzd3VIU0dHTmhpbUhzM3VPUFMyYVBNOGdkLTlFRWNtNFgzOTBwN3U5NnF6VWhBcGNieVljOTdRaFc0US1zWEZPNjlfdkZJM3lHdUFWbTZoUQ?oc=5",
-    "url": "https://news.infoseek.co.jp/article/prtimes_000001276_000088209/",
-    "title": "東京・港区で北海道・宗谷を味わおう！猿払村・礼文町が地場産品を販売 - Infoseek",
-    "source": "Infoseek",
-    "published": "2026-10-07T01:45:41+00:00",
-    "description": "東京・港区で北海道・宗谷を味わおう！猿払村・礼文町が地場産品を販売 Infoseek",
-    "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png"
   }
 ]
