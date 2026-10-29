@@ -90,16 +90,6 @@
     "image": "https://tamapon.com/wp-content/uploads/2026/10/main-7-1.jpeg"
   },
   {
-    "id": "c023c471debeb420d5d72a1e78cd2c0d8b64fd163d228044f32e0de0bddd44f0",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IdURWWHZwMEZtdUZYX2ppeVhNYUFOX3NhRFhXVXRlcnc1c1NfY3d2TjZRSU9NMDZrZTJrOVhiQjN0UFVSaW5LRVdOc2tUWVpOTVhfZmo1S3A5Q1h3Tnd4OA?oc=5",
-    "url": "https://news.infoseek.co.jp/article/mynavi_3240828/",
-    "title": "多摩市「京王eスポーツ祭り2026」はなぜ盛り上がったのか？ 3,200人動員の理由とeスポーツの「表（A面）裏（B面）」を考える - Infoseek",
-    "source": "Infoseek",
-    "published": "2026-10-27T06:39:18+00:00",
-    "description": "多摩市「京王eスポーツ祭り2026」はなぜ盛り上がったのか？ 3,200人動員の理由とeスポーツの「表（A面）裏（B面）」を考える Infoseek",
-    "image": "https://media.image.infoseek.co.jp/isnews/photos/mynavi/mynavi_3240828_0-enlarge.jpg"
-  },
-  {
     "id": "7bee27cc1b52ad5c702788c1d22e452c4d7c342738ae3b37f3e35cadff03ac27",
     "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ta3Z0T1BFSUo4eC1RX1FHalVZYU1DaVltLV9NRkROcngyMkxpd0s2WG43OFVKbTdId2FSaFgydTJ1OUp5ejhFaXRzTzZ2ckwzbHZrT3NOVGNLU1k4?oc=5",
     "url": "https://news.mynavi.jp/article/20261027-5204057/",
@@ -108,6 +98,16 @@
     "published": "2026-10-27T06:39:18+00:00",
     "description": "多摩市「京王eスポーツ祭り2026」はなぜ盛り上がったのか？ 3,200人動員の理由とeスポーツの「表（A面）裏（B面）」を考える マイナビニュース",
     "image": "https://news.mynavi.jp/article/20261027-5204057/ogp_images/ogp.jpg"
+  },
+  {
+    "id": "c023c471debeb420d5d72a1e78cd2c0d8b64fd163d228044f32e0de0bddd44f0",
+    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IdURWWHZwMEZtdUZYX2ppeVhNYUFOX3NhRFhXVXRlcnc1c1NfY3d2TjZRSU9NMDZrZTJrOVhiQjN0UFVSaW5LRVdOc2tUWVpOTVhfZmo1S3A5Q1h3Tnd4OA?oc=5",
+    "url": "https://news.infoseek.co.jp/article/mynavi_3240828/",
+    "title": "多摩市「京王eスポーツ祭り2026」はなぜ盛り上がったのか？ 3,200人動員の理由とeスポーツの「表（A面）裏（B面）」を考える - Infoseek",
+    "source": "Infoseek",
+    "published": "2026-10-27T06:39:18+00:00",
+    "description": "多摩市「京王eスポーツ祭り2026」はなぜ盛り上がったのか？ 3,200人動員の理由とeスポーツの「表（A面）裏（B面）」を考える Infoseek",
+    "image": "https://media.image.infoseek.co.jp/isnews/photos/mynavi/mynavi_3240828_0-enlarge.jpg"
   },
   {
     "id": "c52f2bbce88cf2e8cb994477f122b1f0dd708684935be05f12bc13b9bc5150fe",
@@ -121,7 +121,7 @@
   },
   {
     "id": "1bf899cfe9a5be7f1a68a192181d348e1252d026d64c07557a6fffa8d66559e4",
-    "google_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVXhCV2VpTnpyX29PQ2U0UmZuX1VoRE5YR2ZXM2pMSFBQOGtkUE44MktQdUhVdnNaYUZMQThmV3d3MVRPT215ZGRpcmkyNHNEN2syUEx6alRUMkJGOXZlS2ZGN3Z1dmpWRkNqVTllT1ZnM2YyZWR5eDkwV25BY3dNdmhXVmNGNWkzeWNpMlo4TlYzVkpMaU5OZUwzOEtuV2dnYWfSAaIBQVVfeXFMTVV4QldlaU56cl9vT0NlNFJmbl9VaEROWEdmVzNqTEhQUDhrZFBOODJLUHVIVXZzWmFGTEE4Zld3dzFUT09teWRkaXJpMjRzRDdrMlBMempUVDJCRjl2ZUtmRjd2dXZqVkZDalU5ZU9WZzNmMmVkeXg5MFduQWN3TXZoV1ZjRjVpM3ljaTJaOE5WM1ZKTGlOTmVMMzhLbldnZ2Fn?oc=5",
+    "google_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ0JJWHM4RVBURkdFa25ERTUtc20zWHFOQ3hQbTY1R3c0ZnQtdm9CRGpLNlRaaUZpelVBeTBoc3V2RnVPdXh5UnNQc0p2a3VscXZwTks2QXh3Y1g1aDZhajNHZkpGTEZENWJUVVMxOXVwdHZhQVRvaXIwVzRRSGFwNjBCeDZ3b2R2NV9OV2lBR0hjOHVwdHhMaGVDdTTSAaIBQVVfeXFMTVV4QldlaU56cl9vT0NlNFJmbl9VaEROWEdmVzNqTEhQUDhrZFBOODJLUHVIVXZzWmFGTEE4Zld3dzFUT09teWRkaXJpMjRzRDdrMlBMempUVDJCRjl2ZUtmRjd2dXZqVkZDalU5ZU9WZzNmMmVkeXg5MFduQWN3TXZoV1ZjRjVpM3ljaTJaOE5WM1ZKTGlOTmVMMzhLbldnZ2Fn?oc=5",
     "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1487626854230704544",
     "title": "（東京）多摩市諏訪５丁目で不審な接触　１０月２３日 - ｄメニューニュース",
     "source": "ｄメニューニュース",
@@ -510,14 +510,14 @@
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00000071-asahi-000-1-view.jpg?exp=10800"
   },
   {
-    "id": "7fe75f7c6836c2d8e79216016600aef9a08877a5fcc3e3a5022e9a9756965f20",
-    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ucFg0UE1wcExPOXlVekJubm02djlGTFBHeElUb216T1RzVU1OcG9COUhSOHVnZXU2MmdzbzhaWExGenE5X09Eck5OeHJHR3M4UTVldGVESWNNMUdYSnI2dHMwRlZUZHZrVXdNNTNR?oc=5",
-    "url": "https://www.asahi.com/articles/ASVBP4FSTVBPOXIE032M.html?iref=sp_preftop__n",
-    "title": "アイスランド首都・レイキャビク市と東京・多摩市が姉妹都市提携 [東京都] - 朝日新聞",
-    "source": "朝日新聞",
-    "published": "2026-10-22T02:15:01+00:00",
-    "description": "アイスランド首都・レイキャビク市と東京・多摩市が姉妹都市提携 [東京都] 朝日新聞",
-    "image": "https://imgopt.asahi.com/ogp/AS20261021004204_comm.jpg"
+    "id": "9ddc74f57afd81ab8584818e822f33c1da71f8871f008362932e5aaa19607efc",
+    "google_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaE9aUHlmUHRuMjRtazFhLXdsVFdtdldjU3NIelZhZUlvRzJWS0N2NmpOLVgyYVJ1Zjg0dWtPdEhOSUdhNGgxZHo3aVNteU9GQWk4NGpsWU9Fc0FVLXRVVGJaa2xYSzN1YW1BTnBzMFZnZlEyS3dzVllsdG1ZMHNmU1VneEJsSUF6Zll3eFRnbV95QnJCcUlrM9IBngFBVV95cUxQdVIxOGhqdWNYWEI2dXZUVmZjOUsxc1JfMENxWjBqc0Z1b0xQREc3X0VnWklfR0ViRjd2cmpaVnBRZER1bjJONnBnN2VTTW4wY0lFc0xuWFNKSDQwYl9ENlNRUnpVajMyVy1jTmNLQXlONkVLWWliMWxJOHMydFZTWFAyWTVudVF5STc4TzRjMlFPbmY4bHFFMHdRMW1Xdw?oc=5",
+    "url": "https://topics.smt.docomo.ne.jp/article/asahi_region/nation/asahi_region-ASVBP4FSTVBPOXIE032M",
+    "title": "アイスランド首都・レイキャビク市と東京・多摩市が姉妹都市提携 - ｄメニューニュース",
+    "source": "ｄメニューニュース",
+    "published": "2026-10-22T02:15:00+00:00",
+    "description": "アイスランド首都・レイキャビク市と東京・多摩市が姉妹都市提携 ｄメニューニュース",
+    "image": "https://img.topics.smt.news.goo.ne.jp/picture/asahi_region/m_asahi_region-ASVBP4FSTVBPOXIE032M.jpg"
   },
   {
     "id": "49ddab76fdae0d6b22d0d5cff49271b06b7b3279b82359c0898a35ccc33c4cce",
@@ -538,16 +538,6 @@
     "published": "2026-10-22T02:15:00+00:00",
     "description": "ロシア軍の「ミサイル破片」など24日に展示 多摩大学の学園祭 [東京都] 朝日新聞",
     "image": "https://imgopt.asahi.com/ogp/AS20261021004227_comm.jpg"
-  },
-  {
-    "id": "9ddc74f57afd81ab8584818e822f33c1da71f8871f008362932e5aaa19607efc",
-    "google_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaE9aUHlmUHRuMjRtazFhLXdsVFdtdldjU3NIelZhZUlvRzJWS0N2NmpOLVgyYVJ1Zjg0dWtPdEhOSUdhNGgxZHo3aVNteU9GQWk4NGpsWU9Fc0FVLXRVVGJaa2xYSzN1YW1BTnBzMFZnZlEyS3dzVllsdG1ZMHNmU1VneEJsSUF6Zll3eFRnbV95QnJCcUlrM9IBngFBVV95cUxQdVIxOGhqdWNYWEI2dXZUVmZjOUsxc1JfMENxWjBqc0Z1b0xQREc3X0VnWklfR0ViRjd2cmpaVnBRZER1bjJONnBnN2VTTW4wY0lFc0xuWFNKSDQwYl9ENlNRUnpVajMyVy1jTmNLQXlONkVLWWliMWxJOHMydFZTWFAyWTVudVF5STc4TzRjMlFPbmY4bHFFMHdRMW1Xdw?oc=5",
-    "url": "https://topics.smt.docomo.ne.jp/article/asahi_region/nation/asahi_region-ASVBP4FSTVBPOXIE032M",
-    "title": "アイスランド首都・レイキャビク市と東京・多摩市が姉妹都市提携 - ｄメニューニュース",
-    "source": "ｄメニューニュース",
-    "published": "2026-10-22T02:15:00+00:00",
-    "description": "アイスランド首都・レイキャビク市と東京・多摩市が姉妹都市提携 ｄメニューニュース",
-    "image": "https://img.topics.smt.news.goo.ne.jp/picture/asahi_region/m_asahi_region-ASVBP4FSTVBPOXIE032M.jpg"
   },
   {
     "id": "cd213e32e7b10375d993ce453da1704432aba7ab239d13e3d63922b9fbd875bb",
@@ -708,6 +698,16 @@
     "published": "2026-10-21T11:00:33+00:00",
     "description": "【立川市】立川ダイスが多摩ダービーで八王子に連勝！ ホーム2連勝で熱戦を制す。 号外NET 立川市・昭島市",
     "image": "https://tachikawa-akishima.goguynet.jp/wp-content/uploads/sites/90/2026/10/6cde698517dc9fba90059746a3542693.jpg"
+  },
+  {
+    "id": "7fe75f7c6836c2d8e79216016600aef9a08877a5fcc3e3a5022e9a9756965f20",
+    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ucFg0UE1wcExPOXlVekJubm02djlGTFBHeElUb216T1RzVU1OcG9COUhSOHVnZXU2MmdzbzhaWExGenE5X09Eck5OeHJHR3M4UTVldGVESWNNMUdYSnI2dHMwRlZUZHZrVXdNNTNR?oc=5",
+    "url": "https://www.asahi.com/articles/ASVBP4FSTVBPOXIE032M.html?iref=sp_preftop__n",
+    "title": "アイスランド首都・レイキャビク市と東京・多摩市が姉妹都市提携 [東京都] - 朝日新聞",
+    "source": "朝日新聞",
+    "published": "2026-10-21T07:00:00+00:00",
+    "description": "アイスランド首都・レイキャビク市と東京・多摩市が姉妹都市提携 [東京都] 朝日新聞",
+    "image": "https://imgopt.asahi.com/ogp/AS20261021004204_comm.jpg"
   },
   {
     "id": "be9b92944523fcc26247c55e7927dee8a4fcfd7e024e81907f9a7b77b5d12a84",
@@ -1070,16 +1070,6 @@
     "image": "https://cimg.kgl-systems.io/camion/files/91058/thumbnail_HPqr.jpg?x=1280"
   },
   {
-    "id": "0f86f26c42bdee9d6efbea2db0eadd98a86065ac9728d9c6714109afc7cdc8a3",
-    "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iR21hWFU2ai1Fcm1lNFZ6ZzNrNExYZjZYaktEUE01TFU4ajU1MkJCZUxWWFNKcklOZmNrYVFTUE9HRzFnSlhuMk5nV2Fob2RfOWVyUFRLVDczaGRKMzdUYkN6Ni02MEtsSE1qa3hLQkR2ckJidWpudDNwMVfSAYIBQVVfeXFMUDd1eTJHcDhIT2l1MnN1ejVFYmZ4aHRNR08tZFlZSktkVjJSaFlxNm9Pc2xZWlZwOFJjV3U1SExsdXdka1Vac3psUC1mUEFvSFBxYmQtZV8xM0tHaXlOOU5WOHB3X05nRktIb1BUTDV2T0JCbkdxOXN2Y196YnFjWkZxZw?oc=5",
-    "url": "https://topics.smt.docomo.ne.jp/article/san_tatsu/trend/san_tatsu-543504",
-    "title": "【多摩散歩コース】多摩市〜ハローキティにあえる街〜 - ｄメニューニュース",
-    "source": "ｄメニューニュース",
-    "published": "2026-10-15T07:00:00+00:00",
-    "description": "【多摩散歩コース】多摩市〜ハローキティにあえる街〜 ｄメニューニュース",
-    "image": "https://img.topics.smt.news.goo.ne.jp/picture/san_tatsu/m_san_tatsu-543504.jpg"
-  },
-  {
     "id": "90c6b864827538ca4986228c4e14d960727099f9b34a506e54f8938cc462da72",
     "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV0FkNnViSEZzd1pTaTlWOE9YcEZjQXItcVNWZ0hvZXFQaW9qWWlKNTk1YlpIUEg1dnc5TG5HN2FDTlJvdkJoRm81YkMyTXBvcnNGNlRlQVlxVjd1RWlpa2N5Q21vV21fRk9CWnBXYUh0Ql9uN0h2VDNqZmdkclV6RHAxWTk?oc=5",
     "url": "https://tama-inagi.goguynet.jp/2026/10/15/tamatama-festival-keio-esports-2026/",
@@ -1088,6 +1078,16 @@
     "published": "2026-10-15T07:00:00+00:00",
     "description": "【多摩市】多摩センターがポップカルチャーで染まる！「TAMATAMA FESTIVAL 2026」×「京王eスポーツ祭り」が10月17日・18日に初コラボ開催 地域ニュースサイト号外NET",
     "image": "https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/10/main-3.jpg"
+  },
+  {
+    "id": "0f86f26c42bdee9d6efbea2db0eadd98a86065ac9728d9c6714109afc7cdc8a3",
+    "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iR21hWFU2ai1Fcm1lNFZ6ZzNrNExYZjZYaktEUE01TFU4ajU1MkJCZUxWWFNKcklOZmNrYVFTUE9HRzFnSlhuMk5nV2Fob2RfOWVyUFRLVDczaGRKMzdUYkN6Ni02MEtsSE1qa3hLQkR2ckJidWpudDNwMVfSAYIBQVVfeXFMUDd1eTJHcDhIT2l1MnN1ejVFYmZ4aHRNR08tZFlZSktkVjJSaFlxNm9Pc2xZWlZwOFJjV3U1SExsdXdka1Vac3psUC1mUEFvSFBxYmQtZV8xM0tHaXlOOU5WOHB3X05nRktIb1BUTDV2T0JCbkdxOXN2Y196YnFjWkZxZw?oc=5",
+    "url": "https://topics.smt.docomo.ne.jp/article/san_tatsu/trend/san_tatsu-543504",
+    "title": "【多摩散歩コース】多摩市〜ハローキティにあえる街〜 - ｄメニューニュース",
+    "source": "ｄメニューニュース",
+    "published": "2026-10-15T07:00:00+00:00",
+    "description": "【多摩散歩コース】多摩市〜ハローキティにあえる街〜 ｄメニューニュース",
+    "image": "https://img.topics.smt.news.goo.ne.jp/picture/san_tatsu/m_san_tatsu-543504.jpg"
   },
   {
     "id": "9026f41acb29d9fb655c81e3a973d8cbc36c381fd01c7b3f84cbf2d2bb32633c",
@@ -1490,13 +1490,13 @@
     "image": "https://img.topics.smt.news.goo.ne.jp/picture/townnews/m_townnews-856135.jpg"
   },
   {
-    "id": "893404e4281c19d7e893b33a7831c32d436f749139f35398493801bfe8e3edf8",
-    "google_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzUlhONXh1Nm1PM3dUOVVENlZQakp2VzJ2elFONEtLb2pIY2p2QW5sTEhtNFExZHd0R1FPMVNLSENTZXdGbzFTR1Y1M1NuYlg5eG5KeEN5ZEdfVTU3bVNlTDZKaTBJMjdXWFI1QkhaRDMtaDg?oc=5",
-    "url": "https://tamapon.com/2026/10/10/hoshinocoffee-tamasekido-closeday/",
-    "title": "聖蹟桜ヶ丘の「星乃珈琲店 多摩関戸店」が10/25(日)で閉店へ。11年の営業に幕 - 多摩ポン",
+    "id": "7dcdb630c3da3801540e0f99cc37cea7e69e60cfd81bb8625e7cd12d5e5c16f3",
+    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIMWJOUkFkS1RJOVJvenE3WlUtMVJOSEpPdEpMQU54ODZ4Mk1yaVozR3pnZFNSanV0TF9mdDVhU1dsNkM1cTBLczBIQ1hMLWw5VWp4a0JzRzIzR0l0eUlocWtISndTd3lXOTVqQkpR?oc=5",
+    "url": "https://tamapon.com/2026/10/10/tamatamafes2026-map-timetable/",
+    "title": "TAMATAMA FESTIVAL 2026の会場マップ＆タイムテーブル公開！京王eスポーツ祭りにハローキティも - 多摩ポン",
     "source": "多摩ポン",
     "published": "2026-10-10T07:00:00+00:00",
-    "description": "聖蹟桜ヶ丘の「星乃珈琲店 多摩関戸店」が10/25(日)で閉店へ。11年の営業に幕 多摩ポン",
-    "image": "https://tamapon.com/wp-content/uploads/2026/10/IMG_0758.jpeg"
+    "description": "TAMATAMA FESTIVAL 2026の会場マップ＆タイムテーブル公開！京王eスポーツ祭りにハローキティも 多摩ポン",
+    "image": "https://tamapon.com/wp-content/uploads/2026/10/s-1x1_5fd54a10-7627-4a3f-b8ec-43067ec572bc_page-0001-1.jpeg"
   }
 ]
