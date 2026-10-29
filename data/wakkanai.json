@@ -1,5 +1,15 @@
 [
   {
+    "id": "6b265ca9c3fdb927680427f57c00008c9228a63e6bd669160bcd50f5c4db3bd0",
+    "google_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xM3NFRmpXUnBhbzZrOG9BNnYxdEFNdWxJVVphZm96MTZINkZjZGt0RVZwUkJpUW5NSFNvRUZ4VUUtNFd1ZVh2dDZR?oc=5",
+    "url": "https://funeco.jp/news/news-37342/",
+    "title": "船の科学館「宗谷」、11月8日にアマチュア無線特別局「8J70JARE」の公開運用を実施へ 南極初出港70周年を記念 - Funeco",
+    "source": "Funeco",
+    "published": "2026-10-28T23:49:14+00:00",
+    "description": "船の科学館「宗谷」、11月8日にアマチュア無線特別局「8J70JARE」の公開運用を実施へ 南極初出港70周年を記念 Funeco",
+    "image": "https://funeco.jp/wp-content/uploads/2019/04/IMG_6966s.jpg"
+  },
+  {
     "id": "51c90b74a3480abffcf96cde4f5bf8249f328804225b747ee28bfaa914ed87dd",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHdlJqYnBTOTBIenJaSFpvczlWNDZsVEMyWjh6bzUxcUpTanBQMUlIN1lMeDNqeUIzUmQ5RVZWNF9XdGhYTHV5cTZsbDBEWjktYlRNc3JRdmRqUQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1398260/",
@@ -250,16 +260,6 @@
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
   },
   {
-    "id": "a559fb777cb64a7fbb1a671dcec11d12efd75ae096727a37f9ab8ded4b47fe65",
-    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZZjY0WUJaZlZneHBwbXlQQ3ppQWpiWFg1RW4yQTVqQjdRVndHTGt0NnRRZjI3eklTUWZRS25XUVROLUQ2Ykc3cG1PTHFyUmpDNDdaTEpMLTBKcEJTMjdHYzhCT0ZOb1kwZWVTN216Zw?oc=5",
-    "url": "https://tenki.jp/lite/bousai/typhoon/storm/2630/1/1/1100/1110/",
-    "title": "台風30号(2026年)の道北宗谷北部の暴風域に入る確率 - tenki.jp",
-    "source": "tenki.jp",
-    "published": "2026-10-25T06:00:00+00:00",
-    "description": "台風30号(2026年)の道北宗谷北部の暴風域に入る確率 tenki.jp",
-    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
-  },
-  {
     "id": "1a2613e06a72534c355031d1ac5359da5e329a1e5e4e45ae8d5b3cb85dd674b6",
     "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wcmxrQi1QV2RnaHVPWWdMemd4LUM0OHhkR1RNd3d2WnhoY2xrR2IyWHRWYXRLVndzMVlzTXFRNC1sUHJpVEI4aUhHR0tLcy1fUU8tOTJLMFRleC1KSXozV2ZyRjNfamY3ZmVLT29mZw?oc=5",
     "url": "https://tenki.jp/lite/bousai/typhoon/storm/2630/1/1/1100/1120/",
@@ -267,6 +267,16 @@
     "source": "tenki.jp",
     "published": "2026-10-25T06:00:00+00:00",
     "description": "台風30号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
+    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
+  },
+  {
+    "id": "a559fb777cb64a7fbb1a671dcec11d12efd75ae096727a37f9ab8ded4b47fe65",
+    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZZjY0WUJaZlZneHBwbXlQQ3ppQWpiWFg1RW4yQTVqQjdRVndHTGt0NnRRZjI3eklTUWZRS25XUVROLUQ2Ykc3cG1PTHFyUmpDNDdaTEpMLTBKcEJTMjdHYzhCT0ZOb1kwZWVTN216Zw?oc=5",
+    "url": "https://tenki.jp/lite/bousai/typhoon/storm/2630/1/1/1100/1110/",
+    "title": "台風30号(2026年)の道北宗谷北部の暴風域に入る確率 - tenki.jp",
+    "source": "tenki.jp",
+    "published": "2026-10-25T06:00:00+00:00",
+    "description": "台風30号(2026年)の道北宗谷北部の暴風域に入る確率 tenki.jp",
     "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
   },
   {
@@ -1300,16 +1310,6 @@
     "image": null
   },
   {
-    "id": "ef8f9b321ad942aa67152ad753a02a948406102ae9d795fa526901ef55789301",
-    "google_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0xSVFxeDZUbWVSZjlDU1RfM1JJYmlpa2ZQUk1DSFQtejZORUl1YzZfN2tMUThiRWJlV05RTlFrWFlscE0yN0JULWpB?oc=5",
-    "url": "https://funeco.jp/news/news-34398/",
-    "title": "ロシア海軍フリゲート「ソヴェルシェンヌイ」、宗谷海峡を東進 海自「くまたか」等が警戒監視 - Funeco",
-    "source": "Funeco",
-    "published": "2026-10-10T07:00:00+00:00",
-    "description": "ロシア海軍フリゲート「ソヴェルシェンヌイ」、宗谷海峡を東進 海自「くまたか」等が警戒監視 Funeco",
-    "image": "https://funeco.jp/wp-content/uploads/2026/10/de32638ad5bfbab0f54a5d1ac99d313d.jpg"
-  },
-  {
     "id": "a23bd4e63df2606d945163b695acc2471abab3565b2bbd04efb6bc558e10b451",
     "google_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMU9TR0htc2VTazF0Y1RMRU1YMk9YNjdYS0FxQ1lNX012ZHhCaVRycXE1N0tSX19zSmpWdmo2NXRzdWI5WmI2NFZEU1lmdkxqM05fYXNTZ1ZNYmpQaG9jM0JLM1lfSnRSRENYaDFXMktaUnVlTDlfb1FmMkxKNVlWdlQyMUdlZUlFajFjQ3FvQnZVOHhV?oc=5",
     "url": "https://hokkaido-nl.jp/article/44221",
@@ -1318,6 +1318,16 @@
     "published": "2026-10-10T07:00:00+00:00",
     "description": "稚内市・富岡ユアーズ店40年の歴史に幕 コープさっぽろへ事業譲渡 北海道ニュースリンク",
     "image": null
+  },
+  {
+    "id": "ef8f9b321ad942aa67152ad753a02a948406102ae9d795fa526901ef55789301",
+    "google_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0xSVFxeDZUbWVSZjlDU1RfM1JJYmlpa2ZQUk1DSFQtejZORUl1YzZfN2tMUThiRWJlV05RTlFrWFlscE0yN0JULWpB?oc=5",
+    "url": "https://funeco.jp/news/news-34398/",
+    "title": "ロシア海軍フリゲート「ソヴェルシェンヌイ」、宗谷海峡を東進 海自「くまたか」等が警戒監視 - Funeco",
+    "source": "Funeco",
+    "published": "2026-10-10T07:00:00+00:00",
+    "description": "ロシア海軍フリゲート「ソヴェルシェンヌイ」、宗谷海峡を東進 海自「くまたか」等が警戒監視 Funeco",
+    "image": "https://funeco.jp/wp-content/uploads/2026/10/de32638ad5bfbab0f54a5d1ac99d313d.jpg"
   },
   {
     "id": "c7f91fc061c3e19b03afbaeed5383fe4243957912048327c8192d7607a0734f3",
@@ -1487,16 +1497,6 @@
     "source": "tenki.jp",
     "published": "2026-10-07T07:00:00+00:00",
     "description": "台風27号(2026年)の道北宗谷南部の暴風域に入る確率 tenki.jp",
-    "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
-  },
-  {
-    "id": "420509d1ef16e071e4c092d3073d2b159f14cc7de1d7ba98fc0f321f0517668a",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qNUFVSjdrSzlDWU1pdEdCUFBjNFBmVEVQYnMyQ2tLQjZ6T2FJa3RuZl92dWxmalFuODlIOV80X0RVX0NJQ1ZmT2J6dmhHbm0tSkV1Sy1rcGNTN2p1SV9nNE9uMEJXQnhN?oc=5",
-    "url": "https://tenki.jp/bousai/typhoon/storm/2627/1/1/1100/1110/",
-    "title": "台風27号(2026年)の道北宗谷北部の暴風域に入る確率 - tenki.jp",
-    "source": "tenki.jp",
-    "published": "2026-10-07T07:00:00+00:00",
-    "description": "台風27号(2026年)の道北宗谷北部の暴風域に入る確率 tenki.jp",
     "image": "https://static.tenki.jp/static-images/typhoon-detail/recent/japan_wide-large.jpg"
   }
 ]
