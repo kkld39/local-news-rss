@@ -6,7 +6,17 @@
     <description>多摩の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/tama.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 28 Oct 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:00:00 +0000</lastBuildDate>
+    <item>
+      <title>イムス横浜国際看護専門学校の学園祭「すずらん祭」の実行委員長を務める 山本 康平さん 多摩市在住 24歳 - タウンニュース</title>
+      <link>https://www.townnews.co.jp/0102/2026/10/29/859376.html</link>
+      <pubDate>Wed, 28 Oct 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">28b67238e05ee48eb633017cb40302d56392607dc93f71f87da74adcc2d3b3ef</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">タウンニュース</source>
+      <media:thumbnail url="https://www.townnews.co.jp/0102/images/a001486303_01.jpg" />
+      <media:content url="https://www.townnews.co.jp/0102/images/a001486303_01.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.townnews.co.jp/0102/images/a001486303_01.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;イムス横浜国際看護専門学校の学園祭「すずらん祭」の実行委員長を務める 山本 康平さん 多摩市在住 24歳 タウンニュース&lt;/p&gt;&lt;p&gt;配信元: タウンニュース&lt;/p&gt;</description>
+    </item>
     <item>
       <title>多摩市　シティセールス動画公開　魅力詰まった６作品制作〈多摩市〉 - ｄメニューニュース</title>
       <link>https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-859711?utm_source=dnews&amp;utm_medium=article&amp;utm_campaign=contentsmatch2</link>
@@ -1462,16 +1472,6 @@
       <media:thumbnail url="https://tamapon.com/wp-content/uploads/2026/10/IMG_0758.jpeg" />
       <media:content url="https://tamapon.com/wp-content/uploads/2026/10/IMG_0758.jpeg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://tamapon.com/wp-content/uploads/2026/10/IMG_0758.jpeg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;聖蹟桜ヶ丘の「星乃珈琲店 多摩関戸店」が10/25(日)で閉店へ。11年の営業に幕 多摩ポン&lt;/p&gt;&lt;p&gt;配信元: 多摩ポン&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>TAMATAMA FESTIVAL 2026の会場マップ＆タイムテーブル公開！京王eスポーツ祭りにハローキティも - 多摩ポン</title>
-      <link>https://tamapon.com/2026/10/10/tamatamafes2026-map-timetable/</link>
-      <pubDate>Sat, 10 Oct 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">7dcdb630c3da3801540e0f99cc37cea7e69e60cfd81bb8625e7cd12d5e5c16f3</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%A4%9A%E6%91%A9%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">多摩ポン</source>
-      <media:thumbnail url="https://tamapon.com/wp-content/uploads/2026/10/s-1x1_5fd54a10-7627-4a3f-b8ec-43067ec572bc_page-0001-1.jpeg" />
-      <media:content url="https://tamapon.com/wp-content/uploads/2026/10/s-1x1_5fd54a10-7627-4a3f-b8ec-43067ec572bc_page-0001-1.jpeg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://tamapon.com/wp-content/uploads/2026/10/s-1x1_5fd54a10-7627-4a3f-b8ec-43067ec572bc_page-0001-1.jpeg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;TAMATAMA FESTIVAL 2026の会場マップ＆タイムテーブル公開！京王eスポーツ祭りにハローキティも 多摩ポン&lt;/p&gt;&lt;p&gt;配信元: 多摩ポン&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
