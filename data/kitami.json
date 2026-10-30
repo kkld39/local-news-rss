@@ -510,16 +510,6 @@
     "image": "https://static.hokkaido-np.co.jp/image/ogp/category/1200x630/3/f15068739941eadda7738ac54954a4d5.jpg?20261027193147"
   },
   {
-    "id": "d8012fba298d2887b022ae7975a881dcaba9ff0c9ed619577a1ebac725891e80",
-    "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zZ0dYMXAtUkk5c0R6SVdXZjBybGRIa3FLWUdoQWlpUjB3M1BPUGZwNXJtVmM1ZXg5Um1pR2VIMF94b2FJcFlkTDNKWFlJV0lGY2tDalFTaGVWU3ZQY2ZFRXNqbDRIc2dDZS16ZlY3eVNGckdrRVFiMVF5WmrSAYIBQVVfeXFMTS1VWVV6Q19ZRk1JdWl1YWdqa2JPQVVCVXZFckNhTU5OMFhMSUN6Q2ozY3FKZHdnU1pCb0E2QW1nektsV2p0NlQtUU93QTFlRlNHLWNYLUZDOXNFMG5IcmR1YWVleHFmQW05bGRsRFR4dnk3WWFLNURuQURGNmdkaF9UUQ?oc=5",
-    "url": "https://topics.smt.docomo.ne.jp/article/hokkaido/region/hokkaido-1397280",
-    "title": "要約筆記を体験、聞こえにくい人の支援学ぶ　北見市立中央図書館で11月8日　先着30人で研修会 - ｄメニューニュース",
-    "source": "ｄメニューニュース",
-    "published": "2026-10-27T04:11:58+00:00",
-    "description": "要約筆記を体験、聞こえにくい人の支援学ぶ　北見市立中央図書館で11月8日　先着30人で研修会 ｄメニューニュース",
-    "image": "https://img.topics.smt.news.goo.ne.jp/-/20261026140623/img/dmenu_service-brand-logo_200x200.png"
-  },
-  {
     "id": "eb123f54d20d2228f2f470ab5b45b76df990cb610559906caa36fa6e71fdc999",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tVGk1T1EwZTd3czk2MkJSaFAwMVZqc2h6QjFseE5vUXFnSHVGZlNrTC1hb1FzZG1VeGZoamlpRFc4ZG15c3BzMk10S3VEdzIyX1lYT0R0WEJzQQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1397280/",
@@ -528,6 +518,16 @@
     "published": "2026-10-27T03:08:27+00:00",
     "description": "要約筆記を体験、聞こえにくい人の支援学ぶ 北見市立中央図書館で11月8日 先着30人で研修会 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/ogp/category/1200x630/3/f15068739941eadda7738ac54954a4d5.jpg?20261027140247"
+  },
+  {
+    "id": "d8012fba298d2887b022ae7975a881dcaba9ff0c9ed619577a1ebac725891e80",
+    "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zZ0dYMXAtUkk5c0R6SVdXZjBybGRIa3FLWUdoQWlpUjB3M1BPUGZwNXJtVmM1ZXg5Um1pR2VIMF94b2FJcFlkTDNKWFlJV0lGY2tDalFTaGVWU3ZQY2ZFRXNqbDRIc2dDZS16ZlY3eVNGckdrRVFiMVF5WmrSAYIBQVVfeXFMTS1VWVV6Q19ZRk1JdWl1YWdqa2JPQVVCVXZFckNhTU5OMFhMSUN6Q2ozY3FKZHdnU1pCb0E2QW1nektsV2p0NlQtUU93QTFlRlNHLWNYLUZDOXNFMG5IcmR1YWVleHFmQW05bGRsRFR4dnk3WWFLNURuQURGNmdkaF9UUQ?oc=5",
+    "url": "https://topics.smt.docomo.ne.jp/article/hokkaido/region/hokkaido-1397280",
+    "title": "要約筆記を体験、聞こえにくい人の支援学ぶ　北見市立中央図書館で11月8日　先着30人で研修会 - ｄメニューニュース",
+    "source": "ｄメニューニュース",
+    "published": "2026-10-27T03:08:00+00:00",
+    "description": "要約筆記を体験、聞こえにくい人の支援学ぶ　北見市立中央図書館で11月8日　先着30人で研修会 ｄメニューニュース",
+    "image": "https://img.topics.smt.news.goo.ne.jp/-/20261026140623/img/dmenu_service-brand-logo_200x200.png"
   },
   {
     "id": "eed0971e094480bfbf24ee6c4f81105c439839252564fed65ea7c3446be0ac3f",
@@ -560,6 +560,16 @@
     "image": "https://prcdn.freetls.fastly.net/release_image/21750/479/21750-479-ea925e16616eed7e9cb327c7d32e0a56-800x418.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
   },
   {
+    "id": "6a8ae7ae2af8a9e0c0cd66d5002d9dcbbda4f97e46828ead6b3ff0c11e2abf91",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Oank5X21STi1IaHpaSEZOM1doWVZ5cFcyaG1wMUVIa05XdTlFclJhejBvSEpUdWdXdVpDbzBpVmRSSFJMVHo3SG5NVDdMakdVSm1FYXV0RnNuUQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1396771/",
+    "title": "北見 留辺蘂特産の白花豆、作付面積が過去最少に きたみらい農協 手作業の負担重く生産農家が半数以下に - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-10-26T22:13:00+00:00",
+    "description": "北見 留辺蘂特産の白花豆、作付面積が過去最少に きたみらい農協 手作業の負担重く生産農家が半数以下に 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/6/8/f/9/68f91a94b80325fe3764c945ca90d9ed_1.webp?20261026220935"
+  },
+  {
     "id": "95589ff2b159161984cd811b6754f13e8fd2d11ec574496fad681c5f74751ff7",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tMW1fMkNNYmdmOEV3SmdmcmNWR1lrQl9wdGdieFpIbWxMcU9jTG9vS1NwS3hEbUFsN3V1ak1iOFQwLVBMSnJYZjR0T1ZTTVdyeDdDSjUyMXhsZw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1397024/",
@@ -588,16 +598,6 @@
     "published": "2026-10-26T11:10:16+00:00",
     "description": "RYUJI 竜二 イオンシネマ北見(北見) の上映時間・上映スケジュール MOVIE WALKER PRESS",
     "image": null
-  },
-  {
-    "id": "6a8ae7ae2af8a9e0c0cd66d5002d9dcbbda4f97e46828ead6b3ff0c11e2abf91",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Oank5X21STi1IaHpaSEZOM1doWVZ5cFcyaG1wMUVIa05XdTlFclJhejBvSEpUdWdXdVpDbzBpVmRSSFJMVHo3SG5NVDdMakdVSm1FYXV0RnNuUQ?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1396771/",
-    "title": "北見 留辺蘂特産の白花豆、作付面積が過去最少に きたみらい農協 手作業の負担重く生産農家が半数以下に - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-10-26T09:37:29+00:00",
-    "description": "北見 留辺蘂特産の白花豆、作付面積が過去最少に きたみらい農協 手作業の負担重く生産農家が半数以下に 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/6/8/f/9/68f91a94b80325fe3764c945ca90d9ed_1.webp?20261026220935"
   },
   {
     "id": "9b2e606f6c03fd592315ec878f485ea5e4a4cfd7d37f86734f8e71b901fe59a4",
