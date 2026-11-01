@@ -241,7 +241,7 @@
   },
   {
     "id": "da35fac6604f1a37736d84dd88e83bca5427903d7fe08b74b735a45f463c9374",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xWi1CQ0hxX2NCREg2TXhfT0NDbl8wWXV4V1dCZlJOQVBBMGZyZkJDMXZCQkJzYmtTckxuNVNSMEdFRm9aQTZyMHFxWTBmRnNnazVWcTI0c1FvdEhscVh2dUhkNmY?oc=5",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJWUZoempqUVktYm5CSnZRRHZldmw0b04tVWRYX0dieEQ0YkJ0cDEzckNhSVAwa1drSGtvamtBbFNSd3FDc1NwTVlmQmJ3aWtvWWtsRWw0ZzY4dw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1398960/?ref=top",
     "title": "歌で結ぶ日本と母国 外国人らの「ベトナム交流合唱団」 北見合唱祭で初のホール発表 月1回の練習会へ - 北海道新聞デジタル",
     "source": "北海道新聞デジタル",
@@ -258,6 +258,16 @@
     "published": "2026-10-29T07:08:00+00:00",
     "description": "紋別保健所が今季初のインフルエンザ警報 北見も注意報継続 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/ogp/category/1200x630/3/2b2a3e43e33194415b4113f113a9913b.jpg?20261029232045"
+  },
+  {
+    "id": "d83e601cc21c6ef9f7b43f5d506e112dd9d79ec638020fd5c57ecb3f83a16de6",
+    "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VZmstWVVvcDZlRlNmRVpvdnhtcDRyODd6Q19RMjE3UjhyZnpQZTZOVEhEU0hkWDRuUVFFVlBMTExJeVR1NUg3d0UtSVhZU2g4S2MtZ3NyQlJsdGs?oc=5",
+    "url": "https://www.agrinews.co.jp/society/index/415347",
+    "title": "農産物でアクセサリー 北見市の観光アンバサダー ＳＡＫＵＲＡ美奈さん 北海道の新たな特産品へ - 日本農業新聞",
+    "source": "日本農業新聞",
+    "published": "2026-10-29T07:00:00+00:00",
+    "description": "農産物でアクセサリー 北見市の観光アンバサダー ＳＡＫＵＲＡ美奈さん 北海道の新たな特産品へ 日本農業新聞",
+    "image": "https://www.agrinews.co.jp/media/2026/10/28/20261028_ke3kmigrvoaagc377kj2.jpg"
   },
   {
     "id": "acc3d5e99b083c024afa0aaa599086789d822116d6a2ff2c2226b601a2110625",
@@ -1170,6 +1180,26 @@
     "image": "https://newsdig.ismcdn.jp/mwimgs/0/6/1200w/img_06cadd1ecebff0ff8e8b9fd6520ee79a191154.jpg"
   },
   {
+    "id": "3d12534e65fb17780f2d1f08fbcf78ac0a6e7cd80e21219dbe2d249a03b1b817",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEY05UNk1XUHR1S3VfYkNQb0pENUFyNnlKQnlXUV9FT2cwVnlGTWpka3dwM2tZYnpDVEJwNzVaQ1czbkl6VUluMm1oR203RGJiazJ4aFZINHRTdw?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1395344/",
+    "title": "北見市の公共施設値上げ、効果額890万円 見込み5500万円を大幅に下回る 辻市長が定例会見で説明 - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-10-23T07:00:00+00:00",
+    "description": "北見市の公共施設値上げ、効果額890万円 見込み5500万円を大幅に下回る 辻市長が定例会見で説明 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/1/7/3/d/173ddbac5a1db931f556d661fb679a14_1.webp?20261023163343"
+  },
+  {
+    "id": "d614687c04fa5cf2c6ca06770d2c647ed51590570161e2c0454eb1650d717054",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CRklYanB4cFJ1U2FlVkxfVjlBNWtSRkVMZUEzT3lKSXBhTy1hQUV1UjF2RUhaNVphaVU4RDgxTzh4Rk1jTVVzUHBMMA?oc=5",
+    "url": "https://www.47news.jp/15126830.html",
+    "title": "北見市の公共施設値上げ、効果額890万円 見込み5500万円を大幅に下回る 辻市長が定例会見で説明 - 47NEWS",
+    "source": "47NEWS",
+    "published": "2026-10-23T07:00:00+00:00",
+    "description": "北見市の公共施設値上げ、効果額890万円 見込み5500万円を大幅に下回る 辻市長が定例会見で説明 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/537c14e3ee56c4dde50586637453d667/photo.jpg"
+  },
+  {
     "id": "3b2a90fd0ddb77c3b8438c6edbd58fa192e45981700dee13e4c341ff9d3124ef",
     "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kOTFsZ3VndFpmYnV2SkN1dzhRWkpnb0xjWGptNV81TzBGTkplWG1ZMXZoUFU1YUZobVVFRmdLMTVHV2JaRkxjdl8tNA?oc=5",
     "url": "https://www.47news.jp/15126843.html",
@@ -1198,26 +1228,6 @@
     "published": "2026-10-23T06:03:07+00:00",
     "description": "北見市の公共施設値上げ、効果額890万円　見込み5500万円を大幅に下回る　辻市長が定例会見で説明 ｄメニューニュース",
     "image": "https://img.topics.smt.news.goo.ne.jp/picture/hokkaido/m_hokkaido-1395344.jpg"
-  },
-  {
-    "id": "3d12534e65fb17780f2d1f08fbcf78ac0a6e7cd80e21219dbe2d249a03b1b817",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEY05UNk1XUHR1S3VfYkNQb0pENUFyNnlKQnlXUV9FT2cwVnlGTWpka3dwM2tZYnpDVEJwNzVaQ1czbkl6VUluMm1oR203RGJiazJ4aFZINHRTdw?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1395344/",
-    "title": "北見市の公共施設値上げ、効果額890万円 見込み5500万円を大幅に下回る 辻市長が定例会見で説明 - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-10-23T05:45:35+00:00",
-    "description": "北見市の公共施設値上げ、効果額890万円 見込み5500万円を大幅に下回る 辻市長が定例会見で説明 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/1/7/3/d/173ddbac5a1db931f556d661fb679a14_1.webp?20261023163343"
-  },
-  {
-    "id": "d614687c04fa5cf2c6ca06770d2c647ed51590570161e2c0454eb1650d717054",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CRklYanB4cFJ1U2FlVkxfVjlBNWtSRkVMZUEzT3lKSXBhTy1hQUV1UjF2RUhaNVphaVU4RDgxTzh4Rk1jTVVzUHBMMA?oc=5",
-    "url": "https://www.47news.jp/15126830.html",
-    "title": "北見市の公共施設値上げ、効果額890万円 見込み5500万円を大幅に下回る 辻市長が定例会見で説明 - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-10-23T05:45:35+00:00",
-    "description": "北見市の公共施設値上げ、効果額890万円 見込み5500万円を大幅に下回る 辻市長が定例会見で説明 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/537c14e3ee56c4dde50586637453d667/photo.jpg"
   },
   {
     "id": "08369b3ba8c0ff085e508657201fc0b0e6694a73e0ff5dcf25287d0fc0f2a858",
@@ -1488,15 +1498,5 @@
     "published": "2026-10-21T19:00:00+00:00",
     "description": "音農家×北見・東小 農業ソング 6年生歌詞発案 遠藤夫妻が新曲に 「ありがとう」 31日、学芸会でお披露目 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/a/5/7/5/a575468d8db31bbd477e3f076d513d30_1.webp?20261022082003"
-  },
-  {
-    "id": "ea76b717bb1491f6f524e3ad6443202fe861acca6f75a77b94782ae803e7f0b5",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoazZWN0lqUFB6NUZHRVhOaHEzNHRhR3lUYmEwaDJnN1Fia2hxMjh1U2hZQURBb3RBWWhzdFphWmN0UGdMQzhvNXNJRFRtNUtPR1MtejR3TFNDQQ?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1394068/",
-    "title": "＜タマネギ つなぐ恵み＞「早積み王」ゲームや詰め放題 来月1日、北見で「まつり」 - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-10-21T19:00:00+00:00",
-    "description": "＜タマネギ つなぐ恵み＞「早積み王」ゲームや詰め放題 来月1日、北見で「まつり」 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/a/2/c/6/a2c6ee8e45c62739c8b7e1748559f5c9_1.webp?20261026073415"
   }
 ]

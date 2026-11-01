@@ -6,7 +6,27 @@
     <description>稚内の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/wakkanai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 31 Oct 2026 20:52:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 00:19:06 +0000</lastBuildDate>
+    <item>
+      <title>【速報】宗谷線、代行バス運行始まる クマ衝突で脱線 稚内―音威子府運休 - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1400621/</link>
+      <pubDate>Sun, 01 Nov 2026 00:19:06 +0000</pubDate>
+      <guid isPermaLink="false">8c624632bbbec81464a0b28a0ad4fb9a6a5a317edeaad004a4133bcbcdb24060</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/4/a/1/e/4a1edb6eda5224dc5d73c786b90cc300_1.webp?20261101095417" />
+      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/4/a/1/e/4a1edb6eda5224dc5d73c786b90cc300_1.webp?20261101095417" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/4/a/1/e/4a1edb6eda5224dc5d73c786b90cc300_1.webp?20261101095417" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【速報】宗谷線、代行バス運行始まる クマ衝突で脱線 稚内―音威子府運休 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【速報】宗谷線、代行バス運行始まる クマ衝突で脱線 稚内—音威子府運休 - 47NEWS</title>
+      <link>https://www.47news.jp/15168131.html</link>
+      <pubDate>Sat, 31 Oct 2026 22:53:59 +0000</pubDate>
+      <guid isPermaLink="false">7a7dbf966a4e9830c188f6da3cd361b3f9596df95629054f3867507784e90957</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">47NEWS</source>
+      <media:thumbnail url="https://img.cf.47news.jp/public/photo/4121b8b16f6b53e5df32d71dea2adc1c/photo.jpg" />
+      <media:content url="https://img.cf.47news.jp/public/photo/4121b8b16f6b53e5df32d71dea2adc1c/photo.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.cf.47news.jp/public/photo/4121b8b16f6b53e5df32d71dea2adc1c/photo.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【速報】宗谷線、代行バス運行始まる クマ衝突で脱線 稚内—音威子府運休 47NEWS&lt;/p&gt;&lt;p&gt;配信元: 47NEWS&lt;/p&gt;</description>
+    </item>
     <item>
       <title>ＪＲ宗谷線 特急がヒグマ衝突で脱線 運転見合わせなど影響続く - NHKニュース</title>
       <link>https://news.web.nhk/newsweb/na/nd-20261101de69058</link>
@@ -80,7 +100,7 @@
     <item>
       <title>ＪＲ宗谷線 特急列車とヒグマ衝突し脱線 1日も運転見合わせ - NHKニュース</title>
       <link>https://news.web.nhk/newsweb/na/nd-20261031de69015</link>
-      <pubDate>Sat, 31 Oct 2026 10:15:25 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 10:15:00 +0000</pubDate>
       <guid isPermaLink="false">c91167d9ab351a0a6836564b595254e6c91855e1e755af9ab37e35d02e17bb85</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">NHKニュース</source>
       <media:thumbnail url="https://imgu.web.nhk/news/u/news/nd/kiji/20261031de69015/20261031de69015_E0000131999_1_l.jpg" />
@@ -216,16 +236,6 @@
       <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-23053375-hbcv-000-5-thumb.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「手負いのクマは一番危ない」ハンターの同行がないと危険と判断…JR北海道が経緯を説明 クマと衝突し特急列車が脱線、乗客ら34人で車内で一夜明かした事故 JR宗谷線 Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
     <item>
-      <title>「手負いのクマは一番危ない」ハンターの同行がないと危険と判断…JR北海道が経緯を説明 クマと衝突し特急列車が脱線、乗客ら34人で車内で一夜明かした事故 JR宗谷線 | 北海道のニュース｜HBC北海道放送 (1ページ) - TBS NEWS DIG</title>
-      <link>https://newsdig.tbs.co.jp/articles/hbc/3053375?display=1</link>
-      <pubDate>Sat, 31 Oct 2026 08:13:00 +0000</pubDate>
-      <guid isPermaLink="false">e682a9c3182ff9ecc92064e2c47206ec382333c9bb32ad4c26fa88cceec8b4b7</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">TBS NEWS DIG</source>
-      <media:thumbnail url="https://newsdig.ismcdn.jp/mwimgs/8/3/1200w/img_839b778cef6059d44dfcd34333b49621304273.jpg" />
-      <media:content url="https://newsdig.ismcdn.jp/mwimgs/8/3/1200w/img_839b778cef6059d44dfcd34333b49621304273.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newsdig.ismcdn.jp/mwimgs/8/3/1200w/img_839b778cef6059d44dfcd34333b49621304273.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「手負いのクマは一番危ない」ハンターの同行がないと危険と判断…JR北海道が経緯を説明 クマと衝突し特急列車が脱線、乗客ら34人で車内で一夜明かした事故 JR宗谷線 | 北海道のニュース｜HBC北海道放送 (1ページ) TBS NEWS DIG&lt;/p&gt;&lt;p&gt;配信元: TBS NEWS DIG&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>「手負いのクマは一番危ない」ハンターの同行がないと危険と判断…JR北海道が経緯を説明 クマと衝突し特急列車が脱線、乗客ら34人で車内で一夜明かした事故 JR宗谷線 - TBS NEWS DIG</title>
       <link>https://newsdig.tbs.co.jp/articles/hbc/3053375</link>
       <pubDate>Sat, 31 Oct 2026 08:13:00 +0000</pubDate>
@@ -234,6 +244,16 @@
       <media:thumbnail url="https://newsdig.ismcdn.jp/mwimgs/8/3/1200w/img_839b778cef6059d44dfcd34333b49621304273.jpg" />
       <media:content url="https://newsdig.ismcdn.jp/mwimgs/8/3/1200w/img_839b778cef6059d44dfcd34333b49621304273.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://newsdig.ismcdn.jp/mwimgs/8/3/1200w/img_839b778cef6059d44dfcd34333b49621304273.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「手負いのクマは一番危ない」ハンターの同行がないと危険と判断…JR北海道が経緯を説明 クマと衝突し特急列車が脱線、乗客ら34人で車内で一夜明かした事故 JR宗谷線 TBS NEWS DIG&lt;/p&gt;&lt;p&gt;配信元: TBS NEWS DIG&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>「手負いのクマは一番危ない」ハンターの同行がないと危険と判断…JR北海道が経緯を説明 クマと衝突し特急列車が脱線、乗客ら34人で車内で一夜明かした事故 JR宗谷線 | 北海道のニュース｜HBC北海道放送 (1ページ) - TBS NEWS DIG</title>
+      <link>https://newsdig.tbs.co.jp/articles/hbc/3053375?display=1</link>
+      <pubDate>Sat, 31 Oct 2026 08:13:00 +0000</pubDate>
+      <guid isPermaLink="false">e682a9c3182ff9ecc92064e2c47206ec382333c9bb32ad4c26fa88cceec8b4b7</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">TBS NEWS DIG</source>
+      <media:thumbnail url="https://newsdig.ismcdn.jp/mwimgs/8/3/1200w/img_839b778cef6059d44dfcd34333b49621304273.jpg" />
+      <media:content url="https://newsdig.ismcdn.jp/mwimgs/8/3/1200w/img_839b778cef6059d44dfcd34333b49621304273.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://newsdig.ismcdn.jp/mwimgs/8/3/1200w/img_839b778cef6059d44dfcd34333b49621304273.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「手負いのクマは一番危ない」ハンターの同行がないと危険と判断…JR北海道が経緯を説明 クマと衝突し特急列車が脱線、乗客ら34人で車内で一夜明かした事故 JR宗谷線 | 北海道のニュース｜HBC北海道放送 (1ページ) TBS NEWS DIG&lt;/p&gt;&lt;p&gt;配信元: TBS NEWS DIG&lt;/p&gt;</description>
     </item>
     <item>
       <title>「手負いのクマは一番危ない」ハンターの同行がないと危険と判断…クマと衝突し特急列車が脱線、乗客ら34人で車内で一夜明かした事故でJR北海道が経緯を説明 JR宗谷線 - TBS NEWS DIG</title>
@@ -597,31 +617,37 @@
     </item>
     <item>
       <title>JR宗谷線「特急サロベツ3号」がクマと衝突する事故…乗客らけがなし 北海道 (2026年10月31日掲載) - ライブドアニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UOXVqRmN4ejNqWERwc05qRmpZZXlHR0lGSU8yb1R1eFdBTlJISWxuWHZGNGVsRFNjcHN5QjNhaEt3NUxuTXphNXktQl9PTW9NcVluaS1MNDNBc00wWEE?oc=5</link>
+      <link>https://news.livedoor.com/topics/detail/32698269/</link>
       <pubDate>Sat, 31 Oct 2026 00:47:00 +0000</pubDate>
       <guid isPermaLink="false">b449d0b0c43b24f056e7890eecf3593e54e37999f7436de000e8fb1a518f6d9b</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">ライブドアニュース</source>
-      <description>&lt;p&gt;JR宗谷線「特急サロベツ3号」がクマと衝突する事故…乗客らけがなし 北海道 (2026年10月31日掲載) ライブドアニュース&lt;/p&gt;&lt;p&gt;配信元: ライブドアニュース&lt;/p&gt;</description>
+      <media:thumbnail url="https://image.news.livedoor.com/newsimage/stf/6/d/6dc3b_1748_345b06a7_135163b8.jpg" />
+      <media:content url="https://image.news.livedoor.com/newsimage/stf/6/d/6dc3b_1748_345b06a7_135163b8.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://image.news.livedoor.com/newsimage/stf/6/d/6dc3b_1748_345b06a7_135163b8.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;JR宗谷線「特急サロベツ3号」がクマと衝突する事故…乗客らけがなし 北海道 (2026年10月31日掲載) ライブドアニュース&lt;/p&gt;&lt;p&gt;配信元: ライブドアニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>列車がクマに衝突したため、宗谷線の音威子府駅と稚内駅の間は、今日1日運転をしません - やさしい朝日新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wUnE1aDR3UjFBc25YekhlU24xVXp1UC1HZ05rY3NNMkZRdllpY0I2R3RyWnlELVVzb2V2Z1hJLVh3OGJpaWx1ZzFfOTZTVmNZMEpueHl2M1RzS0VuLXJOb05qM1NSUWM?oc=5</link>
+      <link>https://yasashii.asahi.com/articles/article_0016592.html</link>
       <pubDate>Sat, 31 Oct 2026 00:44:37 +0000</pubDate>
       <guid isPermaLink="false">ac7022c93e461a9b9074c9e47ea592ead62078dd8f0bd8269813063355ca4528</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">やさしい朝日新聞</source>
-      <description>&lt;p&gt;列車がクマに衝突したため、宗谷線の音威子府駅と稚内駅の間は、今日1日運転をしません やさしい朝日新聞&lt;/p&gt;&lt;p&gt;配信元: やさしい朝日新聞&lt;/p&gt;</description>
+      <media:thumbnail url="https://yasashii.asahi.com/assets/entry-16592-og_image.webp" />
+      <media:content url="https://yasashii.asahi.com/assets/entry-16592-og_image.webp" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://yasashii.asahi.com/assets/entry-16592-og_image.webp" alt="" /&gt;&lt;/p&gt;&lt;p&gt;列車がクマに衝突したため、宗谷線の音威子府駅と稚内駅の間は、今日1日運転をしません やさしい朝日新聞&lt;/p&gt;&lt;p&gt;配信元: やさしい朝日新聞&lt;/p&gt;</description>
     </item>
     <item>
       <title>【速報】JR宗谷線 特急列車がクマと衝突し脱線 乗客乗員にけがなし 音威子府駅～稚内駅の間で終日運休 - UQライフ</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNblVVVG9oLTBLc3NuVE9xSlRsdzY1cTBSbGRfN0FVZTQ1QzVsaW1YY3R3WkZTYXpaVmNCdEZaNjduR2ZRZkxfXzZhOU1OZkNwQVdvM0pTdXRlNUdZUEM4a1lPakVTMUM1Sy1IM1RrVV9UTm92SXRXaFpLSWxrMFlHMg?oc=5</link>
+      <link>https://www.uqwimax.jp/mobile/support/app/life/</link>
       <pubDate>Sat, 31 Oct 2026 00:34:00 +0000</pubDate>
       <guid isPermaLink="false">817296aa3f40416c50492f1975ad09e44b439a56f25f0969a907ecd133568f47</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">UQライフ</source>
-      <description>&lt;p&gt;【速報】JR宗谷線 特急列車がクマと衝突し脱線 乗客乗員にけがなし 音威子府駅～稚内駅の間で終日運休 UQライフ&lt;/p&gt;&lt;p&gt;配信元: UQライフ&lt;/p&gt;</description>
+      <media:thumbnail url="https://www.uqwimax.jp/common2/images/ogp.png" />
+      <media:content url="https://www.uqwimax.jp/common2/images/ogp.png" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.uqwimax.jp/common2/images/ogp.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【速報】JR宗谷線 特急列車がクマと衝突し脱線 乗客乗員にけがなし 音威子府駅～稚内駅の間で終日運休 UQライフ&lt;/p&gt;&lt;p&gt;配信元: UQライフ&lt;/p&gt;</description>
     </item>
     <item>
       <title>【速報】JR宗谷線 特急列車がクマと衝突し脱線 乗客乗員にけがなし 音威子府駅～稚内駅の間で終日運休 - Excite エキサイト</title>
-      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE5lSHNxaDhQdlB3VHc4MGUtWkNheGdxeUtJZVJnV2hqRWpzMjIxTEVIdHRoUkt4dW1qUmJPWUJ6NEg0TnpDMFNpU2NmcjVHMUYzN2N0d3l1azAzN3pSeExWXzhNaTVHM3BpTVZacktR?oc=5</link>
+      <link>http://www.excite.co.jp/news/article/htb_1489060462417494252/</link>
       <pubDate>Sat, 31 Oct 2026 00:34:00 +0000</pubDate>
       <guid isPermaLink="false">d61af52d76e46cece9b72cd934dd2d49dcaea8abb2df2fa481eedf0c6d388648</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Excite エキサイト</source>
@@ -629,43 +655,53 @@
     </item>
     <item>
       <title>【速報】JR宗谷線 特急列車がクマと衝突し脱線 乗客乗員にけがなし 音威子府駅～稚内駅の間で終日運休 - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOaDhndjJGUTVEMVk4QW0wZXhhM2swZmJ5NWlOaDRySlJFWTdDOUJRTGJZeVpILUQzSjRzM0hyeVdXMWlrWndTN0drb1lqek9NcmZaNjBMS240ekZKUDNLcWZ4eVdVaEFfOXNHZng3TlhfYV90dVlkdENpY0E0c2p1a2Yybi1sb0FJWUlvX1l3?oc=5</link>
+      <link>https://news.yahoo.co.jp/articles/51e2deed4833611e398b93bf971852d6ca46c7e9/images/000</link>
       <pubDate>Sat, 31 Oct 2026 00:28:04 +0000</pubDate>
       <guid isPermaLink="false">175dab6a25f45feb138485642ea8f1bff2bbd8a4126cf829703801d065beddb0</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-      <description>&lt;p&gt;【速報】JR宗谷線 特急列車がクマと衝突し脱線 乗客乗員にけがなし 音威子府駅～稚内駅の間で終日運休 Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
+      <media:thumbnail url="https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnS2C8PoLnrw4xl6PXioIAtC7W4eoh5T_D4LGlrkt8xUSkADkXOwds321zQ1xhQaZVe3VKx-vrtaLnp_osqCArvYePUVIy8lqfRXeBPM873lO" />
+      <media:content url="https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnS2C8PoLnrw4xl6PXioIAtC7W4eoh5T_D4LGlrkt8xUSkADkXOwds321zQ1xhQaZVe3VKx-vrtaLnp_osqCArvYePUVIy8lqfRXeBPM873lO" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnS2C8PoLnrw4xl6PXioIAtC7W4eoh5T_D4LGlrkt8xUSkADkXOwds321zQ1xhQaZVe3VKx-vrtaLnp_osqCArvYePUVIy8lqfRXeBPM873lO" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【速報】JR宗谷線 特急列車がクマと衝突し脱線 乗客乗員にけがなし 音威子府駅～稚内駅の間で終日運休 Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>【速報】JR宗谷線 特急列車がクマと衝突し脱線 乗客乗員にけがなし 音威子府駅～稚内駅の間で終日運休 - HTB 北海道テレビ</title>
-      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE40QV9aVUcwYTlBU0pkTkp1WUNaa205b3dMbzd6UUpfZ1c3R2ZHd1FPbHAtbVJpclY1YmN1ajdLU1VYN1M4US1mdmdIZ1BUTEYtalFERi1nWGlUdw?oc=5</link>
+      <link>https://www.htb.co.jp/news/archives_40247.html</link>
       <pubDate>Sat, 31 Oct 2026 00:28:00 +0000</pubDate>
       <guid isPermaLink="false">447edbb13424e9c1514e4d82190b6ac73d1e8749608b34bf1ee3cb4e79b15ab4</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">HTB 北海道テレビ</source>
-      <description>&lt;p&gt;【速報】JR宗谷線 特急列車がクマと衝突し脱線 乗客乗員にけがなし 音威子府駅～稚内駅の間で終日運休 HTB 北海道テレビ&lt;/p&gt;&lt;p&gt;配信元: HTB 北海道テレビ&lt;/p&gt;</description>
+      <media:thumbnail url="https://www.htb.co.jp/news/photo/40247_52193.jpg" />
+      <media:content url="https://www.htb.co.jp/news/photo/40247_52193.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.htb.co.jp/news/photo/40247_52193.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【速報】JR宗谷線 特急列車がクマと衝突し脱線 乗客乗員にけがなし 音威子府駅～稚内駅の間で終日運休 HTB 北海道テレビ&lt;/p&gt;&lt;p&gt;配信元: HTB 北海道テレビ&lt;/p&gt;</description>
     </item>
     <item>
       <title>特急列車がクマと衝突　クマは車両の下敷きか…列車は現場に10時間以上停車したまま、乗客32人は車内で一晩明かす　北海道・JR宗谷線 - Infoseek</title>
-      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE53MU9ES3hpREtrR1RsMk1TZ2s5eFlMZWczTHh1RUJ0XzFiNVdCdlBUWU1JWGlYVWhGaE1VTEw2eElqYnp0eU80RldKOUFjOUZ3aG5qeUJXSEdiRHZpd1FEV2dyeFlDeW5FTHd6RNIBckFVX3lxTE5sODNORzcwZWdwWjY4UGpjaEEyZndhb2YtdHVmSjM0clhzQWJXUHQ0bXpfZEVkMmpOMnhtcF9WOHNsZkppVEpVU0ZZNS0yOS04YVhhYWRzbk1qNDA5YzNqdnpiS0VXUER5c1FQbC1EVHE2dw?oc=5</link>
+      <link>https://news.infoseek.co.jp/article/hbc_1489048778819338583/</link>
       <pubDate>Fri, 30 Oct 2026 23:48:13 +0000</pubDate>
       <guid isPermaLink="false">abb1aa437f1e828e5d70e67e829fa9d7fe00e8c422bd007de8eb039e2c430e46</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Infoseek</source>
-      <description>&lt;p&gt;特急列車がクマと衝突　クマは車両の下敷きか…列車は現場に10時間以上停車したまま、乗客32人は車内で一晩明かす　北海道・JR宗谷線 Infoseek&lt;/p&gt;&lt;p&gt;配信元: Infoseek&lt;/p&gt;</description>
+      <media:thumbnail url="https://media.image.infoseek.co.jp/isnews/photos/hbc/hbc_1489048778819338583_0-enlarge.jpg" />
+      <media:content url="https://media.image.infoseek.co.jp/isnews/photos/hbc/hbc_1489048778819338583_0-enlarge.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://media.image.infoseek.co.jp/isnews/photos/hbc/hbc_1489048778819338583_0-enlarge.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;特急列車がクマと衝突　クマは車両の下敷きか…列車は現場に10時間以上停車したまま、乗客32人は車内で一晩明かす　北海道・JR宗谷線 Infoseek&lt;/p&gt;&lt;p&gt;配信元: Infoseek&lt;/p&gt;</description>
     </item>
     <item>
       <title>特急列車がクマと衝突 クマは車両の下敷きか…列車は現場に10時間以上停車したまま、乗客32人は車内で一晩明かす 北海道・JR宗谷線 - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBNUjNMQ0xtUm05UTZURmlvc2dGdzE2cHlaLS13MnR3SVVzdVg3TGNReXd0NUt2bW9jVTZtdzZCWk1GVV95TFJqaE15TXZSaUU3SHJXMVB2T2RxbGZ0c3YxUmQ5Q3E4OWkyV29RZV8zV2ZfTEIxb3VOZnFiVTM2QnM?oc=5</link>
+      <link>https://news.yahoo.co.jp/articles/f4bd54d62d86930f5c69a0785827c9d8bff22130</link>
       <pubDate>Fri, 30 Oct 2026 23:29:11 +0000</pubDate>
       <guid isPermaLink="false">47792b7a056c19784adbe4f3fad17700afb3c5d1d1da463d9e51debc6f4a4af5</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-      <description>&lt;p&gt;特急列車がクマと衝突 クマは車両の下敷きか…列車は現場に10時間以上停車したまま、乗客32人は車内で一晩明かす 北海道・JR宗谷線 Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
+      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-23052768-hbcv-000-11-view.jpg?exp=10800" />
+      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-23052768-hbcv-000-11-view.jpg?exp=10800" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-23052768-hbcv-000-11-view.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;特急列車がクマと衝突 クマは車両の下敷きか…列車は現場に10時間以上停車したまま、乗客32人は車内で一晩明かす 北海道・JR宗谷線 Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>特急列車がクマと衝突 クマは車両の下敷きか…列車は現場に10時間以上停車したまま、乗客32人は車内で一晩明かす 北海道・JR宗谷線 - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYdGtHcHRFX2lfQ1M0bkktNllpOC1lRWFjUUx0Mk90LUgtWkUzVmJPTkY3TERaeUVMNTdBdUR1cXFFdGhKMFNLOFVTUWVIUmpud0NBWTJINlMxUQ?oc=5</link>
+      <link>https://newsdig.tbs.co.jp/articles/hbc/3052768</link>
       <pubDate>Fri, 30 Oct 2026 23:26:00 +0000</pubDate>
       <guid isPermaLink="false">bad0d013994fa7e669550d0358f288865c05cbf15dea3d8e732ea3ab6a728196</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">TBS NEWS DIG</source>
-      <description>&lt;p&gt;特急列車がクマと衝突 クマは車両の下敷きか…列車は現場に10時間以上停車したまま、乗客32人は車内で一晩明かす 北海道・JR宗谷線 TBS NEWS DIG&lt;/p&gt;&lt;p&gt;配信元: TBS NEWS DIG&lt;/p&gt;</description>
+      <media:thumbnail url="https://newsdig.ismcdn.jp/mwimgs/b/9/1200w/img_b9fe88afd1b12a179a197bbdf1d53166361067.jpg" />
+      <media:content url="https://newsdig.ismcdn.jp/mwimgs/b/9/1200w/img_b9fe88afd1b12a179a197bbdf1d53166361067.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://newsdig.ismcdn.jp/mwimgs/b/9/1200w/img_b9fe88afd1b12a179a197bbdf1d53166361067.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;特急列車がクマと衝突 クマは車両の下敷きか…列車は現場に10時間以上停車したまま、乗客32人は車内で一晩明かす 北海道・JR宗谷線 TBS NEWS DIG&lt;/p&gt;&lt;p&gt;配信元: TBS NEWS DIG&lt;/p&gt;</description>
     </item>
     <item>
       <title>特急列車がクマと衝突 クマは車両の下敷きになり運転再開のめど立たず 乗客32人は車内にとどまったまま一晩明かす 北海道幌延町・JR宗谷線 - TBS NEWS DIG</title>
@@ -679,19 +715,23 @@
     </item>
     <item>
       <title>列車とクマ衝突 乗客は車内で一夜 - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pZTJhVFlOZkVMRk9Wd0tERVFDdUxjRWpObElBdnZpMWtxVTgxUW9scURHSm12WmFUWXVXZGk1N1dpWnVLZ0hQcXYxZUlUN2dL?oc=5</link>
+      <link>https://news.yahoo.co.jp/pickup/6600754</link>
       <pubDate>Fri, 30 Oct 2026 23:20:02 +0000</pubDate>
       <guid isPermaLink="false">2ef497f58f53620f387733e8fa4c2d93794d6ce415e6455365ffea3473df9378</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-      <description>&lt;p&gt;列車とクマ衝突 乗客は車内で一夜 Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
+      <media:thumbnail url="https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/31/b3055b0ddf561bd4766b05954c1d1d1afadde70c4162ada943f14db34c5d8ffa.jpg" />
+      <media:content url="https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/31/b3055b0ddf561bd4766b05954c1d1d1afadde70c4162ada943f14db34c5d8ffa.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/31/b3055b0ddf561bd4766b05954c1d1d1afadde70c4162ada943f14db34c5d8ffa.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;列車とクマ衝突 乗客は車内で一夜 Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>特急サロベツがヒグマと衝突＿車両下に巻き込んだ可能性があり運転再開メド立たず＿特急・普通計5本運休が決定～JR宗谷線〈北海道中川町・幌延町〉 - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1mYjNBdl9hTEd2eVItMmpwMjI0cTlkdTNIeVc4OS1CSWFYZlBSdm44Sk9sOTZkZnI1UVFUQXc2QncxcXlMSTNkdjUyOE5qLUlLQlhwakFwSnhrZW56LUFfdXYyRGdrREdUS1RYSS1uNGNpWVVfcGY5dlRtSktlQTQ?oc=5</link>
+      <link>https://news.yahoo.co.jp/articles/2f1ed98d7c6368603ed7ff8a2a5677e58408ad21</link>
       <pubDate>Fri, 30 Oct 2026 23:15:01 +0000</pubDate>
       <guid isPermaLink="false">b66a97d1b3549753d0a7b208e17c18d08d1c3b9fd13a9fe361db8ec149ac5191</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-      <description>&lt;p&gt;特急サロベツがヒグマと衝突＿車両下に巻き込んだ可能性があり運転再開メド立たず＿特急・普通計5本運休が決定～JR宗谷線〈北海道中川町・幌延町〉 Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
+      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-90063247-hokkaibunv-000-1-view.jpg?exp=10800" />
+      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-90063247-hokkaibunv-000-1-view.jpg?exp=10800" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-90063247-hokkaibunv-000-1-view.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;特急サロベツがヒグマと衝突＿車両下に巻き込んだ可能性があり運転再開メド立たず＿特急・普通計5本運休が決定～JR宗谷線〈北海道中川町・幌延町〉 Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>JR宗谷線 特急列車とクマが衝突…クマを巻き込んでいる可能性あり停車続く 乗客乗員にけがなし - Excite エキサイト</title>
@@ -713,11 +753,13 @@
     </item>
     <item>
       <title>ＪＲ宗谷線 特急列車とクマが衝突…クマを巻き込んでいる可能性あり停車続く 乗客乗員にけがなし - HTB 北海道テレビ</title>
-      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TUXdnY1pqTkw1a2FLcW5aWFJXeDVxRTByOHVfdnl1MnZOanZURHV4T1hmNHpIdlNtWXNwMlNKMzQ5b1pPZF81ZnNVQVFNTnhtbFVMakUxbmdYQQ?oc=5</link>
+      <link>https://www.htb.co.jp/news/archives_40246.html</link>
       <pubDate>Fri, 30 Oct 2026 22:05:00 +0000</pubDate>
       <guid isPermaLink="false">c090f229efd1978ef5b5eb2bc1657baf6a498d620ead98cbe37ca3448e81401c</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">HTB 北海道テレビ</source>
-      <description>&lt;p&gt;ＪＲ宗谷線 特急列車とクマが衝突…クマを巻き込んでいる可能性あり停車続く 乗客乗員にけがなし HTB 北海道テレビ&lt;/p&gt;&lt;p&gt;配信元: HTB 北海道テレビ&lt;/p&gt;</description>
+      <media:thumbnail url="https://www.htb.co.jp/news/common2021/images/news_noimages.jpg" />
+      <media:content url="https://www.htb.co.jp/news/common2021/images/news_noimages.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.htb.co.jp/news/common2021/images/news_noimages.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;ＪＲ宗谷線 特急列車とクマが衝突…クマを巻き込んでいる可能性あり停車続く 乗客乗員にけがなし HTB 北海道テレビ&lt;/p&gt;&lt;p&gt;配信元: HTB 北海道テレビ&lt;/p&gt;</description>
     </item>
     <item>
       <title>【ヒグマ速報】特急列車と「衝突」車両の下に巻き込まれたか…列車動けず『乗客が缶詰状態』一夜明かす_ハンター出動し朝に確認作業へ〈北海道・JR宗谷線〉 - Excite エキサイト</title>
@@ -954,6 +996,14 @@
       <media:thumbnail url="https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnU_ici73xzugaCR8MMgPv-2qLMU1LOn9BezQoWuUmrYfxxV6ejwOjTTQnL03_Ny2LKzgbAYszhXN5ekiGEMrrywE5VtGpejAj5_eiJ4uo6pP" />
       <media:content url="https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnU_ici73xzugaCR8MMgPv-2qLMU1LOn9BezQoWuUmrYfxxV6ejwOjTTQnL03_Ny2LKzgbAYszhXN5ekiGEMrrywE5VtGpejAj5_eiJ4uo6pP" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnU_ici73xzugaCR8MMgPv-2qLMU1LOn9BezQoWuUmrYfxxV6ejwOjTTQnL03_Ny2LKzgbAYszhXN5ekiGEMrrywE5VtGpejAj5_eiJ4uo6pP" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【波浪警報】北海道・稚内市、豊富町、礼文町などに発表 04:05時点 (TBS NEWS DIG Powered by JNN) Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【暴風警報】北海道・稚内市、猿払村、豊富町などに発表 04:05時点 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE96dVI5SnkxTUdQTHhsM0hQTktORlg0NGZHZEV3RU1fX1c3XzRObU9GWFJrTG5fYU9XcWctaExQQmlfVHByTlBpa3YxU3Z2djhnWF96bmZlbw?oc=5</link>
+      <pubDate>Tue, 27 Oct 2026 19:05:00 +0000</pubDate>
+      <guid isPermaLink="false">8bd1ba2510885fe578c2225aadb7da83ca341c123a26c787c598508917accece</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">TBS NEWS DIG</source>
+      <description>&lt;p&gt;【暴風警報】北海道・稚内市、猿払村、豊富町などに発表 04:05時点 TBS NEWS DIG&lt;/p&gt;&lt;p&gt;配信元: TBS NEWS DIG&lt;/p&gt;</description>
     </item>
     <item>
       <title>【波浪警報】北海道・稚内市、豊富町、礼文町などに発表 04:05時点 - TBS NEWS DIG</title>
@@ -1306,16 +1356,6 @@
       <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/d/a/4/5/da453ed6d9f5db5bfddcc7e98b7c53e8_1.webp?20261023065952" alt="" /&gt;&lt;/p&gt;&lt;p&gt;稚内市 クルーズ船誘致に力 視察の豪運航会社に自然観光ＰＲ 富裕層客の経済効果期待 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
     </item>
     <item>
-      <title>シカそしてクマ…特急宗谷相次いで衝突し遅れ クマの生死確認できず普通列車に乗客1人一時取り残される - UQライフ</title>
-      <link>https://www.uqwimax.jp/mobile/support/app/life/</link>
-      <pubDate>Thu, 22 Oct 2026 13:18:00 +0000</pubDate>
-      <guid isPermaLink="false">8273fce300b11043e4df3ace079c0e0c50eb6e9d7c5ece2775665e90322cdb74</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">UQライフ</source>
-      <media:thumbnail url="https://www.uqwimax.jp/common2/images/ogp.png" />
-      <media:content url="https://www.uqwimax.jp/common2/images/ogp.png" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.uqwimax.jp/common2/images/ogp.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;シカそしてクマ…特急宗谷相次いで衝突し遅れ クマの生死確認できず普通列車に乗客1人一時取り残される UQライフ&lt;/p&gt;&lt;p&gt;配信元: UQライフ&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>シカそしてクマ…特急宗谷相次いで衝突し遅れ クマの生死確認できず普通列車には人が残される - Excite エキサイト</title>
       <link>http://www.excite.co.jp/news/article/htb_1485991251098075212/</link>
       <pubDate>Thu, 22 Oct 2026 13:18:00 +0000</pubDate>
@@ -1412,36 +1452,6 @@
       <media:thumbnail url="https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png" />
       <media:content url="https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://www.toonippo.co.jp/common/too/images/v1/common/ogp-image.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北海道稚内市で初雪｜全国のニュース｜Web東奥 東奥日報社&lt;/p&gt;&lt;p&gt;配信元: 東奥日報社&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>利尻山で初冠雪 宗谷上空に11月上～中旬並みの寒気 - 北海道新聞デジタル</title>
-      <link>https://www.hokkaido-np.co.jp/article/1394477/?ref=top</link>
-      <pubDate>Thu, 22 Oct 2026 03:52:15 +0000</pubDate>
-      <guid isPermaLink="false">a53213cee56c09ae1f333e642076390e081af640d9c3ffc0000e804e79f3587f</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
-      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/4/2/a/7/42a7cd407bdd29717be89a93d82511b1_1.webp?20261022132916" />
-      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/4/2/a/7/42a7cd407bdd29717be89a93d82511b1_1.webp?20261022132916" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/4/2/a/7/42a7cd407bdd29717be89a93d82511b1_1.webp?20261022132916" alt="" /&gt;&lt;/p&gt;&lt;p&gt;利尻山で初冠雪 宗谷上空に11月上～中旬並みの寒気 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>利尻山で初冠雪 宗谷上空に11月上～中旬並みの寒気 - 47NEWS</title>
-      <link>https://www.47news.jp/15120544.html</link>
-      <pubDate>Thu, 22 Oct 2026 03:52:15 +0000</pubDate>
-      <guid isPermaLink="false">0953acb9cc9509e205ff916921975ba9383b27455bfa702e39ea89a9507a9f1e</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">47NEWS</source>
-      <media:thumbnail url="https://img.cf.47news.jp/public/photo/581481daa520a45762f24be4e03902d9/photo.jpg" />
-      <media:content url="https://img.cf.47news.jp/public/photo/581481daa520a45762f24be4e03902d9/photo.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://img.cf.47news.jp/public/photo/581481daa520a45762f24be4e03902d9/photo.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;利尻山で初冠雪 宗谷上空に11月上～中旬並みの寒気 47NEWS&lt;/p&gt;&lt;p&gt;配信元: 47NEWS&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【中山峠で今季初の積雪】札幌市内の平地も一時的に“雪化粧”層雲峡温泉周辺では吹雪に…稚内市で初雪・利尻山で初冠雪！11月下旬並みの強い寒気〈北海道〉 - UHB 北海道文化放送</title>
-      <link>https://www.uhb.jp/news/single.html?id=63029</link>
-      <pubDate>Thu, 22 Oct 2026 03:11:32 +0000</pubDate>
-      <guid isPermaLink="false">272cddc64b95475d0ba0699b2b1146b69e54f6a02fc189ee1854ca877f041e5a</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">UHB 北海道文化放送</source>
-      <media:thumbnail url="https://www.uhb.jp/news/data/63029/image.jpg?v=1792638973" />
-      <media:content url="https://www.uhb.jp/news/data/63029/image.jpg?v=1792638973" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.uhb.jp/news/data/63029/image.jpg?v=1792638973" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【中山峠で今季初の積雪】札幌市内の平地も一時的に“雪化粧”層雲峡温泉周辺では吹雪に…稚内市で初雪・利尻山で初冠雪！11月下旬並みの強い寒気〈北海道〉 UHB 北海道文化放送&lt;/p&gt;&lt;p&gt;配信元: UHB 北海道文化放送&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

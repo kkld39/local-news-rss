@@ -1,5 +1,15 @@
 [
   {
+    "id": "18b7b4c146b885ad10fe9055f26a8a5799d17136b1eb45a19ff51b67977635f3",
+    "google_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYlJzQVFkejN5YmM1YWlaamVVRjNGeldHXzFpMnlRaS1BNzByaWgtSWx0RU9GN1g3M0JqQjA5MVoyZ0ttZXVSUk01MEREX21hTU1aamZRX1VjOWFhd1VHVGU5RExwbHBkM1BoYlFFSmlJWFdtOFlxWmo5LVVjYlZ5SVBEeDhseWc?oc=5",
+    "url": "https://tama-inagi.goguynet.jp/2026/11/01/nhk-72hours-suwa-nagayama-danchi-2026/",
+    "title": "【多摩市】NHK『ドキュメント72時間』で諏訪・永山団地が特集されます！11月6日(金)夜10時から放送決定！ - 地域ニュースサイト号外NET",
+    "source": "地域ニュースサイト号外NET",
+    "published": "2026-10-31T22:11:28+00:00",
+    "description": "【多摩市】NHK『ドキュメント72時間』で諏訪・永山団地が特集されます！11月6日(金)夜10時から放送決定！ 地域ニュースサイト号外NET",
+    "image": "https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2025/12/R0000370.jpg"
+  },
+  {
     "id": "78a3af85d3638f6bcdb5d7838a61cd6bde21ecb259e0b574b86ea9746ba8d824",
     "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUHpCSDhtVzI3d2hxSndVeThFYlh2TnFRZTc3VEZZbU5vQllRWHVDblZrRGxWNTVBYWdNTG9jMXVXNkJjVVVMTmJVbHhMNm9RY2JaU3gtMk12QnN0RFpXUGxhQzF0S3BzajZhaXNYUFd2NkZjUDJPekd2QWVuZW9wMzJadGJST1Y2Z2poNjRn0gGAAUFVX3lxTE9adllaMWt5Mm9hb3pRcDBIYTU1R0FkWlRBTXJDNzZuSVZCMmFiU0hQdzNBRFJaM2JzX0g3Q29FX1B3MEZSM24tOWo4ZG5iQXk3bUJtMU93d2x4Tm1ZVjhEX0F3c2xfVE5TSGxHb2kyMHhiRkFfTUtxLWhZM040VHlS?oc=5",
     "url": "https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-859705?fm=latestnews",
@@ -90,16 +100,6 @@
     "image": "https://prcdn.freetls.fastly.net/release_image/52467/7027/52467-7027-cd76e8b98d0e300d52ab201d5adb45f1-594x396.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
   },
   {
-    "id": "4a187461c97327217941f24d8e0eadbe0f1ad84a2b68b519db35e3760d4b7b1b",
-    "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zRnExLUhqaGNLekxUVzdxcHdaLTlJWXdEdEdSZzRzN3kyTEIzU2EwV0xaTVdDYkMyNElHY3pzU1p1a2NUaW43OTNpSTBXVC1HRk80NjJIcjJuTERYc2F0c0d2dkVRd0VqamU1Z1AwSjl3dw?oc=5",
-    "url": "https://news.infoseek.co.jp/article/prtimes_000007027_000052467/",
-    "title": "【広報東京都11月号】特集「訪れてよし、住んでよし。すばらし、多摩」 - Infoseek",
-    "source": "Infoseek",
-    "published": "2026-10-30T08:30:00+00:00",
-    "description": "【広報東京都11月号】特集「訪れてよし、住んでよし。すばらし、多摩」 Infoseek",
-    "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png"
-  },
-  {
     "id": "460acc4a8d2fb822d89004a37fb157044a60ab502d61c2b4ef581dbcd0ca441e",
     "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6dW4tOW1ORnFfTW1MR3V1LWlQNEZoeHZuY0ZDQTUzbTR0YUVkaUxvc3Uyem9VbWtYWDMzN25XQVhaWm1YdG5zOGNRYnNPTnBfRkdibEhyV2tKNTJLeHEzb1VtRE4yRnlfY0hzR3FOREk4VEhzVmFUaldZSQ?oc=5",
     "url": "https://www.sankei.com/pressrelease/prtimes/BEP22VQL6VMC5DJJLGHFQLZVPE/",
@@ -108,6 +108,16 @@
     "published": "2026-10-30T08:30:00+00:00",
     "description": "「訪れてよし、住んでよし。すばらし、多摩」多摩の魅力を徹底特集 産経ニュース",
     "image": "https://www.sankei.com/resizer/v2/https%3A%2F%2Fdpgdieoe6npux.cloudfront.net%2Fprtimes%2F6ZHKXNWHCZPC5HTOJOHMYRSGYQ?auth=9ad4c91cd7245b3c3fa69f3e6ce2ed48091a28c3ee4b474b18fdba11076dd188&quality=50&smart=true&width=1200&height=675"
+  },
+  {
+    "id": "4a187461c97327217941f24d8e0eadbe0f1ad84a2b68b519db35e3760d4b7b1b",
+    "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zRnExLUhqaGNLekxUVzdxcHdaLTlJWXdEdEdSZzRzN3kyTEIzU2EwV0xaTVdDYkMyNElHY3pzU1p1a2NUaW43OTNpSTBXVC1HRk80NjJIcjJuTERYc2F0c0d2dkVRd0VqamU1Z1AwSjl3dw?oc=5",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000007027_000052467/",
+    "title": "【広報東京都11月号】特集「訪れてよし、住んでよし。すばらし、多摩」 - Infoseek",
+    "source": "Infoseek",
+    "published": "2026-10-30T08:30:00+00:00",
+    "description": "【広報東京都11月号】特集「訪れてよし、住んでよし。すばらし、多摩」 Infoseek",
+    "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png"
   },
   {
     "id": "ddf6018875c36dbd90990dffa98c92469cb901c03b00b71f56cb4dc9f5aa43e0",
@@ -1488,15 +1498,5 @@
     "published": "2026-10-12T11:00:00+00:00",
     "description": "奉仕サークル「くるくる」　絵手紙を楽しもう　11月に体験会〈多摩市〉 ｄメニューニュース",
     "image": "https://img.topics.smt.news.goo.ne.jp/picture/townnews/m_townnews-856132.jpg"
-  },
-  {
-    "id": "10515d07ad922262c89eb76112c744cb3616855de6567d61d7035883106a7cc7",
-    "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GMzk2QjRjR0JwMlRiSWY1dlB3TVFtMHhTRFU4TFF3NVhsWXFsV0g3MjdDb0pRVDA0VGszSmtPY0xXZTN2ZUk5VlRqZ1I2N09DTUFEQUREZmNGVEF5c0Q4N2Fn?oc=5",
-    "url": "https://hochi.news/articles/20261012-OHT1T51248.html",
-    "title": "東京Ｖ・相馬直樹新監督が多摩センター駅でビラ配り「ぜひ来てください」…中村社長、栗田副社長、江尻強化部長も参加 - スポーツ報知",
-    "source": "スポーツ報知",
-    "published": "2026-10-12T08:23:00+00:00",
-    "description": "東京Ｖ・相馬直樹新監督が多摩センター駅でビラ配り「ぜひ来てください」…中村社長、栗田副社長、江尻強化部長も参加 スポーツ報知",
-    "image": "https://hochi.news/images/2026/10/12/20261012-OHT1I51442-C.jpg"
   }
 ]
