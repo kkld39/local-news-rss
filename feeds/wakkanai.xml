@@ -6,34 +6,256 @@
     <description>稚内の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/wakkanai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 02 Nov 2026 04:46:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:30:00 +0000</lastBuildDate>
     <item>
-      <title>クマ衝突の宗谷線3日に運転再開 JR北海道 - Excite エキサイト</title>
+      <title>留萌・宗谷（１１月３日付）おくやみ - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1401270/</link>
+      <pubDate>Mon, 02 Nov 2026 11:30:00 +0000</pubDate>
+      <guid isPermaLink="false">ed7c35cb921c349e1dc6f326ac134edcd7edf7abd7792c2c4d4ebc9977e2f280</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" />
+      <media:content url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;留萌・宗谷（１１月３日付）おくやみ 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ヒグマと衝突し脱線のJR宗谷線 3日も終日運転見合わせ - NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261102de69766</link>
+      <pubDate>Mon, 02 Nov 2026 10:27:02 +0000</pubDate>
+      <guid isPermaLink="false">7bd750d06226f96429eae05189b633e18496f72580476dd687640d131e1a96a2</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">NHKニュース</source>
+      <media:thumbnail url="https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69766/20261102de69766_E0000136186_1_l.jpg" />
+      <media:content url="https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69766/20261102de69766_E0000136186_1_l.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69766/20261102de69766_E0000136186_1_l.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;ヒグマと衝突し脱線のJR宗谷線 3日も終日運転見合わせ NHKニュース&lt;/p&gt;&lt;p&gt;配信元: NHKニュース&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>「クマで脱線は初めて…」特急列車がクマと衝突し脱線 乗客は車内で一夜 JR宗谷線あすも運転見合わせ 北海道 - FNNプライムオンライン</title>
+      <link>https://www.fnn.jp/articles/-/1144692</link>
+      <pubDate>Mon, 02 Nov 2026 10:23:00 +0000</pubDate>
+      <guid isPermaLink="false">210424fac252353c3e135648be33142f28a4a2f989bb9e751149fcbe2cebd497</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">FNNプライムオンライン</source>
+      <media:thumbnail url="https://fnn.ismcdn.jp/mwimgs/c/d/600/img_cdc39f1c658ae3b0252d64cff91d63f1887417.jpg" />
+      <media:content url="https://fnn.ismcdn.jp/mwimgs/c/d/600/img_cdc39f1c658ae3b0252d64cff91d63f1887417.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/c/d/600/img_cdc39f1c658ae3b0252d64cff91d63f1887417.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「クマで脱線は初めて…」特急列車がクマと衝突し脱線 乗客は車内で一夜 JR宗谷線あすも運転見合わせ 北海道 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>クマ衝突で脱線のJR宗谷線 運転再開延期 車体を支えるバネに不具合 あすも一部の特急列車でバス代行輸送 北海道 - TBS NEWS DIG</title>
+      <link>https://newsdig.tbs.co.jp/articles/-/3056721</link>
+      <pubDate>Mon, 02 Nov 2026 09:48:00 +0000</pubDate>
+      <guid isPermaLink="false">95524063a0e7954ab11d7e882d1d9d28f3f067b2ec61f0f44446058ebfc870ce</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">TBS NEWS DIG</source>
+      <media:thumbnail url="https://newsdig.ismcdn.jp/mwimgs/7/8/1200w/img_788e469d1807054138f8724a3f70adf0989494.jpg" />
+      <media:content url="https://newsdig.ismcdn.jp/mwimgs/7/8/1200w/img_788e469d1807054138f8724a3f70adf0989494.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://newsdig.ismcdn.jp/mwimgs/7/8/1200w/img_788e469d1807054138f8724a3f70adf0989494.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;クマ衝突で脱線のJR宗谷線 運転再開延期 車体を支えるバネに不具合 あすも一部の特急列車でバス代行輸送 北海道 TBS NEWS DIG&lt;/p&gt;&lt;p&gt;配信元: TBS NEWS DIG&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>抜本的対策は困難か…JR宗谷線 クマと衝突し特急列車脱線 野生動物との衝突防ぐ手立ては - HTB 北海道テレビ</title>
+      <link>https://www.htb.co.jp/news/archives_40268.html</link>
+      <pubDate>Mon, 02 Nov 2026 09:33:00 +0000</pubDate>
+      <guid isPermaLink="false">d279a5950f4a5b115911d0fa239397d7409e27a4ae7c55bd306cb7ef15682cd6</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">HTB 北海道テレビ</source>
+      <media:thumbnail url="https://www.htb.co.jp/news/photo/40268_52227.jpg" />
+      <media:content url="https://www.htb.co.jp/news/photo/40268_52227.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.htb.co.jp/news/photo/40268_52227.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;抜本的対策は困難か…JR宗谷線 クマと衝突し特急列車脱線 野生動物との衝突防ぐ手立ては HTB 北海道テレビ&lt;/p&gt;&lt;p&gt;配信元: HTB 北海道テレビ&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>クマ衝突 ＪＲ宗谷線の復旧は未定（テレビ北海道） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/780e787d985de29ab0567a2bea931ec4817bd011</link>
+      <pubDate>Mon, 02 Nov 2026 08:52:24 +0000</pubDate>
+      <guid isPermaLink="false">511e1d67694a68936613f89a36c2d21c5796938738aa455d7a44b473d65aafca</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
+      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-00000002-tvh-000-1-view.jpg?exp=10800" />
+      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-00000002-tvh-000-1-view.jpg?exp=10800" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-00000002-tvh-000-1-view.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;クマ衝突 ＪＲ宗谷線の復旧は未定（テレビ北海道） Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>クマ衝突 ＪＲ宗谷線の復旧は未定 - au Webポータル</title>
+      <link>https://article.auone.jp/9a2da7d2-5384-42df-a8bb-c3aaee284af8</link>
+      <pubDate>Mon, 02 Nov 2026 08:49:42 +0000</pubDate>
+      <guid isPermaLink="false">c0d0a5a35f7bfeb4ff7f6043b87d2e5d6855b531fbdf590e4be33dd019b2db5d</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">au Webポータル</source>
+      <media:thumbnail url="https://newportal.portal.auone.jp/media/thumbnails/2026/11/02/https___news_jp_i_1489909824337428697_w1280.webp" />
+      <media:content url="https://newportal.portal.auone.jp/media/thumbnails/2026/11/02/https___news_jp_i_1489909824337428697_w1280.webp" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://newportal.portal.auone.jp/media/thumbnails/2026/11/02/https___news_jp_i_1489909824337428697_w1280.webp" alt="" /&gt;&lt;/p&gt;&lt;p&gt;クマ衝突 ＪＲ宗谷線の復旧は未定 au Webポータル&lt;/p&gt;&lt;p&gt;配信元: au Webポータル&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>代行バスの利用で長い列 宗谷線再開延期で影響続く 復旧はさらに１日程度かかる見込み 北海道 - au Webポータル</title>
+      <link>https://article.auone.jp/c7618744-1622-4051-a7ac-da5abe5d4afe</link>
+      <pubDate>Mon, 02 Nov 2026 08:15:36 +0000</pubDate>
+      <guid isPermaLink="false">c4926ec52affc53b45b25eb4821c4480798f1901af26d587a19aef0962442b4f</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">au Webポータル</source>
+      <media:thumbnail url="https://newportal.portal.auone.jp/media/thumbnails/2026/11/02/https___news_jp_i_1489901240679694985_w1280.webp" />
+      <media:content url="https://newportal.portal.auone.jp/media/thumbnails/2026/11/02/https___news_jp_i_1489901240679694985_w1280.webp" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://newportal.portal.auone.jp/media/thumbnails/2026/11/02/https___news_jp_i_1489901240679694985_w1280.webp" alt="" /&gt;&lt;/p&gt;&lt;p&gt;代行バスの利用で長い列 宗谷線再開延期で影響続く 復旧はさらに１日程度かかる見込み 北海道 au Webポータル&lt;/p&gt;&lt;p&gt;配信元: au Webポータル&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>代行バスの利用で長い列 宗谷線再開延期で影響続く 復旧はさらに１日程度かかる見込み 北海道 - 日テレNEWS NNN</title>
+      <link>https://news.ntv.co.jp/n/stv/category/society/stdaa04ffd64164dfd90cad1c4dcc36d8b</link>
+      <pubDate>Mon, 02 Nov 2026 08:13:00 +0000</pubDate>
+      <guid isPermaLink="false">984297faf6ae2d922dbdf60ad1e4a9e0d161effe5b5e2e83418b0e2ef66d9514</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">日テレNEWS NNN</source>
+      <media:thumbnail url="https://image.gallery.play.jp/stv-news/articles/56453d17a08d4f4a91cf595766d5537b/2e0a89a0-2e23-429e-8d4f-5830995d9464.jpg?w=1200" />
+      <media:content url="https://image.gallery.play.jp/stv-news/articles/56453d17a08d4f4a91cf595766d5537b/2e0a89a0-2e23-429e-8d4f-5830995d9464.jpg?w=1200" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://image.gallery.play.jp/stv-news/articles/56453d17a08d4f4a91cf595766d5537b/2e0a89a0-2e23-429e-8d4f-5830995d9464.jpg?w=1200" alt="" /&gt;&lt;/p&gt;&lt;p&gt;代行バスの利用で長い列 宗谷線再開延期で影響続く 復旧はさらに１日程度かかる見込み 北海道 日テレNEWS NNN&lt;/p&gt;&lt;p&gt;配信元: 日テレNEWS NNN&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JR宗谷線 脱線車両に不具合が見つかり再開延期 3日は特急など15本運休、代行バス運行へ 北海道 - au Webポータル</title>
+      <link>https://article.auone.jp/9d3799f3-ce0d-46d0-b0fc-afcaed270688</link>
+      <pubDate>Mon, 02 Nov 2026 08:05:30 +0000</pubDate>
+      <guid isPermaLink="false">64b6e62f331909faedb171f85d1650707cbdd026e5d6327e73554fa41389a182</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">au Webポータル</source>
+      <media:thumbnail url="https://newportal.portal.auone.jp/media/thumbnails/2026/11/02/https___news_jp_i_1489898697701409241_w1280.webp" />
+      <media:content url="https://newportal.portal.auone.jp/media/thumbnails/2026/11/02/https___news_jp_i_1489898697701409241_w1280.webp" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://newportal.portal.auone.jp/media/thumbnails/2026/11/02/https___news_jp_i_1489898697701409241_w1280.webp" alt="" /&gt;&lt;/p&gt;&lt;p&gt;JR宗谷線 脱線車両に不具合が見つかり再開延期 3日は特急など15本運休、代行バス運行へ 北海道 au Webポータル&lt;/p&gt;&lt;p&gt;配信元: au Webポータル&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JR宗谷線 脱線車両に不具合が見つかり再開延期 3日は特急など15本運休、代行バス運行へ 北海道 - 日テレNEWS NNN</title>
+      <link>https://news.ntv.co.jp/n/stv/category/society/st0c8a7decdafe4e24bf6c4fd96559b6c9</link>
+      <pubDate>Mon, 02 Nov 2026 08:03:00 +0000</pubDate>
+      <guid isPermaLink="false">7bd28fb060133e4d018bcfa290af6542dfca5d6216e59011c1791bedf225db0f</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">日テレNEWS NNN</source>
+      <media:thumbnail url="https://image.gallery.play.jp/stv-news/articles/9f019ada4e2f4e458433a97b306f224d/e90fc8d6-92a6-4cb7-9574-0f55da2b4c5b.jpg?w=1200" />
+      <media:content url="https://image.gallery.play.jp/stv-news/articles/9f019ada4e2f4e458433a97b306f224d/e90fc8d6-92a6-4cb7-9574-0f55da2b4c5b.jpg?w=1200" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://image.gallery.play.jp/stv-news/articles/9f019ada4e2f4e458433a97b306f224d/e90fc8d6-92a6-4cb7-9574-0f55da2b4c5b.jpg?w=1200" alt="" /&gt;&lt;/p&gt;&lt;p&gt;JR宗谷線 脱線車両に不具合が見つかり再開延期 3日は特急など15本運休、代行バス運行へ 北海道 日テレNEWS NNN&lt;/p&gt;&lt;p&gt;配信元: 日テレNEWS NNN&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>宗谷線運転再開は延期、早くて4日に 車両不具合で移動できず - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1401173/</link>
+      <pubDate>Mon, 02 Nov 2026 07:25:21 +0000</pubDate>
+      <guid isPermaLink="false">173694bd087f25151582e8662f3337650614f7eab04d535045fa895c19dd1b15</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/2/9/f/5/29f56d3714359a961dfba89dc8b85c64_1.webp?20261103005432" />
+      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/2/9/f/5/29f56d3714359a961dfba89dc8b85c64_1.webp?20261103005432" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/2/9/f/5/29f56d3714359a961dfba89dc8b85c64_1.webp?20261103005432" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷線運転再開は延期、早くて4日に 車両不具合で移動できず 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【速報】JR宗谷線運転再開は4日に延期 車両に不具合 - 47NEWS</title>
+      <link>https://www.47news.jp/15174291.html</link>
+      <pubDate>Mon, 02 Nov 2026 07:25:21 +0000</pubDate>
+      <guid isPermaLink="false">b4da3dc01ed619342b86d0babb2716eb2c02816034475a490f2c5840cf2cace2</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">47NEWS</source>
+      <media:thumbnail url="https://img.cf.47news.jp/public/photo/7f438964a9b0ce21309a68b9fc03b713/photo.jpg" />
+      <media:content url="https://img.cf.47news.jp/public/photo/7f438964a9b0ce21309a68b9fc03b713/photo.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.cf.47news.jp/public/photo/7f438964a9b0ce21309a68b9fc03b713/photo.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【速報】JR宗谷線運転再開は4日に延期 車両に不具合 47NEWS&lt;/p&gt;&lt;p&gt;配信元: 47NEWS&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【速報】クマと衝突して特急列車が脱線したJR宗谷線 運転再開までさらに1日程度かかる見込み 音威子府〜稚内の間で3日も終日運転見合わせ - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/e25a9909a835ff1bc023d4d3ed627053926fec4b</link>
+      <pubDate>Mon, 02 Nov 2026 07:17:13 +0000</pubDate>
+      <guid isPermaLink="false">18af9217da30f3a600d549a4576e7781dd73fb97007ffaeee49ea19a4fff0514</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
+      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-23056385-hbcv-000-4-view.jpg?exp=10800" />
+      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-23056385-hbcv-000-4-view.jpg?exp=10800" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-23056385-hbcv-000-4-view.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【速報】クマと衝突して特急列車が脱線したJR宗谷線 運転再開までさらに1日程度かかる見込み 音威子府〜稚内の間で3日も終日運転見合わせ Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【速報】クマ衝突で運休の宗谷線、再開は4日以降に - 47NEWS</title>
+      <link>https://www.47news.jp/15173746.html</link>
+      <pubDate>Mon, 02 Nov 2026 06:59:42 +0000</pubDate>
+      <guid isPermaLink="false">23b870de4c2cae7211dd109c466a0edfbd52eb1b8de829f8ffd8c50fdfe89cf8</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">47NEWS</source>
+      <media:thumbnail url="https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png" />
+      <media:content url="https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【速報】クマ衝突で運休の宗谷線、再開は4日以降に 47NEWS&lt;/p&gt;&lt;p&gt;配信元: 47NEWS&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>クマ衝突で運休の宗谷線、再開は4日以降に（共同通信） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFAtNklIekRocGt2dWd2TExnM0ZPOWc0aE1QVG9JbFpVek45OXFWUUtwRGxDeUJ6QTM3SlZIOE9CZ3h4V3pOOUtjMHgxam02MGo0Mk1PcjBOQXJBMGpzdXphbFIxN3hhSW9tS2J0LU9wRERFWlhkOUVlYmYwUHhfV2M?oc=5</link>
+      <pubDate>Mon, 02 Nov 2026 06:59:42 +0000</pubDate>
+      <guid isPermaLink="false">06b89e60595b133d1dcaeb7c5c1880cd74e7247f0d78835d2dd3363d5e22f521</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
+      <description>&lt;p&gt;クマ衝突で運休の宗谷線、再開は4日以降に（共同通信） Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>クマ衝突で運休の宗谷線、再開は４日以降に - 京都新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YUUk2Qy0tdDhXUFp5dFoyalNGaG9ZQ2l2TXlscDdlUldrZmJ3SkRUUXFMci1hMXhVeUdGRmdzWUZPaGJHeUloa2FQQVh3OWVSUkQ4eXNSa2o?oc=5</link>
+      <pubDate>Mon, 02 Nov 2026 06:59:42 +0000</pubDate>
+      <guid isPermaLink="false">42cbf23ceec6dd0c825f233f193c2665ed5cb4b6b6d7d4b753e2db87776faaaf</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">京都新聞デジタル</source>
+      <description>&lt;p&gt;クマ衝突で運休の宗谷線、再開は４日以降に 京都新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 京都新聞デジタル&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>クマ衝突で運休の宗谷線、再開は４日以降に - 徳島新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE05dm9xdURvV1ptY2FEcjJHQ3JsTjBjNlFadDFXdWlTSDUtRkRTWnlwTXlNWFI1MDNDc0x1Sk91WG9PVjBPdHhZRDF0cUZZRW9kUDNLZzNn?oc=5</link>
+      <pubDate>Mon, 02 Nov 2026 06:59:42 +0000</pubDate>
+      <guid isPermaLink="false">954bd817a68d4dde4b9bf88023eea3d11fcfc4b6e678f9ecbe939c919603e08d</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">徳島新聞デジタル</source>
+      <description>&lt;p&gt;クマ衝突で運休の宗谷線、再開は４日以降に 徳島新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 徳島新聞デジタル&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【速報】JR宗谷線 3日の運転再開を延期「当該の車両に不具合発見」クマと衝突して脱線 JR北海道 - au Webポータル</title>
+      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE83eTNxb2VrNDlCbmlRblAtMjlwYl9wOTJtOXRzUmxYa2dWWVk3WFBkQ2NETzV0OU55RVN1eW5INmdzUTEtV1RyTFkyLXJ5ZzdwVS1CMUFLX1Q5YmZJNkRGU1FGdHhyV2Ixb1RYbnl3?oc=5</link>
+      <pubDate>Mon, 02 Nov 2026 06:52:22 +0000</pubDate>
+      <guid isPermaLink="false">8e8ff68f0e7af0663d98ec6ab591f3e699111ba5223252693ede6c3dbb9054c4</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">au Webポータル</source>
+      <description>&lt;p&gt;【速報】JR宗谷線 3日の運転再開を延期「当該の車両に不具合発見」クマと衝突して脱線 JR北海道 au Webポータル&lt;/p&gt;&lt;p&gt;配信元: au Webポータル&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【速報】JR宗谷線 3日の運転再開を延期「当該の車両に不具合発見」クマと衝突して脱線 JR北海道 - 日テレNEWS NNN</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNa09TOGZDVkVUbFVUWmk0ck9odHpTbHlUMjNYT2wtZnVRYTRoeGdxMExyRmFGTGRFOEdsUUdBcS1oalFQYmFfREdPbXAxQ2dkM0dMRUVfVjRjSGZoQ2QwSEZCbXZSNm1kRmFZTGpXamt0d05OVnRSaTlrMWpWRVRaeklXcktLams?oc=5</link>
+      <pubDate>Mon, 02 Nov 2026 06:50:00 +0000</pubDate>
+      <guid isPermaLink="false">16d4bea628dc27045ac79a374ed96be896701173ba9442d0e5989968b08216b5</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">日テレNEWS NNN</source>
+      <description>&lt;p&gt;【速報】JR宗谷線 3日の運転再開を延期「当該の車両に不具合発見」クマと衝突して脱線 JR北海道 日テレNEWS NNN&lt;/p&gt;&lt;p&gt;配信元: 日テレNEWS NNN&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【速報】JR宗谷線、脱線車両動かせず3日の再開を見送り 音威子府・稚内間で終日運転見合わせ - HTB 北海道テレビ</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZa1ByZi1JMDIydFRGOHdEX2ZvOUZyOE9nNVZ6QUlPOTNkN3M4ZmZHNTR5X0dLeTJsSzJCX0dOQVZFc0tSX1FMYlpwUkt5bnUwYU9xY0FzSjZlQQ?oc=5</link>
+      <pubDate>Mon, 02 Nov 2026 06:48:00 +0000</pubDate>
+      <guid isPermaLink="false">3951bfe24b972414cd7ca51b94c8347163357c9a8241b6b73d95a921673c6a82</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">HTB 北海道テレビ</source>
+      <description>&lt;p&gt;【速報】JR宗谷線、脱線車両動かせず3日の再開を見送り 音威子府・稚内間で終日運転見合わせ HTB 北海道テレビ&lt;/p&gt;&lt;p&gt;配信元: HTB 北海道テレビ&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>クマ衝突の宗谷線車両に不具合 運転再開は未定、JR北海道 - Excite エキサイト</title>
       <link>http://www.excite.co.jp/news/article/Kyodo_1489848501588427332/</link>
       <pubDate>Mon, 02 Nov 2026 04:46:00 +0000</pubDate>
       <guid isPermaLink="false">8f4c69347a364b7b480786ebb10876aa3507b40a9b5b0ba688afbc26dfedec7a</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Excite エキサイト</source>
-      <description>&lt;p&gt;クマ衝突の宗谷線3日に運転再開 JR北海道 Excite エキサイト&lt;/p&gt;&lt;p&gt;配信元: Excite エキサイト&lt;/p&gt;</description>
+      <description>&lt;p&gt;クマ衝突の宗谷線車両に不具合 運転再開は未定、JR北海道 Excite エキサイト&lt;/p&gt;&lt;p&gt;配信元: Excite エキサイト&lt;/p&gt;</description>
     </item>
     <item>
-      <title>クマ衝突の宗谷線3日に運転再開 JR北海道（共同通信） - Yahoo!ニュース</title>
+      <title>クマ衝突の宗谷線車両に不具合 運転再開は未定、JR北海道（共同通信） - Yahoo!ニュース</title>
       <link>https://news.yahoo.co.jp/articles/53a3d123ace06fe08643d0044ce50be13c5bcab3</link>
       <pubDate>Mon, 02 Nov 2026 04:45:36 +0000</pubDate>
       <guid isPermaLink="false">62b0743c21255610361315dfc76f6b30ae71dfa495b757c00bfb8ce582cc464f</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
       <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800" />
       <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;クマ衝突の宗谷線3日に運転再開 JR北海道（共同通信） Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;クマ衝突の宗谷線車両に不具合 運転再開は未定、JR北海道（共同通信） Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
     <item>
-      <title>クマ衝突の宗谷線３日に運転再開 - 中国新聞デジタル</title>
+      <title>クマ衝突の宗谷線車両に不具合 - 中国新聞デジタル</title>
       <link>https://www.chugoku-np.co.jp/articles/-/918574</link>
       <pubDate>Mon, 02 Nov 2026 04:45:36 +0000</pubDate>
       <guid isPermaLink="false">3797a5e034e0d69b7ee984246b3a8f5181d0cfc360b91924f676565dd03c6bfb</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">中国新聞デジタル</source>
       <media:thumbnail url="https://chugoku-np.ismcdn.jp/common/images/site/default-icon_renewal.png?rb=20260301" />
       <media:content url="https://chugoku-np.ismcdn.jp/common/images/site/default-icon_renewal.png?rb=20260301" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://chugoku-np.ismcdn.jp/common/images/site/default-icon_renewal.png?rb=20260301" alt="" /&gt;&lt;/p&gt;&lt;p&gt;クマ衝突の宗谷線３日に運転再開 中国新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 中国新聞デジタル&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://chugoku-np.ismcdn.jp/common/images/site/default-icon_renewal.png?rb=20260301" alt="" /&gt;&lt;/p&gt;&lt;p&gt;クマ衝突の宗谷線車両に不具合 中国新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 中国新聞デジタル&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>クマ衝突の宗谷線車両に不具合 運転再開は未定、ＪＲ北海道 - 日本海新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VTVE1Y0FMbFQ5Y1cwME5NbS0zY2ZtVFN6Q3BFcEJYcDdyLUtMMUI1VkhTNk9RZVUwSXR4YUpDdVJuNUMyWlY0bkhQT3BMMkpE?oc=5</link>
+      <pubDate>Mon, 02 Nov 2026 04:45:32 +0000</pubDate>
+      <guid isPermaLink="false">594b7f16483bb3a421fbd925a82e2764440c222cb79e52af54959460cec49200</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">日本海新聞</source>
+      <description>&lt;p&gt;クマ衝突の宗谷線車両に不具合 運転再開は未定、ＪＲ北海道 日本海新聞&lt;/p&gt;&lt;p&gt;配信元: 日本海新聞&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>クマ衝突の宗谷線３日に運転再開 ＪＲ北海道 | | 全国のニュース - 佐賀新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UV0R5SWJhWGVNZ0phRDZ1UkE4cGljbk9pVVg4YXN2WVlTQVVHU3VPRDVmX1A4bDd4a0trTnkzNWV4ejBGWjdTZzhtVmNGUXc4NGQxeUZ3?oc=5</link>
+      <pubDate>Mon, 02 Nov 2026 04:45:00 +0000</pubDate>
+      <guid isPermaLink="false">66ffdc737d9dda44d4c01e145445ef3623c7c6a4da12be03c60f0d81db995233</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">佐賀新聞</source>
+      <description>&lt;p&gt;クマ衝突の宗谷線３日に運転再開 ＪＲ北海道 | | 全国のニュース 佐賀新聞&lt;/p&gt;&lt;p&gt;配信元: 佐賀新聞&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>クマ衝突の宗谷線3日に運転再開　JR北海道 - ｄメニューニュース</title>
+      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT3V2eHVTNDc2MlFrVVhvZTNKZlc3TGxWNTVnRWNpVVR1cHJfaHRUZG9TN2x0OWFlT1JBYzBlM05lcnRWVlY0UHR2Q0x6eXNycDBpVzFPV3NPal9nbVhub2p5WU8yN2xEMlhBVHVlLWFnaW1uU3M2X1dpT0xvS2J5T2ZHMkgwVzZnZUhrU0JqTEhELTFWdGZjc3gtbDNnc1p3aGVXT3czVm5QQjRjanRfcHpveXhia05BV2Y5Y3U4X3NhTjFOSTRDSm9nbVBKTU1iTTh4Mkd3dE5vVWw2QmExVNIBkAFBVV95cUxOeTlsbWN5cm05ZG1CbjVEZ3U5blhPR01ScGFCelFKOWtnSUdTRHQ1dkFXNE9VQi1CQUZNTG81UFlPODRPRzBHMEtzWFl1cjFDTVJwOFU2d3Nhb2lHV0JHRVRjeTFVeVJoQ1lCSE5jN3dydVFjQXc0bWRjSjZlMXZnTWJYSk93RXM1V3JVRXpxMU4?oc=5</link>
+      <pubDate>Mon, 02 Nov 2026 04:45:00 +0000</pubDate>
+      <guid isPermaLink="false">3b338e4473e27784a32f1af2b08fb71bc1b27cf04c76e3582a967a15b5717a17</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">ｄメニューニュース</source>
+      <description>&lt;p&gt;クマ衝突の宗谷線3日に運転再開　JR北海道 ｄメニューニュース&lt;/p&gt;&lt;p&gt;配信元: ｄメニューニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>児童生徒ら46人参加 第60回稚内市防犯少年柔剣道大会 - 稚内プレス社</title>
@@ -88,14 +310,14 @@
       <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/a/7/600/img_a70e775f5fa9ad6bdbfe0cc2fc0903c818543.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【クマと衝突・脱線したJR宗谷線】2日も旭川―稚内駅間で代行輸送続く「長旅になり大変」利用客もヘトヘト…3日から運転再開へ〈北海道〉 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
     </item>
     <item>
-      <title>クマと衝突し脱線のJR宗谷線 代行バス乗り込む利用者の姿 あす始発の普通列車から運転再開予定 - au Webポータル</title>
+      <title>クマと衝突し脱線のJR宗谷線 代行バスは「本当に大変」あす始発の普通列車から運転再開予定 - au Webポータル</title>
       <link>https://article.auone.jp/404b2aa8-334c-4259-b917-cce960b82454</link>
       <pubDate>Mon, 02 Nov 2026 02:10:18 +0000</pubDate>
       <guid isPermaLink="false">63a7779b4cacc24bea1ffb288498f9e5cfa8f98557d52af8917e223f03b87083</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">au Webポータル</source>
       <media:thumbnail url="https://newportal.portal.auone.jp/media/thumbnails/2026/11/02/https___news_jp_i_1489809311375557318_w1280.webp" />
       <media:content url="https://newportal.portal.auone.jp/media/thumbnails/2026/11/02/https___news_jp_i_1489809311375557318_w1280.webp" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newportal.portal.auone.jp/media/thumbnails/2026/11/02/https___news_jp_i_1489809311375557318_w1280.webp" alt="" /&gt;&lt;/p&gt;&lt;p&gt;クマと衝突し脱線のJR宗谷線 代行バス乗り込む利用者の姿 あす始発の普通列車から運転再開予定 au Webポータル&lt;/p&gt;&lt;p&gt;配信元: au Webポータル&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://newportal.portal.auone.jp/media/thumbnails/2026/11/02/https___news_jp_i_1489809311375557318_w1280.webp" alt="" /&gt;&lt;/p&gt;&lt;p&gt;クマと衝突し脱線のJR宗谷線 代行バスは「本当に大変」あす始発の普通列車から運転再開予定 au Webポータル&lt;/p&gt;&lt;p&gt;配信元: au Webポータル&lt;/p&gt;</description>
     </item>
     <item>
       <title>クマと衝突し脱線のJR宗谷線 代行バスは「本当に大変」あす始発の普通列車から運転再開予定 - 日テレNEWS NNN</title>
@@ -108,12 +330,46 @@
       <description>&lt;p&gt;&lt;img src="https://image.gallery.play.jp/stv-news/articles/798ccd7b33bb471c8b25262c5d092548/7a393992-a70c-453f-a9b4-3d2e19dc460a.jpg?w=1200" alt="" /&gt;&lt;/p&gt;&lt;p&gt;クマと衝突し脱線のJR宗谷線 代行バスは「本当に大変」あす始発の普通列車から運転再開予定 日テレNEWS NNN&lt;/p&gt;&lt;p&gt;配信元: 日テレNEWS NNN&lt;/p&gt;</description>
     </item>
     <item>
+      <title>クマと衝突し特急脱線 JR宗谷線 3日運転再開へ - khb東日本放送</title>
+      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlNTVfSEdhcFNmcjBLR2FQV0pON1VoeDE2Nm5aWGdfb2lUMHh2N19zRDlfd25FQXhxbDBSa09FSy0yTFI1MEsxVDFYWGhBQVU?oc=5</link>
+      <pubDate>Mon, 02 Nov 2026 00:18:57 +0000</pubDate>
+      <guid isPermaLink="false">d4623e1b1009e64b4e1b552d3a9a65d06e309121e3da7cee70e59e28abf8a14b</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">khb東日本放送</source>
+      <description>&lt;p&gt;クマと衝突し特急脱線 JR宗谷線 3日運転再開へ khb東日本放送&lt;/p&gt;&lt;p&gt;配信元: khb東日本放送&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>クマと衝突し特急脱線 JR宗谷線 3日運転再開へ - テレ朝NEWS</title>
       <link>https://news.tv-asahi.co.jp/news_society/articles/000544603.html</link>
       <pubDate>Mon, 02 Nov 2026 00:18:57 +0000</pubDate>
       <guid isPermaLink="false">839ee9f9b659c9e0c547700cdc2b61c1abd9127f972e5057ec3349b580f497a8</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">テレ朝NEWS</source>
       <description>&lt;p&gt;クマと衝突し特急脱線 JR宗谷線 3日運転再開へ テレ朝NEWS&lt;/p&gt;&lt;p&gt;配信元: テレ朝NEWS&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>クマと衝突し特急脱線 JR宗谷線 3日運転再開へ - HOME広島ホームテレビ</title>
+      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tZ1k2dXp3cXZCVUJpNWxDNXRUUFAzc284MFVDVHRBenpJT0xvellBWmdmUlFXTkplRFZxR25ESVhRM2lxT1Zwa3FnUG1wbGlFZEZ0NWxXakkySF9KWlIwR0dySWFDM0w5?oc=5</link>
+      <pubDate>Mon, 02 Nov 2026 00:18:00 +0000</pubDate>
+      <guid isPermaLink="false">513466927af25f1ba2d3a697b262fd349bb29e6981d84f8afeea177301b7c4c0</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">HOME広島ホームテレビ</source>
+      <description>&lt;p&gt;クマと衝突し特急脱線 JR宗谷線 3日運転再開へ HOME広島ホームテレビ&lt;/p&gt;&lt;p&gt;配信元: HOME広島ホームテレビ&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>運輸安全委員会も「過去にはなかった珍しいこと」クマと衝突で脱線 あす始発から運転を再開 - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBWQ25IM1EzUU8yUG5wSGNDQmJmRFFQMU9qcVdUYmNxSUU1RVkxZklZbXJtR25WZ3RpTXFRbFhDblBIbUg2azV4QjBBOHI0VlJpekUyTmR5TWlQUEdKZ0x5a2Q1RXJNY0xlbExpUHJnVnVlRWJ2RTd6Ny02UHJ5NDQ?oc=5</link>
+      <pubDate>Sun, 01 Nov 2026 23:23:00 +0000</pubDate>
+      <guid isPermaLink="false">32ccca6c3cabd6f394b058dcc1e255d7707044392cbb044b98472e98ef9a56da</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
+      <description>&lt;p&gt;運輸安全委員会も「過去にはなかった珍しいこと」クマと衝突で脱線 あす始発から運転を再開 Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【北海道(宗谷地方)】11/2の天気予報 - FNNプライムオンライン</title>
+      <link>https://www.fnn.jp/articles/-/1144041</link>
+      <pubDate>Sun, 01 Nov 2026 20:10:00 +0000</pubDate>
+      <guid isPermaLink="false">8719481479e338f894e36c5cdd5c006c85f93323ef0e2f15ca0a06ef5874dc8a</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">FNNプライムオンライン</source>
+      <media:thumbnail url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" />
+      <media:content url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道(宗谷地方)】11/2の天気予報 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
     </item>
     <item>
       <title>宗谷の農畜産品 生産者らＰＲ 稚内でフェア パンや菓子販売 - 北海道新聞デジタル</title>
@@ -164,16 +420,6 @@
       <media:thumbnail url="https://fnn.ismcdn.jp/mwimgs/0/1/600/img_0190fbb903b62793f65ad46820a5b03a376382.jpg" />
       <media:content url="https://fnn.ismcdn.jp/mwimgs/0/1/600/img_0190fbb903b62793f65ad46820a5b03a376382.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/0/1/600/img_0190fbb903b62793f65ad46820a5b03a376382.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【JR宗谷線3日から運転再開へ】特急列車とクマが衝突し脱線…一部区間で運転を見合わせたJR宗谷線＿3日始発から運転再開予定…2日は代行バス運行を継続〈北海道〉 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【北海道(宗谷地方)】11/2の天気予報 - FNNプライムオンライン</title>
-      <link>https://www.fnn.jp/articles/-/1144041</link>
-      <pubDate>Sun, 01 Nov 2026 10:30:00 +0000</pubDate>
-      <guid isPermaLink="false">8719481479e338f894e36c5cdd5c006c85f93323ef0e2f15ca0a06ef5874dc8a</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">FNNプライムオンライン</source>
-      <media:thumbnail url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" />
-      <media:content url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道(宗谷地方)】11/2の天気予報 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
     </item>
     <item>
       <title>ヒグマ衝突で特急脱線のJR宗谷線 11月3日に運転再開へ - NHKニュース</title>
@@ -588,6 +834,14 @@
       <description>&lt;p&gt;&lt;img src="https://www.htb.co.jp/news/photo/40252_52198.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷線で特急がクマと衝突し脱線 JR北「復旧の見込み立たず」 あすは旭川～稚内で代行バスも HTB 北海道テレビ&lt;/p&gt;&lt;p&gt;配信元: HTB 北海道テレビ&lt;/p&gt;</description>
     </item>
     <item>
+      <title>北海道 特急列車とクマ衝突 JR宗谷線 復旧めど立たず - テレ朝NEWS</title>
+      <link>https://news.tv-asahi.co.jp/news_society/articles/000544386.html</link>
+      <pubDate>Sat, 31 Oct 2026 09:01:44 +0000</pubDate>
+      <guid isPermaLink="false">e110c343764de03fe0f55e526e607eeb6f1d86d5c552f0bfa6b2536488ef843f</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">テレ朝NEWS</source>
+      <description>&lt;p&gt;北海道 特急列車とクマ衝突 JR宗谷線 復旧めど立たず テレ朝NEWS&lt;/p&gt;&lt;p&gt;配信元: テレ朝NEWS&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>北海道 特急列車とクマ衝突 JR宗谷線 復旧めど立たず（テレビ朝日系（ANN）） - Yahoo!ニュース</title>
       <link>https://news.yahoo.co.jp/articles/c2cc1cda669240560b8c98ca453a189bed54ac74</link>
       <pubDate>Sat, 31 Oct 2026 09:01:44 +0000</pubDate>
@@ -606,14 +860,6 @@
       <media:thumbnail url="https://www.qab.co.jp/quebee/wp-content/uploads/000544386_640.jpg" />
       <media:content url="https://www.qab.co.jp/quebee/wp-content/uploads/000544386_640.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://www.qab.co.jp/quebee/wp-content/uploads/000544386_640.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北海道 特急列車とクマ衝突 JR宗谷線 復旧めど立たず – Quebee キュエビー QAB 琉球朝日放送&lt;/p&gt;&lt;p&gt;配信元: QAB 琉球朝日放送&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>北海道 特急列車とクマ衝突 JR宗谷線 復旧めど立たず - テレ朝NEWS</title>
-      <link>https://news.tv-asahi.co.jp/news_society/articles/000544386.html</link>
-      <pubDate>Sat, 31 Oct 2026 09:01:44 +0000</pubDate>
-      <guid isPermaLink="false">e110c343764de03fe0f55e526e607eeb6f1d86d5c552f0bfa6b2536488ef843f</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">テレ朝NEWS</source>
-      <description>&lt;p&gt;北海道 特急列車とクマ衝突 JR宗谷線 復旧めど立たず テレ朝NEWS&lt;/p&gt;&lt;p&gt;配信元: テレ朝NEWS&lt;/p&gt;</description>
     </item>
     <item>
       <title>クマと衝突し特急列車が脱線 乗客ら約11時間車内で待機し一夜明かす 暗い時間帯で安全確認できず 北海道・JR宗谷線 - TBS NEWS DIG</title>
@@ -864,6 +1110,14 @@
       <description>&lt;p&gt;&lt;img src="https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJneu-6mwFKEmRpa5L4pQYAk-IPTFzM9Jx0OKtLOTZZaRUOvPb4NoSVS1MSgY996cyfOAGZuAaR9TQVu2-C90CwpSeneEuY34akVcPmMHMwRIP" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【続報】宗谷線で特急がクマと衝突し脱線 特急を一部運休、あす代行バス運行へ JR北海道 (STVニュース北海道) Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
     <item>
+      <title>【特急列車がヒグマと衝突し脱線】車両の下にクマを巻き込み先頭車両の車輪が脱線＿乗客32人が車内で一夜を明かすもケガなし＿宗谷線の音威子府～稚内駅間で終日運転見合わせ＜北海道中川町＞ - UHB 北海道文化放送</title>
+      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE81OXYzeVEzYmE1UFFibHY3MmYwSVNxZ0dvUm5kRkFtRFpDSk5HX0pTYUs1V0lYWmlOWUNxZnNvWlNJSEtwYnBKS3hWd0ZzVXZ3V1dfOTQzMA?oc=5</link>
+      <pubDate>Sat, 31 Oct 2026 04:34:13 +0000</pubDate>
+      <guid isPermaLink="false">dac013f8e830c2dd872938b4f43923e92aae626413888db131bc87738ade66be</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">UHB 北海道文化放送</source>
+      <description>&lt;p&gt;【特急列車がヒグマと衝突し脱線】車両の下にクマを巻き込み先頭車両の車輪が脱線＿乗客32人が車内で一夜を明かすもケガなし＿宗谷線の音威子府～稚内駅間で終日運転見合わせ＜北海道中川町＞ UHB 北海道文化放送&lt;/p&gt;&lt;p&gt;配信元: UHB 北海道文化放送&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>宗谷線の特急がクマと衝突 クマが車両下に巻き込まれる 先頭車両が脱線し乗客が車両内で一夜 北海道 - TVer</title>
       <link>https://tver.jp/episodes/epvczuk2rn</link>
       <pubDate>Sat, 31 Oct 2026 04:17:33 +0000</pubDate>
@@ -900,16 +1154,6 @@
       <description>&lt;p&gt;&lt;img src="https://newportal.portal.auone.jp/media/thumbnails/2026/10/31/https___news_jp_i_1489104461078888873_w1280.webp" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷線の特急がクマと衝突 クマが車両下に巻き込まれる 先頭車両が脱線し乗客が車両内で一夜 北海道 au Webポータル&lt;/p&gt;&lt;p&gt;配信元: au Webポータル&lt;/p&gt;</description>
     </item>
     <item>
-      <title>宗谷線の特急がクマと衝突 クマが車両下に巻き込まれる 先頭車両が脱線し乗客が車両内で一夜 北海道（STVニュース北海道） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/c1e5c84e2787f95eba9d3aaf986169f0ac692efe</link>
-      <pubDate>Sat, 31 Oct 2026 03:27:00 +0000</pubDate>
-      <guid isPermaLink="false">e981c06c81ca2c5cb9430948472b41d0022bcc0c8025d4f83a5e76677a67a9e7</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-09539229-stv-000-8-thumb.jpg?exp=10800" />
-      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-09539229-stv-000-8-thumb.jpg?exp=10800" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-09539229-stv-000-8-thumb.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷線の特急がクマと衝突 クマが車両下に巻き込まれる 先頭車両が脱線し乗客が車両内で一夜 北海道（STVニュース北海道） Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>宗谷線の特急がクマと衝突 クマが車両下に巻き込まれる 先頭車両が脱線し乗客が車両内で一夜 北海道 - 日テレNEWS NNN</title>
       <link>https://news.ntv.co.jp/category/society/st94aad9a5635740258bee339f3284adb9</link>
       <pubDate>Sat, 31 Oct 2026 03:27:00 +0000</pubDate>
@@ -918,6 +1162,16 @@
       <media:thumbnail url="https://image.gallery.play.jp/stv-news/articles/406592411fa04da4a1b1bbf67d445d50/f91ab590-a8c9-44c8-8426-38555e93cfc9.jpg?w=1200" />
       <media:content url="https://image.gallery.play.jp/stv-news/articles/406592411fa04da4a1b1bbf67d445d50/f91ab590-a8c9-44c8-8426-38555e93cfc9.jpg?w=1200" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://image.gallery.play.jp/stv-news/articles/406592411fa04da4a1b1bbf67d445d50/f91ab590-a8c9-44c8-8426-38555e93cfc9.jpg?w=1200" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷線の特急がクマと衝突 クマが車両下に巻き込まれる 先頭車両が脱線し乗客が車両内で一夜 北海道 日テレNEWS NNN&lt;/p&gt;&lt;p&gt;配信元: 日テレNEWS NNN&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>宗谷線の特急がクマと衝突 クマが車両下に巻き込まれる 先頭車両が脱線し乗客が車両内で一夜 北海道（STVニュース北海道） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/c1e5c84e2787f95eba9d3aaf986169f0ac692efe</link>
+      <pubDate>Sat, 31 Oct 2026 03:27:00 +0000</pubDate>
+      <guid isPermaLink="false">e981c06c81ca2c5cb9430948472b41d0022bcc0c8025d4f83a5e76677a67a9e7</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
+      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-09539229-stv-000-8-thumb.jpg?exp=10800" />
+      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-09539229-stv-000-8-thumb.jpg?exp=10800" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-09539229-stv-000-8-thumb.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷線の特急がクマと衝突 クマが車両下に巻き込まれる 先頭車両が脱線し乗客が車両内で一夜 北海道（STVニュース北海道） Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>【JR宗谷線】クマ巻き込み脱線 乗客32人車内で一夜明かす 北海道 - YouTube</title>
@@ -1190,280 +1444,6 @@
       <media:thumbnail url="https://newsdig.ismcdn.jp/mwimgs/b/9/1200w/img_b9fe88afd1b12a179a197bbdf1d53166361067.jpg" />
       <media:content url="https://newsdig.ismcdn.jp/mwimgs/b/9/1200w/img_b9fe88afd1b12a179a197bbdf1d53166361067.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://newsdig.ismcdn.jp/mwimgs/b/9/1200w/img_b9fe88afd1b12a179a197bbdf1d53166361067.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;特急列車がクマと衝突 クマは車両の下敷きか…列車は現場に10時間以上停車したまま、乗客32人は車内で一晩明かす 北海道・JR宗谷線 TBS NEWS DIG&lt;/p&gt;&lt;p&gt;配信元: TBS NEWS DIG&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>特急列車がクマと衝突 クマは車両の下敷きになり運転再開のめど立たず 乗客32人は車内にとどまったまま一晩明かす 北海道幌延町・JR宗谷線 - TBS NEWS DIG</title>
-      <link>https://newsdig.tbs.co.jp/articles/hbc/3052768?display=1</link>
-      <pubDate>Fri, 30 Oct 2026 23:26:00 +0000</pubDate>
-      <guid isPermaLink="false">6bb6a9855f753e2d8c46dac041b1a615bec5a79e30e34ffd933081ce59de3fd1</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">TBS NEWS DIG</source>
-      <media:thumbnail url="https://newsdig.ismcdn.jp/mwimgs/b/9/1200w/img_b9fe88afd1b12a179a197bbdf1d53166361067.jpg" />
-      <media:content url="https://newsdig.ismcdn.jp/mwimgs/b/9/1200w/img_b9fe88afd1b12a179a197bbdf1d53166361067.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newsdig.ismcdn.jp/mwimgs/b/9/1200w/img_b9fe88afd1b12a179a197bbdf1d53166361067.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;特急列車がクマと衝突 クマは車両の下敷きになり運転再開のめど立たず 乗客32人は車内にとどまったまま一晩明かす 北海道幌延町・JR宗谷線 TBS NEWS DIG&lt;/p&gt;&lt;p&gt;配信元: TBS NEWS DIG&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>特急サロベツがヒグマと衝突＿車両下に巻き込んだ可能性があり運転再開メド立たず＿特急・普通計5本運休が決定～JR宗谷線〈北海道中川町・幌延町〉 - UHB 北海道文化放送</title>
-      <link>https://www.uhb.jp/news/single.html?id=63247</link>
-      <pubDate>Fri, 30 Oct 2026 23:22:47 +0000</pubDate>
-      <guid isPermaLink="false">c10497bc0655f802122240dee2f7319c7ff8531afdd252ed40859a4d2b8a6e31</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">UHB 北海道文化放送</source>
-      <media:thumbnail url="https://www.uhb.jp/news/data/63247/image.jpg?v=1793401541" />
-      <media:content url="https://www.uhb.jp/news/data/63247/image.jpg?v=1793401541" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.uhb.jp/news/data/63247/image.jpg?v=1793401541" alt="" /&gt;&lt;/p&gt;&lt;p&gt;特急サロベツがヒグマと衝突＿車両下に巻き込んだ可能性があり運転再開メド立たず＿特急・普通計5本運休が決定～JR宗谷線〈北海道中川町・幌延町〉 UHB 北海道文化放送&lt;/p&gt;&lt;p&gt;配信元: UHB 北海道文化放送&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>列車とクマ衝突 乗客は車内で一夜 - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/pickup/6600754</link>
-      <pubDate>Fri, 30 Oct 2026 23:20:02 +0000</pubDate>
-      <guid isPermaLink="false">2ef497f58f53620f387733e8fa4c2d93794d6ce415e6455365ffea3473df9378</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-      <media:thumbnail url="https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/31/b3055b0ddf561bd4766b05954c1d1d1afadde70c4162ada943f14db34c5d8ffa.jpg" />
-      <media:content url="https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/31/b3055b0ddf561bd4766b05954c1d1d1afadde70c4162ada943f14db34c5d8ffa.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/31/b3055b0ddf561bd4766b05954c1d1d1afadde70c4162ada943f14db34c5d8ffa.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;列車とクマ衝突 乗客は車内で一夜 Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>特急サロベツがヒグマと衝突＿車両下に巻き込んだ可能性があり運転再開メド立たず＿特急・普通計5本運休が決定～JR宗谷線〈北海道中川町・幌延町〉 - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/2f1ed98d7c6368603ed7ff8a2a5677e58408ad21</link>
-      <pubDate>Fri, 30 Oct 2026 23:15:01 +0000</pubDate>
-      <guid isPermaLink="false">b66a97d1b3549753d0a7b208e17c18d08d1c3b9fd13a9fe361db8ec149ac5191</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-90063247-hokkaibunv-000-1-view.jpg?exp=10800" />
-      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-90063247-hokkaibunv-000-1-view.jpg?exp=10800" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-90063247-hokkaibunv-000-1-view.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;特急サロベツがヒグマと衝突＿車両下に巻き込んだ可能性があり運転再開メド立たず＿特急・普通計5本運休が決定～JR宗谷線〈北海道中川町・幌延町〉 Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>JR宗谷線 特急列車とクマが衝突…クマを巻き込んでいる可能性あり停車続く 乗客乗員にけがなし - Excite エキサイト</title>
-      <link>http://www.excite.co.jp/news/article/htb_1489026467513893839/</link>
-      <pubDate>Fri, 30 Oct 2026 22:19:00 +0000</pubDate>
-      <guid isPermaLink="false">79ac4c76ad772b90d77523a559d42418f47fbe8239717b8a3999dba8f9cfb5e9</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Excite エキサイト</source>
-      <description>&lt;p&gt;JR宗谷線 特急列車とクマが衝突…クマを巻き込んでいる可能性あり停車続く 乗客乗員にけがなし Excite エキサイト&lt;/p&gt;&lt;p&gt;配信元: Excite エキサイト&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ＪＲ宗谷線 特急列車とクマが衝突…クマを巻き込んでいる可能性あり停車続く 乗客乗員にけがなし - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/4e07ed7268811c8c54610f0820be11830a6a5e40</link>
-      <pubDate>Fri, 30 Oct 2026 22:08:28 +0000</pubDate>
-      <guid isPermaLink="false">1f7a0daba06a23e85ad446f2733a7ba94ad258f1ba545fe2f87bb04c1f16e1cc</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800" />
-      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;ＪＲ宗谷線 特急列車とクマが衝突…クマを巻き込んでいる可能性あり停車続く 乗客乗員にけがなし Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ＪＲ宗谷線 特急列車とクマが衝突…クマを巻き込んでいる可能性あり停車続く 乗客乗員にけがなし - HTB 北海道テレビ</title>
-      <link>https://www.htb.co.jp/news/archives_40246.html</link>
-      <pubDate>Fri, 30 Oct 2026 22:05:00 +0000</pubDate>
-      <guid isPermaLink="false">c090f229efd1978ef5b5eb2bc1657baf6a498d620ead98cbe37ca3448e81401c</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">HTB 北海道テレビ</source>
-      <media:thumbnail url="https://www.htb.co.jp/news/common2021/images/news_noimages.jpg" />
-      <media:content url="https://www.htb.co.jp/news/common2021/images/news_noimages.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.htb.co.jp/news/common2021/images/news_noimages.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;ＪＲ宗谷線 特急列車とクマが衝突…クマを巻き込んでいる可能性あり停車続く 乗客乗員にけがなし HTB 北海道テレビ&lt;/p&gt;&lt;p&gt;配信元: HTB 北海道テレビ&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【ヒグマ速報】特急列車と「衝突」車両の下に巻き込まれたか…列車動けず『乗客が缶詰状態』一夜明かす_ハンター出動し朝に確認作業へ〈北海道・JR宗谷線〉 - Excite エキサイト</title>
-      <link>http://www.excite.co.jp/news/article/uhb_1489011814244926000/</link>
-      <pubDate>Fri, 30 Oct 2026 21:31:19 +0000</pubDate>
-      <guid isPermaLink="false">85c1b0261971dc222e68927074e39b19817049882983d8641a9306b1b3c1f3a9</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Excite エキサイト</source>
-      <description>&lt;p&gt;【ヒグマ速報】特急列車と「衝突」車両の下に巻き込まれたか…列車動けず『乗客が缶詰状態』一夜明かす_ハンター出動し朝に確認作業へ〈北海道・JR宗谷線〉 Excite エキサイト&lt;/p&gt;&lt;p&gt;配信元: Excite エキサイト&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【ヒグマ速報】特急列車と「衝突」クマが車両の下に巻き込まれ列車動けず『乗客が缶詰状態』一夜明かす_ハンター立会いのもと調べたところ先頭車両が脱線していたことが判明〈北海道・JR宗谷線〉 - UHB 北海道文化放送</title>
-      <link>https://www.uhb.jp/news/single.html?id=63246</link>
-      <pubDate>Fri, 30 Oct 2026 21:20:12 +0000</pubDate>
-      <guid isPermaLink="false">31c30eac588ac84c9f8c11e8fded38f761a1a0dac616ca2f21db3e44442d0fee</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">UHB 北海道文化放送</source>
-      <media:thumbnail url="https://www.uhb.jp/news/data/63246/image.jpg?v=1793408061" />
-      <media:content url="https://www.uhb.jp/news/data/63246/image.jpg?v=1793408061" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.uhb.jp/news/data/63246/image.jpg?v=1793408061" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【ヒグマ速報】特急列車と「衝突」クマが車両の下に巻き込まれ列車動けず『乗客が缶詰状態』一夜明かす_ハンター立会いのもと調べたところ先頭車両が脱線していたことが判明〈北海道・JR宗谷線〉 UHB 北海道文化放送&lt;/p&gt;&lt;p&gt;配信元: UHB 北海道文化放送&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【ヒグマ速報】特急列車と「衝突」クマが車両の下に巻き込まれ列車動けず『乗客が缶詰状態』一夜明かす_ハンター立会いのもと調べたところ先頭車両が脱線していたことが判明〈北海道・JR宗谷線〉 - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/578fc89b9d1f14556720dd13307e8e4c0f9c27dc</link>
-      <pubDate>Fri, 30 Oct 2026 21:15:01 +0000</pubDate>
-      <guid isPermaLink="false">dd4210abc25d9abdb121ca32845fd01425bf03cc0a58d6d221d20fd4b99e8e3e</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-90063246-hokkaibunv-000-1-view.jpg?exp=10800" />
-      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-90063246-hokkaibunv-000-1-view.jpg?exp=10800" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-90063246-hokkaibunv-000-1-view.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【ヒグマ速報】特急列車と「衝突」クマが車両の下に巻き込まれ列車動けず『乗客が缶詰状態』一夜明かす_ハンター立会いのもと調べたところ先頭車両が脱線していたことが判明〈北海道・JR宗谷線〉 Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【北海道(宗谷地方)】10/31の天気予報 - FNNプライムオンライン</title>
-      <link>https://www.fnn.jp/articles/-/1143494</link>
-      <pubDate>Fri, 30 Oct 2026 20:10:00 +0000</pubDate>
-      <guid isPermaLink="false">cba2c12cb8081e17343cd4c1f7237192021b021ca6b30dcbcbef146a9a83945c</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">FNNプライムオンライン</source>
-      <media:thumbnail url="https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg" />
-      <media:content url="https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道(宗谷地方)】10/31の天気予報 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>北海道 JR宗谷線特急 ヒグマと衝突で脱線 1日も運転見合わせ - NHKニュース</title>
-      <link>https://news.web.nhk/newsweb/na/nd-20261031de68820</link>
-      <pubDate>Fri, 30 Oct 2026 19:39:03 +0000</pubDate>
-      <guid isPermaLink="false">71cdf1e3bb717245cbedcf3a32141230f6c64189705471c8281802c324104e53</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">NHKニュース</source>
-      <media:thumbnail url="https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68820/20261031de68820_E0000131047_1_l.jpg" />
-      <media:content url="https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68820/20261031de68820_E0000131047_1_l.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68820/20261031de68820_E0000131047_1_l.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北海道 JR宗谷線特急 ヒグマと衝突で脱線 1日も運転見合わせ NHKニュース&lt;/p&gt;&lt;p&gt;配信元: NHKニュース&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【速報】JR宗谷線がクマを巻き込み脱線 乗客・乗員にけがなし…車内で一夜 運転再開めど立たず 北海道 ｜ ニュース - ＳＴＶ札幌テレビ 放送</title>
-      <link>https://www.stv.jp/news/stvnews/kiji/st5108874047be4a1e9fc0a89f90943a55.html</link>
-      <pubDate>Fri, 30 Oct 2026 13:50:00 +0000</pubDate>
-      <guid isPermaLink="false">2196ce0d014d85ae3fb2a7c318cf22c6f92b1a560bccee3d3ec93eced270b5ad</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">ＳＴＶ札幌テレビ 放送</source>
-      <media:thumbnail url="https://www.stv.jp/newsxml/thumbnail/st5108874047be4a1e9fc0a89f90943a55.jpg" />
-      <media:content url="https://www.stv.jp/newsxml/thumbnail/st5108874047be4a1e9fc0a89f90943a55.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.stv.jp/newsxml/thumbnail/st5108874047be4a1e9fc0a89f90943a55.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【速報】JR宗谷線がクマを巻き込み脱線 乗客・乗員にけがなし…車内で一夜 運転再開めど立たず 北海道 ｜ ニュース ＳＴＶ札幌テレビ 放送&lt;/p&gt;&lt;p&gt;配信元: ＳＴＶ札幌テレビ 放送&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>留萌・宗谷（１０月３１日付）おくやみ - 北海道新聞デジタル</title>
-      <link>https://www.hokkaido-np.co.jp/article/1399878/</link>
-      <pubDate>Fri, 30 Oct 2026 11:30:00 +0000</pubDate>
-      <guid isPermaLink="false">6437f6e585844d7f0404621a867ddb5dacae6387c7a5bc035f5fee1d3f843efd</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
-      <media:thumbnail url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" />
-      <media:content url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;留萌・宗谷（１０月３１日付）おくやみ 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>北海道稚内市で「わくわくワークフェス2026」に出展 - 豊田通商株式会社</title>
-      <link>https://www.toyota-tsusho.com/press/detail/261030_006934.html</link>
-      <pubDate>Fri, 30 Oct 2026 04:56:51 +0000</pubDate>
-      <guid isPermaLink="false">a6fd9a8f671894dd4b8c20d36a8235886272f175aa9737aa7b78e40089ea26c9</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">豊田通商株式会社</source>
-      <media:thumbnail url="https://www.toyota-tsusho.com/app-files/img/symbol/ogp_logo01.png" />
-      <media:content url="https://www.toyota-tsusho.com/app-files/img/symbol/ogp_logo01.png" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://www.toyota-tsusho.com/app-files/img/symbol/ogp_logo01.png" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北海道稚内市で「わくわくワークフェス2026」に出展 豊田通商株式会社&lt;/p&gt;&lt;p&gt;配信元: 豊田通商株式会社&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【11月1日（日）】宗谷イチ押しプロモーションを開催します！！ - 時事ドットコム</title>
-      <link>https://www.jiji.com/jc/article?k=000001304.000088209&amp;g=prt</link>
-      <pubDate>Fri, 30 Oct 2026 02:46:00 +0000</pubDate>
-      <guid isPermaLink="false">2b510d422641896ba0121c2748941064a5f316643321b640decde8018837c44c</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">時事ドットコム</source>
-      <media:thumbnail url="https://prcdn.freetls.fastly.net/release_image/88209/1304/88209-1304-4b79660d1fab81c6f66807d7f74bd445-1654x2339.png?width=536&amp;quality=85%2C75&amp;format=jpeg" />
-      <media:content url="https://prcdn.freetls.fastly.net/release_image/88209/1304/88209-1304-4b79660d1fab81c6f66807d7f74bd445-1654x2339.png?width=536&amp;quality=85%2C75&amp;format=jpeg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://prcdn.freetls.fastly.net/release_image/88209/1304/88209-1304-4b79660d1fab81c6f66807d7f74bd445-1654x2339.png?width=536&amp;amp;quality=85%2C75&amp;amp;format=jpeg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【11月1日（日）】宗谷イチ押しプロモーションを開催します！！ 時事ドットコム&lt;/p&gt;&lt;p&gt;配信元: 時事ドットコム&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【11月1日（日）】宗谷イチ押しプロモーションを開催します！！ | 北海道のプレスリリース - PR TIMES</title>
-      <link>https://prtimes.jp/main/html/rd/p/000001304.000088209.html</link>
-      <pubDate>Fri, 30 Oct 2026 01:00:02 +0000</pubDate>
-      <guid isPermaLink="false">95d8a07baa22e930d691c5b97201ef6a58089e2ece169da06fe48d941cb120e9</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">PR TIMES</source>
-      <media:thumbnail url="https://prcdn.freetls.fastly.net/release_image/88209/1304/88209-1304-4b79660d1fab81c6f66807d7f74bd445-1654x2339.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260" />
-      <media:content url="https://prcdn.freetls.fastly.net/release_image/88209/1304/88209-1304-4b79660d1fab81c6f66807d7f74bd445-1654x2339.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://prcdn.freetls.fastly.net/release_image/88209/1304/88209-1304-4b79660d1fab81c6f66807d7f74bd445-1654x2339.png?format=jpeg&amp;amp;auto=webp&amp;amp;fit=bounds&amp;amp;width=2400&amp;amp;height=1260" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【11月1日（日）】宗谷イチ押しプロモーションを開催します！！ | 北海道のプレスリリース PR TIMES&lt;/p&gt;&lt;p&gt;配信元: PR TIMES&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>船の科学館「宗谷」、11月7日から2027年版「南極卓上カレンダー」を記念品として配布 1,000円以上の寄付者が対象 - Funeco</title>
-      <link>https://funeco.jp/news/news-37355/</link>
-      <pubDate>Fri, 30 Oct 2026 00:04:10 +0000</pubDate>
-      <guid isPermaLink="false">c8bd74d4d094f29d55f39f019aef6d150e7c797d04b120306ad8b017d9dbd593</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Funeco</source>
-      <media:thumbnail url="https://funeco.jp/wp-content/uploads/2018/07/IMG_6967s.jpg" />
-      <media:content url="https://funeco.jp/wp-content/uploads/2018/07/IMG_6967s.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://funeco.jp/wp-content/uploads/2018/07/IMG_6967s.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;船の科学館「宗谷」、11月7日から2027年版「南極卓上カレンダー」を記念品として配布 1,000円以上の寄付者が対象 Funeco&lt;/p&gt;&lt;p&gt;配信元: Funeco&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【北海道(宗谷地方)】10/30の天気予報 - FNNプライムオンライン</title>
-      <link>https://www.fnn.jp/articles/-/1142368</link>
-      <pubDate>Thu, 29 Oct 2026 20:10:00 +0000</pubDate>
-      <guid isPermaLink="false">b868b75fb94755b7482df727e5623371cabf40e606aab9e6312dee9cfd376589</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">FNNプライムオンライン</source>
-      <media:thumbnail url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" />
-      <media:content url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道(宗谷地方)】10/30の天気予報 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>宗谷管内の特産品味わおう 稚内であす、1日 地産地消フェア - 北海道新聞デジタル</title>
-      <link>https://www.hokkaido-np.co.jp/article/1399244</link>
-      <pubDate>Thu, 29 Oct 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">0f60771a9198a18d415b30588c44cb838dcf8e1478a1113335b49f77b3f8a6b4</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
-      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/ogp/category/1200x630/3/a0eb024957f191a01e2251a1c2a421af.jpg?20261030051045" />
-      <media:content url="https://static.hokkaido-np.co.jp/image/ogp/category/1200x630/3/a0eb024957f191a01e2251a1c2a421af.jpg?20261030051045" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/ogp/category/1200x630/3/a0eb024957f191a01e2251a1c2a421af.jpg?20261030051045" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷管内の特産品味わおう 稚内であす、1日 地産地消フェア 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【5人死亡】北海道で火災相次ぐ《稚内市・北見市・余市町》警察が身元の特定急ぐ 札幌市北区でも住宅火災で住人の男性が気道熱傷 - TBS NEWS DIG</title>
-      <link>https://newsdig.tbs.co.jp/articles/gallery/2637328</link>
-      <pubDate>Thu, 29 Oct 2026 15:37:44 +0000</pubDate>
-      <guid isPermaLink="false">4b57d51efaed66bd4e5762d4c9fd49763e708b9961e5946f4dfb9dce0fbc5e18</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">TBS NEWS DIG</source>
-      <media:thumbnail url="https://newsdig.ismcdn.jp/mwimgs/6/1/1200w/img_61e57b53670cc53da9c13af427d6399f175756.jpg" />
-      <media:content url="https://newsdig.ismcdn.jp/mwimgs/6/1/1200w/img_61e57b53670cc53da9c13af427d6399f175756.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newsdig.ismcdn.jp/mwimgs/6/1/1200w/img_61e57b53670cc53da9c13af427d6399f175756.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【5人死亡】北海道で火災相次ぐ《稚内市・北見市・余市町》警察が身元の特定急ぐ 札幌市北区でも住宅火災で住人の男性が気道熱傷 TBS NEWS DIG&lt;/p&gt;&lt;p&gt;配信元: TBS NEWS DIG&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>留萌・宗谷（１０月３０日付）おくやみ - 北海道新聞デジタル</title>
-      <link>https://www.hokkaido-np.co.jp/article/1399078/</link>
-      <pubDate>Thu, 29 Oct 2026 11:30:00 +0000</pubDate>
-      <guid isPermaLink="false">f67de1d0f34a606cc809d36eeeba7048e5e6e46432661a8a003ab2e0b6926692</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
-      <media:thumbnail url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" />
-      <media:content url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;留萌・宗谷（１０月３０日付）おくやみ 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>船の科学館「宗谷」、11月8日にアマチュア無線特別局「8J70JARE」の公開運用を実施へ 南極初出港70周年を記念 - Funeco</title>
-      <link>https://funeco.jp/news/news-37342/</link>
-      <pubDate>Wed, 28 Oct 2026 23:49:14 +0000</pubDate>
-      <guid isPermaLink="false">6b265ca9c3fdb927680427f57c00008c9228a63e6bd669160bcd50f5c4db3bd0</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Funeco</source>
-      <media:thumbnail url="https://funeco.jp/wp-content/uploads/2019/04/IMG_6966s.jpg" />
-      <media:content url="https://funeco.jp/wp-content/uploads/2019/04/IMG_6966s.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://funeco.jp/wp-content/uploads/2019/04/IMG_6966s.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;船の科学館「宗谷」、11月8日にアマチュア無線特別局「8J70JARE」の公開運用を実施へ 南極初出港70周年を記念 Funeco&lt;/p&gt;&lt;p&gt;配信元: Funeco&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【北海道(宗谷地方)】10/29の天気予報 - FNNプライムオンライン</title>
-      <link>https://www.fnn.jp/articles/-/1141524</link>
-      <pubDate>Wed, 28 Oct 2026 20:10:00 +0000</pubDate>
-      <guid isPermaLink="false">f36d56f0905a4ea0e4706725b8ad84978d7cd7a97ae05925825e93c94d584c68</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">FNNプライムオンライン</source>
-      <media:thumbnail url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" />
-      <media:content url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道(宗谷地方)】10/29の天気予報 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>留萌・宗谷（１０月２９日付）おくやみ - 北海道新聞デジタル</title>
-      <link>https://www.hokkaido-np.co.jp/article/1398260/</link>
-      <pubDate>Wed, 28 Oct 2026 11:30:00 +0000</pubDate>
-      <guid isPermaLink="false">51c90b74a3480abffcf96cde4f5bf8249f328804225b747ee28bfaa914ed87dd</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
-      <media:thumbnail url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" />
-      <media:content url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;留萌・宗谷（１０月２９日付）おくやみ 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【暴風警報】北海道・稚内市、猿払村、豊富町などに発表 04:05時点 - Excite エキサイト</title>
-      <link>http://www.excite.co.jp/news/article/TBSNews_1487891961042944853/</link>
-      <pubDate>Tue, 27 Oct 2026 19:11:00 +0000</pubDate>
-      <guid isPermaLink="false">64837403fb1e99b7d2c1ad4ca55332db6c6c323c0caea03d6adad5bdb947d62c</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Excite エキサイト</source>
-      <description>&lt;p&gt;【暴風警報】北海道・稚内市、猿払村、豊富町などに発表 04:05時点 Excite エキサイト&lt;/p&gt;&lt;p&gt;配信元: Excite エキサイト&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【暴風警報】北海道・稚内市、猿払村、豊富町などに発表 04:05時点（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/d1f39cda39d7faf99d2573a8e64cdc1874116dc4</link>
-      <pubDate>Tue, 27 Oct 2026 19:07:12 +0000</pubDate>
-      <guid isPermaLink="false">af65945e980764b22e9f0700c58f7444e482ff0cec42938f3a9c2b7ebd30e9c0</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-23042748-jnn-000-1-view.jpg?exp=10800" />
-      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-23042748-jnn-000-1-view.jpg?exp=10800" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-23042748-jnn-000-1-view.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【暴風警報】北海道・稚内市、猿払村、豊富町などに発表 04:05時点（TBS NEWS DIG Powered by JNN） Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【波浪警報】北海道・稚内市、豊富町、礼文町などに発表 04:05時点（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/de0810490645c8a84a4745de4466581545809bf3</link>
-      <pubDate>Tue, 27 Oct 2026 19:07:12 +0000</pubDate>
-      <guid isPermaLink="false">6494db02191b5cf7199f7d155169d1e4e246ca683eb2255020bdedfd686af663</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-23042750-jnn-000-1-view.jpg?exp=10800" />
-      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-23042750-jnn-000-1-view.jpg?exp=10800" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-23042750-jnn-000-1-view.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【波浪警報】北海道・稚内市、豊富町、礼文町などに発表 04:05時点（TBS NEWS DIG Powered by JNN） Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
