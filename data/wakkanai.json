@@ -1,5 +1,25 @@
 [
   {
+    "id": "1d85f1aa975ff90d90dc9223a0899fec5bc588598ee600eb154fd8f56eda0450",
+    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PXzdYQUdmU2s1bTRTVGU4Y1F6ZkZtcl81aHVkMzJRWEczRlVVeXVJMUpxS1FaREdvN09xWXVvb3hFZ2ZKU2JWN19NVFNIUQ?oc=5",
+    "url": "https://www.fnn.jp/articles/-/1144908",
+    "title": "【北海道(宗谷地方)】11/3の天気予報 - FNNプライムオンライン",
+    "source": "FNNプライムオンライン",
+    "published": "2026-11-02T20:10:00+00:00",
+    "description": "【北海道(宗谷地方)】11/3の天気予報 FNNプライムオンライン",
+    "image": "https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg"
+  },
+  {
+    "id": "f696a98af0803fea2bcf7653011d494374971c35a5ad24ad2b83b377c3854739",
+    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6bnp5bDFEdW1uME94SEdqLTFZSWpfcTZtX1lVR0NPQUswQkJoUzdmVlJxWVFWd2NqZUY3UndKU3J6QzNYbjBkUGRPN25lQWI3U1Y2QTIwb3FXSkQyMUlocXl4Q2pTSE81X0l3VU9IZ2hYTlNBZTA3eFdyQzhsSUU?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/4be72128e29088ee43eb9c36fbd199fd3d626b3a",
+    "title": "【ヒグマ衝突で特急脱線】今年は既にクマとの衝突が36件発生、エゾシカなど動物全体では3535件（昨年度）…車両不具合で11月3日の運転再開が延期に…旭川－稚内間の代行輸送継続＜JR北海道＞ - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-11-02T12:10:01+00:00",
+    "description": "【ヒグマ衝突で特急脱線】今年は既にクマとの衝突が36件発生、エゾシカなど動物全体では3535件（昨年度）…車両不具合で11月3日の運転再開が延期に…旭川－稚内間の代行輸送継続＜JR北海道＞ Yahoo!ニュース",
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-90063295-hokkaibunv-000-1-thumb.jpg?exp=10800"
+  },
+  {
     "id": "ed7c35cb921c349e1dc6f326ac134edcd7edf7abd7792c2c4d4ebc9977e2f280",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aQzNvbnkwR0E2RVQ4SkRXd3JPaThVaXJha3J3d2lMZmRNUkJrZHBZOWNDLWozSm5CRTU5cXdNTjVaX0p2bHRUWTdCc3FNNVdpbWZDOFBuYVRmUQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1401270/",
@@ -152,62 +172,62 @@
   {
     "id": "06b89e60595b133d1dcaeb7c5c1880cd74e7247f0d78835d2dd3363d5e22f521",
     "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtNklIekRocGt2dWd2TExnM0ZPOWc0aE1QVG9JbFpVek45OXFWUUtwRGxDeUJ6QTM3SlZIOE9CZ3h4V3pOOUtjMHgxam02MGo0Mk1PcjBOQXJBMGpzdXphbFIxN3hhSW9tS2J0LU9wRERFWlhkOUVlYmYwUHhfV2M?oc=5",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtNklIekRocGt2dWd2TExnM0ZPOWc0aE1QVG9JbFpVek45OXFWUUtwRGxDeUJ6QTM3SlZIOE9CZ3h4V3pOOUtjMHgxam02MGo0Mk1PcjBOQXJBMGpzdXphbFIxN3hhSW9tS2J0LU9wRERFWlhkOUVlYmYwUHhfV2M?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/bce59d5d6dac9a1085c779456cf096855f326a74",
     "title": "クマ衝突で運休の宗谷線、再開は4日以降に（共同通信） - Yahoo!ニュース",
     "source": "Yahoo!ニュース",
     "published": "2026-11-02T06:59:42+00:00",
     "description": "クマ衝突で運休の宗谷線、再開は4日以降に（共同通信） Yahoo!ニュース",
-    "image": null
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
   },
   {
     "id": "42cbf23ceec6dd0c825f233f193c2665ed5cb4b6b6d7d4b753e2db87776faaaf",
     "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YUUk2Qy0tdDhXUFp5dFoyalNGaG9ZQ2l2TXlscDdlUldrZmJ3SkRUUXFMci1hMXhVeUdGRmdzWUZPaGJHeUloa2FQQVh3OWVSUkQ4eXNSa2o?oc=5",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YUUk2Qy0tdDhXUFp5dFoyalNGaG9ZQ2l2TXlscDdlUldrZmJ3SkRUUXFMci1hMXhVeUdGRmdzWUZPaGJHeUloa2FQQVh3OWVSUkQ4eXNSa2o?oc=5",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1819224",
     "title": "クマ衝突で運休の宗谷線、再開は４日以降に - 京都新聞デジタル",
     "source": "京都新聞デジタル",
     "published": "2026-11-02T06:59:42+00:00",
     "description": "クマ衝突で運休の宗谷線、再開は４日以降に 京都新聞デジタル",
-    "image": null
+    "image": "https://kyoto-np.ismcdn.jp/mwimgs/6/7/1200wm/img_67ada2cd6f649cd040230af45853c308364076.png"
   },
   {
     "id": "954bd817a68d4dde4b9bf88023eea3d11fcfc4b6e678f9ecbe939c919603e08d",
     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05dm9xdURvV1ptY2FEcjJHQ3JsTjBjNlFadDFXdWlTSDUtRkRTWnlwTXlNWFI1MDNDc0x1Sk91WG9PVjBPdHhZRDF0cUZZRW9kUDNLZzNn?oc=5",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05dm9xdURvV1ptY2FEcjJHQ3JsTjBjNlFadDFXdWlTSDUtRkRTWnlwTXlNWFI1MDNDc0x1Sk91WG9PVjBPdHhZRDF0cUZZRW9kUDNLZzNn?oc=5",
+    "url": "https://www.topics.or.jp/articles/-/1519315",
     "title": "クマ衝突で運休の宗谷線、再開は４日以降に - 徳島新聞デジタル",
     "source": "徳島新聞デジタル",
     "published": "2026-11-02T06:59:42+00:00",
     "description": "クマ衝突で運休の宗谷線、再開は４日以降に 徳島新聞デジタル",
-    "image": null
+    "image": "https://tokushima.ismcdn.jp/mwimgs/0/0/1200wm/img_008c9bef614cd54673ee82852a0a1ae937262.png"
   },
   {
     "id": "8e8ff68f0e7af0663d98ec6ab591f3e699111ba5223252693ede6c3dbb9054c4",
     "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83eTNxb2VrNDlCbmlRblAtMjlwYl9wOTJtOXRzUmxYa2dWWVk3WFBkQ2NETzV0OU55RVN1eW5INmdzUTEtV1RyTFkyLXJ5ZzdwVS1CMUFLX1Q5YmZJNkRGU1FGdHhyV2Ixb1RYbnl3?oc=5",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83eTNxb2VrNDlCbmlRblAtMjlwYl9wOTJtOXRzUmxYa2dWWVk3WFBkQ2NETzV0OU55RVN1eW5INmdzUTEtV1RyTFkyLXJ5ZzdwVS1CMUFLX1Q5YmZJNkRGU1FGdHhyV2Ixb1RYbnl3?oc=5",
+    "url": "https://article.auone.jp/9ba43d31-8723-462b-af4a-5ec9b848a90d",
     "title": "【速報】JR宗谷線 3日の運転再開を延期「当該の車両に不具合発見」クマと衝突して脱線 JR北海道 - au Webポータル",
     "source": "au Webポータル",
     "published": "2026-11-02T06:52:22+00:00",
     "description": "【速報】JR宗谷線 3日の運転再開を延期「当該の車両に不具合発見」クマと衝突して脱線 JR北海道 au Webポータル",
-    "image": null
+    "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/11/02/https___news_jp_i_1489880294885442269_w1280.webp"
   },
   {
     "id": "16d4bea628dc27045ac79a374ed96be896701173ba9442d0e5989968b08216b5",
     "google_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa09TOGZDVkVUbFVUWmk0ck9odHpTbHlUMjNYT2wtZnVRYTRoeGdxMExyRmFGTGRFOEdsUUdBcS1oalFQYmFfREdPbXAxQ2dkM0dMRUVfVjRjSGZoQ2QwSEZCbXZSNm1kRmFZTGpXamt0d05OVnRSaTlrMWpWRVRaeklXcktLams?oc=5",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa09TOGZDVkVUbFVUWmk0ck9odHpTbHlUMjNYT2wtZnVRYTRoeGdxMExyRmFGTGRFOEdsUUdBcS1oalFQYmFfREdPbXAxQ2dkM0dMRUVfVjRjSGZoQ2QwSEZCbXZSNm1kRmFZTGpXamt0d05OVnRSaTlrMWpWRVRaeklXcktLams?oc=5",
+    "url": "https://news.ntv.co.jp/n/stv/category/society/ste037cc2daddc4125a1ec1a27fcd82b9a",
     "title": "【速報】JR宗谷線 3日の運転再開を延期「当該の車両に不具合発見」クマと衝突して脱線 JR北海道 - 日テレNEWS NNN",
     "source": "日テレNEWS NNN",
     "published": "2026-11-02T06:50:00+00:00",
     "description": "【速報】JR宗谷線 3日の運転再開を延期「当該の車両に不具合発見」クマと衝突して脱線 JR北海道 日テレNEWS NNN",
-    "image": null
+    "image": "https://image.gallery.play.jp/stv-news/articles/04004933551e4b27aa09ca0334e29c5c/99cb2729-f9b9-4cb0-9fea-1839f02fc354.jpg?w=1200"
   },
   {
     "id": "3951bfe24b972414cd7ca51b94c8347163357c9a8241b6b73d95a921673c6a82",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZa1ByZi1JMDIydFRGOHdEX2ZvOUZyOE9nNVZ6QUlPOTNkN3M4ZmZHNTR5X0dLeTJsSzJCX0dOQVZFc0tSX1FMYlpwUkt5bnUwYU9xY0FzSjZlQQ?oc=5",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZa1ByZi1JMDIydFRGOHdEX2ZvOUZyOE9nNVZ6QUlPOTNkN3M4ZmZHNTR5X0dLeTJsSzJCX0dOQVZFc0tSX1FMYlpwUkt5bnUwYU9xY0FzSjZlQQ?oc=5",
+    "url": "https://www.htb.co.jp/news/archives_40266.html",
     "title": "【速報】JR宗谷線、脱線車両動かせず3日の再開を見送り 音威子府・稚内間で終日運転見合わせ - HTB 北海道テレビ",
     "source": "HTB 北海道テレビ",
     "published": "2026-11-02T06:48:00+00:00",
     "description": "【速報】JR宗谷線、脱線車両動かせず3日の再開を見送り 音威子府・稚内間で終日運転見合わせ HTB 北海道テレビ",
-    "image": null
+    "image": "https://www.htb.co.jp/news/photo/40266_52221.jpg"
   },
   {
     "id": "8f4c69347a364b7b480786ebb10876aa3507b40a9b5b0ba688afbc26dfedec7a",
@@ -242,32 +262,32 @@
   {
     "id": "594b7f16483bb3a421fbd925a82e2764440c222cb79e52af54959460cec49200",
     "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VTVE1Y0FMbFQ5Y1cwME5NbS0zY2ZtVFN6Q3BFcEJYcDdyLUtMMUI1VkhTNk9RZVUwSXR4YUpDdVJuNUMyWlY0bkhQT3BMMkpE?oc=5",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VTVE1Y0FMbFQ5Y1cwME5NbS0zY2ZtVFN6Q3BFcEJYcDdyLUtMMUI1VkhTNk9RZVUwSXR4YUpDdVJuNUMyWlY0bkhQT3BMMkpE?oc=5",
+    "url": "https://www.nnn.co.jp/articles/-/823754",
     "title": "クマ衝突の宗谷線車両に不具合 運転再開は未定、ＪＲ北海道 - 日本海新聞",
     "source": "日本海新聞",
     "published": "2026-11-02T04:45:32+00:00",
     "description": "クマ衝突の宗谷線車両に不具合 運転再開は未定、ＪＲ北海道 日本海新聞",
-    "image": null
+    "image": "https://nihonkai.ismcdn.jp/common/images/nnn/noimg_nnn.png"
   },
   {
     "id": "66ffdc737d9dda44d4c01e145445ef3623c7c6a4da12be03c60f0d81db995233",
     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UV0R5SWJhWGVNZ0phRDZ1UkE4cGljbk9pVVg4YXN2WVlTQVVHU3VPRDVmX1A4bDd4a0trTnkzNWV4ejBGWjdTZzhtVmNGUXc4NGQxeUZ3?oc=5",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UV0R5SWJhWGVNZ0phRDZ1UkE4cGljbk9pVVg4YXN2WVlTQVVHU3VPRDVmX1A4bDd4a0trTnkzNWV4ejBGWjdTZzhtVmNGUXc4NGQxeUZ3?oc=5",
+    "url": "https://www.saga-s.co.jp/articles/-/1822284",
     "title": "クマ衝突の宗谷線３日に運転再開 ＪＲ北海道 | | 全国のニュース - 佐賀新聞",
     "source": "佐賀新聞",
     "published": "2026-11-02T04:45:00+00:00",
     "description": "クマ衝突の宗谷線３日に運転再開 ＪＲ北海道 | | 全国のニュース 佐賀新聞",
-    "image": null
+    "image": "https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png"
   },
   {
     "id": "3b338e4473e27784a32f1af2b08fb71bc1b27cf04c76e3582a967a15b5717a17",
     "google_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT3V2eHVTNDc2MlFrVVhvZTNKZlc3TGxWNTVnRWNpVVR1cHJfaHRUZG9TN2x0OWFlT1JBYzBlM05lcnRWVlY0UHR2Q0x6eXNycDBpVzFPV3NPal9nbVhub2p5WU8yN2xEMlhBVHVlLWFnaW1uU3M2X1dpT0xvS2J5T2ZHMkgwVzZnZUhrU0JqTEhELTFWdGZjc3gtbDNnc1p3aGVXT3czVm5QQjRjanRfcHpveXhia05BV2Y5Y3U4X3NhTjFOSTRDSm9nbVBKTU1iTTh4Mkd3dE5vVWw2QmExVNIBkAFBVV95cUxOeTlsbWN5cm05ZG1CbjVEZ3U5blhPR01ScGFCelFKOWtnSUdTRHQ1dkFXNE9VQi1CQUZNTG81UFlPODRPRzBHMEtzWFl1cjFDTVJwOFU2d3Nhb2lHV0JHRVRjeTFVeVJoQ1lCSE5jN3dydVFjQXc0bWRjSjZlMXZnTWJYSk93RXM1V3JVRXpxMU4?oc=5",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT3V2eHVTNDc2MlFrVVhvZTNKZlc3TGxWNTVnRWNpVVR1cHJfaHRUZG9TN2x0OWFlT1JBYzBlM05lcnRWVlY0UHR2Q0x6eXNycDBpVzFPV3NPal9nbVhub2p5WU8yN2xEMlhBVHVlLWFnaW1uU3M2X1dpT0xvS2J5T2ZHMkgwVzZnZUhrU0JqTEhELTFWdGZjc3gtbDNnc1p3aGVXT3czVm5QQjRjanRfcHpveXhia05BV2Y5Y3U4X3NhTjFOSTRDSm9nbVBKTU1iTTh4Mkd3dE5vVWw2QmExVNIBkAFBVV95cUxOeTlsbWN5cm05ZG1CbjVEZ3U5blhPR01ScGFCelFKOWtnSUdTRHQ1dkFXNE9VQi1CQUZNTG81UFlPODRPRzBHMEtzWFl1cjFDTVJwOFU2d3Nhb2lHV0JHRVRjeTFVeVJoQ1lCSE5jN3dydVFjQXc0bWRjSjZlMXZnTWJYSk93RXM1V3JVRXpxMU4?oc=5",
+    "url": "https://topics.smt.docomo.ne.jp/article/kyodo_nor/nation/kyodo_nor-2026110201000717?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1",
     "title": "クマ衝突の宗谷線3日に運転再開　JR北海道 - ｄメニューニュース",
     "source": "ｄメニューニュース",
     "published": "2026-11-02T04:45:00+00:00",
     "description": "クマ衝突の宗谷線3日に運転再開　JR北海道 ｄメニューニュース",
-    "image": null
+    "image": "https://img.topics.smt.news.goo.ne.jp/-/20261028100531/img/dmenu_service-brand-logo_200x200.png"
   },
   {
     "id": "7d77d04e6efcf7221856694cc7e17fe8fad399a697e35805c2c896c8d856b642",
@@ -352,12 +372,12 @@
   {
     "id": "d4623e1b1009e64b4e1b552d3a9a65d06e309121e3da7cee70e59e28abf8a14b",
     "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlNTVfSEdhcFNmcjBLR2FQV0pON1VoeDE2Nm5aWGdfb2lUMHh2N19zRDlfd25FQXhxbDBSa09FSy0yTFI1MEsxVDFYWGhBQVU?oc=5",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlNTVfSEdhcFNmcjBLR2FQV0pON1VoeDE2Nm5aWGdfb2lUMHh2N19zRDlfd25FQXhxbDBSa09FSy0yTFI1MEsxVDFYWGhBQVU?oc=5",
+    "url": "https://www.khb-tv.co.jp/news/17016066",
     "title": "クマと衝突し特急脱線 JR宗谷線 3日運転再開へ - khb東日本放送",
     "source": "khb東日本放送",
     "published": "2026-11-02T00:18:57+00:00",
     "description": "クマと衝突し特急脱線 JR宗谷線 3日運転再開へ khb東日本放送",
-    "image": null
+    "image": "https://news.tv-asahi.co.jp/articles_img/000544603_640.jpg"
   },
   {
     "id": "839ee9f9b659c9e0c547700cdc2b61c1abd9127f972e5057ec3349b580f497a8",
@@ -372,22 +392,22 @@
   {
     "id": "513466927af25f1ba2d3a697b262fd349bb29e6981d84f8afeea177301b7c4c0",
     "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tZ1k2dXp3cXZCVUJpNWxDNXRUUFAzc284MFVDVHRBenpJT0xvellBWmdmUlFXTkplRFZxR25ESVhRM2lxT1Zwa3FnUG1wbGlFZEZ0NWxXakkySF9KWlIwR0dySWFDM0w5?oc=5",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tZ1k2dXp3cXZCVUJpNWxDNXRUUFAzc284MFVDVHRBenpJT0xvellBWmdmUlFXTkplRFZxR25ESVhRM2lxT1Zwa3FnUG1wbGlFZEZ0NWxXakkySF9KWlIwR0dySWFDM0w5?oc=5",
+    "url": "https://www.home-tv.co.jp/news/content/?news_id=000544603",
     "title": "クマと衝突し特急脱線 JR宗谷線 3日運転再開へ - HOME広島ホームテレビ",
     "source": "HOME広島ホームテレビ",
     "published": "2026-11-02T00:18:00+00:00",
     "description": "クマと衝突し特急脱線 JR宗谷線 3日運転再開へ HOME広島ホームテレビ",
-    "image": null
+    "image": "https://news.tv-asahi.co.jp/articles_img/000544603_640.jpg"
   },
   {
     "id": "32ccca6c3cabd6f394b058dcc1e255d7707044392cbb044b98472e98ef9a56da",
     "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWQ25IM1EzUU8yUG5wSGNDQmJmRFFQMU9qcVdUYmNxSUU1RVkxZklZbXJtR25WZ3RpTXFRbFhDblBIbUg2azV4QjBBOHI0VlJpekUyTmR5TWlQUEdKZ0x5a2Q1RXJNY0xlbExpUHJnVnVlRWJ2RTd6Ny02UHJ5NDQ?oc=5",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWQ25IM1EzUU8yUG5wSGNDQmJmRFFQMU9qcVdUYmNxSUU1RVkxZklZbXJtR25WZ3RpTXFRbFhDblBIbUg2azV4QjBBOHI0VlJpekUyTmR5TWlQUEdKZ0x5a2Q1RXJNY0xlbExpUHJnVnVlRWJ2RTd6Ny02UHJ5NDQ?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/75d01c86f96d5be0072625a7fe64c93983e5af0c",
     "title": "運輸安全委員会も「過去にはなかった珍しいこと」クマと衝突で脱線 あす始発から運転を再開 - Yahoo!ニュース",
     "source": "Yahoo!ニュース",
     "published": "2026-11-01T23:23:00+00:00",
     "description": "運輸安全委員会も「過去にはなかった珍しいこと」クマと衝突で脱線 あす始発から運転を再開 Yahoo!ニュース",
-    "image": null
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-01834574-stv-000-4-thumb.jpg?exp=10800"
   },
   {
     "id": "8719481479e338f894e36c5cdd5c006c85f93323ef0e2f15ca0a06ef5874dc8a",
@@ -491,7 +511,7 @@
   },
   {
     "id": "4ce2b570353c191bf5115b910cdc6770dcc525448ec2a40dfb749a888b8b4f35",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aUXpyTDhFdjc5UkFHZmFOcjZPcW5Xcmt6ZnozSWhKSVNOSmpnc2wxeW0yQ3U4blVLcW85MHE4NU12Ykd1d1NSa3NONXliQmY2LXlmRUNnNnQ5RnNJTUctNkFjaTk?oc=5",
+    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmZ1hDbVE0Ny1JeXgtajlWQ2pHc3lvdXUzVUcydUNBNF9SS2RFc25xSXJsd2NVSU42N05uUEQwTFNSOFgyRmZ4OTFHN09HTnZKWnBZSEd0QnBoa3ZIb3lxZGk2NFpKQ2M?oc=5",
     "url": "https://newsdig.tbs.co.jp/articles/-/3054283",
     "title": "クマ衝突で特急脱線のJR宗谷線が3日始発から運転再開へ 2日までに車両移動と復旧作業が終わる見通し JR北海道 - TBS NEWS DIG",
     "source": "TBS NEWS DIG",
@@ -1060,6 +1080,16 @@
     "image": "https://cdn.mainichi.jp/vol1/2026/10/31/20261031k0000m040241000p/0c10.jpg?1"
   },
   {
+    "id": "ac7022c93e461a9b9074c9e47ea592ead62078dd8f0bd8269813063355ca4528",
+    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wUnE1aDR3UjFBc25YekhlU24xVXp1UC1HZ05rY3NNMkZRdllpY0I2R3RyWnlELVVzb2V2Z1hJLVh3OGJpaWx1ZzFfOTZTVmNZMEpueHl2M1RzS0VuLXJOb05qM1NSUWM?oc=5",
+    "url": "https://yasashii.asahi.com/articles/article_0016592.html",
+    "title": "列車がクマに衝突したため、宗谷線の音威子府駅と稚内駅の間は、運転をしていません - やさしい朝日新聞",
+    "source": "やさしい朝日新聞",
+    "published": "2026-10-31T07:00:00+00:00",
+    "description": "列車がクマに衝突したため、宗谷線の音威子府駅と稚内駅の間は、運転をしていません やさしい朝日新聞",
+    "image": "https://yasashii.asahi.com/assets/entry-16592-og_image.webp"
+  },
+  {
     "id": "ddca23e17eb3f9994ba54fc543bad1547e51c3fa59867efa63d773fb9c806c95",
     "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zZldDd1JKVnVxdHRKVXI4SVB0WDJUSzRBN3hxQ251X0Ntallqb0FlWjVoMDE4V2M2bTZHSE5sOXdBMm5UX3hrQjNFa282WEhZRmlBS2xLby1DdlVCUXJJRmJzR2ljaTVqTGlmZFQ0ZnlidWh1aWFEaTFXRklXWUE?oc=5",
     "url": "https://news.yahoo.co.jp/articles/e7fe78dabe25aad519fbf8eeb143bce52d5f400c",
@@ -1118,6 +1148,16 @@
     "published": "2026-10-31T06:10:02+00:00",
     "description": "特急列車がクマと衝突し脱線、乗客32人が車内で一夜明かす＿JR宗谷線は11月1日も運休、代行バスを運行へ＿運輸安全委員会の鉄道事故調査官が現地入り〈北海道中川町〉 Yahoo!ニュース",
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-90063257-hokkaibunv-000-2-view.jpg?exp=10800"
+  },
+  {
+    "id": "65eb0d1a9e37fee349e244a13535bc2b3d3c5169c24e528569ebfef6424fca40",
+    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05a3hxRjdMWS04MGxwX1ZJdlVQc0RxMFQ4ZHotY0FvWEJjYjJUUklHRkJxNXBidXJiZlQxZ1NJampna19kQzVFV2RZbnVXek1La3ExZXdVWQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05a3hxRjdMWS04MGxwX1ZJdlVQc0RxMFQ4ZHotY0FvWEJjYjJUUklHRkJxNXBidXJiZlQxZ1NJampna19kQzVFV2RZbnVXek1La3ExZXdVWQ?oc=5",
+    "title": "特急列車がクマと衝突し脱線、乗客32人が車内で一夜明かす＿JR宗谷線は11月1日も運休、代行バスを運行へ＿運輸安全委員会の鉄道事故調査官が現地入り〈北海道中川町〉 - UHB 北海道文化放送",
+    "source": "UHB 北海道文化放送",
+    "published": "2026-10-31T05:52:26+00:00",
+    "description": "特急列車がクマと衝突し脱線、乗客32人が車内で一夜明かす＿JR宗谷線は11月1日も運休、代行バスを運行へ＿運輸安全委員会の鉄道事故調査官が現地入り〈北海道中川町〉 UHB 北海道文化放送",
+    "image": null
   },
   {
     "id": "0e778d6bfb69c5c28676db78a536b7d9b3cf59caec085f19d2e7341cb0acd2b0",
@@ -1420,16 +1460,6 @@
     "image": "https://www.uhb.jp/news/data/63250/image.jpg?v=1793406959"
   },
   {
-    "id": "ac7022c93e461a9b9074c9e47ea592ead62078dd8f0bd8269813063355ca4528",
-    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wUnE1aDR3UjFBc25YekhlU24xVXp1UC1HZ05rY3NNMkZRdllpY0I2R3RyWnlELVVzb2V2Z1hJLVh3OGJpaWx1ZzFfOTZTVmNZMEpueHl2M1RzS0VuLXJOb05qM1NSUWM?oc=5",
-    "url": "https://yasashii.asahi.com/articles/article_0016592.html",
-    "title": "列車がクマに衝突したため、宗谷線の音威子府駅と稚内駅の間は、今日1日運転をしません - やさしい朝日新聞",
-    "source": "やさしい朝日新聞",
-    "published": "2026-10-31T00:44:37+00:00",
-    "description": "列車がクマに衝突したため、宗谷線の音威子府駅と稚内駅の間は、今日1日運転をしません やさしい朝日新聞",
-    "image": "https://yasashii.asahi.com/assets/entry-16592-og_image.webp"
-  },
-  {
     "id": "817296aa3f40416c50492f1975ad09e44b439a56f25f0969a907ecd133568f47",
     "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNblVVVG9oLTBLc3NuVE9xSlRsdzY1cTBSbGRfN0FVZTQ1QzVsaW1YY3R3WkZTYXpaVmNCdEZaNjduR2ZRZkxfXzZhOU1OZkNwQVdvM0pTdXRlNUdZUEM4a1lPakVTMUM1Sy1IM1RrVV9UTm92SXRXaFpLSWxrMFlHMg?oc=5",
     "url": "https://www.uqwimax.jp/mobile/support/app/life/",
@@ -1468,35 +1498,5 @@
     "published": "2026-10-31T00:28:00+00:00",
     "description": "【速報】JR宗谷線 特急列車がクマと衝突し脱線 乗客乗員にけがなし 音威子府駅～稚内駅の間で終日運休 HTB 北海道テレビ",
     "image": "https://www.htb.co.jp/news/photo/40247_52193.jpg"
-  },
-  {
-    "id": "abb1aa437f1e828e5d70e67e829fa9d7fe00e8c422bd007de8eb039e2c430e46",
-    "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53MU9ES3hpREtrR1RsMk1TZ2s5eFlMZWczTHh1RUJ0XzFiNVdCdlBUWU1JWGlYVWhGaE1VTEw2eElqYnp0eU80RldKOUFjOUZ3aG5qeUJXSEdiRHZpd1FEV2dyeFlDeW5FTHd6RNIBckFVX3lxTE5sODNORzcwZWdwWjY4UGpjaEEyZndhb2YtdHVmSjM0clhzQWJXUHQ0bXpfZEVkMmpOMnhtcF9WOHNsZkppVEpVU0ZZNS0yOS04YVhhYWRzbk1qNDA5YzNqdnpiS0VXUER5c1FQbC1EVHE2dw?oc=5",
-    "url": "https://news.infoseek.co.jp/article/hbc_1489048778819338583/",
-    "title": "特急列車がクマと衝突　クマは車両の下敷きか…列車は現場に10時間以上停車したまま、乗客32人は車内で一晩明かす　北海道・JR宗谷線 - Infoseek",
-    "source": "Infoseek",
-    "published": "2026-10-30T23:48:13+00:00",
-    "description": "特急列車がクマと衝突　クマは車両の下敷きか…列車は現場に10時間以上停車したまま、乗客32人は車内で一晩明かす　北海道・JR宗谷線 Infoseek",
-    "image": "https://media.image.infoseek.co.jp/isnews/photos/hbc/hbc_1489048778819338583_0-enlarge.jpg"
-  },
-  {
-    "id": "47792b7a056c19784adbe4f3fad17700afb3c5d1d1da463d9e51debc6f4a4af5",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNUjNMQ0xtUm05UTZURmlvc2dGdzE2cHlaLS13MnR3SVVzdVg3TGNReXd0NUt2bW9jVTZtdzZCWk1GVV95TFJqaE15TXZSaUU3SHJXMVB2T2RxbGZ0c3YxUmQ5Q3E4OWkyV29RZV8zV2ZfTEIxb3VOZnFiVTM2QnM?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/f4bd54d62d86930f5c69a0785827c9d8bff22130",
-    "title": "特急列車がクマと衝突 クマは車両の下敷きか…列車は現場に10時間以上停車したまま、乗客32人は車内で一晩明かす 北海道・JR宗谷線 - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
-    "published": "2026-10-30T23:29:11+00:00",
-    "description": "特急列車がクマと衝突 クマは車両の下敷きか…列車は現場に10時間以上停車したまま、乗客32人は車内で一晩明かす 北海道・JR宗谷線 Yahoo!ニュース",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-23052768-hbcv-000-11-view.jpg?exp=10800"
-  },
-  {
-    "id": "bad0d013994fa7e669550d0358f288865c05cbf15dea3d8e732ea3ab6a728196",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYdGtHcHRFX2lfQ1M0bkktNllpOC1lRWFjUUx0Mk90LUgtWkUzVmJPTkY3TERaeUVMNTdBdUR1cXFFdGhKMFNLOFVTUWVIUmpud0NBWTJINlMxUQ?oc=5",
-    "url": "https://newsdig.tbs.co.jp/articles/hbc/3052768",
-    "title": "特急列車がクマと衝突 クマは車両の下敷きか…列車は現場に10時間以上停車したまま、乗客32人は車内で一晩明かす 北海道・JR宗谷線 - TBS NEWS DIG",
-    "source": "TBS NEWS DIG",
-    "published": "2026-10-30T23:26:00+00:00",
-    "description": "特急列車がクマと衝突 クマは車両の下敷きか…列車は現場に10時間以上停車したまま、乗客32人は車内で一晩明かす 北海道・JR宗谷線 TBS NEWS DIG",
-    "image": "https://newsdig.ismcdn.jp/mwimgs/b/9/1200w/img_b9fe88afd1b12a179a197bbdf1d53166361067.jpg"
   }
 ]
