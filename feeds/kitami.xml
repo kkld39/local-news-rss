@@ -6,7 +6,17 @@
     <description>北見の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/kitami.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 02 Nov 2026 19:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 04:22:51 +0000</lastBuildDate>
+    <item>
+      <title>「文化の日」、北見で第45回総合芸術祭 13団体約120人が舞台発表 フラや舞踊など - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1401638/</link>
+      <pubDate>Tue, 03 Nov 2026 04:22:51 +0000</pubDate>
+      <guid isPermaLink="false">1a6aa1c9256df38fc84317fa09751e899ad05a22d54b4e382e31f54ebea466ed</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/1/f/4/a/1f4a77650a89a976c089e7e8a7ac5f30_1.webp?20261103154810" />
+      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/1/f/4/a/1f4a77650a89a976c089e7e8a7ac5f30_1.webp?20261103154810" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/1/f/4/a/1f4a77650a89a976c089e7e8a7ac5f30_1.webp?20261103154810" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「文化の日」、北見で第45回総合芸術祭 13団体約120人が舞台発表 フラや舞踊など 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+    </item>
     <item>
       <title>＜推しニュース＞「北見の色」鮮明に切り取る 5日まで 市役所本庁舎で写真展 - 北海道新聞デジタル</title>
       <link>https://www.hokkaido-np.co.jp/article/1401390</link>
@@ -1486,16 +1496,6 @@
       <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/8/2/6/5/82650781e3b7aa7c6cf9438a19071c8f_1.webp?20261023163334" />
       <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/8/2/6/5/82650781e3b7aa7c6cf9438a19071c8f_1.webp?20261023163334" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/8/2/6/5/82650781e3b7aa7c6cf9438a19071c8f_1.webp?20261023163334" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「オホーツク北見特集」 ヨークベニマル各店で開催、北見産海鮮丼が当たる企画も 東北圏でPR 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>北見市の公共施設値上げ、効果額890万円　見込み5500万円を大幅に下回る　辻市長が定例会見で説明 - ｄメニューニュース</title>
-      <link>https://topics.smt.docomo.ne.jp/article/hokkaido/region/hokkaido-1395344</link>
-      <pubDate>Fri, 23 Oct 2026 06:03:07 +0000</pubDate>
-      <guid isPermaLink="false">53df4d8d0469cfd674cf7b3eae58247c803976ca5d7d42ae78121f10918c3679</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">ｄメニューニュース</source>
-      <media:thumbnail url="https://img.topics.smt.news.goo.ne.jp/picture/hokkaido/m_hokkaido-1395344.jpg" />
-      <media:content url="https://img.topics.smt.news.goo.ne.jp/picture/hokkaido/m_hokkaido-1395344.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://img.topics.smt.news.goo.ne.jp/picture/hokkaido/m_hokkaido-1395344.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見市の公共施設値上げ、効果額890万円　見込み5500万円を大幅に下回る　辻市長が定例会見で説明 ｄメニューニュース&lt;/p&gt;&lt;p&gt;配信元: ｄメニューニュース&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
