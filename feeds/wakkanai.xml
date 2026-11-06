@@ -6,7 +6,27 @@
     <description>稚内の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/wakkanai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 06 Nov 2026 07:07:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:49:00 +0000</lastBuildDate>
+    <item>
+      <title>【波浪警報】北海道・稚内市、猿払村、豊富町などに発表 21:49時点 - ｄメニューニュース</title>
+      <link>https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3068937</link>
+      <pubDate>Fri, 06 Nov 2026 12:49:00 +0000</pubDate>
+      <guid isPermaLink="false">13bff6794665381d54af9b8c81e044122bf790baf527de2c042e4f29d62a4535</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">ｄメニューニュース</source>
+      <media:thumbnail url="https://img.topics.smt.news.goo.ne.jp/picture/tbs/m_tbs-3068937.jpg" />
+      <media:content url="https://img.topics.smt.news.goo.ne.jp/picture/tbs/m_tbs-3068937.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.topics.smt.news.goo.ne.jp/picture/tbs/m_tbs-3068937.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【波浪警報】北海道・稚内市、猿払村、豊富町などに発表 21:49時点 ｄメニューニュース&lt;/p&gt;&lt;p&gt;配信元: ｄメニューニュース&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>宗谷・留萌 8日にかけ暴風高波に警戒 交通影響に十分注意 - NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261106de71791</link>
+      <pubDate>Fri, 06 Nov 2026 10:36:33 +0000</pubDate>
+      <guid isPermaLink="false">330064b79bdd59f1f6448f1dd7f98534b41e029d6c91c184d8a15f4b601033e0</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">NHKニュース</source>
+      <media:thumbnail url="https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71791/20261106de71791_E0000150048_1_l.jpg" />
+      <media:content url="https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71791/20261106de71791_E0000150048_1_l.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71791/20261106de71791_E0000150048_1_l.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;宗谷・留萌 8日にかけ暴風高波に警戒 交通影響に十分注意 NHKニュース&lt;/p&gt;&lt;p&gt;配信元: NHKニュース&lt;/p&gt;</description>
+    </item>
     <item>
       <title>【暴風警報】北海道・稚内市、猿払村、豊富町などに発表 16:07時点 - TBS NEWS DIG</title>
       <link>https://newsdig.tbs.co.jp/articles/-/3067776?display=1</link>
@@ -100,7 +120,7 @@
     <item>
       <title>宗谷線 5日ぶり再開 稚内―旭川間 利用者 安堵の声 - 北海道新聞デジタル</title>
       <link>https://www.hokkaido-np.co.jp/article/1402661/</link>
-      <pubDate>Wed, 04 Nov 2026 20:05:01 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">29e6622b164b2c9edc96813a40fbc67e833433697326105327fb63452cd0bcf1</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
       <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/9/e/1/0/9e10f123b2834a24f829c97fdae5ea1d_1.webp?20261105073942" />
@@ -272,6 +292,16 @@
       <media:thumbnail url="https://news.tv-asahi.co.jp/articles_img/000545077_1200.jpg" />
       <media:content url="https://news.tv-asahi.co.jp/articles_img/000545077_1200.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://news.tv-asahi.co.jp/articles_img/000545077_1200.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北海道 JR宗谷線が全線復旧 10月30日にクマと衝突し脱線 テレ朝NEWS&lt;/p&gt;&lt;p&gt;配信元: テレ朝NEWS&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>北海道 JR宗谷線が全線復旧 10月30日にクマと衝突し脱線（テレビ朝日系（ANN）） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/4a10206238497ad4b3a6633b854f57062b1fce12</link>
+      <pubDate>Wed, 04 Nov 2026 03:10:15 +0000</pubDate>
+      <guid isPermaLink="false">0ebd44ea855074accf69b16fb029cf1b275ffc4d19fc8d482b0db4b22f7f15e6</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
+      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00000032-ann-000-2-thumb.jpg?exp=10800" />
+      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00000032-ann-000-2-thumb.jpg?exp=10800" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00000032-ann-000-2-thumb.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北海道 JR宗谷線が全線復旧 10月30日にクマと衝突し脱線（テレビ朝日系（ANN）） Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>クマ衝突の脱線から5日…JR宗谷線が復旧し運転再開、車両繰りで一部バス代行も実施 北海道 - TBS NEWS DIG</title>
@@ -1460,34 +1490,6 @@
       <media:thumbnail url="https://newportal.portal.auone.jp/media/thumbnails/2026/11/01/https___news_jp_i_1489488725837644705_w1280.webp" />
       <media:content url="https://newportal.portal.auone.jp/media/thumbnails/2026/11/01/https___news_jp_i_1489488725837644705_w1280.webp" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://newportal.portal.auone.jp/media/thumbnails/2026/11/01/https___news_jp_i_1489488725837644705_w1280.webp" alt="" /&gt;&lt;/p&gt;&lt;p&gt;JR宗谷線、きょうも特急列車すべて運休…バスによる代行輸送 クマと衝突し脱線 北海道 au Webポータル&lt;/p&gt;&lt;p&gt;配信元: au Webポータル&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ＪＲ宗谷線で特急列車が運休 バスによる代行輸送実施 列車がクマと衝突…車両脱線をうけ 北海道 - TVer</title>
-      <link>https://tver.jp/episodes/ep4ocs17u2</link>
-      <pubDate>Sun, 01 Nov 2026 04:48:00 +0000</pubDate>
-      <guid isPermaLink="false">b1983feacf0e7cdd26e4b10c302720816e279c427fc148337c06eb173b8fb976</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">TVer</source>
-      <description>&lt;p&gt;ＪＲ宗谷線で特急列車が運休 バスによる代行輸送実施 列車がクマと衝突…車両脱線をうけ 北海道 TVer&lt;/p&gt;&lt;p&gt;配信元: TVer&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>運転手不足の解消へ 稚内市で運転手なしの自動運転バス実証運行がスタート 駅や病院などをめぐるルートで10月25日まで実施 - TBS NEWS DIG</title>
-      <link>https://newsdig.tbs.co.jp/articles/gallery/3019300</link>
-      <pubDate>Sun, 01 Nov 2026 04:19:00 +0000</pubDate>
-      <guid isPermaLink="false">1e7f58874cda3af45589860df0caf7378f3ff2481e5b82dd0df1f61927892111</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">TBS NEWS DIG</source>
-      <media:thumbnail url="https://newsdig.ismcdn.jp/mwimgs/6/b/1200w/img_6b01bcf556c60af450f27a9c5dbf9a51231046.jpg" />
-      <media:content url="https://newsdig.ismcdn.jp/mwimgs/6/b/1200w/img_6b01bcf556c60af450f27a9c5dbf9a51231046.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newsdig.ismcdn.jp/mwimgs/6/b/1200w/img_6b01bcf556c60af450f27a9c5dbf9a51231046.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;運転手不足の解消へ 稚内市で運転手なしの自動運転バス実証運行がスタート 駅や病院などをめぐるルートで10月25日まで実施 TBS NEWS DIG&lt;/p&gt;&lt;p&gt;配信元: TBS NEWS DIG&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>クマと衝突し脱線の特急列車が現場から移動できず 1日朝から代行バス運行 乗客「仕方ない」運転再開の見通し立たず 北海道・JR宗谷線 - TBS NEWS DIG</title>
-      <link>https://newsdig.tbs.co.jp/articles/hbc/3053845?display=1</link>
-      <pubDate>Sun, 01 Nov 2026 04:19:00 +0000</pubDate>
-      <guid isPermaLink="false">925ac957b69fb571837447325f0bfec5e3c90b5546710c35cd45b5b362523400</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">TBS NEWS DIG</source>
-      <media:thumbnail url="https://newsdig.ismcdn.jp/mwimgs/9/1/1200w/img_91605fb2e5de29d48569f772f4066ff5377647.jpg" />
-      <media:content url="https://newsdig.ismcdn.jp/mwimgs/9/1/1200w/img_91605fb2e5de29d48569f772f4066ff5377647.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newsdig.ismcdn.jp/mwimgs/9/1/1200w/img_91605fb2e5de29d48569f772f4066ff5377647.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;クマと衝突し脱線の特急列車が現場から移動できず 1日朝から代行バス運行 乗客「仕方ない」運転再開の見通し立たず 北海道・JR宗谷線 TBS NEWS DIG&lt;/p&gt;&lt;p&gt;配信元: TBS NEWS DIG&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
