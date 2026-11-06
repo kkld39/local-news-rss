@@ -160,16 +160,6 @@
     "image": "https://img.topics.smt.news.goo.ne.jp/-/20261028100531/img/dmenu_service-brand-logo_200x200.png"
   },
   {
-    "id": "872f8ada18bfbac54283e616089b9058c0c608122ce799f3538f5ba605bb0d6b",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9STWxidnRrcjlHQ0VoMUUweTJobzM1M0M3ZEpkYjdDNWtIbl9TaDBfVm5HTHRCRkEtZFVTNUJZMDFSZm5FMmJwMDE1QQ?oc=5",
-    "url": "https://www.47news.jp/15182498.html",
-    "title": "生産量日本一 「北見たまねぎ」キャラ きーたんのどら焼きが完成 イベント限定で販売 - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-11-04T06:03:29+00:00",
-    "description": "生産量日本一 「北見たまねぎ」キャラ きーたんのどら焼きが完成 イベント限定で販売 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/17e0a3203c562074e596b630aedc774b/photo.jpg"
-  },
-  {
     "id": "31f5070715545f5e570bee8aa31e23edc93d1bd17b7edd732c3e9672e6755630",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82OHZWb3FnUUo5N3pUV3NlQUpjTGRxSjBYYUgyRXdBMmlGLWc0VXdRUm9YTVgtWTh2SlhrR1ByOFpqNU5fbGNKMUZ3YnhTNi1lU04xUjY5ZG1Hdw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1402102/",
@@ -178,6 +168,16 @@
     "published": "2026-11-04T06:03:29+00:00",
     "description": "生産量日本一 「北見たまねぎ」キャラ きーたんのどら焼きが完成 イベント限定で販売 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/3/9/5/9/3959f5372095255ac7641d454820990b_1.webp?20261105021750"
+  },
+  {
+    "id": "872f8ada18bfbac54283e616089b9058c0c608122ce799f3538f5ba605bb0d6b",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9STWxidnRrcjlHQ0VoMUUweTJobzM1M0M3ZEpkYjdDNWtIbl9TaDBfVm5HTHRCRkEtZFVTNUJZMDFSZm5FMmJwMDE1QQ?oc=5",
+    "url": "https://www.47news.jp/15182498.html",
+    "title": "生産量日本一 「北見たまねぎ」キャラ きーたんのどら焼きが完成 イベント限定で販売 - 47NEWS",
+    "source": "47NEWS",
+    "published": "2026-11-04T06:03:29+00:00",
+    "description": "生産量日本一 「北見たまねぎ」キャラ きーたんのどら焼きが完成 イベント限定で販売 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/17e0a3203c562074e596b630aedc774b/photo.jpg"
   },
   {
     "id": "bc0e0a28ef50ac0eac676b06ac43838af1b13c832eb8bda96f13921a1da3fc46",
