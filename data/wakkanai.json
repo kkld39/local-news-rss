@@ -1,5 +1,15 @@
 [
   {
+    "id": "79f70129be86c4c2cf1a7451f6acb122fe4c13c765f53e7954afe4932f1ede06",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpaVBySDhEb1dhekQ0bEdiUUZ5S296R1pVMkx0ZTFpVFRoWGJ4d2pNNUVnRkNwdWIwWmU1RDMzaW1qMUwxUlFxUW9uTQ?oc=5",
+    "url": "https://webun.jp/articles/-/1124824",
+    "title": "「未知に触れ感無量」 「宗谷」乗船の平山さん 第１次南極観測隊出発７０年 - 北日本新聞webunプラス",
+    "source": "北日本新聞webunプラス",
+    "published": "2026-11-07T20:00:00+00:00",
+    "description": "「未知に触れ感無量」 「宗谷」乗船の平山さん 第１次南極観測隊出発７０年 北日本新聞webunプラス",
+    "image": "https://webun.ismcdn.jp/mwimgs/7/a/1200m/img_7ab26c26573e518fcd9c0bc96c2896dd464343.jpg?rd=202608051016"
+  },
+  {
     "id": "ebf3f319c1c54e6a5c149be358f3d4e6661c48f5a8f2e1842bc4aedf0e01f6ce",
     "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GRDN6S1IxWl9NSnJUYVZ5NUlmZnZLb3J4Z1FIN01Ja2dLR2lKYWYzQ0RvMmJtTWN1WE42NjZXYWpWSFhfZm5Rc1UzaUY?oc=5",
     "url": "https://hokkaido-nl.jp/article/44552",
@@ -75,7 +85,7 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261106de71791",
     "title": "宗谷・留萌 8日にかけ暴風高波に警戒 交通影響に十分注意 - NHKニュース",
     "source": "NHKニュース",
-    "published": "2026-11-06T10:36:33+00:00",
+    "published": "2026-11-06T10:36:00+00:00",
     "description": "宗谷・留萌 8日にかけ暴風高波に警戒 交通影響に十分注意 NHKニュース",
     "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71791/20261106de71791_E0000150048_1_l.jpg"
   },
@@ -1488,15 +1498,5 @@
     "published": "2026-11-01T09:06:00+00:00",
     "description": "クマ衝突で特急脱線のJR宗谷線が3日始発から運転再開へ 2日までに車両移動と復旧作業が終わる見通し JR北海道 TBS NEWS DIG",
     "image": "https://newsdig.ismcdn.jp/mwimgs/6/f/1200w/img_6f93c0170f646ecf782d7f7840b107741237325.jpg"
-  },
-  {
-    "id": "c22f53ca83a1fd92c6aee01de0c0b22f33e4ba4bf29a72baccdb306167a4f530",
-    "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QYVdINUYtSGNwYWd4NlhGQjJiVVA5SWNMZWJ6ZDVucjAtbEkxSUN0R3ZvWXNxRG9JS19OcEp5X19CZ3ZxUmc2WGo0ZWNmTHpsX1lpTlQ1aEtXX1RfWFBJamt6NDFvNUhFWXVFRmE4ajFzMUdP0gF0QVVfeXFMTVBhV0g1Ri1IY3BhZ3g2WEZCMmJVUDlJY0xlYnpkNW5yMC1sSTFJQ3RHdm9Zc3FEb0lLX05wSnlfX0JndnFSZzZYajRlY2ZMemxfWWlOVDVoS1dfVF9YUElqa3o0MW81SEVZdUVGYThqMXMxR08?oc=5",
-    "url": "https://topics.smt.docomo.ne.jp/amp/article/hbc/region/hbc-3054283",
-    "title": "クマ衝突で特急脱線のJR宗谷線が3日始発から運転再開へ 2日までに車両移動と復旧作業が終わる見通し JR北海道 - ｄメニューニュース",
-    "source": "ｄメニューニュース",
-    "published": "2026-11-01T09:06:00+00:00",
-    "description": "クマ衝突で特急脱線のJR宗谷線が3日始発から運転再開へ 2日までに車両移動と復旧作業が終わる見通し JR北海道 ｄメニューニュース",
-    "image": "https://img.topics.smt.news.goo.ne.jp/picture/hbc/m_hbc-3054283.jpg"
   }
 ]

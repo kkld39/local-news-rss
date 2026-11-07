@@ -6,7 +6,17 @@
     <description>北見の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/kitami.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 07 Nov 2026 08:41:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 19:00:00 +0000</lastBuildDate>
+    <item>
+      <title>タマネギは腸内細菌の強い味方 北見 中村北大院教授が食育講演 - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1404486</link>
+      <pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">9011fcb9fb1ed63083fa10bd2ff4ee4c3c160dc53f42fc66374a711b68200f86</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/8/0/2/6/80267983d4df739c98ddf36cf4494908_1.webp?20261108055240" />
+      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/8/0/2/6/80267983d4df739c98ddf36cf4494908_1.webp?20261108055240" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/8/0/2/6/80267983d4df739c98ddf36cf4494908_1.webp?20261108055240" alt="" /&gt;&lt;/p&gt;&lt;p&gt;タマネギは腸内細菌の強い味方 北見 中村北大院教授が食育講演 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+    </item>
     <item>
       <title>「タマネギは腸内細菌の強い味方」 美幌出身、北大院・中村教授が北見で講演 腸内フローラの乱れは心と体の病気に - 47NEWS</title>
       <link>https://www.47news.jp/15197886.html</link>
@@ -1484,16 +1494,6 @@
       <guid isPermaLink="false">1eea2a801d85e65a880b73c7079c68b476dcb3f624d33a5bb541ade56ba6abc8</guid>
       <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">農林水産省</source>
       <description>&lt;p&gt;ワイン用ブドウの収穫が最盛期を迎えています：北海道農政事務所 農林水産省&lt;/p&gt;&lt;p&gt;配信元: 農林水産省&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>半導体の役割を学ぶ 北見工業高で道が出前講座 秋永教授が講演し、1、2年生76人が受講 - 北海道新聞デジタル</title>
-      <link>https://www.hokkaido-np.co.jp/article/1396737/?ref=top</link>
-      <pubDate>Mon, 26 Oct 2026 08:40:17 +0000</pubDate>
-      <guid isPermaLink="false">9b2e606f6c03fd592315ec878f485ea5e4a4cfd7d37f86734f8e71b901fe59a4</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
-      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/d/9/1/f/d91fed70aa4eb090a36a2e9ca5f98952_1.webp?20261026221031" />
-      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/d/9/1/f/d91fed70aa4eb090a36a2e9ca5f98952_1.webp?20261026221031" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/d/9/1/f/d91fed70aa4eb090a36a2e9ca5f98952_1.webp?20261026221031" alt="" /&gt;&lt;/p&gt;&lt;p&gt;半導体の役割を学ぶ 北見工業高で道が出前講座 秋永教授が講演し、1、2年生76人が受講 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
