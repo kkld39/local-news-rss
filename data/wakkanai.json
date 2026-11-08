@@ -1,5 +1,15 @@
 [
   {
+    "id": "8fb0fd812c4ddec0460211c944560ff6adea55e2a14c7ab1a4b654ba0a57d201",
+    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOcy1SUFd1VUtyNUlaMzBidWZ1X3ozc3Jja3pnSEJYS3F5bjk0cUxjMWJSSDUzVUhudmpucGZubUYzczI2MDNSY3MyWnA1Zw?oc=5",
+    "url": "https://www.fnn.jp/articles/-/1148370",
+    "title": "【北海道(宗谷地方)】11/9の天気予報 - FNNプライムオンライン",
+    "source": "FNNプライムオンライン",
+    "published": "2026-11-08T10:30:00+00:00",
+    "description": "【北海道(宗谷地方)】11/9の天気予報 FNNプライムオンライン",
+    "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
+  },
+  {
     "id": "79f70129be86c4c2cf1a7451f6acb122fe4c13c765f53e7954afe4932f1ede06",
     "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpaVBySDhEb1dhekQ0bEdiUUZ5S296R1pVMkx0ZTFpVFRoWGJ4d2pNNUVnRkNwdWIwWmU1RDMzaW1qMUwxUlFxUW9uTQ?oc=5",
     "url": "https://webun.jp/articles/-/1124824",
@@ -40,6 +50,16 @@
     "image": "https://soon.ismcdn.jp/mwimgs/7/f/1200wm/img_7f6c8952640f5792dc3b96a91a2a0fda24981.jpg"
   },
   {
+    "id": "90f4419c9db0cb4fad2f54ab6bed168a33c9aea656d76ea5d457855150843fb5",
+    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94T3hEU21pSUZnZnVUcGpaUFAtWF9OQ1VRdzg4VDZZZklZUHlNYkRZQ0sxQXo4ajM4R2lvN3p2ZjRuU1lyRk9rb1pSNEVxdDR5QS1kZDloVGs4NVJwelE?oc=5",
+    "url": "https://www.niigata-nippo.co.jp/articles/-/938433",
+    "title": "第１次南極観測隊出発７０年 「宗谷」東京・晴海から - 新潟日報",
+    "source": "新潟日報",
+    "published": "2026-11-06T21:07:22+00:00",
+    "description": "第１次南極観測隊出発７０年 「宗谷」東京・晴海から 新潟日報",
+    "image": "https://niigata-nippo.ismcdn.jp/mwimgs/7/f/1200m/img_7f6c8952640f5792dc3b96a91a2a0fda24981.jpg?rd=202611051124"
+  },
+  {
     "id": "d6617567f4181dcba64b4f717da87791339eb25e341b8a9de9183b253797cbd4",
     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDZ3NkZ3dXT1lOd1VvdDNfT19nQTUzYUJPeGc5NWttc1RjalBtSnR5SVBsRlJxbERkUkJhZlZfcXlxZlVXOWVYWWxZbDB2b0NCRmgwM0Nn?oc=5",
     "url": "https://www.nishinippon.co.jp/item/1557909/",
@@ -78,6 +98,16 @@
     "published": "2026-11-06T12:49:00+00:00",
     "description": "【波浪警報】北海道・稚内市、猿払村、豊富町などに発表 21:49時点 ｄメニューニュース",
     "image": "https://img.topics.smt.news.goo.ne.jp/picture/tbs/m_tbs-3068937.jpg"
+  },
+  {
+    "id": "434344e88379e0d55060d7d444987e7c4c4967383e77f1bd9e72bf40b7aa35cc",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04OUE5ZlF2RmVmMWxJSzk1YmlRdWxTU2JtcHVPSE11Mkpxb3pibFV0WHg1RmREU2xpNUtsM0dlWVp0cmFLVEM2R0U3Qkx0cDVuTXVSTFl6SS05Zw?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1403850/",
+    "title": "留萌・宗谷（１１月７日付）おくやみ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-06T11:30:00+00:00",
+    "description": "留萌・宗谷（１１月７日付）おくやみ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
   },
   {
     "id": "330064b79bdd59f1f6448f1dd7f98534b41e029d6c91c184d8a15f4b601033e0",
@@ -148,6 +178,16 @@
     "published": "2026-11-05T20:10:00+00:00",
     "description": "【北海道(宗谷地方)】11/6の天気予報 FNNプライムオンライン",
     "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
+  },
+  {
+    "id": "0544dfe0eb4064bf792a6397f49f17050a3e167290fc0542911524c57ac3f7e9",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pNS10VDJFQzNPaXloam1WVk00X003TnlKTm1GNUtrMm1kWTkzMWU3amlyaXh6UExaMzVBcmgtZ0VFdlJSN0xuczh0V2Z0bmNYR2VrZXZqUFBrZw?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1403328/",
+    "title": "海中転落事故 ＧＰＳで命守る 小型端末のボタン押し救助要請 宗谷管内の漁協・港湾建設業 サービス導入拡大 - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-05T19:00:00+00:00",
+    "description": "海中転落事故 ＧＰＳで命守る 小型端末のボタン押し救助要請 宗谷管内の漁協・港湾建設業 サービス導入拡大 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/f/1/1/1/f1114e8ceb2bf7e154b803a5535e9670_1.webp?20261109001255"
   },
   {
     "id": "82b5f41a83be63d90a62d3a432915236afe54564a596452efb0da04d0ee761c9",
@@ -1458,45 +1498,5 @@
     "published": "2026-11-01T10:12:26+00:00",
     "description": "特急列車がクマと衝突、運休続くＪＲ宗谷線が３日始発から運転再開へ…きょうから代行バス運行（読売新聞オンライン） Yahoo!ニュース",
     "image": "https://s.yimg.jp/images/news-web/versions/20261104-9e973ec/all/images/ogp_default.png"
-  },
-  {
-    "id": "71d8c5f490deb4e9b34a8a1b321b914d5304a1cb21927577b01ba5938519bdc4",
-    "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNjRxU1VlWFplV1dTVnRVM2FnOWlMZUJXSmxpaEtxMHh2X3pvN0dGa0ZHV2h0ZHdCVU11RHJZbGRXTVJ3RkVsSWxCRWI0ZVBhQ003bmhZVmZMd2hBTnVpaTZDekZkU1V2cFg2YmphVHl3bHEtbXJQYVpXcGlVZHpJcFE4U2Rad0VxUnZXcHNB?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/551ff6613a75420983d25cd287cce454998fce0f/images/000",
-    "title": "特急列車がクマと衝突、運休続くＪＲ宗谷線が３日始発から運転再開へ…きょうから代行バス運行 (読売新聞オンライン) - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
-    "published": "2026-11-01T10:12:26+00:00",
-    "description": "特急列車がクマと衝突、運休続くＪＲ宗谷線が３日始発から運転再開へ…きょうから代行バス運行 (読売新聞オンライン) Yahoo!ニュース",
-    "image": "https://s.yimg.jp/images/news-web/versions/20261102-efab112/all/images/ogp_default.png"
-  },
-  {
-    "id": "2f1ace4bcb8aac7feba8c5f1562dd6867c6bc0632789d70041f752c67dbda14d",
-    "google_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PSHZLVGRET3o0Vk5ta2xxb1ZlR2xxckFLMThxN2tTWjJWaE5IOXM1Q01QQ3pLWE9fWF9sNFVhbW1ZZWF0TzZRckhpa2ZxLWRXNGhaZy1MbGlXYk5udGJEOHNJbFZHUQ?oc=5",
-    "url": "https://www.yomiuri.co.jp/national/20261101-GYT1T00173/",
-    "title": "特急列車がクマと衝突、運休続くＪＲ宗谷線が３日始発から運転再開へ…きょうから代行バス運行 - 読売新聞",
-    "source": "読売新聞",
-    "published": "2026-11-01T10:11:00+00:00",
-    "description": "特急列車がクマと衝突、運休続くＪＲ宗谷線が３日始発から運転再開へ…きょうから代行バス運行 読売新聞",
-    "image": "https://www.yomiuri.co.jp/media/2026/11/20261101-GYT1I00174-1.jpg?type=ogp"
-  },
-  {
-    "id": "0b07a815dc99bdb9bd6696e0a15ab530631236ac15ab0c77e78a5a3b767f8c9e",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hYWZoWG0wSEJwVDZpTWNrb1NYU056QUR4YURGVlFOOEJ0eE9rS0VpeWNaMHVGazVzNmFIVGlDVTlPc0lxbHJhVnI4SDJpWkRHWXRqT0lYRV91Zw?oc=5",
-    "url": "https://www.htb.co.jp/news/archives_40256.html",
-    "title": "運転再開へ 特急列車とクマが衝突して脱線 宗谷線 １１月３日の始発から運転再開 HTB北海道ニュース - HTB 北海道テレビ",
-    "source": "HTB 北海道テレビ",
-    "published": "2026-11-01T09:25:00+00:00",
-    "description": "運転再開へ 特急列車とクマが衝突して脱線 宗谷線 １１月３日の始発から運転再開 HTB北海道ニュース HTB 北海道テレビ",
-    "image": "https://www.htb.co.jp/news/photo/40256_52213.jpg"
-  },
-  {
-    "id": "99648162ca327bcef8bdf8f078a53aa3a252fcb31a8b96da7ba3fe72b49503d9",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12bzZzNWU3bXFPT2NKVy1SanVXdzRXTThETHBTdkpUX1RJdC05Z2JIZE5CWU9yTW9IaXRqSlZ1d1F6Mkh0X0h4Qm81NThYSk9COFNOYktaNWZLRnJJdE9pMEV3dFNfSjRWRE93TmJfZmRvX3NRVlVrVnRvT3NoT2M?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/8e1d40441d1550b033e7993507c9b50671a4e813",
-    "title": "クマ衝突で特急脱線のJR宗谷線が3日始発から運転再開へ 2日までに車両移動と復旧作業が終わる見通し JR北海道 - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
-    "published": "2026-11-01T09:22:13+00:00",
-    "description": "クマ衝突で特急脱線のJR宗谷線が3日始発から運転再開へ 2日までに車両移動と復旧作業が終わる見通し JR北海道 Yahoo!ニュース",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261101-23054283-hbcv-000-1-thumb.jpg?exp=10800"
   }
 ]
