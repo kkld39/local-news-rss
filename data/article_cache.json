@@ -433,13 +433,6 @@
     "next_retry": "2026-11-02T15:09:44.754477+00:00",
     "url": "https://www.fnn.jp/articles/-/1144118"
   },
-  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00dTFwQzNKWlVBamlDejJ4dU9jcGw1cnBTZWgwVWZ6RnFxNHRYMC11YWJ2V2VPQnpaNVRsNnprSndPQjJTYndnbHFsYWlhYktnaDI4?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://esports-world.jp/images/upload/2026/10/4a4c9d73d27acace51a5ded8c7f8108f.jpg",
-    "next_retry": "2026-10-22T04:48:09.382868+00:00",
-    "url": "https://esports-world.jp/tournament/67185"
-  },
   "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13Tl9PUVdKbVdlNUw2U2dienFYaHlSTjBOQkFNVHVjZmtBX2hOdFZlNk9aTjVDZXlNa2JDWmJQWWVJTHBoRERzVjFnd2laaWNqVFJN?oc=5": {
     "attempts": 1,
     "error": null,
@@ -1009,6 +1002,13 @@
     "next_retry": "2026-11-05T17:16:09.443075+00:00",
     "url": "https://www.hokkaido-np.co.jp/article/1402120/"
   },
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tZ0p0UGdqM2RWaXI1RnhMZFYyX3lucEMtSVR5cmtHSTBaUTItQmhzV3NCUjNFUU43TWRkWnpvc0NyZ3UzR2RLclNraWp1dEo4YW5lempySFRIdw?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg",
+    "next_retry": "2026-11-09T23:42:58.409779+00:00",
+    "url": "https://www.hokkaido-np.co.jp/article/1403849/"
+  },
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vV2ZIZUJuczhtaXBqZHBVdndPZksyRUoxTjN6bHI5Y1REWVNaVWw0eDdCUy12RnpCQnhPUVZCTEJUTVQ2VFVFcGFsWTNMbTdJemU5VjJlcGZtdw?oc=5": {
     "attempts": 1,
     "error": null,
@@ -1043,13 +1043,6 @@
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/3/9/5/9/3959f5372095255ac7641d454820990b_1.webp?20261105021750",
     "next_retry": "2026-11-05T17:16:09.443075+00:00",
     "url": "https://www.hokkaido-np.co.jp/article/1402102/"
-  },
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85QmNsNGJ1WjdweU0taFRKX0ZkUWNQYWtLUHk0ejhHNTJ6a0IxOEdsZEg2WmVQbk9yUFlwOUd0WkpiZTBpOGFyaEExMWgxMmJLcWRWQ25zX2VOQQ?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://static.hokkaido-np.co.jp/image/ogp/category/1200x630/3/f15068739941eadda7738ac54954a4d5.jpg?20261027193510",
-    "next_retry": "2026-10-28T10:34:45.849353+00:00",
-    "url": "https://www.hokkaido-np.co.jp/article/1397366"
   },
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85eGMxeTdiRDFNOHozSklQbUtCTnNZNFdRN0pDV2xhX09XYmlKLXV6RXNkRlhTMEVVSmxOdktQT1pjX0xhS0JueE0yajJFb1FtZncyQnFGc0FEZw?oc=5": {
     "attempts": 1,
@@ -2395,6 +2388,13 @@
     "error": "ValueError: HTTP 404",
     "next_retry": "2026-11-03T05:41:20.667565+00:00",
     "url": "https://topics.smt.docomo.ne.jp/article/tokyo/region/tokyo-523798"
+  },
+  "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mdkM3MVJxV014X3RsZ0kzejRxNXRQUFR4RkF3TThyZWpKYVdOd0ttQ3FCRkJ1WDFTR1ctdDdGYXBnb21rXzJGQVNIOThqaFZodFl3WWNRS3oxWmQtQkVoazIwOW9jS2IwOUVsVUgwY0J6em8?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/11/tama_cinema_forum_2026.jpg",
+    "next_retry": "2026-11-09T23:42:58.409779+00:00",
+    "url": "https://tama-inagi.goguynet.jp/2026/11/09/tama_cinema_forum_2026/"
   },
   "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zSGc4ZjRkLWc5NXlHOEhGRkdmUnRHRm0xaGk3Ry1wX3lBWWpPS3NOQklxWnhJdm5fVGtDMGk0SU5Fc2pORE9HZmFqRmI5RFFRSFEwR2s2VEJYOTBteF9MdzVkMVhVUGhKWmFjNGZPQkM?oc=5": {
     "attempts": 3,

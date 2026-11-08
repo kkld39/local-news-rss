@@ -40,16 +40,6 @@
     "image": "https://img.cf.47news.jp/public/photo/a1c22a2fc685850954784b9d87753b58/photo.jpg"
   },
   {
-    "id": "6984d37b4571f672e756e2d193faa3fa6bce0e89777e7053bf249103659397b4",
-    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaSk9kVTk1aUR4Y0ZhYmJTTkpsN08tYkp5T2pSZUwtRW5qY1RNYWVKT1lKeS0zUmpMaEdaR1ZxTTREdHFnd1d1ZHpqWjRDQ0FiV2taMkxuRlE?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1403673/",
-    "title": "財政危機の北見市 団地の草刈り代さえ惜しい 広すぎるマチ、進む行政サービスの縮小 - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-11-08T01:04:00+00:00",
-    "description": "財政危機の北見市 団地の草刈り代さえ惜しい 広すぎるマチ、進む行政サービスの縮小 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/3/7/a/9/37a9c8d3696f9b9f36258d059d3d4640_1.webp?20261108161805"
-  },
-  {
     "id": "a66fdaa4505c3c4bbaef60ac0b2b684435b8ceb1602888fe1bb91d7d62b99c5b",
     "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lc0hPcnZlSUJsTUtwdTR1ZnE1amVuNkZLcWYxU0NFVzJ4NHR6YWU4cXR6NUhLcGpCOFdXb0NLYy1yWExtTF9MSXgtUQ?oc=5",
     "url": "https://www.47news.jp/15200227.html",
@@ -60,14 +50,14 @@
     "image": "https://img.cf.47news.jp/public/photo/8d2862567a69b3df6caaebb0b37279bb/photo.jpg"
   },
   {
-    "id": "7c34f1022368ac377fafc55917dd9804f9a2378a1bc529c5839732b84cc8f879",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xZVQ3Snp6MUVnZWRoMDk3Y0RmU1EtYzA0aGgyTGhEZW5OZGo3NkZscDR6QmVwSmtHLXE5Yk83aTI0bVZLUERpQU4xSQ?oc=5",
-    "url": "https://www.47news.jp/15200219.html",
-    "title": "人口減・財政難の北見市 道外先進地に学ぶヒント「選ぶ、任せる、対話する」 - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-11-08T01:00:00+00:00",
-    "description": "人口減・財政難の北見市 道外先進地に学ぶヒント「選ぶ、任せる、対話する」 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/154fa3b83ad88fb3f6ea71d0a32abb2a/photo.jpg"
+    "id": "6984d37b4571f672e756e2d193faa3fa6bce0e89777e7053bf249103659397b4",
+    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaSk9kVTk1aUR4Y0ZhYmJTTkpsN08tYkp5T2pSZUwtRW5qY1RNYWVKT1lKeS0zUmpMaEdaR1ZxTTREdHFnd1d1ZHpqWjRDQ0FiV2taMkxuRlE?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1403673/",
+    "title": "財政危機の北見市 団地の草刈り代さえ惜しい 広すぎるマチ、進む行政サービスの縮小 - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-08T01:04:00+00:00",
+    "description": "財政危機の北見市 団地の草刈り代さえ惜しい 広すぎるマチ、進む行政サービスの縮小 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/3/7/a/9/37a9c8d3696f9b9f36258d059d3d4640_1.webp?20261108161805"
   },
   {
     "id": "af41addcb6470a46403715f36618ebf7582e1916ec59ca39ddf6d57df60da6a1",
@@ -78,6 +68,16 @@
     "published": "2026-11-08T01:00:00+00:00",
     "description": "人口減・財政難の北見市 道外先進地に学ぶヒント「選ぶ、任せる、対話する」 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/0/1/3/3/01335cf3d5db8ca6d6f856001d19680d_1.webp?20261108161806"
+  },
+  {
+    "id": "7c34f1022368ac377fafc55917dd9804f9a2378a1bc529c5839732b84cc8f879",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xZVQ3Snp6MUVnZWRoMDk3Y0RmU1EtYzA0aGgyTGhEZW5OZGo3NkZscDR6QmVwSmtHLXE5Yk83aTI0bVZLUERpQU4xSQ?oc=5",
+    "url": "https://www.47news.jp/15200219.html",
+    "title": "人口減・財政難の北見市 道外先進地に学ぶヒント「選ぶ、任せる、対話する」 - 47NEWS",
+    "source": "47NEWS",
+    "published": "2026-11-08T01:00:00+00:00",
+    "description": "人口減・財政難の北見市 道外先進地に学ぶヒント「選ぶ、任せる、対話する」 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/154fa3b83ad88fb3f6ea71d0a32abb2a/photo.jpg"
   },
   {
     "id": "9011fcb9fb1ed63083fa10bd2ff4ee4c3c160dc53f42fc66374a711b68200f86",
@@ -128,6 +128,16 @@
     "published": "2026-11-06T19:00:00+00:00",
     "description": "海鮮料理が売り 居酒屋オープン 北見に道内1号店 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/1/d/2/5/1d2526d6dad61859fa5724bf9e0a3c22_1.webp?20261107080901"
+  },
+  {
+    "id": "801f6ddea30508c91fe8b268782eceacefacfcd6c207ee064db3561917468447",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tZ0p0UGdqM2RWaXI1RnhMZFYyX3lucEMtSVR5cmtHSTBaUTItQmhzV3NCUjNFUU43TWRkWnpvc0NyZ3UzR2RLclNraWp1dEo4YW5lempySFRIdw?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1403849/",
+    "title": "北見・オホーツク（１１月７日付）おくやみ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-06T11:30:00+00:00",
+    "description": "北見・オホーツク（１１月７日付）おくやみ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
   },
   {
     "id": "f7a8b24a5076d23e2c105f33f3dc0e9818b8af80e0dd186b394135230da169cb",
@@ -1488,15 +1498,5 @@
     "published": "2026-10-27T07:00:00+00:00",
     "description": "北見工業大学講堂「五島慶太ホール」命名記念講演会を開催します 北見工業大学",
     "image": "https://www.kitami-it.ac.jp/wp-content/uploads/2023/03/KIT_exterior-scaled.jpg"
-  },
-  {
-    "id": "09f6336ae7d749e676b7268c96e31ec16c78005215a4c4006efa48119b873091",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85QmNsNGJ1WjdweU0taFRKX0ZkUWNQYWtLUHk0ejhHNTJ6a0IxOEdsZEg2WmVQbk9yUFlwOUd0WkpiZTBpOGFyaEExMWgxMmJLcWRWQ25zX2VOQQ?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1397366",
-    "title": "交通遺児支援 11月4日に北ガス市民ホールで「呉美の市」 着物や帯など販売 - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-10-27T06:24:43+00:00",
-    "description": "交通遺児支援 11月4日に北ガス市民ホールで「呉美の市」 着物や帯など販売 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/image/ogp/category/1200x630/3/f15068739941eadda7738ac54954a4d5.jpg?20261027193510"
   }
 ]
