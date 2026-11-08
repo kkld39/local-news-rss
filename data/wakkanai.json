@@ -470,16 +470,6 @@
     "image": "https://image.gallery.play.jp/stv-news/articles/8da36548893a4080a11ea3d3d096c5e3/53aa3b00-8907-44ba-9613-bb584c447347.jpg?w=1200"
   },
   {
-    "id": "c89a5cb870a94bcd51d30ba14d3cf2995faaa524f74e6360b5dc15f5d28e07c7",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zZmZVbE5PQTc1V0V6X0RCdm5BRkt1bE1lMXRZUWdxcXkta2VQRDQ5eXhtMTREd21sREVRWGVPaGVUdkwybEJwVWZ5Q0I4NVByZE1ZZDBkU0pvSzNXbkl3S3g1YWJ0NUpLUVV5a291NjNWaV9Nb1BtQmFaVC05cFU?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/551ff6613a75420983d25cd287cce454998fce0f",
-    "title": "特急列車がクマと衝突、運休続くＪＲ宗谷線が３日始発から運転再開へ…きょうから代行バス運行（読売新聞オンライン） - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
-    "published": "2026-11-04T02:05:00+00:00",
-    "description": "特急列車がクマと衝突、運休続くＪＲ宗谷線が３日始発から運転再開へ…きょうから代行バス運行（読売新聞オンライン） Yahoo!ニュース",
-    "image": "https://s.yimg.jp/images/news-web/versions/20261104-9e973ec/all/images/ogp_default.png"
-  },
-  {
     "id": "dae79bbc61e2866e3e8a0a5f4b74cd4a557f31dcb52ba66aae567da9329600ff",
     "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yMm56Q19BMUhIWm1Pc2g0cU80enFDM1lEU21PeDlBaEpBcENPN2V6YUVSYjBVV0pqXzM1WmNWd1k2SmFJMDB6YmFIdDdyc0xNZ2dObU52U1d3M1ROQUItLVpheGpuV2NSMkRNbjFIck01d0hlYWVUeTRQVVVPdVk?oc=5",
     "url": "https://news.yahoo.co.jp/articles/f5a6c2edad1deb72a85cbe0509676d3f7eb18957",
@@ -828,6 +818,16 @@
     "published": "2026-11-03T06:57:00+00:00",
     "description": "【速報】クマと衝突 特急脱線で運転見合わせのJR宗谷線 音威子府〜稚内 4日に運転再開へ JR北海道が発表 ｄメニューニュース",
     "image": "https://img.topics.smt.news.goo.ne.jp/picture/hbc/m_hbc-3058352.jpg"
+  },
+  {
+    "id": "31bd320709d294b3fc5227a91b6f949fddf2f8e1db807d50b155a5da8478047d",
+    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MbkpYSzR6dlZWeGR2cHpSN1otVUM5UnY1alNCR3EwV2dxMElHMm9tZlM5ZS1rdVVyRFpRcXpiZjRtVWxoM1czdTRwam8tQWc3dXJyMGdlWQ?oc=5",
+    "url": "https://www.uhb.jp/news/single.html?id=63314",
+    "title": "【クマと衝突のJR宗谷線】復旧は11月4日以降に延期～3日に運転再開の予定だったが…車体支える「空気バネ」の故障判明で車両動かせず→バス代行運転続く〈北海道〉 - UHB 北海道文化放送",
+    "source": "UHB 北海道文化放送",
+    "published": "2026-11-03T04:40:41+00:00",
+    "description": "【クマと衝突のJR宗谷線】復旧は11月4日以降に延期～3日に運転再開の予定だったが…車体支える「空気バネ」の故障判明で車両動かせず→バス代行運転続く〈北海道〉 UHB 北海道文化放送",
+    "image": "https://www.uhb.jp/news/data/63314/image.jpg?v=1793674874"
   },
   {
     "id": "c8e6e2aa7ee2402031cbb1aa6c9181d0e13b7f9e09600bd67a4c7d371dddc6e7",
@@ -1450,6 +1450,16 @@
     "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69260/20261101de69260_E0000133137_1_l.jpg"
   },
   {
+    "id": "c89a5cb870a94bcd51d30ba14d3cf2995faaa524f74e6360b5dc15f5d28e07c7",
+    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zZmZVbE5PQTc1V0V6X0RCdm5BRkt1bE1lMXRZUWdxcXkta2VQRDQ5eXhtMTREd21sREVRWGVPaGVUdkwybEJwVWZ5Q0I4NVByZE1ZZDBkU0pvSzNXbkl3S3g1YWJ0NUpLUVV5a291NjNWaV9Nb1BtQmFaVC05cFU?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/551ff6613a75420983d25cd287cce454998fce0f",
+    "title": "特急列車がクマと衝突、運休続くＪＲ宗谷線が３日始発から運転再開へ…きょうから代行バス運行（読売新聞オンライン） - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-11-01T10:12:26+00:00",
+    "description": "特急列車がクマと衝突、運休続くＪＲ宗谷線が３日始発から運転再開へ…きょうから代行バス運行（読売新聞オンライン） Yahoo!ニュース",
+    "image": "https://s.yimg.jp/images/news-web/versions/20261104-9e973ec/all/images/ogp_default.png"
+  },
+  {
     "id": "71d8c5f490deb4e9b34a8a1b321b914d5304a1cb21927577b01ba5938519bdc4",
     "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNjRxU1VlWFplV1dTVnRVM2FnOWlMZUJXSmxpaEtxMHh2X3pvN0dGa0ZHV2h0ZHdCVU11RHJZbGRXTVJ3RkVsSWxCRWI0ZVBhQ003bmhZVmZMd2hBTnVpaTZDekZkU1V2cFg2YmphVHl3bHEtbXJQYVpXcGlVZHpJcFE4U2Rad0VxUnZXcHNB?oc=5",
     "url": "https://news.yahoo.co.jp/articles/551ff6613a75420983d25cd287cce454998fce0f/images/000",
@@ -1488,15 +1498,5 @@
     "published": "2026-11-01T09:22:13+00:00",
     "description": "クマ衝突で特急脱線のJR宗谷線が3日始発から運転再開へ 2日までに車両移動と復旧作業が終わる見通し JR北海道 Yahoo!ニュース",
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261101-23054283-hbcv-000-1-thumb.jpg?exp=10800"
-  },
-  {
-    "id": "4ce2b570353c191bf5115b910cdc6770dcc525448ec2a40dfb749a888b8b4f35",
-    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmZ1hDbVE0Ny1JeXgtajlWQ2pHc3lvdXUzVUcydUNBNF9SS2RFc25xSXJsd2NVSU42N05uUEQwTFNSOFgyRmZ4OTFHN09HTnZKWnBZSEd0QnBoa3ZIb3lxZGk2NFpKQ2M?oc=5",
-    "url": "https://newsdig.tbs.co.jp/articles/-/3054283",
-    "title": "クマ衝突で特急脱線のJR宗谷線が3日始発から運転再開へ 2日までに車両移動と復旧作業が終わる見通し JR北海道 - TBS NEWS DIG",
-    "source": "TBS NEWS DIG",
-    "published": "2026-11-01T09:06:00+00:00",
-    "description": "クマ衝突で特急脱線のJR宗谷線が3日始発から運転再開へ 2日までに車両移動と復旧作業が終わる見通し JR北海道 TBS NEWS DIG",
-    "image": "https://newsdig.ismcdn.jp/mwimgs/6/f/1200w/img_6f93c0170f646ecf782d7f7840b107741237325.jpg"
   }
 ]
