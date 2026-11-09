@@ -1,5 +1,15 @@
 [
   {
+    "id": "fdd3ad4bb944364882c2e8509e14bd11c7606898765c4e127f1080db66bf617d",
+    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4ya3F3LXhCbVlNRkpmRFZZZ2RlS2VTVzU0eG9ESGxuQS1kdTB5cElPS1REaVNxZFRUVUY1dnZfRnJPaDNQUk1xclltekJvVS1WZXh6ZlFqX3BUNk9iWHFUVWIxOTZGVm15?oc=5",
+    "url": "https://mainichi.jp/articles/20261109/pr1/00m/020/094000c",
+    "title": "［朗報！オープン前から問い合わせ殺到］究極の食パン「ミヤビ」のカフェ多摩センター駅前に11/10オープン!（PR TIMES） - 毎日新聞",
+    "source": "毎日新聞",
+    "published": "2026-11-09T04:52:57+00:00",
+    "description": "［朗報！オープン前から問い合わせ殺到］究極の食パン「ミヤビ」のカフェ多摩センター駅前に11/10オープン!（PR TIMES） 毎日新聞",
+    "image": "https://cdn.mainichi.jp/vol1/2026/11/09/20261109pr100m020094000p/0c10.jpg?2"
+  },
+  {
     "id": "32b97473b6c9312d75c15cd5629d15de9cd26234caea2e3cafe7a22a1f65b684",
     "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KN1dyVk9kanRidHkwUXIza3gzNmYwSkZnbEZaQVhpcWZvbmQySmNYSWZJaXdzX0NwMTB6TVJfS1N2YnJSUlZRb09yZ2gzUkQ3UFYxR0o3M2JZOFZocDQwUjdEc3ptZzB1V0NETVpza3RVOEst?oc=5",
     "url": "http://www.excite.co.jp/news/article/Prtimes_2026-11-09-11586-386/",
@@ -8,6 +18,16 @@
     "published": "2026-11-09T04:45:00+00:00",
     "description": "【朗報！オープン前から問い合わせ殺到】究極の食パン「ミヤビ」のカフェ多摩センター駅前に11/10オープン! Excite エキサイト",
     "image": null
+  },
+  {
+    "id": "f89ac2d17ba59173d9cefe4e6d1e40d3278629ffe5bc7c5a31ccde56f3e6925b",
+    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIVi1YdHUtQnYtenVyQVo3U1A0S2xIelJaTHZrdGNQOVJvVmxLcXlXcDBsY2lDTUNvN19vRWtCVnlCaFhHalM3eTJzZXlPWDJua1FhVHpWMDZqZzg4SFVIUGp5MUl5U20ycnZjcGJR?oc=5",
+    "url": "https://article.auone.jp/b80209b1-3cf5-4dbc-a815-7791b83ae367",
+    "title": "地域防犯に一体 駅伝パトロール 多摩市 - au Webポータル",
+    "source": "au Webポータル",
+    "published": "2026-11-09T02:01:20+00:00",
+    "description": "地域防犯に一体 駅伝パトロール 多摩市 au Webポータル",
+    "image": "https://portal.auone.jp/media/thumbnails/2026/11/09/https___news_jp_i_1492343768895259460_w1200.webp"
   },
   {
     "id": "c02c27902145f78eb5f6b543800a493119ee70ac50c90c80af77275627037d83",
@@ -28,6 +48,16 @@
     "published": "2026-11-09T01:00:00+00:00",
     "description": "第２回多摩市農業祭　28日、市役所地下駐車場〈多摩市〉 ｄメニューニュース",
     "image": "https://img.topics.smt.news.goo.ne.jp/-/20261028100531/img/dmenu_service-brand-logo_200x200.png"
+  },
+  {
+    "id": "8d86b1b7cc9c2f4ccc83f872aebe2f50ea1842ca42c94511f762912c44548b17",
+    "google_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51NkF3clRPclZVa1NuNmY3Q1Y5TkFBMTZDTERRaXdqOGxxRFoxWHp2WlNCWVdhTGU4MGpPMnpnXzc4ZnlZcWhoY09Od1ZEdnFwMGk0WjZTSTd4Vm93STQwVFI0bzRjQQ?oc=5",
+    "url": "https://tamapon.com/2026/11/09/keio-biz-plaza-closeday/",
+    "title": "KEIO BIZ PLAZA多摩センターが11/30(月)閉店へ。府中店も同日閉店で全店舗が営業終了 - 多摩ポン",
+    "source": "多摩ポン",
+    "published": "2026-11-09T00:47:51+00:00",
+    "description": "KEIO BIZ PLAZA多摩センターが11/30(月)閉店へ。府中店も同日閉店で全店舗が営業終了 多摩ポン",
+    "image": "https://tamapon.com/wp-content/uploads/2026/11/IMG_0987.jpeg"
   },
   {
     "id": "c52a23011a4c081e0eb8ec3c5a67383b6e2459305cb3d6b5527ab07564d4403a",
@@ -350,16 +380,6 @@
     "image": "https://www.townnews.co.jp/0306/images/a001486803_03.jpg"
   },
   {
-    "id": "e7e308df7d84f06d306d0a09e03b73791923a5c89e6a6b72e8c5f9816dafcee9",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91cHdJNzdmM2FSOWNKcHZyWkFpeGNWWnF5WEgxWjV2dVI3djRodVZDU3V2alRYeHdZN2llc0hFYTE0TU5SUGVheHl6VXVNZE9IWk1DLXc3bl8xMjJxbGpRVVY3MWU?oc=5",
-    "url": "https://www.townnews.co.jp/0306/2026/11/05/860113.html",
-    "title": "専門家招き教育講座 30日、ベルブホール - タウンニュース",
-    "source": "タウンニュース",
-    "published": "2026-11-04T15:00:00+00:00",
-    "description": "専門家招き教育講座 30日、ベルブホール タウンニュース",
-    "image": "https://www.townnews.co.jp/0306/images/a001487048_02.jpg"
-  },
-  {
     "id": "cef4bb78d3f81247c0420e400bff33ca8de2b4f42932865fe3e6b572582daaff",
     "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RZVBKU1BackM3Q0w0bFJSZ1d6YTU3LW02VWk5bzNHbEZjVHFFMGx4cldpWlN3amFYSUJPX2V5QTBmXzhlZFp4QUtrZ1hpbmt0aHNzcFNiaVNZdE5uTExMMEVsb0o?oc=5",
     "url": "https://www.townnews.co.jp/0306/2026/11/05/860122.html",
@@ -368,6 +388,16 @@
     "published": "2026-11-04T15:00:00+00:00",
     "description": "市立中央図書館 グッドデザイン賞受賞 京王電鉄の新型車両も タウンニュース",
     "image": "https://www.townnews.co.jp/0306/images/a001487329_04.jpg"
+  },
+  {
+    "id": "e7e308df7d84f06d306d0a09e03b73791923a5c89e6a6b72e8c5f9816dafcee9",
+    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91cHdJNzdmM2FSOWNKcHZyWkFpeGNWWnF5WEgxWjV2dVI3djRodVZDU3V2alRYeHdZN2llc0hFYTE0TU5SUGVheHl6VXVNZE9IWk1DLXc3bl8xMjJxbGpRVVY3MWU?oc=5",
+    "url": "https://www.townnews.co.jp/0306/2026/11/05/860113.html",
+    "title": "専門家招き教育講座 30日、ベルブホール - タウンニュース",
+    "source": "タウンニュース",
+    "published": "2026-11-04T15:00:00+00:00",
+    "description": "専門家招き教育講座 30日、ベルブホール タウンニュース",
+    "image": "https://www.townnews.co.jp/0306/images/a001487048_02.jpg"
   },
   {
     "id": "2eb217b26ab85709214690049a48622edc3538b17ec74b28b2855ffc04b43864",
@@ -1468,35 +1498,5 @@
     "published": "2026-10-21T15:00:00+00:00",
     "description": "多摩童謡友の会 歌唱活動続け40年 来月節目 ｢童謡のつどい｣ タウンニュース",
     "image": "https://www.townnews.co.jp/0306/images/a001484423_04.jpg"
-  },
-  {
-    "id": "1be9001696fa07688fa1002b6a78588c08ca671e51aa33d478faa0ec0787f17d",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55czZuY01QajE3aTc1REtrRTdHblJndElxSXFHdlo1LXdJOXN2aXFXUDBkcURrbjFmZEJYVEJ5RmhENzdMTDN4SDYyMkpTWGkwRExKaFVEM1hBQ2xSb3dIXzBOTV8?oc=5",
-    "url": "https://www.townnews.co.jp/0306/2026/10/22/858435.html",
-    "title": "落合夏祭盆踊り、にぎわう 多摩センターで - タウンニュース",
-    "source": "タウンニュース",
-    "published": "2026-10-21T15:00:00+00:00",
-    "description": "落合夏祭盆踊り、にぎわう 多摩センターで タウンニュース",
-    "image": "https://www.townnews.co.jp/0306/images/a001484837_02.jpg"
-  },
-  {
-    "id": "bb7ea265398114c1a5ddf632f8a0f645c7a81096cd601e06b8c0670c3663df10",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ycHhuT1RuR3dYMU9VVXBQQk1GVnhycjNKaXRVVWRYU2NuUlBRbGhuWDI2UjlTc0w3cFB2cDVZVWVJa2lNMzNFWnpPSFpKdkhLaTJ2Q0p2Vk53Qm1RZG0zNFdLWWs?oc=5",
-    "url": "https://www.townnews.co.jp/0306/2026/10/22/858442.html",
-    "title": "緑ケ丘幼稚園 運動会で園児が躍動 同園初 人工芝で開催 - タウンニュース",
-    "source": "タウンニュース",
-    "published": "2026-10-21T15:00:00+00:00",
-    "description": "緑ケ丘幼稚園 運動会で園児が躍動 同園初 人工芝で開催 タウンニュース",
-    "image": "https://www.townnews.co.jp/0306/images/a001484296_02.jpg"
-  },
-  {
-    "id": "5f0c88f20649235df0cf0a4879651eea5830e24def6cd48216ad07727730ccaf",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRUTF1bXloMlZnd19lb2ZzV1F0cVhDaldNS3N4NHhVT2xkMzhHR0cxUlppOXdNNE1OeGs3Q1RtOFhBMmc1Y0VPQmtWMWo4ekR3dkpSbl85TmYyQy1HR3NSRDl4ekY?oc=5",
-    "url": "https://www.townnews.co.jp/0306/2026/10/22/858433.html",
-    "title": "最後の学園祭 11月８日、恵泉女学園大学 - タウンニュース",
-    "source": "タウンニュース",
-    "published": "2026-10-21T15:00:00+00:00",
-    "description": "最後の学園祭 11月８日、恵泉女学園大学 タウンニュース",
-    "image": "https://www.townnews.co.jp/0306/images/a001484655_03.jpg"
   }
 ]
