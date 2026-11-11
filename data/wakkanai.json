@@ -1,5 +1,35 @@
 [
   {
+    "id": "6f488ce3562a4f843e50ca79a216b912d7916eb7a0b772ca0987c620f370bb7d",
+    "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QR0tQLVJsXzFYTnM5X2cyTkNTUXlnXzFLVmpDYlRJTDNGZm9oVk9yZUU5Mi10anZLM0FKMFc4NkdOdXJBUGVPUl9IT0llOURCZW1GdUloNExhNUx4V2ZGdjhVMVZ5MUJScUFQVdIBckFVX3lxTE0tNUxnWHF6bW9lQWxqNVR6Mi1OLW1sOWxsSDJaVjdYaGhDZ3duZThTMVRtNXJxR0ZCbkliUXFfRE5zdzI1UWwwcjdIM1VDaU1hcHBUZGRmTHdpU3Z6clN0b1R6NlAzcEc5SHdmeVJBNTBqZw?oc=5",
+    "url": "https://topics.smt.docomo.ne.jp/article/htb/region/htb-39980",
+    "title": "【速報】北海道稚内市の建設会社のプレハブから出火　激しい炎と煙が上がる - ｄメニューニュース",
+    "source": "ｄメニューニュース",
+    "published": "2026-11-11T05:45:00+00:00",
+    "description": "【速報】北海道稚内市の建設会社のプレハブから出火　激しい炎と煙が上がる ｄメニューニュース",
+    "image": "https://img.topics.smt.news.goo.ne.jp/picture/htb/m_htb-39980.jpg"
+  },
+  {
+    "id": "eb7a02f02f959e8d000447212f4efa8c16f4e593651b908ed5379a75f216b92c",
+    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EQTJ0WlFPUlQwcWR2TU5jOHhOMWdWS3pXUlNoeUduX0g3RHl1a0h6a001Ymo5Rm5aOGNtcmxGMTM5NmhfNFpGaG5tWUhXV19CM2xCeGl6UnptV3hjQ2N1a2NDckg5b0IzNE1UbXZ3?oc=5",
+    "url": "http://www.excite.co.jp/news/article/stv_1493121367630086473/",
+    "title": "【速報】「黒い煙が見える」プレハブ小屋のようなものが燃えているか 消火活動中 北海道稚内市 - Excite エキサイト",
+    "source": "Excite エキサイト",
+    "published": "2026-11-11T05:31:00+00:00",
+    "description": "【速報】「黒い煙が見える」プレハブ小屋のようなものが燃えているか 消火活動中 北海道稚内市 Excite エキサイト",
+    "image": null
+  },
+  {
+    "id": "acb904cea2bb92536c2417d357ceb0b5fc32543b28ee34f2856c84798a756572",
+    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16enBqS1hxNzJEQjVVTDE2dXVQNmI5ZEt0VDFHbHF5ck00Z2M1dWNFdG4tcUlXQjBaQkZibndMUWdoMTNqNVN1SVJzNmw2eXdwUXdRY1g2Tld2ZWhqaEk3Qk9ybnN3WmFRMEljYm9Nb2tJSlJUS1FFeUY5QXM1b0k?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/189a6a5935120cd386fe7f12cfbf22f4123dce91",
+    "title": "【速報】「黒い煙が見える」プレハブ小屋のようなものが燃えているか 消火活動中 北海道稚内市 - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-11-11T05:29:01+00:00",
+    "description": "【速報】「黒い煙が見える」プレハブ小屋のようなものが燃えているか 消火活動中 北海道稚内市 Yahoo!ニュース",
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261111-09127187-stv-000-1-view.jpg?exp=10800"
+  },
+  {
     "id": "9eeef1decb2a48d7d14a6ac978fcebb94abf03403e0735d2de79d50610a4a802",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PWUVkdU9oMm9VTmY5b09HNmFCWTdwZmhtb3pZOF9TSXNINFJQaDBpMDFpZWdiTndyTXlSVGdTem5xNE1KVkxKa1ZtZ1lJb0J2SnVCbkNDWS1UUQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1406045/",
@@ -210,16 +240,6 @@
     "image": "https://www.uhb.jp/news/data/63466/image.jpg?v=1794194686"
   },
   {
-    "id": "e286638ea3beb2b96b5afbb3bb7ce0cf4286656edda68d4c60501634dffbecde",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VYmlqMzIxNTVJVzktbkJObk8wcTJYd29qbWNhWnhRdjZhRnh3WDdyU0VTaFpvWGREdGswN1BPNk5oX3c3VmNyTm8xWUNNNnhKTnFWemR2SGJldw?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1404802/",
-    "title": "JR宗谷線あり方議論、名寄でWG初会合 自治体、通院の足の重要性訴える - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-11-09T02:47:36+00:00",
-    "description": "JR宗谷線あり方議論、名寄でWG初会合 自治体、通院の足の重要性訴える 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/8/4/b/c/84bc5c018c97f7f80e956c1b3aff32e6_1.webp?20261109152732"
-  },
-  {
     "id": "ede7ec128d3f5859e00314819b6a6ac4b1d37c1bf29e500aaf782424c84d2de6",
     "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uMG5FX2xmZURzTlBIV1RxNXowUldHVnBXVjlXZ2JLMzFFQ1ZvQ3RRRmxCdkZieTF2NDl0TzJ0SEhNdjVicHlEVDF1dw?oc=5",
     "url": "https://www.47news.jp/15204041.html",
@@ -228,6 +248,16 @@
     "published": "2026-11-09T02:47:36+00:00",
     "description": "JR宗谷線のあり方議論、名寄でWG初会合 運輸局「役割認識を共有する場に」 47NEWS",
     "image": "https://img.cf.47news.jp/public/photo/1692e3e7eafebe8e4c21d3b0a3bd22b4/photo.jpg"
+  },
+  {
+    "id": "e286638ea3beb2b96b5afbb3bb7ce0cf4286656edda68d4c60501634dffbecde",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VYmlqMzIxNTVJVzktbkJObk8wcTJYd29qbWNhWnhRdjZhRnh3WDdyU0VTaFpvWGREdGswN1BPNk5oX3c3VmNyTm8xWUNNNnhKTnFWemR2SGJldw?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1404802/",
+    "title": "JR宗谷線あり方議論、名寄でWG初会合 自治体、通院の足の重要性訴える - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-09T02:47:36+00:00",
+    "description": "JR宗谷線あり方議論、名寄でWG初会合 自治体、通院の足の重要性訴える 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/8/4/b/c/84bc5c018c97f7f80e956c1b3aff32e6_1.webp?20261109152732"
   },
   {
     "id": "8fb0fd812c4ddec0460211c944560ff6adea55e2a14c7ab1a4b654ba0a57d201",
@@ -690,6 +720,16 @@
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-23059556-hbcv-000-2-thumb.jpg?exp=10800"
   },
   {
+    "id": "ec711536f9fceaa21a065780c435d07bdf8f7712b0adfe299b5207ffae56483a",
+    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vbnZDV1JMQ0RlZnotLVhqWk5EUGVkd0pRYkNHOGZRREY5Y2laV0ZVWHJMMGdBek1kS1FZdC14N01kTlY0RHJ3TFlYbFBURUhNbi1XSU5PQ0c?oc=5",
+    "url": "https://www.qab.co.jp/quebee/video/000545077/",
+    "title": "北海道 JR宗谷線が全線復旧 10月30日にクマと衝突し脱線 – Quebee キュエビー - QAB 琉球朝日放送",
+    "source": "QAB 琉球朝日放送",
+    "published": "2026-11-04T03:10:15+00:00",
+    "description": "北海道 JR宗谷線が全線復旧 10月30日にクマと衝突し脱線 – Quebee キュエビー QAB 琉球朝日放送",
+    "image": "https://www.qab.co.jp/quebee/wp-content/uploads/000545077_640.jpg"
+  },
+  {
     "id": "2d5458d745257f20564af8298cfc373f3ad66a5d9e3f940b3925bd30f926e43f",
     "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DZVh4bDVPZkJ0aU9la2VPVER0MjdfWFZQX2R6azJabkx0UVRfUHJ2LVVvYTA3RE5IeGJKd1I3aVNrNG8xeUxXaTJqeWJZQ3lfeUhaeVpid1RvOE5HY2plZGY0dk50SmxMZTctR2VJMEJUQQ?oc=5",
     "url": "https://news.tv-asahi.co.jp/news_society/articles/000545077.html",
@@ -1050,16 +1090,6 @@
     "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70006/20261103de70006_E0000138318_1_l.jpg"
   },
   {
-    "id": "f50ef7e0cf41f52c0dd35653a606020209715accd265a35170d6fbaabd1046a9",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RZ3VHSVd4ZHdaTEI2ZWJSdjR1S2t1emJQbl80ZE9NNkdDaS0wV25rRE5oaEFwV3JhdGFEaWphTGhxb2ZZdUZ1bncwMTczMTQxa1UwRXN6VkVVdXJwc005ZGhwb29FS3BGaGdDVm1CMWdLSE5xYlRNZzFDbmg1b1k?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/6c7b5ca8ab84e589069323abc711f7b77919083a",
-    "title": "クマと衝突し特急脱線のJR宗谷線、4日から運転再開 5日ぶり復旧（朝日新聞） - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
-    "published": "2026-11-03T08:06:45+00:00",
-    "description": "クマと衝突し特急脱線のJR宗谷線、4日から運転再開 5日ぶり復旧（朝日新聞） Yahoo!ニュース",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-00000085-asahi-000-2-view.jpg?exp=10800"
-  },
-  {
     "id": "efd008b20be1351a0ce341411fab1e1ec95c034c63fb8f38edccca6328b418c0",
     "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWY1pmSWRYcnJVT3R1UkNTQUpBUmZlU0QySzdGNk1pTHF5UkN1LXd0TDd3SHZwSFFpLWppaWVIR2o1SF9Pd2hGMWd0OXRxZF9wSlN6ZFhoV0xMLTAxSDJDVGFvVm5GTm8?oc=5",
     "url": "https://www.asahi.com/articles/ASVC32HYHVC3IIPE013M.html",
@@ -1068,6 +1098,16 @@
     "published": "2026-11-03T08:06:45+00:00",
     "description": "クマと衝突し特急脱線のJR宗谷線、4日から運転再開 5日ぶり復旧 [北海道] 朝日新聞",
     "image": "https://imgopt.asahi.com/ogp/AS20261103002577_comm.jpg"
+  },
+  {
+    "id": "f50ef7e0cf41f52c0dd35653a606020209715accd265a35170d6fbaabd1046a9",
+    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RZ3VHSVd4ZHdaTEI2ZWJSdjR1S2t1emJQbl80ZE9NNkdDaS0wV25rRE5oaEFwV3JhdGFEaWphTGhxb2ZZdUZ1bncwMTczMTQxa1UwRXN6VkVVdXJwc005ZGhwb29FS3BGaGdDVm1CMWdLSE5xYlRNZzFDbmg1b1k?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/6c7b5ca8ab84e589069323abc711f7b77919083a",
+    "title": "クマと衝突し特急脱線のJR宗谷線、4日から運転再開 5日ぶり復旧（朝日新聞） - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-11-03T08:06:45+00:00",
+    "description": "クマと衝突し特急脱線のJR宗谷線、4日から運転再開 5日ぶり復旧（朝日新聞） Yahoo!ニュース",
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-00000085-asahi-000-2-view.jpg?exp=10800"
   },
   {
     "id": "63e389ded04d028f868d20471452b7ccea5e224e7796203a6f8ed8961c855b4d",
@@ -1130,16 +1170,6 @@
     "image": "https://fnn.ismcdn.jp/mwimgs/a/a/600/img_aa44be4a09f9d3d0225835c672308d05640703.jpg"
   },
   {
-    "id": "6528ae2944d542f4b86ce016beea78cf7d57af4cc0b5600394014f874e2f58f0",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42VEdSUVgxdjExeWtNZWhFSnl0TVhSSURHeklFMkZWVksxZm1BNkVRRnM0TUhYMjFZbWlwbVVoSUNkR3lLU1NQdmdHdy1IaTYyMXZiYmtqOHlxUQ?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1401663/",
-    "title": "JR宗谷線、衝突は体重400キロ超「巨大ヒグマ」 4日から運転再開 - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-11-03T07:07:28+00:00",
-    "description": "JR宗谷線、衝突は体重400キロ超「巨大ヒグマ」 4日から運転再開 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/b/9/f/c/b9fc20f959fe73043627437abee543de_1.webp?20261104000817"
-  },
-  {
     "id": "b2803f4e2ceaa44cef9dd0d28387197e6331e8d998a2a578a2185e8a5b3e58b9",
     "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5RmtHX09USG9nVGhXOVNRd3VHWkJLcGx1dVVUUkxfcHY4S3VISUQwUTZ3a0NlSFFpNFpkZlZYSWlmRkRnS2tQQTAtcw?oc=5",
     "url": "https://www.47news.jp/15178193.html",
@@ -1148,6 +1178,16 @@
     "published": "2026-11-03T07:07:28+00:00",
     "description": "宗谷線、4日から運転再開 JR発表 クマと衝突し脱線 47NEWS",
     "image": "https://img.cf.47news.jp/public/photo/6a31c42c32e0cd44c6f80d37827ad276/photo.jpg"
+  },
+  {
+    "id": "6528ae2944d542f4b86ce016beea78cf7d57af4cc0b5600394014f874e2f58f0",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42VEdSUVgxdjExeWtNZWhFSnl0TVhSSURHeklFMkZWVksxZm1BNkVRRnM0TUhYMjFZbWlwbVVoSUNkR3lLU1NQdmdHdy1IaTYyMXZiYmtqOHlxUQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1401663/",
+    "title": "JR宗谷線、衝突は体重400キロ超「巨大ヒグマ」 4日から運転再開 - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-03T07:07:28+00:00",
+    "description": "JR宗谷線、衝突は体重400キロ超「巨大ヒグマ」 4日から運転再開 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/b/9/f/c/b9fc20f959fe73043627437abee543de_1.webp?20261104000817"
   },
   {
     "id": "655a353b4b5a1f3b2b3d333824c26c099dab663bd12b0c9986bbce26c6821bc0",
@@ -1420,16 +1460,6 @@
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-00000014-htbv-000-3-thumb.jpg?exp=10800"
   },
   {
-    "id": "7bd28fb060133e4d018bcfa290af6542dfca5d6216e59011c1791bedf225db0f",
-    "google_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdUcxUFVrQUVGak5oX1d2U1lXUXQ4ejN0RHJWX0doeFFGZFVNajJGOVZzcVN4LUhnazQ5RVBuUHRabUZGZlQydnRfM2Rjc0hhSEdJZUpuSkg0OWhjTk5ZbFdKVkFTbWJ4MzY0RkQ5WGRvR2t2a1VtU01KVHJ2Q3Y5bXhrTmpEOUU?oc=5",
-    "url": "https://news.ntv.co.jp/n/stv/category/society/st0c8a7decdafe4e24bf6c4fd96559b6c9",
-    "title": "JR宗谷線 脱線車両に不具合が見つかり再開延期 3日は特急など15本運休、代行バス運行へ 北海道 - 日テレNEWS NNN",
-    "source": "日テレNEWS NNN",
-    "published": "2026-11-02T08:00:00+00:00",
-    "description": "JR宗谷線 脱線車両に不具合が見つかり再開延期 3日は特急など15本運休、代行バス運行へ 北海道 日テレNEWS NNN",
-    "image": "https://image.gallery.play.jp/stv-news/articles/9f019ada4e2f4e458433a97b306f224d/e90fc8d6-92a6-4cb7-9574-0f55da2b4c5b.jpg?w=1200"
-  },
-  {
     "id": "7bd750d06226f96429eae05189b633e18496f72580476dd687640d131e1a96a2",
     "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16WTg3NnJPYndNYmh4aFdWTEd2a055UGk0NVJvUWIyMWxBS3ZBZ012b3B3bmMxaW5naER6NE1DeG9fbkQ3clE4bDU3Z3dzVExINFVQc092dWJsdC1WU2FF?oc=5",
     "url": "https://news.web.nhk/newsweb/na/nd-20261102de69766",
@@ -1440,14 +1470,14 @@
     "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69766/20261102de69766_E0000136186_1_l.jpg"
   },
   {
-    "id": "25c34eb476c7974d97e867902a2111527e87dd1a63de83b7efc5b4be04becb79",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KMk5fVURLZl9YWDhCMk5lZkZKQkJDQm1YMWduWXF2U3lVYWlUenVyYk95TkpVU2YtSENySkUxOHVRZUFaVnJPLVVlT3ZiSzFXSk5yTk5nOE1kcXhXbmplRUxKNXRVU1VPdnYtUlhSNGZpMnhibG4yN0swRUs4ZWc?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/994ef32918968c5d330f8748929775ebf367ec33",
-    "title": "クマ衝突で脱線のJR宗谷線 運転再開延期 車体を支えるバネに不具合 あすも一部の特急列車でバス代行輸送 北海道 - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
+    "id": "7bd28fb060133e4d018bcfa290af6542dfca5d6216e59011c1791bedf225db0f",
+    "google_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdUcxUFVrQUVGak5oX1d2U1lXUXQ4ejN0RHJWX0doeFFGZFVNajJGOVZzcVN4LUhnazQ5RVBuUHRabUZGZlQydnRfM2Rjc0hhSEdJZUpuSkg0OWhjTk5ZbFdKVkFTbWJ4MzY0RkQ5WGRvR2t2a1VtU01KVHJ2Q3Y5bXhrTmpEOUU?oc=5",
+    "url": "https://news.ntv.co.jp/n/stv/category/society/st0c8a7decdafe4e24bf6c4fd96559b6c9",
+    "title": "JR宗谷線 脱線車両に不具合が見つかり再開延期 3日は特急など15本運休、代行バス運行へ 北海道 - 日テレNEWS NNN",
+    "source": "日テレNEWS NNN",
     "published": "2026-11-02T08:00:00+00:00",
-    "description": "クマ衝突で脱線のJR宗谷線 運転再開延期 車体を支えるバネに不具合 あすも一部の特急列車でバス代行輸送 北海道 Yahoo!ニュース",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-23056721-hbcv-000-2-thumb.jpg?exp=10800"
+    "description": "JR宗谷線 脱線車両に不具合が見つかり再開延期 3日は特急など15本運休、代行バス運行へ 北海道 日テレNEWS NNN",
+    "image": "https://image.gallery.play.jp/stv-news/articles/9f019ada4e2f4e458433a97b306f224d/e90fc8d6-92a6-4cb7-9574-0f55da2b4c5b.jpg?w=1200"
   },
   {
     "id": "3f72c0bee02d815569d32896560c27f19bf60412d8d843a3cf23310c6c480521",
@@ -1468,35 +1498,5 @@
     "published": "2026-11-02T08:00:00+00:00",
     "description": "クマ衝突で運休の宗谷線、再開は4日以降に（共同通信） Yahoo!ニュース",
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-  },
-  {
-    "id": "70f4a6de62cfb141f83de83d5fc3f2f44097ad46e4329fe2f39839d62b1ea113",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tM1cwS28zLXR5OXJna3JVc3hxb3NjNEZPUDE0bkN1RGdBY1BUcnFFZjA2TDBPNS1WOHlEczYxaUc1MkJCcFdnZ3dTejFLRVJDV0NJVko4SWJlUUFlWklyeU9fNDlUVWdCT1hWQTlzMkE4bzl0WGlVOVhpVmZpN3c?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/703f8689b6872a12bc9855159fbcc4bbfb7dc9dc",
-    "title": "クマと衝突し脱線のJR宗谷線 代行バスは「本当に大変」あす始発の普通列車から運転再開予定 - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
-    "published": "2026-11-02T08:00:00+00:00",
-    "description": "クマと衝突し脱線のJR宗谷線 代行バスは「本当に大変」あす始発の普通列車から運転再開予定 Yahoo!ニュース",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-01454418-stv-000-4-thumb.jpg?exp=10800"
-  },
-  {
-    "id": "956f3cb2988a6fe185b5ce91c4f3f45cadacb73a2d4a0355a6e3d403495d320a",
-    "google_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeDB0bFhVdURpZ2RqOEotWVBieThHcUo1dUdNTjhLNElCM3Q1VmlxRkpuRHlacmZINS1GR0ZpWE4zZVFhcXFmcm5Vem5hWk9qaEVMR1FTQnNpTDBQV21BYTVfUmFIdkdHRm1aWEFxLUpNRjdaSDhQZlM2VXN1Q0pYdEZ5eTJIYlJ5RTlj0gGQAUFVX3lxTE55OWxtY3lybTlkbUJuNURndTluWE9HTVJwYUJ6UUo5a2dJR1NEdDV2QVc0T1VCLUJBRk1MbzVQWU84NE9HMEcwS3NYWXVyMUNNUnA4VTZ3c2FvaUdXQkdFVGN5MVV5UmhDWUJITmM3d3J1UWNBdzRtZGNKNmUxdmdNYlhKT3dFczVXclVFenExTg?oc=5",
-    "url": "https://topics.smt.docomo.ne.jp/article/kyodo_nor/nation/kyodo_nor-2026110201000717",
-    "title": "クマ衝突の宗谷線車両に不具合　運転再開は未定、JR北海道 - ｄメニューニュース",
-    "source": "ｄメニューニュース",
-    "published": "2026-11-02T07:57:00+00:00",
-    "description": "クマ衝突の宗谷線車両に不具合　運転再開は未定、JR北海道 ｄメニューニュース",
-    "image": "https://img.topics.smt.news.goo.ne.jp/-/20261028100531/img/dmenu_service-brand-logo_200x200.png"
-  },
-  {
-    "id": "173694bd087f25151582e8662f3337650614f7eab04d535045fa895c19dd1b15",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93aTQtWFNNSENleEVPRHFkQVNSbHA1TGdWeFZIeDlqYll0Y0V0SzZKbmNFWUZlSE9GUFNBeVJSbmJKSkd0N2Q3Z1d6blFTOVdVYW5EclVhSV9mUQ?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1401173/",
-    "title": "宗谷線運転再開は延期、早くて4日に 車両不具合で移動できず - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-11-02T07:25:21+00:00",
-    "description": "宗谷線運転再開は延期、早くて4日に 車両不具合で移動できず 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/2/9/f/5/29f56d3714359a961dfba89dc8b85c64_1.webp?20261103005432"
   }
 ]
