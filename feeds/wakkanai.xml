@@ -6,7 +6,17 @@
     <description>稚内の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/wakkanai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 11 Nov 2026 13:09:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 21:43:20 +0000</lastBuildDate>
+    <item>
+      <title>ロシア海軍キロ改級潜水艦や戦車揚陸艦「ニコライ・ヴィルコフ」など3艦、宗谷海峡を西進 海自「うみたか」等が警戒監視 - Funeco</title>
+      <link>https://funeco.jp/news/news-37500/</link>
+      <pubDate>Wed, 11 Nov 2026 21:43:20 +0000</pubDate>
+      <guid isPermaLink="false">826d9b66d7d91a3ced6ed6062ad545adfd2b6e83489484952bb0e0b8d5004416</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Funeco</source>
+      <media:thumbnail url="https://funeco.jp/wp-content/uploads/2026/11/7fb694d1e2c91c85ddf737f26bf78e55.jpg" />
+      <media:content url="https://funeco.jp/wp-content/uploads/2026/11/7fb694d1e2c91c85ddf737f26bf78e55.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://funeco.jp/wp-content/uploads/2026/11/7fb694d1e2c91c85ddf737f26bf78e55.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;ロシア海軍キロ改級潜水艦や戦車揚陸艦「ニコライ・ヴィルコフ」など3艦、宗谷海峡を西進 海自「うみたか」等が警戒監視 Funeco&lt;/p&gt;&lt;p&gt;配信元: Funeco&lt;/p&gt;</description>
+    </item>
     <item>
       <title>卸売市場で作業中「作業員がフォークリフトのパレットと接触して負傷した」男性は会話できる状態で搬送〈北海道稚内市〉 - Yahoo!ニュース</title>
       <link>https://news.yahoo.co.jp/articles/1bd24714dd13920fe3ee12ef5976ae74b505db88</link>
@@ -56,6 +66,16 @@
       <media:thumbnail url="https://straightpress.jp/wp-content/uploads/2026/11/boreas-soya-retirement-2026-hero-300x200.jpg" />
       <media:content url="https://straightpress.jp/wp-content/uploads/2026/11/boreas-soya-retirement-2026-hero-300x200.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://straightpress.jp/wp-content/uploads/2026/11/boreas-soya-retirement-2026-hero-300x200.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;フェリー「ボレアース宗谷」勇退セレモニー 最後の運航見守る STRAIGHT PRESS&lt;/p&gt;&lt;p&gt;配信元: STRAIGHT PRESS&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>燃えた小屋の中から１人発見 黒煙とともに激しい炎 廃材や油置かれた小屋が全焼 稚内市 - 日テレNEWS NNN</title>
+      <link>https://news.ntv.co.jp/n/stv/category/society/st1179c40e7b5b4053b5c622ed7e311e6b</link>
+      <pubDate>Wed, 11 Nov 2026 09:22:01 +0000</pubDate>
+      <guid isPermaLink="false">12d2bb6a054a215d87305de47c07fa5645b8d977777547cf0325c4ca9dc3a661</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">日テレNEWS NNN</source>
+      <media:thumbnail url="https://image.gallery.play.jp/stv-news/articles/6bb370af1c244705b38012a1694dd105/bf0bc12e-1032-431b-ae44-38dc78d15111.jpg?w=1200" />
+      <media:content url="https://image.gallery.play.jp/stv-news/articles/6bb370af1c244705b38012a1694dd105/bf0bc12e-1032-431b-ae44-38dc78d15111.jpg?w=1200" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://image.gallery.play.jp/stv-news/articles/6bb370af1c244705b38012a1694dd105/bf0bc12e-1032-431b-ae44-38dc78d15111.jpg?w=1200" alt="" /&gt;&lt;/p&gt;&lt;p&gt;燃えた小屋の中から１人発見 黒煙とともに激しい炎 廃材や油置かれた小屋が全焼 稚内市 日テレNEWS NNN&lt;/p&gt;&lt;p&gt;配信元: 日テレNEWS NNN&lt;/p&gt;</description>
     </item>
     <item>
       <title>燃えた小屋の中から１人発見 黒煙とともに激しい炎 廃材や油置かれた小屋が全焼 稚内市 - Yahoo!ニュース</title>
@@ -173,11 +193,13 @@
     </item>
     <item>
       <title>【速報】「黒い煙が見える」プレハブ小屋のようなものが燃えているか 消火活動中 北海道稚内市 - 日テレNEWS NNN</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxORUUtVk52S3JILTYxSkdFMDRjZG1qbFhLQ0FzLVNzVEluc2ZuTW1SRHcxVlRlWUdzUVdUMDJkV3g5c0RDSmdHZlhaUFFMN0x3Wi1ncXN0S2dvbmZCY1M0bFkyU29UeG8yaXdjX09vYWt3aDRwNkZxMnRGbXhfeDF1WlBENFpzVlk?oc=5</link>
+      <link>https://news.ntv.co.jp/n/stv/category/society/st11f7a89493114d5cb242eb2bbe6054d2</link>
       <pubDate>Wed, 11 Nov 2026 05:29:01 +0000</pubDate>
       <guid isPermaLink="false">b7b18aaa4b873843e576c2adff127fd7de82c27b4b66903bf17f7c485e5b9ed4</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">日テレNEWS NNN</source>
-      <description>&lt;p&gt;【速報】「黒い煙が見える」プレハブ小屋のようなものが燃えているか 消火活動中 北海道稚内市 日テレNEWS NNN&lt;/p&gt;&lt;p&gt;配信元: 日テレNEWS NNN&lt;/p&gt;</description>
+      <media:thumbnail url="https://image.gallery.play.jp/stv-news/articles/248420d4f5dd4f05900a075bb8b952c1/ab44cfa8-835e-4f91-a4a7-e5da24271fcd.jpg?w=1200" />
+      <media:content url="https://image.gallery.play.jp/stv-news/articles/248420d4f5dd4f05900a075bb8b952c1/ab44cfa8-835e-4f91-a4a7-e5da24271fcd.jpg?w=1200" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://image.gallery.play.jp/stv-news/articles/248420d4f5dd4f05900a075bb8b952c1/ab44cfa8-835e-4f91-a4a7-e5da24271fcd.jpg?w=1200" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【速報】「黒い煙が見える」プレハブ小屋のようなものが燃えているか 消火活動中 北海道稚内市 日テレNEWS NNN&lt;/p&gt;&lt;p&gt;配信元: 日テレNEWS NNN&lt;/p&gt;</description>
     </item>
     <item>
       <title>【速報】「黒い煙が見える」プレハブ小屋のようなものが燃えているか 消火活動中 北海道稚内市 - Yahoo!ニュース</title>
@@ -276,6 +298,26 @@
       <media:thumbnail url="https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg" />
       <media:content url="https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道(宗谷地方)】11/10の天気予報 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JR宗谷線あり方議論、名寄でWG初会合 自治体、通院の足の重要性訴える - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1404802/</link>
+      <pubDate>Mon, 09 Nov 2026 14:23:04 +0000</pubDate>
+      <guid isPermaLink="false">e286638ea3beb2b96b5afbb3bb7ce0cf4286656edda68d4c60501634dffbecde</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/8/4/b/c/84bc5c018c97f7f80e956c1b3aff32e6_1.webp?20261109152732" />
+      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/8/4/b/c/84bc5c018c97f7f80e956c1b3aff32e6_1.webp?20261109152732" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/8/4/b/c/84bc5c018c97f7f80e956c1b3aff32e6_1.webp?20261109152732" alt="" /&gt;&lt;/p&gt;&lt;p&gt;JR宗谷線あり方議論、名寄でWG初会合 自治体、通院の足の重要性訴える 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JR北海道が単独では維持困難な“黄色線区”…赤字額31.2億円の宗谷線の地元協議始まる…高校生にとっては重要な通学手段 高齢者にとっては医療機関への通院の頼みの綱 どうやって存続させる - UHB 北海道文化放送</title>
+      <link>https://www.uhb.jp/news/single.html?id=63483</link>
+      <pubDate>Mon, 09 Nov 2026 12:22:50 +0000</pubDate>
+      <guid isPermaLink="false">8590432ef3cf7ac38bdbf04f511c83dfb7378f6a0bf9fc1736f632145ddf28b0</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">UHB 北海道文化放送</source>
+      <media:thumbnail url="https://www.uhb.jp/news/data/63483/image.jpg?v=1794226872" />
+      <media:content url="https://www.uhb.jp/news/data/63483/image.jpg?v=1794226872" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.uhb.jp/news/data/63483/image.jpg?v=1794226872" alt="" /&gt;&lt;/p&gt;&lt;p&gt;JR北海道が単独では維持困難な“黄色線区”…赤字額31.2億円の宗谷線の地元協議始まる…高校生にとっては重要な通学手段 高齢者にとっては医療機関への通院の頼みの綱 どうやって存続させる UHB 北海道文化放送&lt;/p&gt;&lt;p&gt;配信元: UHB 北海道文化放送&lt;/p&gt;</description>
     </item>
     <item>
       <title>JR北海道が単独では維持困難な“黄色線区”…赤字額31.2億円の宗谷線の地元協議始まる…高校生にとっては重要な通学手段 高齢者にとっては医療機関への通院の頼みの綱 どうやって存続させる - Yahoo!ニュース</title>
@@ -393,21 +435,13 @@
     </item>
     <item>
       <title>“赤字約31億円”の黄色線区JR宗谷線の改善方策を議論～国・北海道・地元・JRが協議スタート…名寄―稚内間1キロあたり1日の平均利用者数276人『1987年度に比べて6割以上減少』〈北海道名寄市〉 - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE12STI3LXk3Sk5KWVltS1dGZUt0TUp3V3Z3UFdDZkl1SE90cHkzRlNmYllIVVZaaTBiMGhEcmFiNS03VUtlOUhpaHg3QlM4a0pNMHpHWjg5Y1NqeTZJbklrb2w2Si1JTDdUZVgtZElBQXJoUk9zbTdLME82U0RFS0U?oc=5</link>
+      <link>https://news.yahoo.co.jp/articles/53fab28c11ef58fd9d7dca503906a7d96478dbb9</link>
       <pubDate>Mon, 09 Nov 2026 03:26:02 +0000</pubDate>
       <guid isPermaLink="false">7fcc98c765890721a684713c2070f29e8d2c61323508d33f1f6eab9eaf40d870</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-      <description>&lt;p&gt;“赤字約31億円”の黄色線区JR宗谷線の改善方策を議論～国・北海道・地元・JRが協議スタート…名寄―稚内間1キロあたり1日の平均利用者数276人『1987年度に比べて6割以上減少』〈北海道名寄市〉 Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>JR宗谷線あり方議論、名寄でWG初会合 自治体、通院の足の重要性訴える - 北海道新聞デジタル</title>
-      <link>https://www.hokkaido-np.co.jp/article/1404802/</link>
-      <pubDate>Mon, 09 Nov 2026 02:47:36 +0000</pubDate>
-      <guid isPermaLink="false">e286638ea3beb2b96b5afbb3bb7ce0cf4286656edda68d4c60501634dffbecde</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
-      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/8/4/b/c/84bc5c018c97f7f80e956c1b3aff32e6_1.webp?20261109152732" />
-      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/8/4/b/c/84bc5c018c97f7f80e956c1b3aff32e6_1.webp?20261109152732" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/8/4/b/c/84bc5c018c97f7f80e956c1b3aff32e6_1.webp?20261109152732" alt="" /&gt;&lt;/p&gt;&lt;p&gt;JR宗谷線あり方議論、名寄でWG初会合 自治体、通院の足の重要性訴える 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-90063466-hokkaibunv-000-1-thumb.jpg?exp=10800" />
+      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-90063466-hokkaibunv-000-1-thumb.jpg?exp=10800" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-90063466-hokkaibunv-000-1-thumb.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;“赤字約31億円”の黄色線区JR宗谷線の改善方策を議論～国・北海道・地元・JRが協議スタート…名寄―稚内間1キロあたり1日の平均利用者数276人『1987年度に比べて6割以上減少』〈北海道名寄市〉 Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>JR宗谷線のあり方議論、名寄でWG初会合 運輸局「役割認識を共有する場に」 - 47NEWS</title>
@@ -556,6 +590,16 @@
       <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-23067776-jnn-000-1-view.jpg?exp=10800" />
       <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-23067776-jnn-000-1-view.jpg?exp=10800" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-23067776-jnn-000-1-view.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【暴風警報】北海道・稚内市、猿払村、豊富町などに発表 16:07時点（TBS NEWS DIG Powered by JNN） Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【暴風警報】北海道・稚内市、猿払村、豊富町などに発表 16:07時点 - ｄメニューニュース</title>
+      <link>https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3067776</link>
+      <pubDate>Fri, 06 Nov 2026 07:07:00 +0000</pubDate>
+      <guid isPermaLink="false">df13e967246fc2c50f36222b668a3a5a6b7ac5d7031b44a2969191261f741b1f</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">ｄメニューニュース</source>
+      <media:thumbnail url="https://img.topics.smt.news.goo.ne.jp/picture/tbs/m_tbs-3067776.jpg" />
+      <media:content url="https://img.topics.smt.news.goo.ne.jp/picture/tbs/m_tbs-3067776.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.topics.smt.news.goo.ne.jp/picture/tbs/m_tbs-3067776.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【暴風警報】北海道・稚内市、猿払村、豊富町などに発表 16:07時点 ｄメニューニュース&lt;/p&gt;&lt;p&gt;配信元: ｄメニューニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>【暴風警報】北海道・稚内市、猿払村、豊富町などに発表 16:07時点 - TBS NEWS DIG</title>
@@ -804,12 +848,12 @@
       <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-01245630-fnn-000-1-thumb.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;JR宗谷線5日ぶりに運転再開 特急がヒグマと衝突し脱線・運休 車両繰りのため一部で運休発生も Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
     <item>
-      <title>北海道 JR宗谷線が全線復旧 10月30日にクマと衝突し脱線 最新の社会ニュース【随時更新】 - ABEMA</title>
+      <title>北海道 JR宗谷線が全線復旧 10月30日にクマと衝突し脱線 - ABEMA</title>
       <link>https://abema.tv/video/episode/89-42_s0_p545077</link>
       <pubDate>Wed, 04 Nov 2026 04:04:32 +0000</pubDate>
       <guid isPermaLink="false">c88e3c723020c05264c2c45051443397638417dbf51034239c2fc45cf8d5582d</guid>
       <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">ABEMA</source>
-      <description>&lt;p&gt;北海道 JR宗谷線が全線復旧 10月30日にクマと衝突し脱線 最新の社会ニュース【随時更新】 ABEMA&lt;/p&gt;&lt;p&gt;配信元: ABEMA&lt;/p&gt;</description>
+      <description>&lt;p&gt;北海道 JR宗谷線が全線復旧 10月30日にクマと衝突し脱線 ABEMA&lt;/p&gt;&lt;p&gt;配信元: ABEMA&lt;/p&gt;</description>
     </item>
     <item>
       <title>JR宗谷線 ヒグマとの衝突事故から5日ぶり運転再開 - NHKニュース</title>
@@ -1250,6 +1294,16 @@
       <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-00000085-asahi-000-2-view.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;クマと衝突し特急脱線のJR宗谷線、4日から運転再開 5日ぶり復旧（朝日新聞） Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
     <item>
+      <title>【クマと衝突のJR宗谷線】復旧は11月4日以降に延期～3日に運転再開の予定だったが…車体支える「空気バネ」の故障判明で車両動かせず→バス代行運転続く〈北海道〉 - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/3235b43d35320f464276b1003bd6c8788c5aa068</link>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c8e6e2aa7ee2402031cbb1aa6c9181d0e13b7f9e09600bd67a4c7d371dddc6e7</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
+      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-90063314-hokkaibunv-000-1-thumb.jpg?exp=10800" />
+      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-90063314-hokkaibunv-000-1-thumb.jpg?exp=10800" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-90063314-hokkaibunv-000-1-thumb.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【クマと衝突のJR宗谷線】復旧は11月4日以降に延期～3日に運転再開の予定だったが…車体支える「空気バネ」の故障判明で車両動かせず→バス代行運転続く〈北海道〉 Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>【速報】宗谷線 あす4日から運転再開 クマと衝突して特急列車が脱線 JR北海道（2026年11月2日掲載）｜STV NEWS NNN - 日テレNEWS NNN</title>
       <link>https://news.ntv.co.jp/n/stv/category/society/st0f64f10533f0454fa14bebf8aebca8c6</link>
       <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
@@ -1410,16 +1464,6 @@
       <description>&lt;p&gt;&lt;img src="https://www.uhb.jp/news/data/63314/image.jpg?v=1793674874" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【クマと衝突のJR宗谷線】復旧は11月4日以降に延期～3日に運転再開の予定だったが…車体支える「空気バネ」の故障判明で車両動かせず→バス代行運転続く〈北海道〉 UHB 北海道文化放送&lt;/p&gt;&lt;p&gt;配信元: UHB 北海道文化放送&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【クマと衝突のJR宗谷線】復旧は11月4日以降に延期～3日に運転再開の予定だったが…車体支える「空気バネ」の故障判明で車両動かせず→バス代行運転続く〈北海道〉 - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/3235b43d35320f464276b1003bd6c8788c5aa068</link>
-      <pubDate>Tue, 03 Nov 2026 04:04:01 +0000</pubDate>
-      <guid isPermaLink="false">c8e6e2aa7ee2402031cbb1aa6c9181d0e13b7f9e09600bd67a4c7d371dddc6e7</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-90063314-hokkaibunv-000-1-thumb.jpg?exp=10800" />
-      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-90063314-hokkaibunv-000-1-thumb.jpg?exp=10800" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-90063314-hokkaibunv-000-1-thumb.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【クマと衝突のJR宗谷線】復旧は11月4日以降に延期～3日に運転再開の予定だったが…車体支える「空気バネ」の故障判明で車両動かせず→バス代行運転続く〈北海道〉 Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>【クマと衝突のJR宗谷線】復旧は11月4日以降に延期～3日に運転再開の予定だったが…車体支える「空気バネ」の故障判明で車両動かせず→バス代行運転続く〈北海道〉 - FNNプライムオンライン</title>
       <link>https://www.fnn.jp/articles/-/1145064</link>
       <pubDate>Tue, 03 Nov 2026 02:55:00 +0000</pubDate>
@@ -1438,46 +1482,6 @@
       <media:thumbnail url="https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg" />
       <media:content url="https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道(宗谷地方)】11/3の天気予報 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>クマ衝突で脱線のJR宗谷線 運転再開延期 車体を支えるバネに不具合 あすも一部の特急列車でバス代行輸送 北海道 - TBS NEWS DIG</title>
-      <link>https://newsdig.tbs.co.jp/articles/-/3056721</link>
-      <pubDate>Mon, 02 Nov 2026 17:06:25 +0000</pubDate>
-      <guid isPermaLink="false">95524063a0e7954ab11d7e882d1d9d28f3f067b2ec61f0f44446058ebfc870ce</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">TBS NEWS DIG</source>
-      <media:thumbnail url="https://newsdig.ismcdn.jp/mwimgs/7/8/1200w/img_788e469d1807054138f8724a3f70adf0989494.jpg" />
-      <media:content url="https://newsdig.ismcdn.jp/mwimgs/7/8/1200w/img_788e469d1807054138f8724a3f70adf0989494.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newsdig.ismcdn.jp/mwimgs/7/8/1200w/img_788e469d1807054138f8724a3f70adf0989494.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;クマ衝突で脱線のJR宗谷線 運転再開延期 車体を支えるバネに不具合 あすも一部の特急列車でバス代行輸送 北海道 TBS NEWS DIG&lt;/p&gt;&lt;p&gt;配信元: TBS NEWS DIG&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【ヒグマ衝突で特急脱線】今年は既にクマとの衝突が36件発生、エゾシカなど動物全体では3535件（昨年度）…車両不具合で11月3日の運転再開が延期に…旭川－稚内間の代行輸送継続＜JR北海道＞ - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/4be72128e29088ee43eb9c36fbd199fd3d626b3a</link>
-      <pubDate>Mon, 02 Nov 2026 12:10:01 +0000</pubDate>
-      <guid isPermaLink="false">f696a98af0803fea2bcf7653011d494374971c35a5ad24ad2b83b377c3854739</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-90063295-hokkaibunv-000-1-thumb.jpg?exp=10800" />
-      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-90063295-hokkaibunv-000-1-thumb.jpg?exp=10800" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-90063295-hokkaibunv-000-1-thumb.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【ヒグマ衝突で特急脱線】今年は既にクマとの衝突が36件発生、エゾシカなど動物全体では3535件（昨年度）…車両不具合で11月3日の運転再開が延期に…旭川－稚内間の代行輸送継続＜JR北海道＞ Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>留萌・宗谷（１１月３日付）おくやみ - 北海道新聞デジタル</title>
-      <link>https://www.hokkaido-np.co.jp/article/1401270/</link>
-      <pubDate>Mon, 02 Nov 2026 11:30:00 +0000</pubDate>
-      <guid isPermaLink="false">ed7c35cb921c349e1dc6f326ac134edcd7edf7abd7792c2c4d4ebc9977e2f280</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
-      <media:thumbnail url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" />
-      <media:content url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;留萌・宗谷（１１月３日付）おくやみ 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>「クマで脱線は初めて…」特急列車がクマと衝突し脱線 乗客は車内で一夜 JR宗谷線あすも運転見合わせ 北海道 - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/c31435d951fbf054aca04b3c8f464141285f44cd</link>
-      <pubDate>Mon, 02 Nov 2026 10:24:24 +0000</pubDate>
-      <guid isPermaLink="false">c1c05c9ddd7c97b894ceaac4ae6cdc6b63b625b64a935984834c61a7abb1d6bf</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-01244692-fnn-000-1-thumb.jpg?exp=10800" />
-      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-01244692-fnn-000-1-thumb.jpg?exp=10800" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-01244692-fnn-000-1-thumb.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「クマで脱線は初めて…」特急列車がクマと衝突し脱線 乗客は車内で一夜 JR宗谷線あすも運転見合わせ 北海道 Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
