@@ -1,5 +1,15 @@
 [
   {
+    "id": "f376379d5ecbc8d81e030175d9af5cca8f5f4095073699ec088d256e689b4868",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9abEtsdkV2SFZfX2VHSERfNktiekVBLUFyVF9kLVAtV2gzb3BITFZaUG9haVhKYTlKVmtwQ3J2ZlI4VnlaVzAzRjBuMGg4MWpoRmdCLTVwVG92QQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1407218/",
+    "title": "留萌・宗谷（１１月１３日付）おくやみ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-12T11:30:00+00:00",
+    "description": "留萌・宗谷（１１月１３日付）おくやみ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
     "id": "303d6a61a3629c9f3c79c8f36a47db50f9325555d5c767a8d82fdcf74efe99fe",
     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIQlNYeXJxWm5HWGVaMkFfQzMtbXNaQkRnNF9IaTJXRXR2VzZPWjNWQjVTSUlUZ0plb3N3dl81WW16cFJjSGloRDkzSDZTUQ?oc=5",
     "url": "https://www.fnn.jp/articles/-/1151152",
@@ -860,6 +870,16 @@
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00000004-tvh-000-1-view.jpg?exp=10800"
   },
   {
+    "id": "5dbbcc80e40d6236b38ac144416a14f0242a168457128493e0d2b79df681da8e",
+    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IelUtQ19SdUVKbGJkbEpLY3RkU2RkNlk2bHdrZ1VYZzdocDVucElPME8xanc4Smc4RERwc09OWmRoem1MVWVQMmNLQ016aGZ6UkhGb1ZjblYzVWVPMTB6Sm5OZ0YwM1Q2TE05NEtnczY4bWxTcHA1YXNPNkhvZGM?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/2e84c0b4a191f6d200c0061987fa1064b3faa980",
+    "title": "\"巨大\"だった！クマと衝突し脱線の特急列車_体重400キロ超の巨体が脱線原因のひとつか…運休のＪＲ北海道宗谷線で現場確認した関係者が証言〈北海道〉 - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-11-04T08:00:00+00:00",
+    "description": "\"巨大\"だった！クマと衝突し脱線の特急列車_体重400キロ超の巨体が脱線原因のひとつか…運休のＪＲ北海道宗谷線で現場確認した関係者が証言〈北海道〉 Yahoo!ニュース",
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-90063357-hokkaibunv-000-4-view.jpg?exp=10800"
+  },
+  {
     "id": "43dcd5762c7d6c2f4c47c04147da6e4a973caf366c6da3777faff1f91c33a760",
     "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56MGpIekJBNnBtMTZjNk1URzdZZDVhMW9xZk9fS3p6UUo3TF9lUUFUVXFGbG1JY2U0M1EtQ0xsQlNibDU4Rmw2SFdSNVhQeDJOTjJ6X2xFVmFZa1hTSTVTaUZ0ckljcWpnMnFTdWl5MjBLTGVJRlZFQVZaNHM3eXc?oc=5",
     "url": "https://news.yahoo.co.jp/articles/6ee4deb9442b39e888a47a04f7a98e70aeab736b",
@@ -968,16 +988,6 @@
     "published": "2026-11-04T03:24:20+00:00",
     "description": "北海道 JR宗谷線が全線復旧 10月30日にクマと衝突し脱線 KAB 熊本朝日放送",
     "image": "https://news.tv-asahi.co.jp/articles_img/000545077_640.jpg"
-  },
-  {
-    "id": "5dbbcc80e40d6236b38ac144416a14f0242a168457128493e0d2b79df681da8e",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IelUtQ19SdUVKbGJkbEpLY3RkU2RkNlk2bHdrZ1VYZzdocDVucElPME8xanc4Smc4RERwc09OWmRoem1MVWVQMmNLQ016aGZ6UkhGb1ZjblYzVWVPMTB6Sm5OZ0YwM1Q2TE05NEtnczY4bWxTcHA1YXNPNkhvZGM?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/2e84c0b4a191f6d200c0061987fa1064b3faa980",
-    "title": "\"巨大\"だった！クマと衝突し脱線の特急列車_体重400キロ超の巨体が脱線原因のひとつか…運休のＪＲ北海道宗谷線で現場確認した関係者が証言〈北海道〉 - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
-    "published": "2026-11-04T03:18:01+00:00",
-    "description": "\"巨大\"だった！クマと衝突し脱線の特急列車_体重400キロ超の巨体が脱線原因のひとつか…運休のＪＲ北海道宗谷線で現場確認した関係者が証言〈北海道〉 Yahoo!ニュース",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-90063357-hokkaibunv-000-4-view.jpg?exp=10800"
   },
   {
     "id": "3d4e3604f427e42a8982409b97f371061374a3e4e516e2c49166338f22302d86",
@@ -1350,6 +1360,26 @@
     "image": "https://imgopt.asahi.com/ogp/AS20261103002577_comm.jpg"
   },
   {
+    "id": "cef9dbba72cba2e503183a3c853d549656a60017cd69b8d43d6406d20cf65d53",
+    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vTHZUSEFlQXU2N0NLRXo4cnh6U2xYdnFWUGYzYXVHdFJUU2RBaTE5UkhiM1c2a2IwNkxPOS1ZVTlVNXhuRUZ3c2NneGQ0VF9fR19LeXZXNzZJY3RjNU5xUHc0c01kMVpZdmFnQkQ0ZVpYbVlybi1pM2FISnRjVkU?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/1a1c0a945deb7483a3323a55840f351de4f25910/images/000",
+    "title": "【あすから運転再開】ヒグマと衝突し特急列車が脱線したJR宗谷線（音威子府～稚内間）4日から運転再開―事故から5日ぶり〈北海道稚内市〉 - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-11-03T08:00:00+00:00",
+    "description": "【あすから運転再開】ヒグマと衝突し特急列車が脱線したJR宗谷線（音威子府～稚内間）4日から運転再開―事故から5日ぶり〈北海道稚内市〉 Yahoo!ニュース",
+    "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26gE94jKDXn1p-oCpDgX1ZxaHa5lgFoC9lQWulkXyv9XxoSdR0V0rrjOnghpGyx4D10ot9Yopo49KvoUHjxqIf6wXqcPKTHSGaGfV3YM8pos2IyAx8G9dKI6lZGlfv9eMRA=="
+  },
+  {
+    "id": "75f1962f015718aae795799645bb7ec20d1b1f6c8860886ccee72fbfb5ed2f8f",
+    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KOV9qdUVCbDlWdXVsM1JZMm14ME1XT0VROXpseDVoUDdOamdZdUJGRlM5T3hGckVBZllORWxGaUp4aEpObW5sR2NUbVBfSlV5N2tESkJVcjFLQ1VmTkEwMkZTRVhVVDZzWGZWNWE1ZXBHS0hmS3VGMVRUeG9oUVU?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/9aedcacb838483e93aaa67620a93006dba3f201b",
+    "title": "クマに衝突し特急列車脱線のJR宗谷線 ４日から再開 稚内発の始発を除き全ての列車が利用可に - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-11-03T08:00:00+00:00",
+    "description": "クマに衝突し特急列車脱線のJR宗谷線 ４日から再開 稚内発の始発を除き全ての列車が利用可に Yahoo!ニュース",
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-00000013-htbv-000-2-thumb.jpg?exp=10800"
+  },
+  {
     "id": "c8e6e2aa7ee2402031cbb1aa6c9181d0e13b7f9e09600bd67a4c7d371dddc6e7",
     "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jaVRmSGtSblg1V3VUMlU3NF9iUGJ6SHZKcnNLdUZGX1VFdXVYNjJWSFh2VjVkZjM3cGxSU29Hekdja3Z4SFo4OTdUdl8yUG9NRWp1UlV1RFlqNG02NWUtQjV4WFJxVEw0UENYNUV4SmRpejlmZW5LODdyMEl0R3c?oc=5",
     "url": "https://news.yahoo.co.jp/articles/3235b43d35320f464276b1003bd6c8788c5aa068",
@@ -1358,6 +1388,16 @@
     "published": "2026-11-03T08:00:00+00:00",
     "description": "【クマと衝突のJR宗谷線】復旧は11月4日以降に延期～3日に運転再開の予定だったが…車体支える「空気バネ」の故障判明で車両動かせず→バス代行運転続く〈北海道〉 Yahoo!ニュース",
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-90063314-hokkaibunv-000-1-thumb.jpg?exp=10800"
+  },
+  {
+    "id": "0408938c89fae1276b929367dd73085d9035e621db2991d99e7d4267b9e5a85e",
+    "google_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HTzV6VTBvQ3ZsUjM1SVlBRmlkZGNxYUotV2JJOGJfbVdSanAxN3FpZE9VX09iOXZXd05kSWJRb0pFWTFsNVRmZXptUFF4SEw3SHo0b3F6R3d1MHFob3JpZTNWbFgyemxiUlpqdk5veGlEUTJ0OHc?oc=5",
+    "url": "https://www.sankei.com/article/20261103-2OWBUKYVF5MT7HD4YHVGLSA7N4/",
+    "title": "ヒグマと衝突して特急脱線の宗谷線、4日から運転再開 JR北海道が発表 - 産経ニュース",
+    "source": "産経ニュース",
+    "published": "2026-11-03T08:00:00+00:00",
+    "description": "ヒグマと衝突して特急脱線の宗谷線、4日から運転再開 JR北海道が発表 産経ニュース",
+    "image": "https://www.sankei.com/resizer/v2/7VJN7PSLMFMNNEQMQ7OSTKUUGQ.jpg?auth=7eef01bace8c69248fd1f287615f7e0ac8d567823af1854994daa2ca0ac4f1bf&quality=50&focal=849%2C1774&width=1200&height=675"
   },
   {
     "id": "4686a546649535f8bfb7d15ccdcecd67d074ba838af928c18ec0d987a58606af",
@@ -1378,16 +1418,6 @@
     "published": "2026-11-03T08:00:00+00:00",
     "description": "北海道 JR宗谷線が全線復旧 10月30日にクマと衝突し脱線 ABEMA",
     "image": null
-  },
-  {
-    "id": "0408938c89fae1276b929367dd73085d9035e621db2991d99e7d4267b9e5a85e",
-    "google_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HTzV6VTBvQ3ZsUjM1SVlBRmlkZGNxYUotV2JJOGJfbVdSanAxN3FpZE9VX09iOXZXd05kSWJRb0pFWTFsNVRmZXptUFF4SEw3SHo0b3F6R3d1MHFob3JpZTNWbFgyemxiUlpqdk5veGlEUTJ0OHc?oc=5",
-    "url": "https://www.sankei.com/article/20261103-2OWBUKYVF5MT7HD4YHVGLSA7N4/",
-    "title": "ヒグマと衝突して特急脱線の宗谷線、4日から運転再開 JR北海道が発表 - 産経ニュース",
-    "source": "産経ニュース",
-    "published": "2026-11-03T08:00:00+00:00",
-    "description": "ヒグマと衝突して特急脱線の宗谷線、4日から運転再開 JR北海道が発表 産経ニュース",
-    "image": "https://www.sankei.com/resizer/v2/7VJN7PSLMFMNNEQMQ7OSTKUUGQ.jpg?auth=7eef01bace8c69248fd1f287615f7e0ac8d567823af1854994daa2ca0ac4f1bf&quality=50&focal=849%2C1774&width=1200&height=675"
   },
   {
     "id": "63e389ded04d028f868d20471452b7ccea5e224e7796203a6f8ed8961c855b4d",
@@ -1430,16 +1460,6 @@
     "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/11/03/https___news_jp_i_1490249212072706226_w1200.webp"
   },
   {
-    "id": "cef9dbba72cba2e503183a3c853d549656a60017cd69b8d43d6406d20cf65d53",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vTHZUSEFlQXU2N0NLRXo4cnh6U2xYdnFWUGYzYXVHdFJUU2RBaTE5UkhiM1c2a2IwNkxPOS1ZVTlVNXhuRUZ3c2NneGQ0VF9fR19LeXZXNzZJY3RjNU5xUHc0c01kMVpZdmFnQkQ0ZVpYbVlybi1pM2FISnRjVkU?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/1a1c0a945deb7483a3323a55840f351de4f25910/images/000",
-    "title": "【あすから運転再開】ヒグマと衝突し特急列車が脱線したJR宗谷線（音威子府～稚内間）4日から運転再開―事故から5日ぶり〈北海道稚内市〉 - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
-    "published": "2026-11-03T07:12:01+00:00",
-    "description": "【あすから運転再開】ヒグマと衝突し特急列車が脱線したJR宗谷線（音威子府～稚内間）4日から運転再開―事故から5日ぶり〈北海道稚内市〉 Yahoo!ニュース",
-    "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26gE94jKDXn1p-oCpDgX1ZxaHa5lgFoC9lQWulkXyv9XxoSdR0V0rrjOnghpGyx4D10ot9Yopo49KvoUHjxqIf6wXqcPKTHSGaGfV3YM8pos2IyAx8G9dKI6lZGlfv9eMRA=="
-  },
-  {
     "id": "c4a66a1f3a496fe722f538ffc0941cf4cbc012714acd9ed9dcb1eca5157bba99",
     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OYm1wc2ZmVnNFbnp3WkhBeksxdnRMRDlkNVlibGwzd0JlT2xfT1ZkNW8xNXctTTQ4SHk0bVY3RnpMVEpCX2M3TlV5SFdDQQ?oc=5",
     "url": "https://www.fnn.jp/articles/-/1145114",
@@ -1478,25 +1498,5 @@
     "published": "2026-11-03T07:02:32+00:00",
     "description": "【速報】宗谷線 あす4日から運転再開 クマと衝突して特急列車が脱線 JR北海道 au Webポータル",
     "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/11/03/https___news_jp_i_1490245240598282915_w1280.webp"
-  },
-  {
-    "id": "0292ee118aeda490d575e86f647accc1a593d391ac95207a73e119a7789ae98a",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5URWxSUXZnRHNzeW9ZNG9Eb28zZ1VkY1JRLUE2Y2VRMC1ZUjNyOExCSUQ0T0d3LWdTRUU0dG4xSEtTY2RvT29wRGJSbklBSFJVRi1oUEd2ODk2Qmtaa1JNS0h1XzdRVWx0MXhyQkxBVll3NlhfS01DdFdiSm1DUm8?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/c782e329246236a25679cf0a8a991dc9806b40fb",
-    "title": "【速報】宗谷線 あす4日から運転再開 クマと衝突して特急列車が脱線 JR北海道 - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
-    "published": "2026-11-03T07:01:00+00:00",
-    "description": "【速報】宗谷線 あす4日から運転再開 クマと衝突して特急列車が脱線 JR北海道 Yahoo!ニュース",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-06579191-stv-000-4-thumb.jpg?exp=10800"
-  },
-  {
-    "id": "aac4e785adf48a980b6764091ec189c3c2e5339a89241f4074228979f01d1439",
-    "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zRFhlU3BnSldIcFR5Sl9Gcml3V1ZJTUU1UmU1WEdpMV9xejhrNmozaUZmSEw5MFVvZ2ZjcUlkcVVjcVo0c0MtMmlDTzF4a0lXRnZ0WF96ZW5MZURobFFRR0ZWdzdESGtBYjlBR19mWnJ0b3ZqYkZ3N25FY9IBgAFBVV95cUxNVWVVOW04djJQdGxNVzVsMi1LcmhvejVTRXFpZmdfN2hXNEUxTUNTUGlNc1ZLNndiaDNrUDAtT1JFRkNhOUdEcXpZMWxlRXk5MDlNZVVBcWJJZVRIZXBWN1JyTG0tSEhXS0FQeWQxTXBFS0tmcS1nWDByVXRVR2xjRQ?oc=5",
-    "url": "https://topics.smt.docomo.ne.jp/article/stv/region/stv-2026110306579191?fm=latestnews",
-    "title": "【速報】宗谷線　あす4日から運転再開　クマと衝突して特急列車が脱線　JR北海道 - ｄメニューニュース",
-    "source": "ｄメニューニュース",
-    "published": "2026-11-03T07:01:00+00:00",
-    "description": "【速報】宗谷線　あす4日から運転再開　クマと衝突して特急列車が脱線　JR北海道 ｄメニューニュース",
-    "image": "https://img.topics.smt.news.goo.ne.jp/picture/stv/m_stv-2026110306579191.jpg"
   }
 ]

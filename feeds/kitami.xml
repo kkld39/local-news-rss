@@ -6,7 +6,17 @@
     <description>北見の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/kitami.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 12 Nov 2026 09:57:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 11:30:00 +0000</lastBuildDate>
+    <item>
+      <title>北見・オホーツク（１１月１３日付）おくやみ - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1407229/</link>
+      <pubDate>Thu, 12 Nov 2026 11:30:00 +0000</pubDate>
+      <guid isPermaLink="false">a9df47076afab35b3d6913418b293409764edf18a2eab065760f943fe586e350</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" />
+      <media:content url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見・オホーツク（１１月１３日付）おくやみ 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+    </item>
     <item>
       <title>笑いの力で北見に活気を 漫才師3組、常呂高で芸披露 市と協会の協定基づき - 北海道新聞デジタル</title>
       <link>https://www.hokkaido-np.co.jp/article/1407234/</link>
@@ -16,16 +26,6 @@
       <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/5/d/6/e/5d6ea48bc70aaf8ec647d2865e54a391_1.webp?20261112194706" />
       <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/5/d/6/e/5d6ea48bc70aaf8ec647d2865e54a391_1.webp?20261112194706" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/5/d/6/e/5d6ea48bc70aaf8ec647d2865e54a391_1.webp?20261112194706" alt="" /&gt;&lt;/p&gt;&lt;p&gt;笑いの力で北見に活気を 漫才師3組、常呂高で芸披露 市と協会の協定基づき 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>北見市と川東の里が合同訓練 福祉避難所の開設手順を確認 - 北海道新聞デジタル</title>
-      <link>https://www.hokkaido-np.co.jp/article/1407143/</link>
-      <pubDate>Thu, 12 Nov 2026 08:03:15 +0000</pubDate>
-      <guid isPermaLink="false">c45b718c7b5e1b774cd99f639cb1e4b420f1065dc0e3191373902b6fe0aef775</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
-      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/0/e/3/1/0e3190d9f1d77549016c2e51d2a1806a_1.webp?20261112201123" />
-      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/0/e/3/1/0e3190d9f1d77549016c2e51d2a1806a_1.webp?20261112201123" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/0/e/3/1/0e3190d9f1d77549016c2e51d2a1806a_1.webp?20261112201123" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見市と川東の里が合同訓練 福祉避難所の開設手順を確認 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
     </item>
     <item>
       <title>北見市と川東の里が合同訓練 福祉避難所の開設手順を確認 - 47NEWS</title>
@@ -38,6 +38,16 @@
       <description>&lt;p&gt;&lt;img src="https://img.cf.47news.jp/public/photo/a56b65428fe43079962ba54817849048/photo.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見市と川東の里が合同訓練 福祉避難所の開設手順を確認 47NEWS&lt;/p&gt;&lt;p&gt;配信元: 47NEWS&lt;/p&gt;</description>
     </item>
     <item>
+      <title>北見市と川東の里が合同訓練 福祉避難所の開設手順を確認 - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1407143/</link>
+      <pubDate>Thu, 12 Nov 2026 08:03:15 +0000</pubDate>
+      <guid isPermaLink="false">c45b718c7b5e1b774cd99f639cb1e4b420f1065dc0e3191373902b6fe0aef775</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/0/e/3/1/0e3190d9f1d77549016c2e51d2a1806a_1.webp?20261112201123" />
+      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/0/e/3/1/0e3190d9f1d77549016c2e51d2a1806a_1.webp?20261112201123" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/0/e/3/1/0e3190d9f1d77549016c2e51d2a1806a_1.webp?20261112201123" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見市と川東の里が合同訓練 福祉避難所の開設手順を確認 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>笑いの力でまちづくり 全国初 北見市と漫才協会が連携協定（動画） - 北海道新聞デジタル</title>
       <link>https://www.hokkaido-np.co.jp/movies/detail/6408272707112</link>
       <pubDate>Thu, 12 Nov 2026 07:20:00 +0000</pubDate>
@@ -46,6 +56,16 @@
       <media:thumbnail url="https://cf-images.ap-northeast-1.prod.boltdns.net/v1/static/5098879574001/5af4f7f0-3426-4e26-8896-02e0327bcb5c/5cca2aeb-5b49-4c25-92b7-21a040c61ab6/1280x720/match/image.jpg" />
       <media:content url="https://cf-images.ap-northeast-1.prod.boltdns.net/v1/static/5098879574001/5af4f7f0-3426-4e26-8896-02e0327bcb5c/5cca2aeb-5b49-4c25-92b7-21a040c61ab6/1280x720/match/image.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://cf-images.ap-northeast-1.prod.boltdns.net/v1/static/5098879574001/5af4f7f0-3426-4e26-8896-02e0327bcb5c/5cca2aeb-5b49-4c25-92b7-21a040c61ab6/1280x720/match/image.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;笑いの力でまちづくり 全国初 北見市と漫才協会が連携協定（動画） 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>「焼き肉のまち」北見、全国2位 人口1万人当たりの店舗数 前回3位から上昇 焼肉連携協議会が最新調査 - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1407093/</link>
+      <pubDate>Thu, 12 Nov 2026 06:39:41 +0000</pubDate>
+      <guid isPermaLink="false">81c2d36c12f2738282db262745e121f148ae74eb404bef28716efc688dbea43f</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/9/d/b/5/9db5d9b8121d6d0c67a506942fd1820a_1.webp?20261113035636" />
+      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/9/d/b/5/9db5d9b8121d6d0c67a506942fd1820a_1.webp?20261113035636" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/9/d/b/5/9db5d9b8121d6d0c67a506942fd1820a_1.webp?20261113035636" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「焼き肉のまち」北見、全国2位 人口1万人当たりの店舗数 前回3位から上昇 焼肉連携協議会が最新調査 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
     </item>
     <item>
       <title>「焼き肉のまち」北見、全国2位 人口1万人当たりの店舗数 前回3位から上昇 焼肉連携協議会が最新調査 - 47NEWS</title>
@@ -1476,26 +1496,6 @@
       <media:thumbnail url="https://img.cf.47news.jp/public/photo/fab6791160d2614164e55340b761dba8/photo.jpg" />
       <media:content url="https://img.cf.47news.jp/public/photo/fab6791160d2614164e55340b761dba8/photo.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://img.cf.47news.jp/public/photo/fab6791160d2614164e55340b761dba8/photo.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見市役所で写真展 夕景や霧氷など24枚を展示 11月5日まで 47NEWS&lt;/p&gt;&lt;p&gt;配信元: 47NEWS&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>北見市役所で写真展 夕景や霧氷など24枚を展示 11月5日まで - 北海道新聞デジタル</title>
-      <link>https://www.hokkaido-np.co.jp/article/1399727/?ref=top</link>
-      <pubDate>Fri, 30 Oct 2026 06:41:14 +0000</pubDate>
-      <guid isPermaLink="false">a2132b0cb68d15c78970e255792e423e535ae182f6c6eaedf285edf59f085f91</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
-      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/9/7/9/d/979d862aa611de787e985e6101ccabec_1.webp?20261030160113" />
-      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/9/7/9/d/979d862aa611de787e985e6101ccabec_1.webp?20261030160113" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/9/7/9/d/979d862aa611de787e985e6101ccabec_1.webp?20261030160113" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見市役所で写真展 夕景や霧氷など24枚を展示 11月5日まで 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>きかんしゃトーマスのミュージカル、北見で12月26日 「ソドー島の1ばんはだれだ」 - 47NEWS</title>
-      <link>https://www.47news.jp/15161044.html</link>
-      <pubDate>Fri, 30 Oct 2026 05:13:41 +0000</pubDate>
-      <guid isPermaLink="false">f4d2090ad98d3850c0021d24a30c4b698dec657ea637c267abae2719d19349e2</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">47NEWS</source>
-      <media:thumbnail url="https://img.cf.47news.jp/public/photo/2152b909c8b3bfef14e7e6c26e064570/photo.jpg" />
-      <media:content url="https://img.cf.47news.jp/public/photo/2152b909c8b3bfef14e7e6c26e064570/photo.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://img.cf.47news.jp/public/photo/2152b909c8b3bfef14e7e6c26e064570/photo.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;きかんしゃトーマスのミュージカル、北見で12月26日 「ソドー島の1ばんはだれだ」 47NEWS&lt;/p&gt;&lt;p&gt;配信元: 47NEWS&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
