@@ -1,5 +1,15 @@
 [
   {
+    "id": "010e743ee4df095e687f9c6a7db53425df5c14c5e9d8055d429f8e18db7f55dd",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yUHVoV1VUWmF2Qm1IOGszY25WcWQ3WTFOLS1pR0RUN2Mzb2RZSTFVTFlYWmFGUFlscHdheEZqczVlclFHcmMxT2tKWUFFeEN1LWlGdGNvaU8zdw?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1408461/",
+    "title": "北見・オホーツク（１１月１５日付）おくやみ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-14T11:30:00+00:00",
+    "description": "北見・オホーツク（１１月１５日付）おくやみ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
     "id": "8b26c7509e406a476bef5c650f82410a2f1fa75c7c2b4731d8599b7324ec8b27",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BOGdZeFRSdEp0bDE2OFBTY1hPSVoxWnBkMUtZLXAtN21OY04tRjRlX1Vmak0wRjY5Zy1TdzBLQlhXZ1Y0WDF5UWQ3ejZ2bmMteE9XZmE1aVlhQQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1408381/",
@@ -280,6 +290,16 @@
     "image": "https://img.cf.47news.jp/public/photo/b6108700fd7722a90e2edca56452cd43/photo.jpg"
   },
   {
+    "id": "8c93d47c1f964a02edf1fc54f2e8a1fbddf5ed039571d3a7636616167e4c4839",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1td2owdlRuUlNTd0hDVkJrZ2ZCWW1VOVJ3NWdzLWlkTDBMRGVFOGh4dVlVVEdZVEtsUS0tbWx0dTZKMWx3VnlQQ1hhb2dBNWNRN09lQjQtWENvQQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1407005/",
+    "title": "「税に関する高校生の作文」 北見北斗高の中根さんが札幌国税局長賞、香川さんが北見税務署長賞 中学生作文も北見・南中、置戸中の生徒が入賞 租税教育推進校は端野小 - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-12T03:54:44+00:00",
+    "description": "「税に関する高校生の作文」 北見北斗高の中根さんが札幌国税局長賞、香川さんが北見税務署長賞 中学生作文も北見・南中、置戸中の生徒が入賞 租税教育推進校は端野小 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/4/d/5/1/4d519c68e88d8657f1a5e34c19a0b465_1.webp?20261115020912"
+  },
+  {
     "id": "3b1397f8441611c2a303e451eb59e263f7f7c60365fdac9aa3695c5f87dd835c",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxNGh4dDlmYktEQ1NrYzl3MVpOa3ZxMmJzQ0tJY0poeXluYW9jYlUzbFNWcFV5azZPemt0X2tVSUpBRTZXOEtURjBobEQ0SERjelQ0ODVWT2lTUQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1406583/",
@@ -410,16 +430,6 @@
     "image": "https://image.news.livedoor.com/newsimage/stf/7/f/7fcdb_1871_0b3b9d55_c4b56564.jpg"
   },
   {
-    "id": "c6b84d5186c88cc6df82724f68fde01ae676b741212c764a4a9f21fff375cac8",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PY1MzUXYwejY4ZGxnbnhRY2tzODRkZElPaEZYZlZ3M01rVk9iN1gta2p2bTktVDZNaFdTLWt3LVlZLTNwOElLcVJ3UQ?oc=5",
-    "url": "https://www.47news.jp/15214658.html",
-    "title": "骨折をこらえて頂点に 北見の越智さん、全日本シニア空手の重量級で初優勝 昨年の軽量級に続き - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-11-11T04:28:41+00:00",
-    "description": "骨折をこらえて頂点に 北見の越智さん、全日本シニア空手の重量級で初優勝 昨年の軽量級に続き 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/1c1880c6bc2e285e0dd08b339b0871c5/photo.jpg"
-  },
-  {
     "id": "112e12afbf37d1992d065e11e342a80eceb65970373d5fb7b8137a935b689da2",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5YUJDNFVsN05WZ1I5NDd3VVFrMkxLR05iZUhYR21EYmpiOExpWW5ZeGswdkxtSG5Ic2YydGFPZm12WnQzRWtiV2FPSk95a1NiNXFsRzdjUVpvZw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1406253/",
@@ -428,6 +438,16 @@
     "published": "2026-11-11T04:28:41+00:00",
     "description": "骨折をこらえて頂点に 北見の越智さん、全日本シニア空手の重量級で初優勝 昨年の軽量級に続き 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/0/a/6/8/0a68d43ef4a559c7b64e6db79524b7df_1.webp?20261111152141"
+  },
+  {
+    "id": "c6b84d5186c88cc6df82724f68fde01ae676b741212c764a4a9f21fff375cac8",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PY1MzUXYwejY4ZGxnbnhRY2tzODRkZElPaEZYZlZ3M01rVk9iN1gta2p2bTktVDZNaFdTLWt3LVlZLTNwOElLcVJ3UQ?oc=5",
+    "url": "https://www.47news.jp/15214658.html",
+    "title": "骨折をこらえて頂点に 北見の越智さん、全日本シニア空手の重量級で初優勝 昨年の軽量級に続き - 47NEWS",
+    "source": "47NEWS",
+    "published": "2026-11-11T04:28:41+00:00",
+    "description": "骨折をこらえて頂点に 北見の越智さん、全日本シニア空手の重量級で初優勝 昨年の軽量級に続き 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/1c1880c6bc2e285e0dd08b339b0871c5/photo.jpg"
   },
   {
     "id": "ecf4507fe2b21e83d9626b12403d23663c247c25f376ef7983806483e8725fd7",
@@ -1478,25 +1498,5 @@
     "published": "2026-11-01T11:30:00+00:00",
     "description": "北見・オホーツク（１１月２日付）おくやみ 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
-  },
-  {
-    "id": "a1ad4810bd5663b1f032f889bf7c3bd5958946c419bdf7c37583c767a3f79cea",
-    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fUXdtMFRiNzJVbDduRDJvc3dmeWhKeFlXeTRjY3lReHJDcW5OdTk4RThBdFRUTjVQYXFZYzNRRkg1dk1JSi1Dc2piXzhIaFQ4T253S005MHJSeXRlQV80?oc=5",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69204",
-    "title": "生産量日本一 北見たまねぎまつり 味わい・体験して愛着を育む - NHKニュース",
-    "source": "NHKニュース",
-    "published": "2026-11-01T08:26:00+00:00",
-    "description": "生産量日本一 北見たまねぎまつり 味わい・体験して愛着を育む NHKニュース",
-    "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69204/20261101de69204_E0000133315_1_l.jpg"
-  },
-  {
-    "id": "d10bb744d69925e4a02a357027b63fcb8c097e538b75b8fc89e82fea8727b88f",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iRXZuQTlqQTNaTF9RYVl2T2JoYmxFSE9lUDh6Zk1SODR2S1V2NG5INEVkcHVKVmFRYmFndUozcDNOOVRFSTBNTWhzQQ?oc=5",
-    "url": "https://www.47news.jp/15169695.html",
-    "title": "北見たまねぎまつり開催 詰め放題100円や早積み王決定戦で賑わう - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-11-01T07:39:37+00:00",
-    "description": "北見たまねぎまつり開催 詰め放題100円や早積み王決定戦で賑わう 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/6220d7a06042cebfa499bbae458f9984/photo.jpg"
   }
 ]
