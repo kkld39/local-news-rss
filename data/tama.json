@@ -1,5 +1,25 @@
 [
   {
+    "id": "3c3499ecbcf86b5be0d7418c9ac02c091cc40b788377c7e31164b40f102a4092",
+    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kNUtpLW55VXM0dGxWNElydWI2Ql9tTkZQS1VoVVB1SGttYWFvWDRNOTRNVVRmSVptVUhEZzVCSENsRFRhaXJJZnBLUmxOZXdMbkhrelVXUGtKZlA4aUJkNEhHNElTTm1KeFpmRm9wdEtuQkpURTNWWDhDejIzVzg?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/ca7c35611a30f8b4e365a0bd16cc25fcaee5e7b8",
+    "title": "歌声と笑顔とともに40年 多摩童謡友の会が20日に記念イベント（朝日新聞） - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-11-15T03:00:00+00:00",
+    "description": "歌声と笑顔とともに40年 多摩童謡友の会が20日に記念イベント（朝日新聞） Yahoo!ニュース",
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261115-00000060-asahi-000-1-view.jpg?exp=10800"
+  },
+  {
+    "id": "66f28805677c9b5af7db16de01d0000c11b4fc69baf8c1247d1d12fd3f1ee873",
+    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IU2VDVmx1dkF3RTN3djhHTDZmejZrLUdtbm1vRTVVRFFrWmxLUElleFVjcGJVSmhJT2d0V2ZlMFB5bkhuMUdTb3dEaXFfeE15V2ZKWHZfelJBZmxDY2xlel9RRENNd3M?oc=5",
+    "url": "https://www.asahi.com/articles/ASVCC2R7JVCCOXIE02MM.html",
+    "title": "歌声と笑顔とともに40年 多摩童謡友の会が20日に記念イベント [東京都] - 朝日新聞",
+    "source": "朝日新聞",
+    "published": "2026-11-15T03:00:00+00:00",
+    "description": "歌声と笑顔とともに40年 多摩童謡友の会が20日に記念イベント [東京都] 朝日新聞",
+    "image": "https://imgopt.asahi.com/ogp/AS20261111002928_comm.jpg"
+  },
+  {
     "id": "2916fc7374d42378583b7ba0ec5a488b60cc8b9ae65c8a1389188a4355cc27e1",
     "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tLWhnV3lmd0s0R2pVc1hFWkE3VmcyR1NScUoyNWZkdjZBMl9qYjl1YWN0Qkc1RUZTSlREYUNiMGdFU3FwNF9pT2ZvT2hfaWxMYm53NXFidDBpOWwwMXpN?oc=5",
     "url": "https://go2senkyo.com/seijika/161152/posts/1582067",
@@ -18,6 +38,16 @@
     "published": "2026-11-14T15:00:00+00:00",
     "description": "ゆるたまネット 今年も食料など無料配布 12月18日から３日間 タウンニュース",
     "image": "https://www.townnews.co.jp/0306/images/a001489652_02.jpg"
+  },
+  {
+    "id": "2a16cc14a8aaa953043f7268a383e9f97590f6466fa40d5f5c9c8df43130fa8d",
+    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsNTR1aVRXV1M1cHdfeGxVU3cyMjFITFVocGRINkZSLVJucEU4XzliYXBUVFJOZXBNZDM4TGtWNjhGTXcxTVRkTzhBRzhnWHlOWm51VWwyd2o4ZzlR?oc=5",
+    "url": "https://www.youtube.com/watch?si=KwApGM65OzD7qbbe&v=lhkYFnpTsWM&feature=youtu.be",
+    "title": "超撮って出し！2026/11/14多摩センタークリスマスイルミネーション2026点灯式 多摩市のご当地アイドルディゼルパフォーマンス！！ #多摩市 #ご当地アイドル - YouTube",
+    "source": "YouTube",
+    "published": "2026-11-14T09:03:42+00:00",
+    "description": "超撮って出し！2026/11/14多摩センタークリスマスイルミネーション2026点灯式 多摩市のご当地アイドルディゼルパフォーマンス！！ #多摩市 #ご当地アイドル YouTube",
+    "image": null
   },
   {
     "id": "bf1f80dd745a73eff677b5a0e198aef3f3efc9499e9674e960462b4142a34a7c",
@@ -1468,35 +1498,5 @@
     "published": "2026-10-23T11:40:44+00:00",
     "description": "多摩動物公園で「アフリカフェア」11/22(日)・23(月・祝)開催！サンコンさん登場、音楽やダンスも 多摩ポン",
     "image": "https://tamapon.com/wp-content/uploads/2026/10/main-2-3.jpeg"
-  },
-  {
-    "id": "b3fb977fe75ed6abfbf6e9327f6de4b612ffd9b5fe01e5eb09ffa9c15c368296",
-    "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16X3RVS0pibUxzOTNvM1BUazBSajlOaGZlakg4dmtPTHV1SkpqdHg4LUhHbmY4Tkcxb2FOelppOTlmcW5LSVQ3YUN6OWV6ZGFKekJGRkZvbHZremlkS2p2TTFraWx1eTJlWi1uazJIbnNCX3BCSGFCSUFORdIBgAFBVV95cUxNYkNJRHJELTFMQTAxcnNwSks2SFhKQkRORU0wUUJqOFNNWWpNN2M0NXdueGVrdmRxQ3E1ZEp3X3pUZHl2cWxvZjVCM1g3Nm91Uzg1aF9zSHpROFVHQldyVVcyY0FRYTBQOWpZLVM2ODRxNklEZkIyeGtqRURwdHJNWg?oc=5",
-    "url": "https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-858970",
-    "title": "河北医療財団 多摩事業部　準備しておきたいＡＣＰ講座　28日、中央図書館で〈多摩市〉 - ｄメニューニュース",
-    "source": "ｄメニューニュース",
-    "published": "2026-10-23T08:00:00+00:00",
-    "description": "河北医療財団 多摩事業部　準備しておきたいＡＣＰ講座　28日、中央図書館で〈多摩市〉 ｄメニューニュース",
-    "image": "https://img.topics.smt.news.goo.ne.jp/picture/townnews/m_townnews-858970.jpg"
-  },
-  {
-    "id": "80f59f8aa7b1dbe711a6c05349e3ff0ba12eca0d5a06499b9f4ff03d5f375b4f",
-    "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYWHhMNUE0MmlJRXY5VXdMSzh0SWJqTGc2dkZuejk3NHY0X2gteU5WT2hxOHJzYXF5eEo5X2J4UUlrZVRlRHpUT281aEt6Y1BhSlE?oc=5",
-    "url": "https://report.iko-yo.net/articles/34867",
-    "title": "【多摩エリア】2026年10月24日・25日週末開催の無料イベント7選 マルシェ＆フェスも！ - いこーよニュース",
-    "source": "いこーよニュース",
-    "published": "2026-10-23T07:30:11+00:00",
-    "description": "【多摩エリア】2026年10月24日・25日週末開催の無料イベント7選 マルシェ＆フェスも！ いこーよニュース",
-    "image": "https://d28w2qw7dtr435.cloudfront.net/uploaded/cover_images/images/35187/normal.jpg?1792716503"
-  },
-  {
-    "id": "90d0cc0fe75ec56ec4152d01b5d223b0d324088ccca34761f359b6bf1ff09b55",
-    "google_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN19PNklSN09yeENaQTVnOEVEZk52VkxaRUVObmpIN2pYUjNqM3JUZDNuV0xTai15TUdILVBwa2tLSnF3ZGJNYXl2U2RVVjQ0TlR0UXFQb0l2enVIV0pCZ1ZmemdTRTk0VGxkSDRwWGt5MEFTdlRXV0lqeGlVbGVlUHpLb3VyM2ZGQV9SU1pmQ3Z2Nm1YQzRn?oc=5",
-    "url": "https://tama-inagi.goguynet.jp/2026/10/23/tama-city-childrens-future-council-proposals-2026/",
-    "title": "【多摩市】省エネから働きやすい街づくりまで。「令和7年度 子どもみらい会議」で、小・中学生が自分たちの視点でまちづくり提案を行いました。 - 地域ニュースサイト号外NET",
-    "source": "地域ニュースサイト号外NET",
-    "published": "2026-10-23T07:00:00+00:00",
-    "description": "【多摩市】省エネから働きやすい街づくりまで。「令和7年度 子どもみらい会議」で、小・中学生が自分たちの視点でまちづくり提案を行いました。 地域ニュースサイト号外NET",
-    "image": "https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/02/20260220_083445.jpg"
   }
 ]
