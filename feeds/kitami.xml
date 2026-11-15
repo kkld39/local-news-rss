@@ -6,7 +6,17 @@
     <description>北見の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/kitami.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 15 Nov 2026 07:10:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 11:30:00 +0000</lastBuildDate>
+    <item>
+      <title>北見・オホーツク（１１月１６日付）おくやみ - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1408737/</link>
+      <pubDate>Sun, 15 Nov 2026 11:30:00 +0000</pubDate>
+      <guid isPermaLink="false">f7ea48d069c00972eb1e436b554453491be5c72f75cf30c72256ed9804ecdbe5</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" />
+      <media:content url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見・オホーツク（１１月１６日付）おくやみ 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+    </item>
     <item>
       <title>北見の琴演奏会に300人 8歳が「アンパンマンのマーチ」熱演 - 北海道新聞デジタル</title>
       <link>https://www.hokkaido-np.co.jp/article/1408703/</link>
@@ -94,6 +104,16 @@
       <media:thumbnail url="https://newsdig.ismcdn.jp/mwimgs/0/a/1200w/img_0a49c52529ccca0a655e337323f9312f1402314.jpg" />
       <media:content url="https://newsdig.ismcdn.jp/mwimgs/0/a/1200w/img_0a49c52529ccca0a655e337323f9312f1402314.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://newsdig.ismcdn.jp/mwimgs/0/a/1200w/img_0a49c52529ccca0a655e337323f9312f1402314.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;赤字覚悟で廃止予定の公共施設を買い取り復活させた地元の挑戦 1週間で1800筆の署名を集めた住民と酪農ヘルパー会社が憩いの場を守る 北海道北見市 TBS NEWS DIG&lt;/p&gt;&lt;p&gt;配信元: TBS NEWS DIG&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>＜ひとナビ＠北見＞ハッカ文化 子どもたちに伝えたい 植村多佳子さん - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1408522/</link>
+      <pubDate>Sat, 14 Nov 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">11f1f565c86633dfa8b39f90434166451240134fd2d347f4d1c9b6b5c43e7266</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/5/d/0/4/5d0421220423caaae98771ea32815439_1.webp?20261116021142" />
+      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/5/d/0/4/5d0421220423caaae98771ea32815439_1.webp?20261116021142" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/5/d/0/4/5d0421220423caaae98771ea32815439_1.webp?20261116021142" alt="" /&gt;&lt;/p&gt;&lt;p&gt;＜ひとナビ＠北見＞ハッカ文化 子どもたちに伝えたい 植村多佳子さん 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
     </item>
     <item>
       <title>自治再考＞第2部 北見市の処方箋 1（2の1） 財政難 草刈り代すら惜しく 見直し170項目 しぼむ住民サービス - 北海道新聞デジタル</title>
@@ -1476,24 +1496,6 @@
       <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/2/4/1/4/24148404e5f02e378c259490caa2adff_1.webp?20261104000933" />
       <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/2/4/1/4/24148404e5f02e378c259490caa2adff_1.webp?20261104000933" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/2/4/1/4/24148404e5f02e378c259490caa2adff_1.webp?20261104000933" alt="" /&gt;&lt;/p&gt;&lt;p&gt;憲法公布80年 「間接的起草者」鈴木安蔵氏の生涯から意義を説く 北見で金子勝氏が講演 「憲法学の夜明け」強調 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>「文化の日」、北見で第45回総合芸術祭 13団体約120人が舞台発表 フラや舞踊など - 北海道新聞デジタル</title>
-      <link>https://www.hokkaido-np.co.jp/article/1401638/</link>
-      <pubDate>Tue, 03 Nov 2026 04:22:51 +0000</pubDate>
-      <guid isPermaLink="false">1a6aa1c9256df38fc84317fa09751e899ad05a22d54b4e382e31f54ebea466ed</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
-      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/1/f/4/a/1f4a77650a89a976c089e7e8a7ac5f30_1.webp?20261103154810" />
-      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/1/f/4/a/1f4a77650a89a976c089e7e8a7ac5f30_1.webp?20261103154810" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/1/f/4/a/1f4a77650a89a976c089e7e8a7ac5f30_1.webp?20261103154810" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「文化の日」、北見で第45回総合芸術祭 13団体約120人が舞台発表 フラや舞踊など 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>住宅火災で２人死亡、１人けが 北海道北見市、「大量に黒煙」 - 山陽新聞</title>
-      <link>https://www.sanyonews.jp/photo/detail?article_id=1914432</link>
-      <pubDate>Tue, 03 Nov 2026 02:51:12 +0000</pubDate>
-      <guid isPermaLink="false">c83381ddc6089537de8de48d5054db6cf2e0968f2bc845988c81abca0f056b41</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">山陽新聞</source>
-      <description>&lt;p&gt;住宅火災で２人死亡、１人けが 北海道北見市、「大量に黒煙」 山陽新聞&lt;/p&gt;&lt;p&gt;配信元: 山陽新聞&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

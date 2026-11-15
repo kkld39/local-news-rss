@@ -1,5 +1,15 @@
 [
   {
+    "id": "f7ea48d069c00972eb1e436b554453491be5c72f75cf30c72256ed9804ecdbe5",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ES0RHSDNad2RBNmZvT1JBN0M5QklPVzJVMDJ2Ni1DUU9XbnVpMzQtb05Mak5QVDQzODBXYUk4WDB0WXdMVWNvRlRfR1kzS2plRWlqSDRnT2FyQQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1408737/",
+    "title": "北見・オホーツク（１１月１６日付）おくやみ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-15T11:30:00+00:00",
+    "description": "北見・オホーツク（１１月１６日付）おくやみ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
     "id": "f8c7f5cc1d8e1246a9827b2845dd035f0084cabc9b59b7575a3038b44f2115ee",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OWjExUVNaQkNRZEYxa015TGRQSVlhWC1PS3cyVWtKeVpQSVRqTXlCblpHbUQ2MlJTUDJFVmYxOHJZd1ZOYklVNHJtSmVOdG5TMG9oZW5tZHV5Zw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1408703/",
@@ -88,6 +98,16 @@
     "published": "2026-11-14T23:00:00+00:00",
     "description": "赤字覚悟で廃止予定の公共施設を買い取り復活させた地元の挑戦 1週間で1800筆の署名を集めた住民と酪農ヘルパー会社が憩いの場を守る 北海道北見市 TBS NEWS DIG",
     "image": "https://newsdig.ismcdn.jp/mwimgs/0/a/1200w/img_0a49c52529ccca0a655e337323f9312f1402314.jpg"
+  },
+  {
+    "id": "11f1f565c86633dfa8b39f90434166451240134fd2d347f4d1c9b6b5c43e7266",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xSjdwT19iWUdRM0NldGtROThwUGlOUkZZaDZlZ3lzQnFyQXBEOW5HSmVteWNDbHFYLWZheGxtdXJLUVc0RXd3YmFqYTI4ckpJdXJwYktRNFgyZw?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1408522/",
+    "title": "＜ひとナビ＠北見＞ハッカ文化 子どもたちに伝えたい 植村多佳子さん - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-14T19:00:00+00:00",
+    "description": "＜ひとナビ＠北見＞ハッカ文化 子どもたちに伝えたい 植村多佳子さん 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/5/d/0/4/5d0421220423caaae98771ea32815439_1.webp?20261116021142"
   },
   {
     "id": "42a0766d14abd6c2b0dfe40fa50d1452fe8c0c747ff1be90e1044d76c551c1b4",
@@ -1478,25 +1498,5 @@
     "published": "2026-11-03T09:00:43+00:00",
     "description": "憲法公布80年 「間接的起草者」鈴木安蔵氏の生涯から意義を説く 北見で金子勝氏が講演 「憲法学の夜明け」強調 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/2/4/1/4/24148404e5f02e378c259490caa2adff_1.webp?20261104000933"
-  },
-  {
-    "id": "1a6aa1c9256df38fc84317fa09751e899ad05a22d54b4e382e31f54ebea466ed",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2bzZUSkI1bUc5RGhnRkxweVlPSmtrZ0ZPOFppZ0V0NDk4QTdWZFB2VXF6SVVORHNxZWJYdHViQk1nak03ZGdGQ2twdnJHNUpDb0FEMXN2a0ROUQ?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1401638/",
-    "title": "「文化の日」、北見で第45回総合芸術祭 13団体約120人が舞台発表 フラや舞踊など - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-11-03T04:22:51+00:00",
-    "description": "「文化の日」、北見で第45回総合芸術祭 13団体約120人が舞台発表 フラや舞踊など 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/1/f/4/a/1f4a77650a89a976c089e7e8a7ac5f30_1.webp?20261103154810"
-  },
-  {
-    "id": "c83381ddc6089537de8de48d5054db6cf2e0968f2bc845988c81abca0f056b41",
-    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54TmNmMVBDdk1xcElaMU1QTl9MaDdSeDZZdlYzQVlOT1BiR25PSUVPNHFLUmJycnhMTlJSXy1EYWFhVGpYSm4wemxiX1hBVlhlUndaU1pMWmxRLUMwalZJcjdGOFJwTUE?oc=5",
-    "url": "https://www.sanyonews.jp/photo/detail?article_id=1914432",
-    "title": "住宅火災で２人死亡、１人けが 北海道北見市、「大量に黒煙」 - 山陽新聞",
-    "source": "山陽新聞",
-    "published": "2026-11-03T02:51:12+00:00",
-    "description": "住宅火災で２人死亡、１人けが 北海道北見市、「大量に黒煙」 山陽新聞",
-    "image": null
   }
 ]

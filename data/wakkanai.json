@@ -1,5 +1,15 @@
 [
   {
+    "id": "e0025e47d97d31317d232d17b8a375b3a4b2512245f684e3e71a0a612eae5d0a",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PVWdPOExLWjVkaWxUdEoxNzFUcnQtZzlUZTZCV1cyWUpRdGN4QVBpWWFrRTMyMFlWU2hNb3YtbmdBaTJCNmVxSk11R1V1MzBlUjNaNXFwNUNLQQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1408739/",
+    "title": "留萌・宗谷（１１月１６日付）おくやみ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-15T11:30:00+00:00",
+    "description": "留萌・宗谷（１１月１６日付）おくやみ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
     "id": "0d79c13cb2a172dde1cd978f9e0c446eb96e5060f20cc43dd64d73ae0eae62a6",
     "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KY1FSNHFXb2dXM0U3eGQwZ0JIS3RPdlgxZFo1b3FyV0hMcXoxdXFIOHNXenJIZWRHcTJCcHgwZXp6Mi0wTHREY0oxcURDS18wT1h2TlZLNXdqbENsSVdR?oc=5",
     "url": "https://www.chiba-tv.com/plus/detail/2026112225457",
@@ -710,6 +720,16 @@
     "image": "https://webun.ismcdn.jp/mwimgs/7/a/1200m/img_7ab26c26573e518fcd9c0bc96c2896dd464343.jpg?rd=202608051016"
   },
   {
+    "id": "79bd391ada18f17dfd42c3b19719ac836af75f514ca0be5f0bf6dc749351483f",
+    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BV1F6NVNOLW8tUUJNd3d6cXR1NnNCTjIwM1BDUWk1b3hnZy1ZY0QzRWpmS1BCVDYtWDFOaVRJU2Q2M0NpQlUyOFJsODJSZUNDajBUVFFYTGZONDNVZ2ZxRi13U0lrT1dYLU5QY1RIM1V5c0VrclpNb18yMjlfb0U?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/f4ca58fe18d127c43031546b97bbe0ec470129c7",
+    "title": "【ヒグマ激突】巨体が特急を揺るがした！推定400キロ超、宗谷線に現れた北海道で最大クラスの「巨大グマ」が列車と衝突…乗客は車内に缶詰状態に…脱線事故の現場で起きていた想像を超える事態とは＜北海道＞（北海道ニュースUHB） - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-11-07T08:00:00+00:00",
+    "description": "【ヒグマ激突】巨体が特急を揺るがした！推定400キロ超、宗谷線に現れた北海道で最大クラスの「巨大グマ」が列車と衝突…乗客は車内に缶詰状態に…脱線事故の現場で起きていた想像を超える事態とは＜北海道＞（北海道ニュースUHB） Yahoo!ニュース",
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261107-90063442-hokkaibunv-000-1-view.jpg?exp=10800"
+  },
+  {
     "id": "ebf3f319c1c54e6a5c149be358f3d4e6661c48f5a8f2e1842bc4aedf0e01f6ce",
     "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GRDN6S1IxWl9NSnJUYVZ5NUlmZnZLb3J4Z1FIN01Ja2dLR2lKYWYzQ0RvMmJtTWN1WE42NjZXYWpWSFhfZm5Rc1UzaUY?oc=5",
     "url": "https://hokkaido-nl.jp/article/44552",
@@ -718,16 +738,6 @@
     "published": "2026-11-07T07:45:46+00:00",
     "description": "フェリー・ボレアース宗谷 各港で勇退セレモニー 地域住民ら最後の運航見守る 利礼３町と稚内市 北海道ニュースリンク",
     "image": null
-  },
-  {
-    "id": "79bd391ada18f17dfd42c3b19719ac836af75f514ca0be5f0bf6dc749351483f",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BV1F6NVNOLW8tUUJNd3d6cXR1NnNCTjIwM1BDUWk1b3hnZy1ZY0QzRWpmS1BCVDYtWDFOaVRJU2Q2M0NpQlUyOFJsODJSZUNDajBUVFFYTGZONDNVZ2ZxRi13U0lrT1dYLU5QY1RIM1V5c0VrclpNb18yMjlfb0U?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/f4ca58fe18d127c43031546b97bbe0ec470129c7",
-    "title": "【ヒグマ激突】巨体が特急を揺るがした！推定400キロ超、宗谷線に現れた北海道で最大クラスの「巨大グマ」が列車と衝突…乗客は車内に缶詰状態に…脱線事故の現場で起きていた想像を超える事態とは＜北海道＞（北海道ニュースUHB） - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
-    "published": "2026-11-06T22:30:02+00:00",
-    "description": "【ヒグマ激突】巨体が特急を揺るがした！推定400キロ超、宗谷線に現れた北海道で最大クラスの「巨大グマ」が列車と衝突…乗客は車内に缶詰状態に…脱線事故の現場で起きていた想像を超える事態とは＜北海道＞（北海道ニュースUHB） Yahoo!ニュース",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261107-90063442-hokkaibunv-000-1-view.jpg?exp=10800"
   },
   {
     "id": "2f51ccb412a80a2b1ab3d7c1fd67b87f771ea64ac419a11a8d1708c69e88b87c",
@@ -1050,16 +1060,6 @@
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-23061292-hbcv-000-1-thumb.jpg?exp=10800"
   },
   {
-    "id": "60590b8948233960e6c109c020d2ce2fba76bddd0d16171cb386e8b309a3f2b3",
-    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92MGhORVhUbW5EZDN3bGlENkpOUDJ4XzNTdERUT1VmSlcwbVZCWWRuWXNOQncwWjhaZTlRbDF1Z3hrU1FpNXhxdnYwVUsybFpJSC1nbUVEMEdNemxIcTlB?oc=5",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70278",
-    "title": "JR宗谷線 ヒグマとの衝突事故から5日ぶり運転再開 - NHKニュース",
-    "source": "NHKニュース",
-    "published": "2026-11-04T08:00:00+00:00",
-    "description": "JR宗谷線 ヒグマとの衝突事故から5日ぶり運転再開 NHKニュース",
-    "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70278/20261104de70278_E0000139568_1_l.jpg"
-  },
-  {
     "id": "20a580d2a44bab2be566d4ee94b1175c6241c1243e4aab4fe82e5caa8603b92e",
     "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94bEVVMkhVODB2azFSSDBBdEw0aE9UZnFuU0U5TDNoSXpab1Y3VmtKM3MtOC1aOEhSMlNic2s5VmJ3cVA1OF9FZUcxQUZ3VzFmZ3BuaDM2MHB3eGNPalA5QXZfWFhpNkxBWWg1VEVIXzJyRmk0RUJoUHpnLXNNR2M?oc=5",
     "url": "https://news.yahoo.co.jp/articles/7a38210f843b3dc544997bc08127ea259ac03033",
@@ -1068,6 +1068,16 @@
     "published": "2026-11-04T08:00:00+00:00",
     "description": "クマ衝突の脱線から5日…JR宗谷線が復旧し運転再開、車両繰りで一部バス代行も実施 北海道 Yahoo!ニュース",
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-23059556-hbcv-000-2-thumb.jpg?exp=10800"
+  },
+  {
+    "id": "60590b8948233960e6c109c020d2ce2fba76bddd0d16171cb386e8b309a3f2b3",
+    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92MGhORVhUbW5EZDN3bGlENkpOUDJ4XzNTdERUT1VmSlcwbVZCWWRuWXNOQncwWjhaZTlRbDF1Z3hrU1FpNXhxdnYwVUsybFpJSC1nbUVEMEdNemxIcTlB?oc=5",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70278",
+    "title": "JR宗谷線 ヒグマとの衝突事故から5日ぶり運転再開 - NHKニュース",
+    "source": "NHKニュース",
+    "published": "2026-11-04T08:00:00+00:00",
+    "description": "JR宗谷線 ヒグマとの衝突事故から5日ぶり運転再開 NHKニュース",
+    "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70278/20261104de70278_E0000139568_1_l.jpg"
   },
   {
     "id": "671624ae0231d7dfcfce9ea66b1815bc201845330221805c0304c8b391023545",
@@ -1488,15 +1498,5 @@
     "published": "2026-11-03T08:30:20+00:00",
     "description": "【速報】クマと衝突 特急脱線で運転見合わせのJR宗谷線 音威子府～稚内 4日に運転再開へ JR北海道が発表 TBS NEWS DIG",
     "image": "https://newsdig.ismcdn.jp/mwimgs/4/b/1200w/img_4b58b533e2b667301a034f421ac8b86d619834.jpg"
-  },
-  {
-    "id": "8a6bff3da7caac307282fd4c45ca814b9c5dc9218e6cecd9195dfa8b49eab92f",
-    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBveHRtZkYtYkxCdFVENlEwcHhTZTB1Q0J2TUVOUlFaazl6QnIyM1dSRXhMZDA5SnpDMDZyMDdkTXgwekhSMTV1X3pyUC1FaXMwb2t0WWhrYzZ2bUxJNGw0?oc=5",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261103de70006",
-    "title": "ヒグマ衝突のJR宗谷線は4日から全区間で運転再開 - NHKニュース",
-    "source": "NHKニュース",
-    "published": "2026-11-03T08:25:00+00:00",
-    "description": "ヒグマ衝突のJR宗谷線は4日から全区間で運転再開 NHKニュース",
-    "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70006/20261103de70006_E0000138318_1_l.jpg"
   }
 ]
