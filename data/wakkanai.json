@@ -1,5 +1,45 @@
 [
   {
+    "id": "51ec6b9b5fa0b748c3af7c4c72efc22803d81b76ddfd06ed231e89a7c0601f6a",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fWnVrQ1phZ1Z3ZGVjMGo4VzlOUFVTYXpoOWJkeDA4MzlsVENsaEdFV3pLTVhPNGRMMExkcDk4ME1QeHo4aWhGMHdsZ0ZVd044TGMyYUdySXJIdw?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1409299/",
+    "title": "留萌・宗谷（１１月１７日付）おくやみ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-16T11:30:00+00:00",
+    "description": "留萌・宗谷（１１月１７日付）おくやみ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
+    "id": "ed85321904d5e1641d666feadfe7c0ed9d05eee024cda73a9d0b15f331d1b3f3",
+    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIRU1UVUZIV0VOSEtWWkRjUER4VENTQVpmdmxWR0xlelFsTV90eGpfTFAzbFFvQXlZa04yekJyWVNyekZsWHhmYUJIOVhhLUpnTzNmdUdwaEVqb1IxYkFmckRtclBBUms?oc=5",
+    "url": "https://www.nhk.or.jp/hokkaido/info/articles/310/078/01/",
+    "title": "ほっとニュース北海道「稚内と利尻・礼文を結んで23年『ボレアース宗谷』最後の航海 NHK ONE配信中11/23まで - NHK",
+    "source": "NHK",
+    "published": "2026-11-16T11:27:20+00:00",
+    "description": "ほっとニュース北海道「稚内と利尻・礼文を結んで23年『ボレアース宗谷』最後の航海 NHK ONE配信中11/23まで NHK",
+    "image": "https://www.nhk.or.jp/hokkaido/info/articles/310/078/01/img/og.jpg"
+  },
+  {
+    "id": "031a0701a5ce8e5a49097769d37a5460228cc18ecb06beff98f7d919100fc394",
+    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93WWpvUE1hSXZKamFrZ0gydTN6QWZrOTk0MVhwQ1NxY0otWkZnS3A1NXUyWW9GbVRScDFUam5Wdkg0VmNDdWpFUkJWaFZldw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93WWpvUE1hSXZKamFrZ0gydTN6QWZrOTk0MVhwQ1NxY0otWkZnS3A1NXUyWW9GbVRScDFUam5Wdkg0VmNDdWpFUkJWaFZldw?oc=5",
+    "title": "【北海道(宗谷地方)】11/17の天気予報 - FNNプライムオンライン",
+    "source": "FNNプライムオンライン",
+    "published": "2026-11-16T10:30:00+00:00",
+    "description": "【北海道(宗谷地方)】11/17の天気予報 FNNプライムオンライン",
+    "image": null
+  },
+  {
+    "id": "6f94917a405d1b770a824d4c949826d64081b797862f8348e183228c2702e043",
+    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13MjdOcVV3VE9HZDdIV0RLczZvY0toNnpWWENTSlpxbk9JSEF6bHh0NmsyaDYtYW9TZm1wZzlQYXowTTVBb3JvQnMyalBVd3p0alZpMnZ5akJlbV8yOHVr?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13MjdOcVV3VE9HZDdIV0RLczZvY0toNnpWWENTSlpxbk9JSEF6bHh0NmsyaDYtYW9TZm1wZzlQYXowTTVBb3JvQnMyalBVd3p0alZpMnZ5akJlbV8yOHVr?oc=5",
+    "title": "稚内と利尻・礼文を結んで23年「ボレアース宗谷」最後の航海 - NHKニュース",
+    "source": "NHKニュース",
+    "published": "2026-11-16T09:51:01+00:00",
+    "description": "稚内と利尻・礼文を結んで23年「ボレアース宗谷」最後の航海 NHKニュース",
+    "image": null
+  },
+  {
     "id": "84ee4f40764fe6ccaa2b3cf7ec5f4c04634ad801e37f33625b61911563af1cbb",
     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SMVYyMlRzY1JjQWNkZHlEU2ZIcFBCNi00Ykt6QmpCeG53dEM2bHFpY3ZVdHltVFZUREVzRFJwZkhrakwwT3hrbUdtVDZEYnJ0N3ZBRVdn?oc=5",
     "url": "https://wakkanaipress.com/2026/11/16/25820/",
@@ -28,6 +68,16 @@
     "published": "2026-11-16T01:00:47+00:00",
     "description": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ 47NEWS",
     "image": "https://img.cf.47news.jp/public/photo/32472e2c0c12f9d8ad67b0d40113af41/photo.jpg"
+  },
+  {
+    "id": "ef59c26e3da52953ea36adc9c9f617f62f20a5aed4ebfef93c29433757c13d83",
+    "google_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9aODhhdjFCWVhwUWhGS0JrclkzRGRsRVlKRVYyNjJtTFBQWUJzeVN0YUMxbFktY3NoLUZr?oc=5",
+    "url": "https://x.com/souyateitoyg0n/status/2122127614374731895",
+    "title": "宗谷提督 （SOYA BASE) (@souyateitoyg0n) on X - Howl.Link",
+    "source": "Howl.Link",
+    "published": "2026-11-16T00:40:25+00:00",
+    "description": "宗谷提督 （SOYA BASE) (@souyateitoyg0n) on X Howl.Link",
+    "image": "https://pbs.twimg.com/media/HXNPuz0bMAADeEL?format=webp&name=large"
   },
   {
     "id": "e0025e47d97d31317d232d17b8a375b3a4b2512245f684e3e71a0a612eae5d0a",
@@ -1448,55 +1498,5 @@
     "published": "2026-11-03T10:13:14+00:00",
     "description": "クマ衝突の宗谷線４日に運転再開 中国新聞デジタル",
     "image": "https://chugoku-np.ismcdn.jp/mwimgs/8/4/-/img_84d830aeb04c705fe204f84c840fb3dc22844.jpg"
-  },
-  {
-    "id": "bf258517549bbe6f1f3ac8315c51e05c645ab598210c17abb9c3f403947cc08c",
-    "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3eXhSQ1R1Vkp4NTFQYTV5UWZkZHhBX25mQVgwbzdYWHVROWREbWpNVFdXalZDUGZtUU9SaXdmQ3ZYZWhfQ0loYjNsR0hjcDc2V0hTaF8xdGRLUTg?oc=5",
-    "url": "https://www.sanin-chuo.co.jp/articles/-/1109302",
-    "title": "クマ衝突の宗谷線４日に運転再開 - 山陰中央新報デジタル",
-    "source": "山陰中央新報デジタル",
-    "published": "2026-11-03T10:13:14+00:00",
-    "description": "クマ衝突の宗谷線４日に運転再開 山陰中央新報デジタル",
-    "image": "https://sanin-chuo.ismcdn.jp/mwimgs/8/4/1200m/img_84d830aeb04c705fe204f84c840fb3dc22844.jpg"
-  },
-  {
-    "id": "54838674862435679a3501a5cff3c1ae1d6dc9c57785167fb1bc4e732c5a9c2b",
-    "google_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6cXhIWUFOLVIxeVg5ZWhOdUM5S1dBQ29GTkpreWM2MldPcXJobnVNSkZCdmhfWFZidlBrUXRETUVLRWw0WDh5OFd2WTZHMFZYbTdZeF9Genc3RXdKd2hNWmFLeTJudw?oc=5",
-    "url": "https://www.chunichi.co.jp/article/1334318?rct=national",
-    "title": "クマ衝突の宗谷線４日に運転再開 ＪＲ北海道 - 中日新聞Web",
-    "source": "中日新聞Web",
-    "published": "2026-11-03T10:13:14+00:00",
-    "description": "クマ衝突の宗谷線４日に運転再開 ＪＲ北海道 中日新聞Web",
-    "image": "https://static.chunichi.co.jp/image/article/size1/4/f/4/7/4f470557156a5df3c70ae7302db44bfa_1.jpg"
-  },
-  {
-    "id": "44b5cd12fb43e37b0a27c36b3c6864d86eb224d0e9e1423806d20dc2d4cd08f5",
-    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91ekdxdm9nZDdhQUVyb2R5SWd0RjBwQmhvY1o1bllOZzRjUmN5OVhFNkRmVmY4UjJhQVE1aWplT0liNzJwMVJxQ1d1QWJRYVhhdFF3YzE1cw?oc=5",
-    "url": "https://www.saitama-np.co.jp/articles/221547",
-    "title": "クマ衝突の宗谷線４日に運転再開 - 埼玉新聞",
-    "source": "埼玉新聞",
-    "published": "2026-11-03T10:13:00+00:00",
-    "description": "クマ衝突の宗谷線４日に運転再開 埼玉新聞",
-    "image": "https://www.saitama-np.co.jp/upload/kyodo_news_thmbnail/2026/11/03/PN2026110301000904.-.-.CI0003.jpg"
-  },
-  {
-    "id": "e796930c8f228ad60cb035ea2bb9a3426bfc4a1b951facc2f6135e9d37e01eb9",
-    "google_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaE1EMXRNYlRHalA4eHE1Y0pYNnNJN29nakU0Q3hqRHN3WFdLRzcwQmNFZm5SRHlpa1c2UDF0bFVWcHR5UE5OZkk3cUpaZFduQVNwOUhKelhKRWJXUjRzek80dVRwVTFpTWxzbU1yX2FRdDN1eEVZc2Z2aU5vcDN5T3hlUlduaUEyTzdJ?oc=5",
-    "url": "https://www.yamagata-np.jp/news_core/index_pr.php?kate=National&no=2026110301000901",
-    "title": "クマ衝突の宗谷線４日に運転再開 ＪＲ北海道 - 山形新聞",
-    "source": "山形新聞",
-    "published": "2026-11-03T10:13:00+00:00",
-    "description": "クマ衝突の宗谷線４日に運転再開 ＪＲ北海道 山形新聞",
-    "image": "https://www.yamagata-np.jp/images/title.gif"
-  },
-  {
-    "id": "ea950500b66e9c5170985c8ae22a46982652231b5e55a8fa0e65b77887438e62",
-    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HYXFvcWstVW9jZlVOdEU4SUZRa0hnRi1xakVHUC1VUDdKU2RjOGpKcWR0cjhsZVc4QlMtQldjR1hNMF9sdVUzQlhuNk9md0dNS1VxbHBn?oc=5",
-    "url": "https://www.saga-s.co.jp/articles/-/1822988",
-    "title": "クマ衝突の宗谷線４日に運転再開 ＪＲ北海道 | | 全国のニュース - 佐賀新聞",
-    "source": "佐賀新聞",
-    "published": "2026-11-03T10:13:00+00:00",
-    "description": "クマ衝突の宗谷線４日に運転再開 ＪＲ北海道 | | 全国のニュース 佐賀新聞",
-    "image": "https://saga.ismcdn.jp/mwimgs/8/4/1200m/img_84d830aeb04c705fe204f84c840fb3dc22844.jpg"
   }
 ]
