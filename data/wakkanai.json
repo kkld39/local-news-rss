@@ -1,5 +1,15 @@
 [
   {
+    "id": "50f9bad99b96fe79d35eb83ee73d3b8b92e60418e69efff337ebd2d3a8813bd3",
+    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KMFJncHlaV2loVk1hdzd0NWpBZ3BzZThZcVFoX2NTZ2FlVGFWdGlhRXVWZV9Pd1dHWmJyZW5FRkYzQzhTcm5kcTZaY0c1c04wZFluMlVkeGVORmtRR3FjT2p0WkdNNTRKaTQ2VGJn?oc=5",
+    "url": "https://article.auone.jp/8e0d8e6b-6a88-402f-9600-d617349e4dbd",
+    "title": "70年前に南極を目指した観測船 実は戦時中の「強運艦」だった!?「総員退艦」から生還した逸話も - au Webポータル",
+    "source": "au Webポータル",
+    "published": "2026-11-17T04:12:00+00:00",
+    "description": "70年前に南極を目指した観測船 実は戦時中の「強運艦」だった!?「総員退艦」から生還した逸話も au Webポータル",
+    "image": "https://portal.auone.jp/media/thumbnails/2026/11/17/https___trafficnews_jp_post_726762_w600.webp"
+  },
+  {
     "id": "f612e798054cc8189e33de467da2a542a7ca582c46e28c6ae7b0e9f35e0f8968",
     "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4NUNtVUZYQjRsbGpLZ2p3Mmpsenlzck5vY2lNV0l6VDdTVGNJUWpQeV96NF84bGpNY1VLVWVRTXJaN3FZRXBJRQ?oc=5",
     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4NUNtVUZYQjRsbGpLZ2p3Mmpsenlzck5vY2lNV0l6VDdTVGNJUWpQeV96NF84bGpNY1VLVWVRTXJaN3FZRXBJRQ?oc=5",
@@ -630,16 +640,6 @@
     "image": "https://www.uhb.jp/news/data/63483/image.jpg?v=1794226872"
   },
   {
-    "id": "03c6c8daa3f35209a40146da8f39abcda49e0998c4df0048fc62a352ef145d1d",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xMDZ5Wkg0WFFyNFRxXzZVRTFpTnBzU3NjbnpoLUNhbjZEX0RfeUp2LTZrNGU1d3lsS2NhTlFRdnc1TkxkN2hFZno1RWpDaE1wZXRHdDgzRzlqaE5YVzZVS0txZktpMjRGTEJvTVlXUTctTGh3TmVYbjM5RHlTdjQ?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/a188c4ae49cbb46880d17e98bfbcbb9bd5f1d50c",
-    "title": "JR北海道が単独では維持困難な“黄色線区”…赤字額31.2億円の宗谷線の地元協議始まる…高校生にとっては重要な通学手段 高齢者にとっては医療機関への通院の頼みの綱 どうやって存続させる - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
-    "published": "2026-11-09T12:17:02+00:00",
-    "description": "JR北海道が単独では維持困難な“黄色線区”…赤字額31.2億円の宗谷線の地元協議始まる…高校生にとっては重要な通学手段 高齢者にとっては医療機関への通院の頼みの綱 どうやって存続させる Yahoo!ニュース",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-90063483-hokkaibunv-000-2-thumb.jpg?exp=10800"
-  },
-  {
     "id": "957d663cebfe7a2f858b6194385502f393c620112107988245605fee740384c1",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SZ2E1Yzd0S05XaGZTUGxKV0N2RW5iM1Z4TEx1S3dpc1lILWtFdmNmM1ptWXJVTlJDZVFITFh4SUJGMnNuQTllcGZ5N2lnRm9GTDZnVkx4X1pUZw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1405003/",
@@ -688,6 +688,16 @@
     "published": "2026-11-09T08:28:13+00:00",
     "description": "ロシア海軍ミサイル巡洋艦1隻が宗谷海峡を西進（11月5日、スラバ級） J ディフェンス ニュース",
     "image": "https://j-defense.ikaros.jp/img/jdn/list/006/265/21.jpg"
+  },
+  {
+    "id": "03c6c8daa3f35209a40146da8f39abcda49e0998c4df0048fc62a352ef145d1d",
+    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xMDZ5Wkg0WFFyNFRxXzZVRTFpTnBzU3NjbnpoLUNhbjZEX0RfeUp2LTZrNGU1d3lsS2NhTlFRdnc1TkxkN2hFZno1RWpDaE1wZXRHdDgzRzlqaE5YVzZVS0txZktpMjRGTEJvTVlXUTctTGh3TmVYbjM5RHlTdjQ?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/a188c4ae49cbb46880d17e98bfbcbb9bd5f1d50c",
+    "title": "JR北海道が単独では維持困難な“黄色線区”…赤字額31.2億円の宗谷線の地元協議始まる…高校生にとっては重要な通学手段 高齢者にとっては医療機関への通院の頼みの綱 どうやって存続させる - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-11-09T08:00:00+00:00",
+    "description": "JR北海道が単独では維持困難な“黄色線区”…赤字額31.2億円の宗谷線の地元協議始まる…高校生にとっては重要な通学手段 高齢者にとっては医療機関への通院の頼みの綱 どうやって存続させる Yahoo!ニュース",
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-90063483-hokkaibunv-000-2-thumb.jpg?exp=10800"
   },
   {
     "id": "22d5ab9e936a9eee47832aa258959ed84fd175443c1d7f181e79c03d98dff285",
@@ -1488,15 +1498,5 @@
     "published": "2026-11-03T10:18:00+00:00",
     "description": "クマ衝突の宗谷線４日に運転再開 デイリースポーツ",
     "image": "https://i.daily.jp/society/national/2026/11/03/Images/f_20997519.jpg"
-  },
-  {
-    "id": "ecd47a80544cb4c086a6c9f581956951336987faa9c53eabb230aa5e45b8d33a",
-    "google_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObTJReVNpaVRENkl6MkJMdDJxVmx3d1RoWjVUT1pZSkhiR0xtSFNDUjR0cnVXRHV1YlF0MzRmbHhyNG5NLW5zclJIeE1jUXV1dFVBQmltbmxjV2xwTWFxN1JwVXA4N0NjT2pseHdkdDg3cVcxNG1xWWZETlZBZ0xvQlVFbDRvc3IwdGRmM3JNUEJ3bzdXZkozVVVheS16RWM1VHc?oc=5",
-    "url": "https://www.sankei.com/article/20261103-2OWBUKYVF5MT7HD4YHVGLSA7N4/photo/7VJN7PSLMFMNNEQMQ7OSTKUUGQ/",
-    "title": "ヒグマと衝突して特急脱線の宗谷線、4日から運転再開 JR北海道が発表（写真・画像 1/1） - 産経ニュース",
-    "source": "産経ニュース",
-    "published": "2026-11-03T10:14:14+00:00",
-    "description": "ヒグマと衝突して特急脱線の宗谷線、4日から運転再開 JR北海道が発表（写真・画像 1/1） 産経ニュース",
-    "image": "https://www.sankei.com/resizer/v2/7VJN7PSLMFMNNEQMQ7OSTKUUGQ.jpg?auth=7eef01bace8c69248fd1f287615f7e0ac8d567823af1854994daa2ca0ac4f1bf&quality=50&focal=849%2C1774&width=1200&height=675"
   }
 ]
