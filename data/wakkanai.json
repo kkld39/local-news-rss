@@ -1,5 +1,25 @@
 [
   {
+    "id": "c2f3a822dfc33f4b9b019066f80a7f2e6a1b6789ac960bb8eaae1d7b44f5193b",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UdGdvUzNQS2I3TmlJWnVHby1iZ091cnI2NnVhMFFienhUTGFUQjFWckFnYkR2ZG5KajhURUFMaGJNWFVMeEd0SERYa1hCMFNIVklnRDFPR0QwZw?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1411568/",
+    "title": "留萌・宗谷（１１月２０日付）おくやみ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-19T11:30:00+00:00",
+    "description": "留萌・宗谷（１１月２０日付）おくやみ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
+    "id": "d40ba5ca80e18af376e5eda053c877ec2423bd6756aab680fa21ef3406dbbb68",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Kd0RnQ0xzRDdNTWRTSkRDWHdIamVyaDM3b2ZZbDRuRE0zcDd3LXBZUmwtc1dOSEZIXzdVMWhGQUpWREFCbEFWeDNELWFzTWgzQmZleFd0dENiUQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1411447/",
+    "title": "【写真18枚】F戦士が留萌・宗谷へ 「来年は日本一」誓う - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-19T06:58:20+00:00",
+    "description": "【写真18枚】F戦士が留萌・宗谷へ 「来年は日本一」誓う 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/7/d/d/6/7dd6a75211ff55ab8cc74e2f90674124_1.webp?20261119220645"
+  },
+  {
     "id": "5036b4e521326c5a78f63b3f487d184742960bb1acd15216c1d7b354523b815a",
     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CeGFLLXlRenNDSGdXUjdhYjI2alRDR2xkUV9Rczg2OGJLbndtbURkdXNXR1MzX2RZcVB4Yk5uVTFkeV9KWF9iRjRjNDd0QQ?oc=5",
     "url": "https://www.fnn.jp/articles/-/1155149",
@@ -100,16 +120,6 @@
     "image": null
   },
   {
-    "id": "345105e9c0be8ba21af963c83f8271320e052c0c7024eb1a0c88774bb223ff91",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83R3RfZUlhYlI0OTBzOFQ4UVFDc0hnZmNWTDlzRDMxSUlJQ3RWWm9qTnZ2U2lsa1c5c3VSZTZoSnhYR1hHbU9FN3ZxUUtIaXFtb3Z6MGEtb08tZw?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1408955/",
-    "title": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-11-16T01:00:47+00:00",
-    "description": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/c/c/e/2/cce2031c5c43c9ef7e5dbe4cff7e77f1_1.webp?20261116182527"
-  },
-  {
     "id": "9c8234c375e00c7f023b894ad4477463ad22a88f1882f5a71fc5acb4eaf683e2",
     "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoZlkyMmZMbjFSWHljaFlSU3BHazM4TE1MYk9pUGwtWl9RWmtxbnR1MjdRM2VWa3JlV3JkbU5PVnMzUjcyMHpwaUc3QQ?oc=5",
     "url": "https://www.47news.jp/15237007.html",
@@ -118,6 +128,16 @@
     "published": "2026-11-16T01:00:47+00:00",
     "description": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ 47NEWS",
     "image": "https://img.cf.47news.jp/public/photo/32472e2c0c12f9d8ad67b0d40113af41/photo.jpg"
+  },
+  {
+    "id": "345105e9c0be8ba21af963c83f8271320e052c0c7024eb1a0c88774bb223ff91",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83R3RfZUlhYlI0OTBzOFQ4UVFDc0hnZmNWTDlzRDMxSUlJQ3RWWm9qTnZ2U2lsa1c5c3VSZTZoSnhYR1hHbU9FN3ZxUUtIaXFtb3Z6MGEtb08tZw?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1408955/",
+    "title": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-16T01:00:47+00:00",
+    "description": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/c/c/e/2/cce2031c5c43c9ef7e5dbe4cff7e77f1_1.webp?20261116182527"
   },
   {
     "id": "ef59c26e3da52953ea36adc9c9f617f62f20a5aed4ebfef93c29433757c13d83",
@@ -1478,25 +1498,5 @@
     "published": "2026-11-03T22:19:42+00:00",
     "description": "JR宗谷線、５日ぶり運転再開 稚内ー旭川間 ヒグマ衝突脱線 47NEWS",
     "image": "https://img.cf.47news.jp/public/photo/8b43a7493dc6206a41e67a2ce13260d6/photo.jpg"
-  },
-  {
-    "id": "938e8c1015245db8db8296b496b1398d75b6bebf8c6f8d3e0a19541c143fbf00",
-    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51VWt1Y0piVFoxdl9PSzZXbDJkTFFhck81Wkh3QzNVYzRZNDZjamxQMXRPZ3ZvZVJ4dTNsdUpodDZUYUk2NlRyZGJNNG45Qk81N2JGcVpJLW82S0stbjln?oc=5",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70108",
-    "title": "ヒグマ衝突のJR宗谷線 5日ぶり運転再開 - NHKニュース",
-    "source": "NHKニュース",
-    "published": "2026-11-03T21:36:00+00:00",
-    "description": "ヒグマ衝突のJR宗谷線 5日ぶり運転再開 NHKニュース",
-    "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70108/20261104de70108_E0000138891_1_l.jpg"
-  },
-  {
-    "id": "3524e797b400e22446de7499bcb36770f3032f2e3d60852fc71780b9732240a9",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iRmZCWHdQaW1YcTNBSkZlMkFJdDY2RTU2c0NZb0tMRWR2dEllUGoyM3NjZF9DZ2w2T3JDV3ZOcEgzVW84OHJVTkxYU0dSZw?oc=5",
-    "url": "https://www.fnn.jp/articles/-/1145132",
-    "title": "【北海道(宗谷地方)】11/4の天気予報 - FNNプライムオンライン",
-    "source": "FNNプライムオンライン",
-    "published": "2026-11-03T20:10:00+00:00",
-    "description": "【北海道(宗谷地方)】11/4の天気予報 FNNプライムオンライン",
-    "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
   }
 ]
