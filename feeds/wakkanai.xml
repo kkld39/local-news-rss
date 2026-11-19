@@ -6,7 +6,17 @@
     <description>稚内の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/wakkanai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 18 Nov 2026 10:33:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 20:10:00 +0000</lastBuildDate>
+    <item>
+      <title>【北海道(宗谷地方)】11/19の天気予報 - FNNプライムオンライン</title>
+      <link>https://www.fnn.jp/articles/-/1155149</link>
+      <pubDate>Wed, 18 Nov 2026 20:10:00 +0000</pubDate>
+      <guid isPermaLink="false">5036b4e521326c5a78f63b3f487d184742960bb1acd15216c1d7b354523b815a</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">FNNプライムオンライン</source>
+      <media:thumbnail url="https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg" />
+      <media:content url="https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道(宗谷地方)】11/19の天気予報 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
+    </item>
     <item>
       <title>【日本ハム】二刀流・柴田獅子が日本最北端・稚内でトークショー「最初読み方が分かんなくて…」…山県秀と応援大使で初訪問 - au Webポータル</title>
       <link>https://article.auone.jp/bfbc9d8d-d08c-4400-800a-81c2655c6354</link>
@@ -1470,14 +1480,6 @@
       <media:thumbnail url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" />
       <media:content url="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;【北海道(宗谷地方)】11/4の天気予報 FNNプライムオンライン&lt;/p&gt;&lt;p&gt;配信元: FNNプライムオンライン&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>宗谷線４日から運転再開 ヒグマと衝突した特急は修理終えて出発 - YouTube</title>
-      <link>https://www.youtube.com/watch?si=1p_cp95qHolfVt2J&amp;v=M5qFrx8Gm2I&amp;feature=youtu.be</link>
-      <pubDate>Tue, 03 Nov 2026 11:35:27 +0000</pubDate>
-      <guid isPermaLink="false">0e222a4093c27aa39c6df26dfc93f1f134f240622266219754c15935a07e2165</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">YouTube</source>
-      <description>&lt;p&gt;宗谷線４日から運転再開 ヒグマと衝突した特急は修理終えて出発 YouTube&lt;/p&gt;&lt;p&gt;配信元: YouTube&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

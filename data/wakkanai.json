@@ -1,5 +1,15 @@
 [
   {
+    "id": "5036b4e521326c5a78f63b3f487d184742960bb1acd15216c1d7b354523b815a",
+    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CeGFLLXlRenNDSGdXUjdhYjI2alRDR2xkUV9Rczg2OGJLbndtbURkdXNXR1MzX2RZcVB4Yk5uVTFkeV9KWF9iRjRjNDd0QQ?oc=5",
+    "url": "https://www.fnn.jp/articles/-/1155149",
+    "title": "【北海道(宗谷地方)】11/19の天気予報 - FNNプライムオンライン",
+    "source": "FNNプライムオンライン",
+    "published": "2026-11-18T20:10:00+00:00",
+    "description": "【北海道(宗谷地方)】11/19の天気予報 FNNプライムオンライン",
+    "image": "https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg"
+  },
+  {
     "id": "218e17d7c6daaee3ae4a662c8e77dd6487adedab43d0a54f08925bea11be09d1",
     "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TSzRHWVNQbFdVSURXeENEdXdXVHNzb2RZejVqa09uZUFKZTZaRGY3b3JwMzZnUVZIb0xiaGZ6WUw3amptRVdjaWFsVlVoYS1NelpNZmg3Z0k1Ni1wTzdRREwtTDlIWk5CSmVqREpB?oc=5",
     "url": "https://article.auone.jp/bfbc9d8d-d08c-4400-800a-81c2655c6354",
@@ -1488,15 +1498,5 @@
     "published": "2026-11-03T20:10:00+00:00",
     "description": "【北海道(宗谷地方)】11/4の天気予報 FNNプライムオンライン",
     "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
-  },
-  {
-    "id": "0e222a4093c27aa39c6df26dfc93f1f134f240622266219754c15935a07e2165",
-    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JYkhWb0w4YUZ5NklTclhUcFA4Rm9uNlU4NGYtX3F5eGlSVUtNZ25PcXR0SFhuZ1JTU0Q4Y2IydjdZM0hFTk1UX01PZ1lpLXViVWcyWnNQT3lzQm15?oc=5",
-    "url": "https://www.youtube.com/watch?si=1p_cp95qHolfVt2J&v=M5qFrx8Gm2I&feature=youtu.be",
-    "title": "宗谷線４日から運転再開 ヒグマと衝突した特急は修理終えて出発 - YouTube",
-    "source": "YouTube",
-    "published": "2026-11-03T11:35:27+00:00",
-    "description": "宗谷線４日から運転再開 ヒグマと衝突した特急は修理終えて出発 YouTube",
-    "image": null
   }
 ]

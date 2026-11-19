@@ -1,5 +1,35 @@
 [
   {
+    "id": "6d94770b872076f4554c4b23e2fbb48f14f132fe621670327c90ba714affbd1f",
+    "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vX25xUnNkdUhYZ2gwS1NpZzE0R1BmanlNbGE2LVFSWE5LYkZrbWdNeHNIM3FCNjJod25zNkVlM1JrWjk5ZU5SNC1rOThNRGhHVXpVM0lrdmN2eGwzVVFoZHV4N0RLWFFWVHJZUS0xekNQTGtJX1hOWWl2WdIBgAFBVV95cUxQclAwc09WX2ZGUzRuV2w1NkhTc2hxQmRabkNDSkZKR3hIeExPVnNrV3lDMzJMR2FaM3ZYZVFRWTF3X2FKcXZWWjhCc193YjFXV0NXcmRNaVlKTWtYMDRUekx2b2tOX1ZMNkUwb3VCakN3RGlXU29qcktqbDVlRHJFVw?oc=5",
+    "url": "https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-862530",
+    "title": "たまげんきフェス　ブルースチャップリン登場　12月５日、さくら広場〈多摩市〉 - ｄメニューニュース",
+    "source": "ｄメニューニュース",
+    "published": "2026-11-19T02:00:00+00:00",
+    "description": "たまげんきフェス　ブルースチャップリン登場　12月５日、さくら広場〈多摩市〉 ｄメニューニュース",
+    "image": "https://img.topics.smt.news.goo.ne.jp/picture/townnews/m_townnews-862530.jpg"
+  },
+  {
+    "id": "65c1beed5d6e5961f668d751b0803843b6a7d86bc67b93c05d6988c4cf129ba1",
+    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15OXZDSGNCMTNYNTFYanFJMzFSb2M1UmlQaEF6TmR3TEVwZWJsT0lxLXJweGFHc3hUbDBNQVJWZHRTUHVtbnd1QjZOek5RSzZEMFU2N3BGOTh1WWJ1ckE?oc=5",
+    "url": "https://tamapon.com/2026/11/19/genkioyaji-osilky/",
+    "title": "多摩センター「GenkiOyaji本舗」に新作おしるこ「おしるきー」が登場！和シュトレンの予約もスタート - 多摩ポン",
+    "source": "多摩ポン",
+    "published": "2026-11-18T22:27:47+00:00",
+    "description": "多摩センター「GenkiOyaji本舗」に新作おしるこ「おしるきー」が登場！和シュトレンの予約もスタート 多摩ポン",
+    "image": "https://tamapon.com/wp-content/uploads/2026/11/2L8A8305.jpeg"
+  },
+  {
+    "id": "b9ff669cdaf8d37b61d3ea4c6a6dc755906c1b110ba0c6bfec9e6aa1f807c282",
+    "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzTHpHVjlxb1VrNmg0aWFJLWw0WEVQMFluaVk4MVN2dFpzSUQ0Nk5LWG9UdGZPRTdHQXZnV1RXR3VGNFozUGo5Q3BmSHBfQTNjdE1xcnpnYkNzcFdMVGp4RjlPRUUxdlRfNHc?oc=5",
+    "url": "https://tama-inagi.goguynet.jp/2026/11/19/tama_no_terrace/",
+    "title": "【多摩市】ココリア多摩センター前に12月1日までひと休みスペース「たまのテラス」が設置されています - 地域ニュースサイト号外NET",
+    "source": "地域ニュースサイト号外NET",
+    "published": "2026-11-18T22:11:15+00:00",
+    "description": "【多摩市】ココリア多摩センター前に12月1日までひと休みスペース「たまのテラス」が設置されています 地域ニュースサイト号外NET",
+    "image": "https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/11/tama_no_terrace.png"
+  },
+  {
     "id": "5285738c892a519a6ecf3a7f5e8ef7cd8b3545c16ea80b2e8361b5bd84073871",
     "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BSklhTC1WUXpndHg1Zi1ueVNsUGY1ekNYS3RzVTV2T3VNbHZvU0pESnpYcjUwOHFMLUJHZlc1VXV6S203WFRvYXJfVTVoSm1oeEFEOVUtZ25Rdy1sYkhpV2E4bXA?oc=5",
     "url": "https://www.townnews.co.jp/0306/2026/11/19/862536.html",
@@ -30,16 +60,6 @@
     "image": "https://www.townnews.co.jp/0306/images/a001490664_26.jpg"
   },
   {
-    "id": "4197812938de5c5e304ea6afa934e15193de34b9bcd67d1c31ee79515aa49f3d",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PT2gyNE5RWGJ2Z1NpYjVzWHVKVldXVE1lbzVnMUc3ZXBqRjNOcklUZFhCSnFtZTlSb2tqVEZGeHNuY05vMGdJcjg5OW1VbWhrbmhjSUgwU3hKWFhYT2lRNGViUzA?oc=5",
-    "url": "https://www.townnews.co.jp/0306/2026/11/19/862533.html",
-    "title": "プロの囲碁棋士として活動する 武井 太心さん 豊ヶ丘在住 25歳 - タウンニュース",
-    "source": "タウンニュース",
-    "published": "2026-11-18T15:00:00+00:00",
-    "description": "プロの囲碁棋士として活動する 武井 太心さん 豊ヶ丘在住 25歳 タウンニュース",
-    "image": "https://www.townnews.co.jp/0306/images/a001488843_01.jpg"
-  },
-  {
     "id": "b8ba1c5273cf0939532a09fc302459aa897261936eaa71e1ec91c454a095c991",
     "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yTzZvTWkxMzFUeEdINWxJdVdveTdSd1N3dUpxNjhqTTNsT3dFZFBMdDVvSDFuNVptbl83SjV4ZER4R2tIa0lqVUxBWVZ4ejhLYU5rc3lLU2VjeDlOREI4ZEthb28?oc=5",
     "url": "https://www.townnews.co.jp/0306/2026/11/19/862534.html",
@@ -50,16 +70,6 @@
     "image": "https://www.townnews.co.jp/0306/images/a001491531_04.jpg"
   },
   {
-    "id": "47ed2c1d3636e9519a00049087df22be8fcf298cb05364f4317efa9502abccf3",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80UWxyNExoWmRlSHhrQWFJVUF4N2FVa2hocGRVcjIydWFKbVdCaVpWb1RPTE9maEcxT09wNmJmbFdZLTJ2anIyUWk0R2hOOXE0ZjJ2bzNvcFdxaXRaWUdadkxiWmg?oc=5",
-    "url": "https://www.townnews.co.jp/0306/2026/11/19/862538.html",
-    "title": "「耳をすませば」主人公役声優 本名陽子さんが聖蹟に ハートフルコンサート - タウンニュース",
-    "source": "タウンニュース",
-    "published": "2026-11-18T15:00:00+00:00",
-    "description": "「耳をすませば」主人公役声優 本名陽子さんが聖蹟に ハートフルコンサート タウンニュース",
-    "image": "https://www.townnews.co.jp/0306/images/a001488433_07.jpg"
-  },
-  {
     "id": "3a1ca743dd29c5de3b891b38ce6bbe8800149b6991e90dd699e100faa760e54a",
     "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tNWViSmw5dnVXZjE4RC1uY1lpSVYtejVoWG9pUWUwMmVqNnV1ZGI0UVZWV1dUbHFFdWtyMm1sWTd2TG5FUnBtQ1VFRExfVnVmcTFHNmxERUZXZDZPZHlyNVMweVg?oc=5",
     "url": "https://www.townnews.co.jp/0306/2026/11/19/862537.html",
@@ -68,6 +78,26 @@
     "published": "2026-11-18T15:00:00+00:00",
     "description": "親子スポーツイベント 多田選手が走り方指導 ファミリーマート社会貢献 タウンニュース",
     "image": "https://www.townnews.co.jp/0306/images/a001488873_02.jpg"
+  },
+  {
+    "id": "4197812938de5c5e304ea6afa934e15193de34b9bcd67d1c31ee79515aa49f3d",
+    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PT2gyNE5RWGJ2Z1NpYjVzWHVKVldXVE1lbzVnMUc3ZXBqRjNOcklUZFhCSnFtZTlSb2tqVEZGeHNuY05vMGdJcjg5OW1VbWhrbmhjSUgwU3hKWFhYT2lRNGViUzA?oc=5",
+    "url": "https://www.townnews.co.jp/0306/2026/11/19/862533.html",
+    "title": "プロの囲碁棋士として活動する 武井 太心さん 豊ヶ丘在住 25歳 - タウンニュース",
+    "source": "タウンニュース",
+    "published": "2026-11-18T15:00:00+00:00",
+    "description": "プロの囲碁棋士として活動する 武井 太心さん 豊ヶ丘在住 25歳 タウンニュース",
+    "image": "https://www.townnews.co.jp/0306/images/a001488843_01.jpg"
+  },
+  {
+    "id": "47ed2c1d3636e9519a00049087df22be8fcf298cb05364f4317efa9502abccf3",
+    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80UWxyNExoWmRlSHhrQWFJVUF4N2FVa2hocGRVcjIydWFKbVdCaVpWb1RPTE9maEcxT09wNmJmbFdZLTJ2anIyUWk0R2hOOXE0ZjJ2bzNvcFdxaXRaWUdadkxiWmg?oc=5",
+    "url": "https://www.townnews.co.jp/0306/2026/11/19/862538.html",
+    "title": "「耳をすませば」主人公役声優 本名陽子さんが聖蹟に ハートフルコンサート - タウンニュース",
+    "source": "タウンニュース",
+    "published": "2026-11-18T15:00:00+00:00",
+    "description": "「耳をすませば」主人公役声優 本名陽子さんが聖蹟に ハートフルコンサート タウンニュース",
+    "image": "https://www.townnews.co.jp/0306/images/a001488433_07.jpg"
   },
   {
     "id": "44643ba2a1bfee6221f3db6e41fd83c59f47c4232c4661060ddbbd8d33fe49fc",
@@ -83,10 +113,10 @@
     "id": "44bae447e25509963b70e205131af1c9cb65b6936972600589824b828e0b968e",
     "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAzT2FaeDFYdng5UjlBRHdoLXlHTVZ5ajdRZnVzSEhHZ3lQNHFUaU1tM1lISXR6SVVyVW14bkJBV1lzMWlhNjJjaQ?oc=5",
     "url": "https://www.verdy.co.jp/page/3167",
-    "title": "『多摩市ヴェルディ応援DAY』イベント実施のお知らせ - 東京ヴェルディ",
-    "source": "東京ヴェルディ",
+    "title": "『多摩市ヴェルディ応援DAY』イベント実施のお知らせ - 東京ヴェルディ / Tokyo Verdy",
+    "source": "東京ヴェルディ / Tokyo Verdy",
     "published": "2026-11-18T10:26:10+00:00",
-    "description": "『多摩市ヴェルディ応援DAY』イベント実施のお知らせ 東京ヴェルディ",
+    "description": "『多摩市ヴェルディ応援DAY』イベント実施のお知らせ 東京ヴェルディ / Tokyo Verdy",
     "image": "https://verdy.s3.ap-northeast-1.amazonaws.com/image/page/84428_1200x675_6af3ebf1175e2.jpg"
   },
   {
@@ -1468,35 +1498,5 @@
     "published": "2026-10-28T07:00:00+00:00",
     "description": "多摩市 シティセールス動画公開 魅力詰まった６作品制作 タウンニュース",
     "image": "https://www.townnews.co.jp/0306/images/a001486773_02.jpg"
-  },
-  {
-    "id": "27920346bc3db2e838b266707c4ecb5bde4f361734fc076fe72baf9ace60f6dd",
-    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96dVJTeGFXUVN2Z2dDMzBiY2RmTGdraUtaYjJDdEppRGNzVzlIZ1pkUmJkdkZlc1lyRjVEUm1uNHRhbkV3b196YzZzQkFyankyUG9MRjNtSlJVX3ZYVUpvMzZRcEVrdm8?oc=5",
-    "url": "https://hino.goguynet.jp/2026/10/28/everyday-tamanokuni/",
-    "title": "【多摩市】クロスガーデン多摩のクレーンゲームのテーマパーク「エブリデイ多摩ノ国」の閉店日が、11/3に延びました。 - 号外NET 日野市",
-    "source": "号外NET 日野市",
-    "published": "2026-10-28T02:35:00+00:00",
-    "description": "【多摩市】クロスガーデン多摩のクレーンゲームのテーマパーク「エブリデイ多摩ノ国」の閉店日が、11/3に延びました。 号外NET 日野市",
-    "image": "https://hino.goguynet.jp/wp-content/uploads/sites/58/2026/10/everyday-tamanokuni-20261020143544.jpg"
-  },
-  {
-    "id": "79bd3c23d0c33daa38734142665539c7a125cc7b21b8faaeef55ac96a87b100a",
-    "google_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16UmFmMzFFNWhCa3hEX29SSnJmNzBUR2t2WUdybXEtUXZwNElGX2VuTzQ0RmJBUFUtdDJJdWxESEJxNGdiVlFhNkRrWHdIUVE0bUplSEM4Ml9MazJ0ZkZaNW5mYw?oc=5",
-    "url": "https://tamapon.com/2026/10/28/perticatamasakai-repo/",
-    "title": "イタリアンリゾートペルティカ多摩境店が10/30(金)オープン！ローストビーフやピッツァを先行レポ - 多摩ポン",
-    "source": "多摩ポン",
-    "published": "2026-10-28T01:49:52+00:00",
-    "description": "イタリアンリゾートペルティカ多摩境店が10/30(金)オープン！ローストビーフやピッツァを先行レポ 多摩ポン",
-    "image": "https://tamapon.com/wp-content/uploads/2026/10/2L8A6789.jpeg"
-  },
-  {
-    "id": "9ed09119c2815a2ad7469c7536b07a0fdcf3f1b56bcb81b9591ec995d237af4f",
-    "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLXRtZjZIU1FtN2VPNEN6anREY01TdmdqazlibUpSV1BnM2pjSHBGVUp2Skg3TnhJWUQwWV9tTW1DaW1iYXdvbVRyMkNzdWdYMnhmLXZYaEVyTU1BeGlSakJRRmhwa3Z5a1RDWGVmbDhMclZEVkhEWUpnM2xoZXo2Q1V2Z1U?oc=5",
-    "url": "https://tama-inagi.goguynet.jp/2026/10/28/bellebs-nagayama-stairs-repair-2026/",
-    "title": "【多摩市】要注意！ベルブ永山にある永山図書館入口近くの階段が、1月31日まで通行止めとなります。 - 地域ニュースサイト号外NET",
-    "source": "地域ニュースサイト号外NET",
-    "published": "2026-10-27T22:11:58+00:00",
-    "description": "【多摩市】要注意！ベルブ永山にある永山図書館入口近くの階段が、1月31日まで通行止めとなります。 地域ニュースサイト号外NET",
-    "image": "https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/10/PXL_20261020_072953792.jpg"
   }
 ]
