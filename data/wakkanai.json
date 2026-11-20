@@ -130,16 +130,6 @@
     "image": null
   },
   {
-    "id": "9c8234c375e00c7f023b894ad4477463ad22a88f1882f5a71fc5acb4eaf683e2",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoZlkyMmZMbjFSWHljaFlSU3BHazM4TE1MYk9pUGwtWl9RWmtxbnR1MjdRM2VWa3JlV3JkbU5PVnMzUjcyMHpwaUc3QQ?oc=5",
-    "url": "https://www.47news.jp/15237007.html",
-    "title": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-11-16T01:00:47+00:00",
-    "description": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/32472e2c0c12f9d8ad67b0d40113af41/photo.jpg"
-  },
-  {
     "id": "345105e9c0be8ba21af963c83f8271320e052c0c7024eb1a0c88774bb223ff91",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83R3RfZUlhYlI0OTBzOFQ4UVFDc0hnZmNWTDlzRDMxSUlJQ3RWWm9qTnZ2U2lsa1c5c3VSZTZoSnhYR1hHbU9FN3ZxUUtIaXFtb3Z6MGEtb08tZw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1408955/",
@@ -148,6 +138,16 @@
     "published": "2026-11-16T01:00:47+00:00",
     "description": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/c/c/e/2/cce2031c5c43c9ef7e5dbe4cff7e77f1_1.webp?20261116182527"
+  },
+  {
+    "id": "9c8234c375e00c7f023b894ad4477463ad22a88f1882f5a71fc5acb4eaf683e2",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoZlkyMmZMbjFSWHljaFlSU3BHazM4TE1MYk9pUGwtWl9RWmtxbnR1MjdRM2VWa3JlV3JkbU5PVnMzUjcyMHpwaUc3QQ?oc=5",
+    "url": "https://www.47news.jp/15237007.html",
+    "title": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ - 47NEWS",
+    "source": "47NEWS",
+    "published": "2026-11-16T01:00:47+00:00",
+    "description": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/32472e2c0c12f9d8ad67b0d40113af41/photo.jpg"
   },
   {
     "id": "ef59c26e3da52953ea36adc9c9f617f62f20a5aed4ebfef93c29433757c13d83",
