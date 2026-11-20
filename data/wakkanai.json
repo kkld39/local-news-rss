@@ -1,5 +1,15 @@
 [
   {
+    "id": "888557af76fd0185e92a5ac7baa19def1a7827874a9b889602a7e81282b84f83",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhZ1lyRTZ0SlkyLWRhbkZwTnN3elg0YkcyYklXdUhQaXZST1pWRGlYMHloT3oxRmpUOW9LVmtEZnM3UHhkVTA4ajJua3FQelhhZ1l1SkwxbzdhZw?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1412545/",
+    "title": "吉田氏が出馬表明 「働く環境整える」 道議選稚内市 - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-20T19:00:00+00:00",
+    "description": "吉田氏が出馬表明 「働く環境整える」 道議選稚内市 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/img/doshin_news.jpg"
+  },
+  {
     "id": "64b07586a812b926578f7bf9f253b05eb716effc29e6c42127d01574d5971880",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ETHdueWNGUVdNOFo1RmxWTkx0VFZKZHlvdGtkVU84cGk2RDRKM3VYenlNdDY0c3hZSHlrcUdlZlZXNHpySDA4T0F6c2RMX290ek02WFowNWloUQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1412358/",
@@ -1488,15 +1498,5 @@
     "published": "2026-11-04T02:52:00+00:00",
     "description": "JR宗谷線、全区間で運転再開 特急列車がクマと衝突、先頭車両が脱線（HTB北海道ニュース） ｄメニューニュース",
     "image": "https://img.topics.smt.news.goo.ne.jp/picture/htb/m_htb-39866.jpg"
-  },
-  {
-    "id": "f3a0bac0c9ce99bd0a8b1ca71a693361be341e3a98ba7e3f19bdac2659e0e38b",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45Zm1oVFpGbS1TNUdnNkpfUGprd3NfeTNEbG5XaDNlNUtCX0htbGt4OXB6QU9Sc0FmenFlWUdXRXE4cFJwdVA1am5SRDltdGlqX3FXUW1kUWw4QQ?oc=5",
-    "url": "https://www.htb.co.jp/news/archives_40304.html",
-    "title": "ＪＲ宗谷線、全区間で運転再開 特急列車がクマと衝突、先頭車両が脱線 - HTB 北海道テレビ",
-    "source": "HTB 北海道テレビ",
-    "published": "2026-11-04T02:52:00+00:00",
-    "description": "ＪＲ宗谷線、全区間で運転再開 特急列車がクマと衝突、先頭車両が脱線 HTB 北海道テレビ",
-    "image": "https://www.htb.co.jp/news/photo/40304_52280.jpg"
   }
 ]
