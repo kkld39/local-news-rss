@@ -120,14 +120,14 @@
     "image": "https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg"
   },
   {
-    "id": "50f9bad99b96fe79d35eb83ee73d3b8b92e60418e69efff337ebd2d3a8813bd3",
-    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KMFJncHlaV2loVk1hdzd0NWpBZ3BzZThZcVFoX2NTZ2FlVGFWdGlhRXVWZV9Pd1dHWmJyZW5FRkYzQzhTcm5kcTZaY0c1c04wZFluMlVkeGVORmtRR3FjT2p0WkdNNTRKaTQ2VGJn?oc=5",
-    "url": "https://article.auone.jp/8e0d8e6b-6a88-402f-9600-d617349e4dbd",
-    "title": "70年前に南極を目指した観測船 実は戦時中の「強運艦」だった!?「総員退艦」から生還した逸話も - au Webポータル",
-    "source": "au Webポータル",
-    "published": "2026-11-17T04:12:00+00:00",
-    "description": "70年前に南極を目指した観測船 実は戦時中の「強運艦」だった!?「総員退艦」から生還した逸話も au Webポータル",
-    "image": "https://portal.auone.jp/media/thumbnails/2026/11/17/https___trafficnews_jp_post_726762_w600.webp"
+    "id": "10fb6ed83d36b818ef1e7c1c3d4179d9ba3d5d2a5d16f46247ca41b8f0d9fa4f",
+    "google_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14MDVNTlNJd2U4OUJvQlFhY2lvZnJlQUZqaS1iTEFwZmVpRWxNMVNobjNFSGV3TTcxMGVsTWN2WnRnM2ZMb25BbUdoMDFUS2MzaF9ic3AtZDJPemQ4b1htNllnSUYwcm1qcUhHaGNJVXFzcHc?oc=5",
+    "url": "https://news.nicovideo.jp/watch/nw20000239?news_ref=search_search",
+    "title": "70年前に南極を目指した観測船 実は戦時中の「強運艦」だった!?「総員退艦」から生還した逸話も - ニコニコニュース",
+    "source": "ニコニコニュース",
+    "published": "2026-11-17T04:18:16+00:00",
+    "description": "70年前に南極を目指した観測船 実は戦時中の「強運艦」だった!?「総員退艦」から生還した逸話も ニコニコニュース",
+    "image": null
   },
   {
     "id": "72fb1430a92c37d5c4c727c8f90bb8bef7997a38f042a1ad962a5a14e7410a13",
@@ -138,6 +138,16 @@
     "published": "2026-11-17T04:12:00+00:00",
     "description": "70年前に南極を目指した観測船 実は戦時中の「強運艦」だった!?「総員退艦」から生還した逸話も（2/2 ページ） 乗りものニュース",
     "image": "https://trafficnews.jp/wp-content/uploads/2027/11/251118_so_03.jpg"
+  },
+  {
+    "id": "50f9bad99b96fe79d35eb83ee73d3b8b92e60418e69efff337ebd2d3a8813bd3",
+    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KMFJncHlaV2loVk1hdzd0NWpBZ3BzZThZcVFoX2NTZ2FlVGFWdGlhRXVWZV9Pd1dHWmJyZW5FRkYzQzhTcm5kcTZaY0c1c04wZFluMlVkeGVORmtRR3FjT2p0WkdNNTRKaTQ2VGJn?oc=5",
+    "url": "https://article.auone.jp/8e0d8e6b-6a88-402f-9600-d617349e4dbd",
+    "title": "70年前に南極を目指した観測船 実は戦時中の「強運艦」だった!?「総員退艦」から生還した逸話も - au Webポータル",
+    "source": "au Webポータル",
+    "published": "2026-11-17T04:12:00+00:00",
+    "description": "70年前に南極を目指した観測船 実は戦時中の「強運艦」だった!?「総員退艦」から生還した逸話も au Webポータル",
+    "image": "https://portal.auone.jp/media/thumbnails/2026/11/17/https___trafficnews_jp_post_726762_w600.webp"
   },
   {
     "id": "f612e798054cc8189e33de467da2a542a7ca582c46e28c6ae7b0e9f35e0f8968",
@@ -1488,15 +1498,5 @@
     "published": "2026-11-04T08:00:00+00:00",
     "description": "ＪＲ宗谷線、全区間で運転再開 特急列車がクマと衝突、先頭車両が脱線（HTB北海道ニュース） Yahoo!ニュース",
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00000004-htbv-000-2-thumb.jpg?exp=10800"
-  },
-  {
-    "id": "a8a3e2ad8deae0b76b2da46c970f3dc10f077e788a8769119bc9cf282e8840ab",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TSjlhQnpadUYzSzBJeHlrUm4tamVwNS15SHdXaUZQbVFhcVF2ejVOUW1SVzU4NXBpbWFHc1Rid096QV9vemcyOW56d28zdF9zUzQtOGRveld6VVo1SVN1dUo4VGRhb19BeUNadkpTT0l1eUVmQTBPREN5d1dNTzg?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/ebc2e049bbadce3df1ca966620d8ab0e96d6bfa9",
-    "title": "相次ぐ野生動物との衝突事故で専門家が課題と対策を指摘 300キロ巨大クマ衝突で初の脱線事故となったJR宗谷線が5日ぶり運転再開 JR北海道 - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
-    "published": "2026-11-04T08:00:00+00:00",
-    "description": "相次ぐ野生動物との衝突事故で専門家が課題と対策を指摘 300キロ巨大クマ衝突で初の脱線事故となったJR宗谷線が5日ぶり運転再開 JR北海道 Yahoo!ニュース",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-23061292-hbcv-000-1-thumb.jpg?exp=10800"
   }
 ]
