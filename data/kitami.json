@@ -1,5 +1,25 @@
 [
   {
+    "id": "6cf9d00c151793f50b0be1c5c1efa1a3ea43f7666f000bc8670fc30f88558854",
+    "google_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93MVd5REZHaHJld0QwRnF0OXBGendzM1Y4T080elgzMlNPdWRnNm1DcjU2ZjZaaE9SM1BMRzJMdzQtOUd6aGF5T3VUOVExRGJBdkp1dw?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/event/82978/",
+    "title": "道新終活応援フェア２０２６inオホーツク - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-21T15:04:26+00:00",
+    "description": "道新終活応援フェア２０２６inオホーツク 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
+    "id": "8a185556ac755aaf0580747cbf47a72bee65ca030e0682bf90e2984de7d60470",
+    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96bEx4cm93Yl9oQ1c3OUw1MVdKaFZhUTRqYjJzWXFHenlxQVluV2xoWDlhd1o2cVptUFJpOEhIN0NJcVlFbzRickJ0c2lWRGY2QjlGbTR0VFgtblloX2pn?oc=5",
+    "url": "https://news.livedoor.com/article/detail/32871165/",
+    "title": "「第二の夕張」と噂される北海道の大都市…豪華な駅前と裏腹に迫る財政危機の真相とは - ライブドアニュース",
+    "source": "ライブドアニュース",
+    "published": "2026-11-21T11:34:33+00:00",
+    "description": "「第二の夕張」と噂される北海道の大都市…豪華な駅前と裏腹に迫る財政危機の真相とは ライブドアニュース",
+    "image": "https://image.news.livedoor.com/newsimage/stf/1/a/1a0e9_1845_1dc3aa32_fb950f31.jpg"
+  },
+  {
     "id": "e4171e79e2798da6336333ab0f592231a0f2b1da1248fff6b7dd46b4d9ac62b0",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qRHpNNGJIZnJWNkxYX2xuaW1CTHdOTFhtWGplcjgtXzBDMndGZnJveVdCbVpnYi03TlYzY0ZqeXI5aGdudHNrS0NBN3RxYXlQU2pRSURqRC1mdw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1412872/",
@@ -20,16 +40,6 @@
     "image": "https://img.cf.47news.jp/public/photo/462a77ff96af9ad73616891b54a80cfe/photo.jpg"
   },
   {
-    "id": "6ee585d6b3a29d84343f03be3823de480fac15f7b251d3dbe7800ced05fe3dd4",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hVWl6UDE0NFNHQ2VOSXZ0dFZXUkFuMEU2QURWOHJTalh1Wm05SGswYkhrY240SzY5UHY2dnJzWnFnMTZPYnFYUkJEMA?oc=5",
-    "url": "https://www.47news.jp/15266065.html",
-    "title": "北見で「熟睡プラ寝たリウム」開幕 星空と音楽で心地よい眠り 23日まで - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-11-21T04:21:44+00:00",
-    "description": "北見で「熟睡プラ寝たリウム」開幕 星空と音楽で心地よい眠り 23日まで 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/9d4f773f92901f11b6af782df98f6290/photo.jpg"
-  },
-  {
     "id": "36197d01bb0f60fb4f85cf26fa6f832d26609b52e3cd83942e43e240494f38f3",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9md1pvMTVWMmNBUVZMaTFqUC10YVhnSmNfT1Z2S2wzYWpzSUxDVlYyZ0lwV0phS080T2tiVmhxdUVTR055TkNIVEdUX2p0c1BCMlJmM3B4bklDQQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1412829/",
@@ -38,6 +48,16 @@
     "published": "2026-11-21T04:21:44+00:00",
     "description": "北見で「熟睡プラ寝たリウム」開幕 星空と音楽で心地よい眠り 23日まで 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/6/0/5/c/605ca4bdbd9706d7283399227dfd8f9d_1.webp?20261121185448"
+  },
+  {
+    "id": "6ee585d6b3a29d84343f03be3823de480fac15f7b251d3dbe7800ced05fe3dd4",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hVWl6UDE0NFNHQ2VOSXZ0dFZXUkFuMEU2QURWOHJTalh1Wm05SGswYkhrY240SzY5UHY2dnJzWnFnMTZPYnFYUkJEMA?oc=5",
+    "url": "https://www.47news.jp/15266065.html",
+    "title": "北見で「熟睡プラ寝たリウム」開幕 星空と音楽で心地よい眠り 23日まで - 47NEWS",
+    "source": "47NEWS",
+    "published": "2026-11-21T04:21:44+00:00",
+    "description": "北見で「熟睡プラ寝たリウム」開幕 星空と音楽で心地よい眠り 23日まで 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/9d4f773f92901f11b6af782df98f6290/photo.jpg"
   },
   {
     "id": "7a50dd8cdb4f96b54ccab10f02bcb0de5e5f576a77a8ff5c42547d3bf2e9dae1",
@@ -230,16 +250,6 @@
     "image": null
   },
   {
-    "id": "4a66b71dd1a35439ce8a1aaaf2e56cf05cc572f9cf99ba207938d31c96180594",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91R3BQQkFCWlIwdzd6Z1k1Y2hGa3EwUHJlMDhlaERFZVZCSmZHY1g5Q2p5LXdLS0lIUDhBSllDNGE0aWlvQUV1UXc2UQ?oc=5",
-    "url": "https://www.47news.jp/15256455.html",
-    "title": "「へき地でも高度医療を」 温根湯と相内の2診療所で患者診る 三角彰宏さん 北見の合併から20年以上 - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-11-19T09:14:41+00:00",
-    "description": "「へき地でも高度医療を」 温根湯と相内の2診療所で患者診る 三角彰宏さん 北見の合併から20年以上 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/0e84174547eeb542c47418385c0beade/photo.jpg"
-  },
-  {
     "id": "99a7d68d6d3bcec0e9bfb86a866ba40112dcb8f2a74c6c4a847e01331aee1f37",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ydEl3bTRibHNrdk9CWG53SXpLeWNHWjVLcVV6SkpDUGdFR0s0eHhOc2FpN2NmZnpTSm5uYm5ab1JndVgweDhPc296WWlUVEF5QXh2eXZrVzNkdw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1411524/?ref=top",
@@ -248,6 +258,16 @@
     "published": "2026-11-19T09:14:41+00:00",
     "description": "「へき地でも高度医療を」 温根湯と相内の2診療所で患者診る 三角彰宏さん 北見の合併から20年以上 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/0/8/9/d/089de041814397f0c9195d38932cda11_1.webp?20261119220812"
+  },
+  {
+    "id": "4a66b71dd1a35439ce8a1aaaf2e56cf05cc572f9cf99ba207938d31c96180594",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91R3BQQkFCWlIwdzd6Z1k1Y2hGa3EwUHJlMDhlaERFZVZCSmZHY1g5Q2p5LXdLS0lIUDhBSllDNGE0aWlvQUV1UXc2UQ?oc=5",
+    "url": "https://www.47news.jp/15256455.html",
+    "title": "「へき地でも高度医療を」 温根湯と相内の2診療所で患者診る 三角彰宏さん 北見の合併から20年以上 - 47NEWS",
+    "source": "47NEWS",
+    "published": "2026-11-19T09:14:41+00:00",
+    "description": "「へき地でも高度医療を」 温根湯と相内の2診療所で患者診る 三角彰宏さん 北見の合併から20年以上 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/0e84174547eeb542c47418385c0beade/photo.jpg"
   },
   {
     "id": "7e6d8a60a3d0a82c64f3fab420528817cb37d84de81fb8d67ac08208b9c425c2",
@@ -351,13 +371,23 @@
   },
   {
     "id": "e3a9ac3dee0e48cfa838f1ef0f0c11ada97cf2db1efabf134731a9eada3221a0",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vOXZkcnphd3E5UFhiTEFwdjRsdThGZUN4NUlNaS1wR28tRG1xajhvc3RhYUgyV1pXY1I5Qkdsdms1Z0J5VEFNQlc3c0RjenZTUWFMSThGSE93bXRaem1fZHRpLXg?oc=5",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fYVp0dTc0Y2piTm5ZaFE2MU5kbG5Ec1R6REJQVEx4OWJSWHJnVWRtSEJscFRuaTVVa3hZSW1uM1hwcFl1X1ZUSEFqbWpROF9fR2dGWEZycjg2dw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1411250/",
     "title": "約400年の伝統、児童が体験 北見池川神楽保存会が北小で出前授業 - 北海道新聞デジタル",
     "source": "北海道新聞デジタル",
     "published": "2026-11-19T01:11:58+00:00",
     "description": "約400年の伝統、児童が体験 北見池川神楽保存会が北小で出前授業 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/0/8/3/6/0836844998a573370c2c26514d4802ec_1.webp?20261119122814"
+  },
+  {
+    "id": "c32a3812b33ef29600ca08cb2035d9f07678c14e1036808a62b27c8616e3ecb7",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEUGRNWUFuODB1cWlGS0hndE8zQWNMdkNUazhkY3BjbmdTSTNGVXZNQmFOZ2RrS1diYmtZYmpFdDRlRldLLTJnMGYzT3RFV3ZrLTdRb0xfM1VZUQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1411001/",
+    "title": "＜推しニュース＞北見ハッカ通商に車いす 「小さな親切」北見支部が寄贈 - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-18T19:00:00+00:00",
+    "description": "＜推しニュース＞北見ハッカ通商に車いす 「小さな親切」北見支部が寄贈 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/5/9/6/0/5960d8060b4997b79e8783d47fd1b646_1.webp?20261122023409"
   },
   {
     "id": "5b6b3027588024ce02451e5d786aa07d94b448801e73139bb890cc97eec6fcd5",
@@ -1468,35 +1498,5 @@
     "published": "2026-11-11T02:48:46+00:00",
     "description": "陶芸展「らんこんとる展」始まる 32人が約200点出展 北見・NHKぎゃらりー 47NEWS",
     "image": "https://img.cf.47news.jp/public/photo/c23cc6ad9b7c95cc32779444aa5c3de9/photo.jpg"
-  },
-  {
-    "id": "2536923b6b107c850a4745c07dc07b631af4db165f88a9d944c3bbb907ba0aae",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EMF95SFNkN21fbkcyM252Q3dKNkR4bVM3WGtXUVdDa3ZCZF9nYTN3MzVXOURxWUZBVWs2S21KRnMzUC1OZ2pzNXpLZzQ3UEJFeHRnTkxDNWZ2dw?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1406211/",
-    "title": "陶芸展「らんこんとる展」始まる 32人が約200点出展 北見・NHKぎゃらりー - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-11-11T02:48:46+00:00",
-    "description": "陶芸展「らんこんとる展」始まる 32人が約200点出展 北見・NHKぎゃらりー 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/9/c/2/7/9c27ed08f14c62883c9d7747505b4294_1.webp?20261111152201"
-  },
-  {
-    "id": "77bb45a66192038e0b1a8cbbdb6a7572c3712e8a1e4a2cf7f38ec874b614fc4b",
-    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZSC1ENVNFOU10QnZXR3otRWhudDR2Sk1Kc0djZWk3d2luMjVCQUh4UVJJbTBoY2lVdVNjNTd0RGN3cjZiMVJKdVNCSHJ0SkZJdEh0Z19n?oc=5",
-    "url": "https://www.u-presscenter.jp/article/135248",
-    "title": "北見工業大学の教員と学生が北海道庁主催の「見て、聞いて、作って知る！ 理系の未来と私の可能性」に登壇 ― 理工系分野における女性の活躍推進の一環となる取り組み - 大学プレスセンター",
-    "source": "大学プレスセンター",
-    "published": "2026-11-11T02:31:59+00:00",
-    "description": "北見工業大学の教員と学生が北海道庁主催の「見て、聞いて、作って知る！ 理系の未来と私の可能性」に登壇 ― 理工系分野における女性の活躍推進の一環となる取り組み 大学プレスセンター",
-    "image": "https://www.u-presscenter.jp/wp-content/uploads/2026/11/docho_01.jpg"
-  },
-  {
-    "id": "c747b2d37b942a63313a76aefb7452d91bed5feff9a01195a421b9538fecdf27",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3cTV2Ym8xZWRwY0kwSEx1Q3BEbWo2UE5XSC1iaWplX1RlSTEwdG93Tlpfbzc1bTFXSEhoSXdHUnBvTGJySTNWQnh3d2Y2bmpBQTR4dXZ5QWNsdw?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1405629/?ref=top",
-    "title": "「夏祭り」ホワイトベリー、元メンバー3人が再集結 地元・北見で来夏フェス - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-11-11T00:33:00+00:00",
-    "description": "「夏祭り」ホワイトベリー、元メンバー3人が再集結 地元・北見で来夏フェス 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/6/0/8/0/60801217384b29a445108218fa1cdff1_1.webp?20261110185139"
   }
 ]
