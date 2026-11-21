@@ -6,7 +6,17 @@
     <description>北見の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/kitami.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 20 Nov 2026 20:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 01:00:00 +0000</lastBuildDate>
+    <item>
+      <title>「DAISO」「THREEPPY」「Standard Products」の3ブランドコラボ、北見市初登場 - リアルエコノミー</title>
+      <link>https://hre-net.com/keizai/ryutu/96030/</link>
+      <pubDate>Sat, 21 Nov 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">7a50dd8cdb4f96b54ccab10f02bcb0de5e5f576a77a8ff5c42547d3bf2e9dae1</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">リアルエコノミー</source>
+      <media:thumbnail url="https://hre-net.com/wordpress/wp-content/uploads/2026/11/20261119_125827.jpg" />
+      <media:content url="https://hre-net.com/wordpress/wp-content/uploads/2026/11/20261119_125827.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://hre-net.com/wordpress/wp-content/uploads/2026/11/20261119_125827.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「DAISO」「THREEPPY」「Standard Products」の3ブランドコラボ、北見市初登場 リアルエコノミー&lt;/p&gt;&lt;p&gt;配信元: リアルエコノミー&lt;/p&gt;</description>
+    </item>
     <item>
       <title>丸森と北見の市町関係者が植樹 宮城で姉妹都市30周年記念 - 河北新報オンライン</title>
       <link>https://kahoku.news/articles/JY73044ZDTKHN.html</link>
@@ -1488,14 +1498,6 @@
       <media:thumbnail url="https://img.cf.47news.jp/public/photo/15e036776bdac359f53580c30cc0604b/photo.jpg" />
       <media:content url="https://img.cf.47news.jp/public/photo/15e036776bdac359f53580c30cc0604b/photo.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://img.cf.47news.jp/public/photo/15e036776bdac359f53580c30cc0604b/photo.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見・常呂川に身元不明遺体 一部白骨化 47NEWS&lt;/p&gt;&lt;p&gt;配信元: 47NEWS&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>「常呂川に死体がある」浅瀬で河川の調査員が発見、年代や性別不明、一部骨が見える部位も 司法解剖し身元や死因を特定へ 北海道北見市 - Excite エキサイト</title>
-      <link>http://www.excite.co.jp/news/article/hbc_1492818144931316495/</link>
-      <pubDate>Tue, 10 Nov 2026 09:34:54 +0000</pubDate>
-      <guid isPermaLink="false">9d4d88b259cfc701acd28c9c58a972e9dedad6955a73f8eb1b3adeceaaf905aa</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Excite エキサイト</source>
-      <description>&lt;p&gt;「常呂川に死体がある」浅瀬で河川の調査員が発見、年代や性別不明、一部骨が見える部位も 司法解剖し身元や死因を特定へ 北海道北見市 Excite エキサイト&lt;/p&gt;&lt;p&gt;配信元: Excite エキサイト&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
