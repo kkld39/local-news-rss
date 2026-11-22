@@ -1,5 +1,15 @@
 [
   {
+    "id": "3e4d03f86ce4c66c9dec5736379f5f0e0461164ded69ff66337caa496c0d9319",
+    "google_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNzIzdGtGRld4ZUtHcS05bG9rYlBtWXBnSUo1SHpmZ1lTSVFFNnF0aWt4RkU2c3JjWDVGOVdES0NxcEdId1loSWVNcUh4T3JrVTZiY25GY2tBMlVab21Qa1VMV3dFWlRkM28yYWV2aHk0bTlPLS1WUzZrRUw4TGFnakdnX3Ixb1kw?oc=5",
+    "url": "https://news.yahoo.co.jp/expert/articles/1af36379fda84c2f9c0e6bba4567af227b2c6796",
+    "title": "「雪の中、稚内まで行くのは大変だった」特急宗谷で6時間超、まさかの1時間遅れ（鉄道乗蔵） - エキスパート - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-11-22T10:00:58+00:00",
+    "description": "「雪の中、稚内まで行くのは大変だった」特急宗谷で6時間超、まさかの1時間遅れ（鉄道乗蔵） - エキスパート Yahoo!ニュース",
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/tetsudonoruzo/02772035/title-1795332343311.jpeg?exp=10800"
+  },
+  {
     "id": "f78d1f51b9c838c68ac4b28ae67ac6b0cf8d0673c3319842012b0419a652ca21",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pRVBEOWlSbGRkT2FOZkcwWFEwRWs3RUYxTzBnZ1NDczNTTkF5eU5rUm9MSWJ4QUxDSmhXaVNmbWlTVExqSEk1bWdpWFhFS3BtZlBnczJZV2p1dw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1412910/",
@@ -130,16 +140,6 @@
     "image": null
   },
   {
-    "id": "72fb1430a92c37d5c4c727c8f90bb8bef7997a38f042a1ad962a5a14e7410a13",
-    "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ieXk5dFlkZWo0Umc3RDNjVDl2R0xJcWR0TUswMUE2bnlHTS1zZnlOXzg0NGw3bEZkS1QydWRyU2IxNGdWb1VqNjRhY18?oc=5",
-    "url": "https://trafficnews.jp/post/726762/2",
-    "title": "70年前に南極を目指した観測船 実は戦時中の「強運艦」だった!?「総員退艦」から生還した逸話も（2/2 ページ） - 乗りものニュース",
-    "source": "乗りものニュース",
-    "published": "2026-11-17T04:12:00+00:00",
-    "description": "70年前に南極を目指した観測船 実は戦時中の「強運艦」だった!?「総員退艦」から生還した逸話も（2/2 ページ） 乗りものニュース",
-    "image": "https://trafficnews.jp/wp-content/uploads/2027/11/251118_so_03.jpg"
-  },
-  {
     "id": "50f9bad99b96fe79d35eb83ee73d3b8b92e60418e69efff337ebd2d3a8813bd3",
     "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KMFJncHlaV2loVk1hdzd0NWpBZ3BzZThZcVFoX2NTZ2FlVGFWdGlhRXVWZV9Pd1dHWmJyZW5FRkYzQzhTcm5kcTZaY0c1c04wZFluMlVkeGVORmtRR3FjT2p0WkdNNTRKaTQ2VGJn?oc=5",
     "url": "https://article.auone.jp/8e0d8e6b-6a88-402f-9600-d617349e4dbd",
@@ -148,6 +148,16 @@
     "published": "2026-11-17T04:12:00+00:00",
     "description": "70年前に南極を目指した観測船 実は戦時中の「強運艦」だった!?「総員退艦」から生還した逸話も au Webポータル",
     "image": "https://portal.auone.jp/media/thumbnails/2026/11/17/https___trafficnews_jp_post_726762_w600.webp"
+  },
+  {
+    "id": "72fb1430a92c37d5c4c727c8f90bb8bef7997a38f042a1ad962a5a14e7410a13",
+    "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ieXk5dFlkZWo0Umc3RDNjVDl2R0xJcWR0TUswMUE2bnlHTS1zZnlOXzg0NGw3bEZkS1QydWRyU2IxNGdWb1VqNjRhY18?oc=5",
+    "url": "https://trafficnews.jp/post/726762/2",
+    "title": "70年前に南極を目指した観測船 実は戦時中の「強運艦」だった!?「総員退艦」から生還した逸話も（2/2 ページ） - 乗りものニュース",
+    "source": "乗りものニュース",
+    "published": "2026-11-17T04:12:00+00:00",
+    "description": "70年前に南極を目指した観測船 実は戦時中の「強運艦」だった!?「総員退艦」から生還した逸話も（2/2 ページ） 乗りものニュース",
+    "image": "https://trafficnews.jp/wp-content/uploads/2027/11/251118_so_03.jpg"
   },
   {
     "id": "f612e798054cc8189e33de467da2a542a7ca582c46e28c6ae7b0e9f35e0f8968",
@@ -1488,15 +1498,5 @@
     "published": "2026-11-04T08:00:00+00:00",
     "description": "5日ぶりに全区間で運転再開のJR宗谷線 特急に衝突したのは400kg近い巨大クマか（HTB北海道ニュース） Yahoo!ニュース",
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00000013-htbv-000-2-thumb.jpg?exp=10800"
-  },
-  {
-    "id": "43dcd5762c7d6c2f4c47c04147da6e4a973caf366c6da3777faff1f91c33a760",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56MGpIekJBNnBtMTZjNk1URzdZZDVhMW9xZk9fS3p6UUo3TF9lUUFUVXFGbG1JY2U0M1EtQ0xsQlNibDU4Rmw2SFdSNVhQeDJOTjJ6X2xFVmFZa1hTSTVTaUZ0ckljcWpnMnFTdWl5MjBLTGVJRlZFQVZaNHM3eXc?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/6ee4deb9442b39e888a47a04f7a98e70aeab736b",
-    "title": "ＪＲ宗谷線、全区間で運転再開 特急列車がクマと衝突、先頭車両が脱線（HTB北海道ニュース） - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
-    "published": "2026-11-04T08:00:00+00:00",
-    "description": "ＪＲ宗谷線、全区間で運転再開 特急列車がクマと衝突、先頭車両が脱線（HTB北海道ニュース） Yahoo!ニュース",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00000004-htbv-000-2-thumb.jpg?exp=10800"
   }
 ]

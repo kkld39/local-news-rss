@@ -6,7 +6,17 @@
     <description>稚内の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/wakkanai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 21 Nov 2026 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 10:00:58 +0000</lastBuildDate>
+    <item>
+      <title>「雪の中、稚内まで行くのは大変だった」特急宗谷で6時間超、まさかの1時間遅れ（鉄道乗蔵） - エキスパート - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/expert/articles/1af36379fda84c2f9c0e6bba4567af227b2c6796</link>
+      <pubDate>Sun, 22 Nov 2026 10:00:58 +0000</pubDate>
+      <guid isPermaLink="false">3e4d03f86ce4c66c9dec5736379f5f0e0461164ded69ff66337caa496c0d9319</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
+      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/tetsudonoruzo/02772035/title-1795332343311.jpeg?exp=10800" />
+      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/tetsudonoruzo/02772035/title-1795332343311.jpeg?exp=10800" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/tetsudonoruzo/02772035/title-1795332343311.jpeg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「雪の中、稚内まで行くのは大変だった」特急宗谷で6時間超、まさかの1時間遅れ（鉄道乗蔵） - エキスパート Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
+    </item>
     <item>
       <title>留萌・宗谷（１１月２２日付）おくやみ - 北海道新聞デジタル</title>
       <link>https://www.hokkaido-np.co.jp/article/1412910/</link>
@@ -134,16 +144,6 @@
       <description>&lt;p&gt;70年前に南極を目指した観測船 実は戦時中の「強運艦」だった!?「総員退艦」から生還した逸話も ニコニコニュース&lt;/p&gt;&lt;p&gt;配信元: ニコニコニュース&lt;/p&gt;</description>
     </item>
     <item>
-      <title>70年前に南極を目指した観測船 実は戦時中の「強運艦」だった!?「総員退艦」から生還した逸話も（2/2 ページ） - 乗りものニュース</title>
-      <link>https://trafficnews.jp/post/726762/2</link>
-      <pubDate>Tue, 17 Nov 2026 04:12:00 +0000</pubDate>
-      <guid isPermaLink="false">72fb1430a92c37d5c4c727c8f90bb8bef7997a38f042a1ad962a5a14e7410a13</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">乗りものニュース</source>
-      <media:thumbnail url="https://trafficnews.jp/wp-content/uploads/2027/11/251118_so_03.jpg" />
-      <media:content url="https://trafficnews.jp/wp-content/uploads/2027/11/251118_so_03.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://trafficnews.jp/wp-content/uploads/2027/11/251118_so_03.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;70年前に南極を目指した観測船 実は戦時中の「強運艦」だった!?「総員退艦」から生還した逸話も（2/2 ページ） 乗りものニュース&lt;/p&gt;&lt;p&gt;配信元: 乗りものニュース&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>70年前に南極を目指した観測船 実は戦時中の「強運艦」だった!?「総員退艦」から生還した逸話も - au Webポータル</title>
       <link>https://article.auone.jp/8e0d8e6b-6a88-402f-9600-d617349e4dbd</link>
       <pubDate>Tue, 17 Nov 2026 04:12:00 +0000</pubDate>
@@ -152,6 +152,16 @@
       <media:thumbnail url="https://portal.auone.jp/media/thumbnails/2026/11/17/https___trafficnews_jp_post_726762_w600.webp" />
       <media:content url="https://portal.auone.jp/media/thumbnails/2026/11/17/https___trafficnews_jp_post_726762_w600.webp" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://portal.auone.jp/media/thumbnails/2026/11/17/https___trafficnews_jp_post_726762_w600.webp" alt="" /&gt;&lt;/p&gt;&lt;p&gt;70年前に南極を目指した観測船 実は戦時中の「強運艦」だった!?「総員退艦」から生還した逸話も au Webポータル&lt;/p&gt;&lt;p&gt;配信元: au Webポータル&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>70年前に南極を目指した観測船 実は戦時中の「強運艦」だった!?「総員退艦」から生還した逸話も（2/2 ページ） - 乗りものニュース</title>
+      <link>https://trafficnews.jp/post/726762/2</link>
+      <pubDate>Tue, 17 Nov 2026 04:12:00 +0000</pubDate>
+      <guid isPermaLink="false">72fb1430a92c37d5c4c727c8f90bb8bef7997a38f042a1ad962a5a14e7410a13</guid>
+      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">乗りものニュース</source>
+      <media:thumbnail url="https://trafficnews.jp/wp-content/uploads/2027/11/251118_so_03.jpg" />
+      <media:content url="https://trafficnews.jp/wp-content/uploads/2027/11/251118_so_03.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://trafficnews.jp/wp-content/uploads/2027/11/251118_so_03.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;70年前に南極を目指した観測船 実は戦時中の「強運艦」だった!?「総員退艦」から生還した逸話も（2/2 ページ） 乗りものニュース&lt;/p&gt;&lt;p&gt;配信元: 乗りものニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>稚内市へお出かけ【旭川発】「道の駅わっかない」から徒歩圏内にある地元ならではのお店３選 - ASATAN</title>
@@ -1464,16 +1474,6 @@
       <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00000013-htbv-000-2-thumb.jpg?exp=10800" />
       <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00000013-htbv-000-2-thumb.jpg?exp=10800" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00000013-htbv-000-2-thumb.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;5日ぶりに全区間で運転再開のJR宗谷線 特急に衝突したのは400kg近い巨大クマか（HTB北海道ニュース） Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ＪＲ宗谷線、全区間で運転再開 特急列車がクマと衝突、先頭車両が脱線（HTB北海道ニュース） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/6ee4deb9442b39e888a47a04f7a98e70aeab736b</link>
-      <pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="false">43dcd5762c7d6c2f4c47c04147da6e4a973caf366c6da3777faff1f91c33a760</guid>
-      <source url="https://news.google.com/rss/search?q=%E7%A8%9A%E5%86%85%E5%B8%82+OR+%E5%AE%97%E8%B0%B7&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00000004-htbv-000-2-thumb.jpg?exp=10800" />
-      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00000004-htbv-000-2-thumb.jpg?exp=10800" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00000004-htbv-000-2-thumb.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;ＪＲ宗谷線、全区間で運転再開 特急列車がクマと衝突、先頭車両が脱線（HTB北海道ニュース） Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
