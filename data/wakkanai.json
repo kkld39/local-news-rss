@@ -1,5 +1,25 @@
 [
   {
+    "id": "db294b356750c18dd446d0f0dbd2e7d1433cd6a3d85cee1cb6be29f1f7f26d4d",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fbW5oTWcxaUNWNlFCMmFIWkVWWDE3ZFROQWtiU09MNDVJbGJ4MGFSb1IxTjhUclByWUdPRmVaWlFqZEdsenpZNkU4ZnFydjQteEI4VVk5NndKdw?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1413471/",
+    "title": "留萌・宗谷（１１月２４日付）おくやみ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-23T11:30:00+00:00",
+    "description": "留萌・宗谷（１１月２４日付）おくやみ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
+    "id": "cb0aaf665e220ccf86d0aa5b027be208e7fe0d1d2d51b1792400e1e876b33f75",
+    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lYm1wYmQ5WkVwdkdGTU50Zlh5cWhBSy11R2R5dTJaTE50WDIyZ1dmMm9GczBOanphRWx1ODhOMExSNzFIRmsxNFRobG9ITUg0VlpxSEN5ZnRoUWx5TktzQXFzeUoyUlU?oc=5",
+    "url": "https://newsdig.tbs.co.jp/articles/hbc/3105418?display=1",
+    "title": "軽乗用車が電柱に衝突し運転の60代女性が心肺停止、運転中に体調に異変か、事故前に意識失った可能性も 北海道稚内市 - TBS NEWS DIG",
+    "source": "TBS NEWS DIG",
+    "published": "2026-11-23T09:11:00+00:00",
+    "description": "軽乗用車が電柱に衝突し運転の60代女性が心肺停止、運転中に体調に異変か、事故前に意識失った可能性も 北海道稚内市 TBS NEWS DIG",
+    "image": "https://newsdig.ismcdn.jp/mwimgs/f/7/1200w/img_f746990df0b8836a9386d55ee5f7aa66142207.jpg"
+  },
+  {
     "id": "9dc465895c99d4ff79ed3ec6bec6b539542ac7ebcd267a4fa3cfed1a4b41c004",
     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jaEI0dTVRV2ppRlkxenI2S182UjBrcFF1R180ajlBUnNDdTZ6UGxFd2pDT29LejJmM0FxVk9tWDR4V1N3NkhMd3lINUxyUQ?oc=5",
     "url": "https://www.fnn.jp/articles/-/1157311",
@@ -240,16 +260,6 @@
     "image": null
   },
   {
-    "id": "345105e9c0be8ba21af963c83f8271320e052c0c7024eb1a0c88774bb223ff91",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83R3RfZUlhYlI0OTBzOFQ4UVFDc0hnZmNWTDlzRDMxSUlJQ3RWWm9qTnZ2U2lsa1c5c3VSZTZoSnhYR1hHbU9FN3ZxUUtIaXFtb3Z6MGEtb08tZw?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1408955/",
-    "title": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-11-16T01:00:47+00:00",
-    "description": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/c/c/e/2/cce2031c5c43c9ef7e5dbe4cff7e77f1_1.webp?20261116182527"
-  },
-  {
     "id": "9c8234c375e00c7f023b894ad4477463ad22a88f1882f5a71fc5acb4eaf683e2",
     "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoZlkyMmZMbjFSWHljaFlSU3BHazM4TE1MYk9pUGwtWl9RWmtxbnR1MjdRM2VWa3JlV3JkbU5PVnMzUjcyMHpwaUc3QQ?oc=5",
     "url": "https://www.47news.jp/15237007.html",
@@ -258,6 +268,16 @@
     "published": "2026-11-16T01:00:47+00:00",
     "description": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ 47NEWS",
     "image": "https://img.cf.47news.jp/public/photo/32472e2c0c12f9d8ad67b0d40113af41/photo.jpg"
+  },
+  {
+    "id": "345105e9c0be8ba21af963c83f8271320e052c0c7024eb1a0c88774bb223ff91",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83R3RfZUlhYlI0OTBzOFQ4UVFDc0hnZmNWTDlzRDMxSUlJQ3RWWm9qTnZ2U2lsa1c5c3VSZTZoSnhYR1hHbU9FN3ZxUUtIaXFtb3Z6MGEtb08tZw?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1408955/",
+    "title": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-16T01:00:47+00:00",
+    "description": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/c/c/e/2/cce2031c5c43c9ef7e5dbe4cff7e77f1_1.webp?20261116182527"
   },
   {
     "id": "ef59c26e3da52953ea36adc9c9f617f62f20a5aed4ebfef93c29433757c13d83",
@@ -600,16 +620,6 @@
     "image": "https://image.news.livedoor.com/newsimage/stf/9/b/9b48c_1748_2674cd0c_b6f20394.jpg"
   },
   {
-    "id": "03599d58fbe40f4834c4c31098ea85c566e7354de6622d3b79c4fd22a11ca658",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16X2h2ZDVjRk5VLUpuaEpLOW5PakNIR3Bkc2ppVnphTzIxZU85YzlBbWk2dFlsZHlVZVBIT1dtUHVFNFVQQjIzcWY1Tml5V2Y5cFdRVWQwY1dpQQ?oc=5",
-    "url": "https://www.htb.co.jp/news/archives_40429.html",
-    "title": "「黒い煙が…」稚内市の港近くにあるプレハブ小屋から火 けが人の情報確認できず - HTB 北海道テレビ",
-    "source": "HTB 北海道テレビ",
-    "published": "2026-11-11T08:00:00+00:00",
-    "description": "「黒い煙が…」稚内市の港近くにあるプレハブ小屋から火 けが人の情報確認できず HTB 北海道テレビ",
-    "image": "https://www.htb.co.jp/news/photo/40429_52554.jpg"
-  },
-  {
     "id": "04b9f8d52d2fb3d545b45524b1c2dd2897b58f3bea8e55d5bcb90cb81648000f",
     "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93ZlhEU1F1SFRjNkM2YWpvWHVtbTJfUlpINUJDby0yT2o1S3k0VXVJM0NNSzh5T05nZi1PYzlZeWh6SWZQSWJDRWt5dWF1Y3BWRVY2TW9ycw?oc=5",
     "url": "https://newsdig.tbs.co.jp/articles/-/3079118",
@@ -708,6 +718,16 @@
     "published": "2026-11-11T06:49:23+00:00",
     "description": "「黒い煙が…」稚内市の港近くにあるプレハブ小屋から火 けが人の情報確認できず Yahoo!ニュース",
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261111-00000006-htbv-000-3-thumb.jpg?exp=10800"
+  },
+  {
+    "id": "03599d58fbe40f4834c4c31098ea85c566e7354de6622d3b79c4fd22a11ca658",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16X2h2ZDVjRk5VLUpuaEpLOW5PakNIR3Bkc2ppVnphTzIxZU85YzlBbWk2dFlsZHlVZVBIT1dtUHVFNFVQQjIzcWY1Tml5V2Y5cFdRVWQwY1dpQQ?oc=5",
+    "url": "https://www.htb.co.jp/news/archives_40429.html",
+    "title": "「黒い煙が…」稚内市の港近くにあるプレハブ小屋から火 けが人の情報確認できず - HTB 北海道テレビ",
+    "source": "HTB 北海道テレビ",
+    "published": "2026-11-11T06:49:00+00:00",
+    "description": "「黒い煙が…」稚内市の港近くにあるプレハブ小屋から火 けが人の情報確認できず HTB 北海道テレビ",
+    "image": "https://www.htb.co.jp/news/photo/40429_52554.jpg"
   },
   {
     "id": "d3c7c9dee6045f1db9f2b9c1c3022276e883cd4930d10483912f8073c9f8b087",
@@ -1478,25 +1498,5 @@
     "published": "2026-11-04T08:00:00+00:00",
     "description": "クマ衝突の脱線から5日…JR宗谷線が復旧し運転再開、車両繰りで一部バス代行も実施 北海道 TBS NEWS DIG",
     "image": "https://newsdig.ismcdn.jp/mwimgs/3/9/1200w/img_3971173b85434d0e86ec4fb116f6dde2333216.jpg"
-  },
-  {
-    "id": "2d5458d745257f20564af8298cfc373f3ad66a5d9e3f940b3925bd30f926e43f",
-    "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DZVh4bDVPZkJ0aU9la2VPVER0MjdfWFZQX2R6azJabkx0UVRfUHJ2LVVvYTA3RE5IeGJKd1I3aVNrNG8xeUxXaTJqeWJZQ3lfeUhaeVpid1RvOE5HY2plZGY0dk50SmxMZTctR2VJMEJUQQ?oc=5",
-    "url": "https://news.tv-asahi.co.jp/news_society/articles/000545077.html",
-    "title": "北海道 JR宗谷線が全線復旧 10月30日にクマと衝突し脱線 - テレ朝NEWS",
-    "source": "テレ朝NEWS",
-    "published": "2026-11-04T08:00:00+00:00",
-    "description": "北海道 JR宗谷線が全線復旧 10月30日にクマと衝突し脱線 テレ朝NEWS",
-    "image": "https://news.tv-asahi.co.jp/articles_img/000545077_1200.jpg"
-  },
-  {
-    "id": "839f439d787c8aa5693c2917fb34d6360ccc00cfb1f59f23cd4e6940879ea553",
-    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SeVV2VWdablZ2QmFINnJMdDhKeFBSWUdFdUlod2dsdldUNGstLTN4NEJHSWZ4ZGhwU19uSE5EdDJjVzl1bGU0U0wwTUZYX2xreUc4N3RR?oc=5",
-    "url": "https://wakkanaipress.com/2026/11/04/25617/",
-    "title": "５日ぶり宗谷線再開 ＪＲ音威子府〜稚内間 - 稚内プレス社",
-    "source": "稚内プレス社",
-    "published": "2026-11-04T08:00:00+00:00",
-    "description": "５日ぶり宗谷線再開 ＪＲ音威子府〜稚内間 稚内プレス社",
-    "image": null
   }
 ]
