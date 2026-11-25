@@ -6,7 +6,27 @@
     <description>北見の地域ニュース（Google News検索）</description>
     <language>ja</language>
     <atom:link href="https://kkld39.github.io/local-news-rss/feeds/kitami.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 25 Nov 2026 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:00:00 +0000</lastBuildDate>
+    <item>
+      <title>支援活用し投資拡大 北見 地元企業など発表 - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1415001/</link>
+      <pubDate>Wed, 25 Nov 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">0b05abecff095fb556f1c37748f61539fb5780d37a4925a72d8b1a8be40313fb</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/6/1/8/e/618e607877dce5a93550798a7e92c662_1.webp?20261126073255" />
+      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/6/1/8/e/618e607877dce5a93550798a7e92c662_1.webp?20261126073255" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/6/1/8/e/618e607877dce5a93550798a7e92c662_1.webp?20261126073255" alt="" /&gt;&lt;/p&gt;&lt;p&gt;支援活用し投資拡大 北見 地元企業など発表 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>「政治の推し活化 危険」 北見・道新政経懇 中森明夫さん講演 - 北海道新聞デジタル</title>
+      <link>https://www.hokkaido-np.co.jp/article/1415160</link>
+      <pubDate>Wed, 25 Nov 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">60247f4b6051edb50ebe26027d91c35d3b97a0c3fa0c95d05cbef4ec09299072</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
+      <media:thumbnail url="https://static.hokkaido-np.co.jp/files/img/doshin_news.jpg" />
+      <media:content url="https://static.hokkaido-np.co.jp/files/img/doshin_news.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/files/img/doshin_news.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;「政治の推し活化 危険」 北見・道新政経懇 中森明夫さん講演 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
+    </item>
     <item>
       <title>北見・オホーツク（１１月２６日付）おくやみ - 北海道新聞デジタル</title>
       <link>https://www.hokkaido-np.co.jp/article/1414886/</link>
@@ -320,6 +340,16 @@
       <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見・オホーツク（１１月２４日付）おくやみ 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
     </item>
     <item>
+      <title>商業施設の駐車場でソフトエアガンを突然発射 車のドアをへこませる 73歳の男を逮捕 北海道北見市 ｜ ニュース - ＳＴＶ札幌テレビ 放送</title>
+      <link>https://www.stv.jp/news/stvnews/kiji/st98472925e12b413da71eb0e77de78ada.html</link>
+      <pubDate>Mon, 23 Nov 2026 10:38:46 +0000</pubDate>
+      <guid isPermaLink="false">b2fdfe1ed46c91a69c82ebf0a1046c4e2fa558846d0e68f0b8cd373ccd4af76f</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">ＳＴＶ札幌テレビ 放送</source>
+      <media:thumbnail url="https://www.stv.jp/newsxml/thumbnail/st98472925e12b413da71eb0e77de78ada.jpg" />
+      <media:content url="https://www.stv.jp/newsxml/thumbnail/st98472925e12b413da71eb0e77de78ada.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.stv.jp/newsxml/thumbnail/st98472925e12b413da71eb0e77de78ada.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;商業施設の駐車場でソフトエアガンを突然発射 車のドアをへこませる 73歳の男を逮捕 北海道北見市 ｜ ニュース ＳＴＶ札幌テレビ 放送&lt;/p&gt;&lt;p&gt;配信元: ＳＴＶ札幌テレビ 放送&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>商業施設の駐車場でソフトエアガンを突然発射 車のドアをへこませる 73歳の男を逮捕 北海道北見市 - au Webポータル</title>
       <link>https://article.auone.jp/6a882a0c-339d-46a7-8fe0-af38452f16fd</link>
       <pubDate>Mon, 23 Nov 2026 10:32:33 +0000</pubDate>
@@ -434,16 +464,6 @@
       <description>&lt;p&gt;&lt;img src="https://portal.auone.jp/media/thumbnails/2026/11/23/https___news_jp_i_1497493221624431522_w1280.webp" alt="" /&gt;&lt;/p&gt;&lt;p&gt;函館で車同士が衝突し大破 北見では軽自動車が電柱衝突 祝日の北海道…各地で事故相次ぐ au Webポータル&lt;/p&gt;&lt;p&gt;配信元: au Webポータル&lt;/p&gt;</description>
     </item>
     <item>
-      <title>函館で車同士が衝突し大破 北見では軽自動車が電柱衝突 祝日の北海道…各地で事故相次ぐ - 日テレNEWS NNN</title>
-      <link>https://news.ntv.co.jp/category/society/stf72d9f19959a4adbb616790c6008ad6b</link>
-      <pubDate>Mon, 23 Nov 2026 07:01:00 +0000</pubDate>
-      <guid isPermaLink="false">62bbc468dfad1164a4fce8f3166fcc25b08ae88f744c566b7fcef716393998fc</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">日テレNEWS NNN</source>
-      <media:thumbnail url="https://image.gallery.play.jp/stv-news/articles/57ba6dee6e3b4b3ebd0d75030b1e4050/721a0633-cce1-4875-bf9c-125e450830ef.jpg?w=1200" />
-      <media:content url="https://image.gallery.play.jp/stv-news/articles/57ba6dee6e3b4b3ebd0d75030b1e4050/721a0633-cce1-4875-bf9c-125e450830ef.jpg?w=1200" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://image.gallery.play.jp/stv-news/articles/57ba6dee6e3b4b3ebd0d75030b1e4050/721a0633-cce1-4875-bf9c-125e450830ef.jpg?w=1200" alt="" /&gt;&lt;/p&gt;&lt;p&gt;函館で車同士が衝突し大破 北見では軽自動車が電柱衝突 祝日の北海道…各地で事故相次ぐ 日テレNEWS NNN&lt;/p&gt;&lt;p&gt;配信元: 日テレNEWS NNN&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>函館で車同士が衝突し大破 北見では軽自動車が電柱衝突 祝日の北海道…各地で事故相次ぐ (2026年11月23日掲載) - ライブドアニュース</title>
       <link>https://news.livedoor.com/topics/detail/32880517/</link>
       <pubDate>Mon, 23 Nov 2026 07:01:00 +0000</pubDate>
@@ -452,6 +472,16 @@
       <media:thumbnail url="https://image.news.livedoor.com/newsimage/stf/6/c/6c588_1748_7cbab67e_f307f3dc.jpg" />
       <media:content url="https://image.news.livedoor.com/newsimage/stf/6/c/6c588_1748_7cbab67e_f307f3dc.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://image.news.livedoor.com/newsimage/stf/6/c/6c588_1748_7cbab67e_f307f3dc.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;函館で車同士が衝突し大破 北見では軽自動車が電柱衝突 祝日の北海道…各地で事故相次ぐ (2026年11月23日掲載) ライブドアニュース&lt;/p&gt;&lt;p&gt;配信元: ライブドアニュース&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>函館で車同士が衝突し大破 北見では軽自動車が電柱衝突 祝日の北海道…各地で事故相次ぐ - 日テレNEWS NNN</title>
+      <link>https://news.ntv.co.jp/category/society/stf72d9f19959a4adbb616790c6008ad6b</link>
+      <pubDate>Mon, 23 Nov 2026 07:01:00 +0000</pubDate>
+      <guid isPermaLink="false">62bbc468dfad1164a4fce8f3166fcc25b08ae88f744c566b7fcef716393998fc</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">日テレNEWS NNN</source>
+      <media:thumbnail url="https://image.gallery.play.jp/stv-news/articles/57ba6dee6e3b4b3ebd0d75030b1e4050/721a0633-cce1-4875-bf9c-125e450830ef.jpg?w=1200" />
+      <media:content url="https://image.gallery.play.jp/stv-news/articles/57ba6dee6e3b4b3ebd0d75030b1e4050/721a0633-cce1-4875-bf9c-125e450830ef.jpg?w=1200" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://image.gallery.play.jp/stv-news/articles/57ba6dee6e3b4b3ebd0d75030b1e4050/721a0633-cce1-4875-bf9c-125e450830ef.jpg?w=1200" alt="" /&gt;&lt;/p&gt;&lt;p&gt;函館で車同士が衝突し大破 北見では軽自動車が電柱衝突 祝日の北海道…各地で事故相次ぐ 日テレNEWS NNN&lt;/p&gt;&lt;p&gt;配信元: 日テレNEWS NNN&lt;/p&gt;</description>
     </item>
     <item>
       <title>函館で車同士が衝突し大破 北見では軽自動車が電柱衝突 祝日の北海道…各地で事故相次ぐ - Yahoo!ニュース</title>
@@ -494,16 +524,6 @@
       <description>&lt;p&gt;&lt;img src="https://media.image.infoseek.co.jp/isnews/photos/stv/stv_1497431810742419927_0-enlarge.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;軽自動車が電柱に突っ込む　前方がつぶれ…ガラスにヒビ　１人を病院搬送　北海道北見市 Infoseek&lt;/p&gt;&lt;p&gt;配信元: Infoseek&lt;/p&gt;</description>
     </item>
     <item>
-      <title>軽自動車が電柱に突っ込む 前方がつぶれ…ガラスにヒビ １人を病院搬送 北海道北見市 - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/eafd2df4e0aa3f66c73b40db7db493143ed9b5b5</link>
-      <pubDate>Mon, 23 Nov 2026 02:57:00 +0000</pubDate>
-      <guid isPermaLink="false">2648a957ab77756fd2e58cc12eb4b99829b01ccab50ceca5674d476c938987c4</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261123-08428461-stv-000-4-thumb.jpg?exp=10800" />
-      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261123-08428461-stv-000-4-thumb.jpg?exp=10800" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261123-08428461-stv-000-4-thumb.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;軽自動車が電柱に突っ込む 前方がつぶれ…ガラスにヒビ １人を病院搬送 北海道北見市 Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>軽自動車が電柱に突っ込む 前方がつぶれ…ガラスにヒビ １人を病院搬送 北海道北見市 (2026年11月23日掲載) - ライブドアニュース</title>
       <link>https://news.livedoor.com/topics/detail/32879421/</link>
       <pubDate>Mon, 23 Nov 2026 02:57:00 +0000</pubDate>
@@ -512,6 +532,16 @@
       <media:thumbnail url="https://image.news.livedoor.com/newsimage/stf/e/2/e2c74_1748_9a8b7d22_b2f3db83.jpg" />
       <media:content url="https://image.news.livedoor.com/newsimage/stf/e/2/e2c74_1748_9a8b7d22_b2f3db83.jpg" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://image.news.livedoor.com/newsimage/stf/e/2/e2c74_1748_9a8b7d22_b2f3db83.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;軽自動車が電柱に突っ込む 前方がつぶれ…ガラスにヒビ １人を病院搬送 北海道北見市 (2026年11月23日掲載) ライブドアニュース&lt;/p&gt;&lt;p&gt;配信元: ライブドアニュース&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>軽自動車が電柱に突っ込む 前方がつぶれ…ガラスにヒビ １人を病院搬送 北海道北見市 - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/eafd2df4e0aa3f66c73b40db7db493143ed9b5b5</link>
+      <pubDate>Mon, 23 Nov 2026 02:57:00 +0000</pubDate>
+      <guid isPermaLink="false">2648a957ab77756fd2e58cc12eb4b99829b01ccab50ceca5674d476c938987c4</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
+      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261123-08428461-stv-000-4-thumb.jpg?exp=10800" />
+      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261123-08428461-stv-000-4-thumb.jpg?exp=10800" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261123-08428461-stv-000-4-thumb.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;軽自動車が電柱に突っ込む 前方がつぶれ…ガラスにヒビ １人を病院搬送 北海道北見市 Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>軽自動車が電柱に突っ込む 前方がつぶれ…ガラスにヒビ １人を病院搬送 北海道北見市 - 日テレNEWS NNN</title>
@@ -1212,6 +1242,16 @@
       <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見・オホーツク（１１月１８日付）おくやみ 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
     </item>
     <item>
+      <title>北見はなぜ焼き肉の街になったのか ホルモン文化と厳寒のまつり（毎日新聞） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/e951b18b3f3d5de9d3e19962a659c1f54e84e8db</link>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">b0b0ef6901fa1a13f97ebe949f3e5a87947f30dd12b7c498e646eaa458b7367f</guid>
+      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
+      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261117-00000005-mai-000-1-view.jpg?exp=10800" />
+      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261117-00000005-mai-000-1-view.jpg?exp=10800" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261117-00000005-mai-000-1-view.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見はなぜ焼き肉の街になったのか ホルモン文化と厳寒のまつり（毎日新聞） Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>北見市の人材マッチング「スケッター」好調 登録2倍の275人に、10~80代が利用 人手不足に空き時間利用 - 47NEWS</title>
       <link>https://www.47news.jp/15244651.html</link>
       <pubDate>Tue, 17 Nov 2026 08:00:00 +0000</pubDate>
@@ -1310,16 +1350,6 @@
       <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/1/6/8/4/1684191d4894b24b63dd79a67396197d_1.webp?20261117125413" />
       <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/1/6/8/4/1684191d4894b24b63dd79a67396197d_1.webp?20261117125413" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/1/6/8/4/1684191d4894b24b63dd79a67396197d_1.webp?20261117125413" alt="" /&gt;&lt;/p&gt;&lt;p&gt;私のなかの歴史 北見ハッカ通商会長・永田武彦さん＞ハッカ王国復活へ① 衰退する産業 薄荷工場閉鎖で創業決意 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>北見はなぜ焼き肉の街になったのか ホルモン文化と厳寒のまつり（毎日新聞） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/e951b18b3f3d5de9d3e19962a659c1f54e84e8db</link>
-      <pubDate>Mon, 16 Nov 2026 22:45:21 +0000</pubDate>
-      <guid isPermaLink="false">b0b0ef6901fa1a13f97ebe949f3e5a87947f30dd12b7c498e646eaa458b7367f</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-      <media:thumbnail url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261117-00000005-mai-000-1-view.jpg?exp=10800" />
-      <media:content url="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261117-00000005-mai-000-1-view.jpg?exp=10800" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261117-00000005-mai-000-1-view.jpg?exp=10800" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見はなぜ焼き肉の街になったのか ホルモン文化と厳寒のまつり（毎日新聞） Yahoo!ニュース&lt;/p&gt;&lt;p&gt;配信元: Yahoo!ニュース&lt;/p&gt;</description>
     </item>
     <item>
       <title>北見はなぜ焼き肉の街になったのか ホルモン文化と厳寒のまつり (毎日新聞) - Yahoo!ニュース</title>
@@ -1460,36 +1490,6 @@
       <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/f/0/1/6/f016a60167810ebe75bb5c2229f1ebf5_1.webp?20261118225926" />
       <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/f/0/1/6/f016a60167810ebe75bb5c2229f1ebf5_1.webp?20261118225926" medium="image" />
       <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/f/0/1/6/f016a60167810ebe75bb5c2229f1ebf5_1.webp?20261118225926" alt="" /&gt;&lt;/p&gt;&lt;p&gt;重なる歌声 情感たっぷり 北見で合唱団コンサート 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>北見・オホーツク（１１月１６日付）おくやみ - 北海道新聞デジタル</title>
-      <link>https://www.hokkaido-np.co.jp/article/1408737/</link>
-      <pubDate>Sun, 15 Nov 2026 11:30:00 +0000</pubDate>
-      <guid isPermaLink="false">f7ea48d069c00972eb1e436b554453491be5c72f75cf30c72256ed9804ecdbe5</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
-      <media:thumbnail url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" />
-      <media:content url="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見・オホーツク（１１月１６日付）おくやみ 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>赤字覚悟で廃止予定の公共施設を買い取り復活させた地元の挑戦 1週間で1800筆の署名を集めた住民と酪農ヘルパー会社が憩いの場を守る 北海道北見市 - TBS NEWS DIG</title>
-      <link>https://newsdig.tbs.co.jp/articles/hbc/3077719?display=1</link>
-      <pubDate>Sun, 15 Nov 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="false">804d4f08a6ccf6b5b512f53c49cb4097cef32bd92f05d0f9f19fffb47f97ce73</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">TBS NEWS DIG</source>
-      <media:thumbnail url="https://newsdig.ismcdn.jp/mwimgs/0/a/1200w/img_0a49c52529ccca0a655e337323f9312f1402314.jpg" />
-      <media:content url="https://newsdig.ismcdn.jp/mwimgs/0/a/1200w/img_0a49c52529ccca0a655e337323f9312f1402314.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://newsdig.ismcdn.jp/mwimgs/0/a/1200w/img_0a49c52529ccca0a655e337323f9312f1402314.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;赤字覚悟で廃止予定の公共施設を買い取り復活させた地元の挑戦 1週間で1800筆の署名を集めた住民と酪農ヘルパー会社が憩いの場を守る 北海道北見市 TBS NEWS DIG&lt;/p&gt;&lt;p&gt;配信元: TBS NEWS DIG&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>北見の琴演奏会に300人 8歳が「アンパンマンのマーチ」熱演 - 北海道新聞デジタル</title>
-      <link>https://www.hokkaido-np.co.jp/article/1408703/</link>
-      <pubDate>Sun, 15 Nov 2026 07:10:11 +0000</pubDate>
-      <guid isPermaLink="false">f8c7f5cc1d8e1246a9827b2845dd035f0084cabc9b59b7575a3038b44f2115ee</guid>
-      <source url="https://news.google.com/rss/search?q=%E5%8C%97%E8%A6%8B%E5%B8%82&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">北海道新聞デジタル</source>
-      <media:thumbnail url="https://static.hokkaido-np.co.jp/image/article/size1/a/3/f/3/a3f37831ea1d47f26bff27e0930a7dfd_1.webp?20261115180146" />
-      <media:content url="https://static.hokkaido-np.co.jp/image/article/size1/a/3/f/3/a3f37831ea1d47f26bff27e0930a7dfd_1.webp?20261115180146" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://static.hokkaido-np.co.jp/image/article/size1/a/3/f/3/a3f37831ea1d47f26bff27e0930a7dfd_1.webp?20261115180146" alt="" /&gt;&lt;/p&gt;&lt;p&gt;北見の琴演奏会に300人 8歳が「アンパンマンのマーチ」熱演 北海道新聞デジタル&lt;/p&gt;&lt;p&gt;配信元: 北海道新聞デジタル&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
