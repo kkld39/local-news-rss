@@ -1,5 +1,15 @@
 [
   {
+    "id": "c7dcf1fc0779c2ed47bcb71c9fda0d1c1e7052b739673d3d588c5223528f1c55",
+    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PMHB6Y3plRVJjVndxcUNGdVJxcUVGMXVwWmNJclAySG50Nm13aU9yQXBUcDhVOW5vd0Jadm9fejAxVHBlWFRfNnJPSUpnUQ?oc=5",
+    "url": "https://www.fnn.jp/articles/-/1158744",
+    "title": "【北海道(宗谷地方)】11/25の天気予報 - FNNプライムオンライン",
+    "source": "FNNプライムオンライン",
+    "published": "2026-11-24T20:10:00+00:00",
+    "description": "【北海道(宗谷地方)】11/25の天気予報 FNNプライムオンライン",
+    "image": "https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg"
+  },
+  {
     "id": "0ad4f052d58f06b28d206fae240209cfc47ddc823d218600352db84f96a630f8",
     "google_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcng4WjNwNzl1bTBoMDAzVTNweUg3UDFpa3lycDZVM0hDSmZKbFhiZk0xZTNFRjQyQk94ZHJSTmphNXdQMlRxNEpyYWdxWUhKbmlXVlItTmZjQWtsN0JfYlBoRE9QYXMwSWFvQ2M3dTZfWVhjc1JOX2ViVU5BdmJCWkMzYlViT1pwbTdVVXlCQXJnUk5sVlNHNi1jeFVqVEZWcFdZWHBabDNJWmI1YmR30gGiAUFVX3lxTE56ZFFCQlZCeXA5dzZEbGtNb2E5M1d6empPcEMtSWF3YkF4dkxRMFdkaWhtaXBzMDV5SlhkUFFaNDdQVkx4TzkwemdfdGRfTmtDSkpXSjBSeDdwYXI5dHROb0JoZnhyR1dxMmE5RXFIa2RJWDEtYi1GNGhmd3RSRFRaOHVJNi1YeXFCaTQwMFFCMVJUeTRvTGNpSDZnMTRZcHFhUQ?oc=5",
     "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1497960947774947519?fm=latestnews",
@@ -70,16 +80,6 @@
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261123-23105418-hbcv-000-3-thumb.jpg?exp=10800"
   },
   {
-    "id": "cb0aaf665e220ccf86d0aa5b027be208e7fe0d1d2d51b1792400e1e876b33f75",
-    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lYm1wYmQ5WkVwdkdGTU50Zlh5cWhBSy11R2R5dTJaTE50WDIyZ1dmMm9GczBOanphRWx1ODhOMExSNzFIRmsxNFRobG9ITUg0VlpxSEN5ZnRoUWx5TktzQXFzeUoyUlU?oc=5",
-    "url": "https://newsdig.tbs.co.jp/articles/hbc/3105418?display=1",
-    "title": "軽乗用車が電柱に衝突し運転の60代女性が心肺停止、運転中に体調に異変か、事故前に意識失った可能性も 北海道稚内市 - TBS NEWS DIG",
-    "source": "TBS NEWS DIG",
-    "published": "2026-11-23T09:11:00+00:00",
-    "description": "軽乗用車が電柱に衝突し運転の60代女性が心肺停止、運転中に体調に異変か、事故前に意識失った可能性も 北海道稚内市 TBS NEWS DIG",
-    "image": "https://newsdig.ismcdn.jp/mwimgs/f/7/1200w/img_f746990df0b8836a9386d55ee5f7aa66142207.jpg"
-  },
-  {
     "id": "4174c076b6b2dd0704b351235b79c0df21d979b28ae90dabb7e96bc57d1ad629",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mVndNVURxaWJycnlLbFBEdFAtQXd3aTQxS21oSnFuNGhOS3ZKM3l5bEtRSzdlYW5WLVM1dEtVMWVzRU5wTUZFRzU1N0Zwa1pRU0E5QnIwbFc4dw?oc=5",
     "url": "https://newsdig.tbs.co.jp/articles/hbc/3105418",
@@ -87,6 +87,16 @@
     "source": "TBS NEWS DIG",
     "published": "2026-11-23T09:11:00+00:00",
     "description": "電柱に軽乗用車が衝突 運転していた60代女性が病院に搬送 運転中に体調急変か 北海道稚内市 TBS NEWS DIG",
+    "image": "https://newsdig.ismcdn.jp/mwimgs/f/7/1200w/img_f746990df0b8836a9386d55ee5f7aa66142207.jpg"
+  },
+  {
+    "id": "cb0aaf665e220ccf86d0aa5b027be208e7fe0d1d2d51b1792400e1e876b33f75",
+    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lYm1wYmQ5WkVwdkdGTU50Zlh5cWhBSy11R2R5dTJaTE50WDIyZ1dmMm9GczBOanphRWx1ODhOMExSNzFIRmsxNFRobG9ITUg0VlpxSEN5ZnRoUWx5TktzQXFzeUoyUlU?oc=5",
+    "url": "https://newsdig.tbs.co.jp/articles/hbc/3105418?display=1",
+    "title": "軽乗用車が電柱に衝突し運転の60代女性が心肺停止、運転中に体調に異変か、事故前に意識失った可能性も 北海道稚内市 - TBS NEWS DIG",
+    "source": "TBS NEWS DIG",
+    "published": "2026-11-23T09:11:00+00:00",
+    "description": "軽乗用車が電柱に衝突し運転の60代女性が心肺停止、運転中に体調に異変か、事故前に意識失った可能性も 北海道稚内市 TBS NEWS DIG",
     "image": "https://newsdig.ismcdn.jp/mwimgs/f/7/1200w/img_f746990df0b8836a9386d55ee5f7aa66142207.jpg"
   },
   {
@@ -98,6 +108,16 @@
     "published": "2026-11-22T20:10:00+00:00",
     "description": "【北海道(宗谷地方)】11/23の天気予報 FNNプライムオンライン",
     "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
+  },
+  {
+    "id": "c84e5e60af62afe1746eef72f68bcb486ae74397d4571bca99071e5da4047fff",
+    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZdk1sbWY1YXlKbHJ0d28zVVI1YUp1RzM4OVZDaUdZQ3d6RzRxQmh0OVpfbFYyeXg4el8xQmdKdERhbVpfV2Z3aEQ0ZEc5UXZHLV9rdmN0STE5S1Z4dHBF?oc=5",
+    "url": "https://newsdig.tbs.co.jp/articles/gallery/3056721",
+    "title": "クマ衝突で脱線のJR宗谷線 運転再開延期 車体を支えるバネに不具合 あすも一部の特急列車でバス代行輸送 北海道 - TBS NEWS DIG",
+    "source": "TBS NEWS DIG",
+    "published": "2026-11-22T16:08:00+00:00",
+    "description": "クマ衝突で脱線のJR宗谷線 運転再開延期 車体を支えるバネに不具合 あすも一部の特急列車でバス代行輸送 北海道 TBS NEWS DIG",
+    "image": "https://newsdig.ismcdn.jp/mwimgs/7/8/1200w/img_788e469d1807054138f8724a3f70adf0989494.jpg"
   },
   {
     "id": "dad41831defa77512fe89f32a8239c04cd82de9ceb23ec51b553734ada7349bd",
@@ -118,6 +138,16 @@
     "published": "2026-11-22T10:00:58+00:00",
     "description": "「雪の中、稚内まで行くのは大変だった」特急宗谷で6時間超、まさかの1時間遅れ（鉄道乗蔵） - エキスパート Yahoo!ニュース",
     "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/tetsudonoruzo/02772035/title-1795332343311.jpeg?exp=10800"
+  },
+  {
+    "id": "839ccdfe1bf6c8d78d42e79f383a1485264c57df79ff8234cd4d62fbe24fdea1",
+    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VRFFxMkdzYm10ZkZvUEZaNU9rdW84X3cwVWx6OW9aMFFEazVMR1VMdWN4V09QNDV3MmR4RDlVYVRNaGljdkFGdHBFb1pJUQ?oc=5",
+    "url": "https://www.fnn.jp/articles/-/1157155",
+    "title": "【北海道(宗谷地方)】11/22の天気予報 - FNNプライムオンライン",
+    "source": "FNNプライムオンライン",
+    "published": "2026-11-21T20:10:00+00:00",
+    "description": "【北海道(宗谷地方)】11/22の天気予報 FNNプライムオンライン",
+    "image": "https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg"
   },
   {
     "id": "f78d1f51b9c838c68ac4b28ae67ac6b0cf8d0673c3319842012b0419a652ca21",
@@ -330,16 +360,6 @@
     "image": null
   },
   {
-    "id": "345105e9c0be8ba21af963c83f8271320e052c0c7024eb1a0c88774bb223ff91",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83R3RfZUlhYlI0OTBzOFQ4UVFDc0hnZmNWTDlzRDMxSUlJQ3RWWm9qTnZ2U2lsa1c5c3VSZTZoSnhYR1hHbU9FN3ZxUUtIaXFtb3Z6MGEtb08tZw?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1408955/",
-    "title": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-11-16T01:00:47+00:00",
-    "description": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/c/c/e/2/cce2031c5c43c9ef7e5dbe4cff7e77f1_1.webp?20261116182527"
-  },
-  {
     "id": "9c8234c375e00c7f023b894ad4477463ad22a88f1882f5a71fc5acb4eaf683e2",
     "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoZlkyMmZMbjFSWHljaFlSU3BHazM4TE1MYk9pUGwtWl9RWmtxbnR1MjdRM2VWa3JlV3JkbU5PVnMzUjcyMHpwaUc3QQ?oc=5",
     "url": "https://www.47news.jp/15237007.html",
@@ -348,6 +368,16 @@
     "published": "2026-11-16T01:00:47+00:00",
     "description": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ 47NEWS",
     "image": "https://img.cf.47news.jp/public/photo/32472e2c0c12f9d8ad67b0d40113af41/photo.jpg"
+  },
+  {
+    "id": "345105e9c0be8ba21af963c83f8271320e052c0c7024eb1a0c88774bb223ff91",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83R3RfZUlhYlI0OTBzOFQ4UVFDc0hnZmNWTDlzRDMxSUlJQ3RWWm9qTnZ2U2lsa1c5c3VSZTZoSnhYR1hHbU9FN3ZxUUtIaXFtb3Z6MGEtb08tZw?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1408955/",
+    "title": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-16T01:00:47+00:00",
+    "description": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/c/c/e/2/cce2031c5c43c9ef7e5dbe4cff7e77f1_1.webp?20261116182527"
   },
   {
     "id": "ef59c26e3da52953ea36adc9c9f617f62f20a5aed4ebfef93c29433757c13d83",
@@ -380,6 +410,16 @@
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
   },
   {
+    "id": "b7fe4b8521629f90135cd2b7059a3fba36fe3d104b46429f167442113a4c1660",
+    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwQWJqblF1SjlwZndjMjRxaFA5QjFiRDJndHcyYnV3OTBKcFBabENKRGdULU8waENJSjJHUnlHZE52a2hEQWthNkhkdHVubmxfZ0lnZHNWbw?oc=5",
+    "url": "https://www.traicy.com/posts/20261115382051/",
+    "title": "宗谷バス、「わっかない号」夜行便を冬季運休 12月1日から2027年3月19日まで - TRAICY（トライシー）",
+    "source": "TRAICY（トライシー）",
+    "published": "2026-11-15T08:00:00+00:00",
+    "description": "宗谷バス、「わっかない号」夜行便を冬季運休 12月1日から2027年3月19日まで TRAICY（トライシー）",
+    "image": "https://www.traicy.com/wp-content/uploads/2026/09/7bb607f2c29c3f8299ff5959c17f35f4.jpg"
+  },
+  {
     "id": "0d79c13cb2a172dde1cd978f9e0c446eb96e5060f20cc43dd64d73ae0eae62a6",
     "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KY1FSNHFXb2dXM0U3eGQwZ0JIS3RPdlgxZFo1b3FyV0hMcXoxdXFIOHNXenJIZWRHcTJCcHgwZXp6Mi0wTHREY0oxcURDS18wT1h2TlZLNXdqbENsSVdR?oc=5",
     "url": "https://www.chiba-tv.com/plus/detail/2026112225457",
@@ -388,16 +428,6 @@
     "published": "2026-11-15T06:30:46+00:00",
     "description": "宗谷バス、「わっかない号」夜行便を冬季運休 12月1日から2027年3月19日まで 千葉テレビ放送",
     "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1494585888745063852/origin_1.jpg"
-  },
-  {
-    "id": "b7fe4b8521629f90135cd2b7059a3fba36fe3d104b46429f167442113a4c1660",
-    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwQWJqblF1SjlwZndjMjRxaFA5QjFiRDJndHcyYnV3OTBKcFBabENKRGdULU8waENJSjJHUnlHZE52a2hEQWthNkhkdHVubmxfZ0lnZHNWbw?oc=5",
-    "url": "https://www.traicy.com/posts/20261115382051/",
-    "title": "宗谷バス、「わっかない号」夜行便を冬季運休 12月1日から2027年3月19日まで - TRAICY（トライシー）",
-    "source": "TRAICY（トライシー）",
-    "published": "2026-11-15T06:18:39+00:00",
-    "description": "宗谷バス、「わっかない号」夜行便を冬季運休 12月1日から2027年3月19日まで TRAICY（トライシー）",
-    "image": "https://www.traicy.com/wp-content/uploads/2026/09/7bb607f2c29c3f8299ff5959c17f35f4.jpg"
   },
   {
     "id": "b843c22909c86bf9298dac47cfebd5fdea8de8a0955a3a2b252474bb6819b488",
@@ -480,6 +510,16 @@
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
   },
   {
+    "id": "b058f93b13b3c983cdf93e8f4a931580b3ffbe0844baeaf95d7f103277d7e499",
+    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvYm5zbEZqSmlHeDc3ZWk4dU1qUDNNeUtUclVoRm04T1BGV0N2RUczamcyQ1FzdzNvSnZDdUk3ZmFaTEhCMDdUNnI0WGJtY3YxLU5QZzAzUWhIOFJm?oc=5",
+    "url": "https://j-defense.ikaros.jp/docs/mod/006304.html",
+    "title": "ロシア海軍潜水艦・戦車揚陸艦など3隻が宗谷海峡を西進（11月10日・11日、キロ改級、アリゲーターⅣ級、バクラザン級） - J ディフェンス ニュース",
+    "source": "J ディフェンス ニュース",
+    "published": "2026-11-13T08:00:00+00:00",
+    "description": "ロシア海軍潜水艦・戦車揚陸艦など3隻が宗谷海峡を西進（11月10日・11日、キロ改級、アリゲーターⅣ級、バクラザン級） J ディフェンス ニュース",
+    "image": "https://j-defense.ikaros.jp/img/jdn/list/006/304/21.jpg"
+  },
+  {
     "id": "32f34982d255413a9c0b4ed691c3984b6b77c8d9677c9b0270f29cda90a4db20",
     "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYdXdnaFVZS05zLWdsMUJUVWMyZm9FeTd2S3E2NGZxWDZUV0lhalNxaEtIRXVyWUlOOVZHZ0FWTDVYSFh6d2dHWXBvVS1BRXFHTkJRdzFnNERNRmdyR2JDOHBLUEhUWmxTLVhjaFh1TndYenhQWFBpc1ZlMVlBSDg?oc=5",
     "url": "https://news.yahoo.co.jp/articles/3b95ed5a3537c7957a645813d942dd632a8080d2",
@@ -488,16 +528,6 @@
     "published": "2026-11-13T08:00:00+00:00",
     "description": "プレハブ小屋が全焼、約3時間後に鎮火 焼け跡から1人見つかるも身元不明 北海道稚内市 Yahoo!ニュース",
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261111-23079118-hbcv-000-5-thumb.jpg?exp=10800"
-  },
-  {
-    "id": "b058f93b13b3c983cdf93e8f4a931580b3ffbe0844baeaf95d7f103277d7e499",
-    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvYm5zbEZqSmlHeDc3ZWk4dU1qUDNNeUtUclVoRm04T1BGV0N2RUczamcyQ1FzdzNvSnZDdUk3ZmFaTEhCMDdUNnI0WGJtY3YxLU5QZzAzUWhIOFJm?oc=5",
-    "url": "https://j-defense.ikaros.jp/docs/mod/006304.html",
-    "title": "ロシア海軍潜水艦・戦車揚陸艦など3隻が宗谷海峡を西進（11月10日・11日、キロ改級、アリゲーターⅣ級、バクラザン級） - J ディフェンス ニュース",
-    "source": "J ディフェンス ニュース",
-    "published": "2026-11-13T06:00:00+00:00",
-    "description": "ロシア海軍潜水艦・戦車揚陸艦など3隻が宗谷海峡を西進（11月10日・11日、キロ改級、アリゲーターⅣ級、バクラザン級） J ディフェンス ニュース",
-    "image": "https://j-defense.ikaros.jp/img/jdn/list/006/304/21.jpg"
   },
   {
     "id": "3c43b23a3456f851eaef56927b8166b3c39094cba21dfa9853d9d773f373b823",
@@ -560,16 +590,6 @@
     "image": "https://funeco.jp/wp-content/uploads/2026/11/7fb694d1e2c91c85ddf737f26bf78e55.jpg"
   },
   {
-    "id": "8d1819c7fef903c93c005f23b879a7b041809cb42170bb570469cf443b776917",
-    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qX0ZzN3Q5MlVDQjFLWmlVMUhFMnYtUkcwMnFvTlFfY21PUnItMkVKM0hqMVV0czNNOS1uMmYtekJDOV90WVRhSHJWdjgwZEhNTVkzVDA3NA?oc=5",
-    "url": "https://www.uhb.jp/news/single.html?id=63560",
-    "title": "卸売市場で作業中「作業員がフォークリフトのパレットと接触して負傷した」男性は会話できる状態で搬送〈北海道稚内市〉 - UHB 北海道文化放送",
-    "source": "UHB 北海道文化放送",
-    "published": "2026-11-11T13:14:29+00:00",
-    "description": "卸売市場で作業中「作業員がフォークリフトのパレットと接触して負傷した」男性は会話できる状態で搬送〈北海道稚内市〉 UHB 北海道文化放送",
-    "image": "https://www.uhb.jp/news/data/63560/image.jpg?v=1794402491"
-  },
-  {
     "id": "3b2ee1030694972f592f79604a15f6c4ec6aefc3b888f9be0115e4813e5cb8a4",
     "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RQ09fT0haQW1kenh1MmFYcDdzWnQ4TzlxZWdmdmcxRW1mcy1GRVpDRjVjZFMxMkp4MjJCMTVfendVV0dycmdXZnFaV1EzUjdGV2syZDdIUGI2aGRHaFhpdnFETThMampoNzdXd2d0UlZoRHN0VFVTRGhFS0Q2Y1E?oc=5",
     "url": "https://news.yahoo.co.jp/articles/1bd24714dd13920fe3ee12ef5976ae74b505db88",
@@ -613,10 +633,10 @@
     "id": "aa57ce6c6414738e24fdf94eb62e48977b1fd31978a2d1f3a0508f01c4b7815c",
     "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CR0NnRW02b29tLUc4UV9XSjNObmpwQjdMcVk1UTREeHFzMFNZU1BoMHA0QWZFekpITnl2ODI2NzItYmFKQkVqMHBnX09ZRFBwdTVGRDllTHNTSGh0Qm9pbzg2eEltVDA?oc=5",
     "url": "https://newsdig.tbs.co.jp/articles/hbc/3079118?display=1",
-    "title": "プレハブ小屋炎上「黒煙が見える」通報から約3時間後に鎮圧、焼け跡から性別・年代不明の1人の遺体 北海道稚内市 - TBS NEWS DIG",
+    "title": "プレハブ小屋が全焼、約3時間後に鎮火 焼け跡から1人見つかるも身元不明 北海道稚内市 - TBS NEWS DIG",
     "source": "TBS NEWS DIG",
     "published": "2026-11-11T10:00:00+00:00",
-    "description": "プレハブ小屋炎上「黒煙が見える」通報から約3時間後に鎮圧、焼け跡から性別・年代不明の1人の遺体 北海道稚内市 TBS NEWS DIG",
+    "description": "プレハブ小屋が全焼、約3時間後に鎮火 焼け跡から1人見つかるも身元不明 北海道稚内市 TBS NEWS DIG",
     "image": "https://newsdig.ismcdn.jp/mwimgs/5/9/1200w/img_592e353bc96b68871297f7952ea61bc2563681.jpg"
   },
   {
@@ -690,14 +710,14 @@
     "image": "https://image.news.livedoor.com/newsimage/stf/9/b/9b48c_1748_2674cd0c_b6f20394.jpg"
   },
   {
-    "id": "04b9f8d52d2fb3d545b45524b1c2dd2897b58f3bea8e55d5bcb90cb81648000f",
-    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93ZlhEU1F1SFRjNkM2YWpvWHVtbTJfUlpINUJDby0yT2o1S3k0VXVJM0NNSzh5T05nZi1PYzlZeWh6SWZQSWJDRWt5dWF1Y3BWRVY2TW9ycw?oc=5",
-    "url": "https://newsdig.tbs.co.jp/articles/-/3079118",
-    "title": "プレハブ小屋が全焼、約3時間後に鎮火 焼け跡から1人見つかるも身元不明 北海道稚内市 - TBS NEWS DIG",
-    "source": "TBS NEWS DIG",
+    "id": "03599d58fbe40f4834c4c31098ea85c566e7354de6622d3b79c4fd22a11ca658",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16X2h2ZDVjRk5VLUpuaEpLOW5PakNIR3Bkc2ppVnphTzIxZU85YzlBbWk2dFlsZHlVZVBIT1dtUHVFNFVQQjIzcWY1Tml5V2Y5cFdRVWQwY1dpQQ?oc=5",
+    "url": "https://www.htb.co.jp/news/archives_40429.html",
+    "title": "「黒い煙が…」稚内市の港近くにあるプレハブ小屋から火 けが人の情報確認できず - HTB 北海道テレビ",
+    "source": "HTB 北海道テレビ",
     "published": "2026-11-11T08:00:00+00:00",
-    "description": "プレハブ小屋が全焼、約3時間後に鎮火 焼け跡から1人見つかるも身元不明 北海道稚内市 TBS NEWS DIG",
-    "image": "https://newsdig.ismcdn.jp/mwimgs/5/9/1200w/img_592e353bc96b68871297f7952ea61bc2563681.jpg"
+    "description": "「黒い煙が…」稚内市の港近くにあるプレハブ小屋から火 けが人の情報確認できず HTB 北海道テレビ",
+    "image": "https://www.htb.co.jp/news/photo/40429_52554.jpg"
   },
   {
     "id": "d490e04eb0acc312b60bc3c50f97f681d6461e6f59190306640af3a38f1ffa7d",
@@ -708,6 +728,16 @@
     "published": "2026-11-11T08:00:00+00:00",
     "description": "【速報】北海道稚内市のプレハブ小屋から出火 激しい炎と煙が上がる HTB 北海道テレビ",
     "image": "https://www.htb.co.jp/news/photo/40421_52550.jpg"
+  },
+  {
+    "id": "8d1819c7fef903c93c005f23b879a7b041809cb42170bb570469cf443b776917",
+    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qX0ZzN3Q5MlVDQjFLWmlVMUhFMnYtUkcwMnFvTlFfY21PUnItMkVKM0hqMVV0czNNOS1uMmYtekJDOV90WVRhSHJWdjgwZEhNTVkzVDA3NA?oc=5",
+    "url": "https://www.uhb.jp/news/single.html?id=63560",
+    "title": "卸売市場で作業中「作業員がフォークリフトのパレットと接触して負傷した」男性は会話できる状態で搬送〈北海道稚内市〉 - UHB 北海道文化放送",
+    "source": "UHB 北海道文化放送",
+    "published": "2026-11-11T08:00:00+00:00",
+    "description": "卸売市場で作業中「作業員がフォークリフトのパレットと接触して負傷した」男性は会話できる状態で搬送〈北海道稚内市〉 UHB 北海道文化放送",
+    "image": "https://www.uhb.jp/news/data/63560/image.jpg?v=1794402491"
   },
   {
     "id": "72c55db06498f6b0ac30612405aef8a313802458f820bf5c48c5f638651eda6a",
@@ -790,16 +820,6 @@
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261111-00000006-htbv-000-3-thumb.jpg?exp=10800"
   },
   {
-    "id": "03599d58fbe40f4834c4c31098ea85c566e7354de6622d3b79c4fd22a11ca658",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16X2h2ZDVjRk5VLUpuaEpLOW5PakNIR3Bkc2ppVnphTzIxZU85YzlBbWk2dFlsZHlVZVBIT1dtUHVFNFVQQjIzcWY1Tml5V2Y5cFdRVWQwY1dpQQ?oc=5",
-    "url": "https://www.htb.co.jp/news/archives_40429.html",
-    "title": "「黒い煙が…」稚内市の港近くにあるプレハブ小屋から火 けが人の情報確認できず - HTB 北海道テレビ",
-    "source": "HTB 北海道テレビ",
-    "published": "2026-11-11T06:49:00+00:00",
-    "description": "「黒い煙が…」稚内市の港近くにあるプレハブ小屋から火 けが人の情報確認できず HTB 北海道テレビ",
-    "image": "https://www.htb.co.jp/news/photo/40429_52554.jpg"
-  },
-  {
     "id": "d3c7c9dee6045f1db9f2b9c1c3022276e883cd4930d10483912f8073c9f8b087",
     "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdWduVmJhY3VhamhiWnBsdnhsc1JpZTE1M3N0Zmk3RjdOZ2twbWdscVg3dDZrdHhfVGluMVcxLUtNTE1xV0MwTjVYTkdQNG9xeEwxTjFBX0NKTVZPbVpxeGJLLUd0bHVFeDBsOFJ3S3BINWdEZFF6dG9xTzNWemxLOQ?oc=5",
     "url": "https://www.uqwimax.jp/mobile/support/app/life/",
@@ -880,6 +900,16 @@
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
   },
   {
+    "id": "a7bddfdd1ebd74f1c5c5913f6dc18e9878f1884454b1343234b208dbe147f788",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OeEZWWFJCOWVkcy00VGF4RmNUY2RQaWxqVzJ1aEdyVE5EU3g0ekwwVWtYRlJkTEsxM1BhazhLZXBQU3JBdEFPaUJLZw?oc=5",
+    "url": "https://www.47news.jp/15207491.html",
+    "title": "倶知安で降雪44センチ 上川や宗谷で今季最低気温 - 47NEWS",
+    "source": "47NEWS",
+    "published": "2026-11-10T08:00:00+00:00",
+    "description": "倶知安で降雪44センチ 上川や宗谷で今季最低気温 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/2a0bed27380b1cf4fb347fbbf4fe077e/photo.jpg"
+  },
+  {
     "id": "b7b18aaa4b873843e576c2adff127fd7de82c27b4b66903bf17f7c485e5b9ed4",
     "google_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORUUtVk52S3JILTYxSkdFMDRjZG1qbFhLQ0FzLVNzVEluc2ZuTW1SRHcxVlRlWUdzUVdUMDJkV3g5c0RDSmdHZlhaUFFMN0x3Wi1ncXN0S2dvbmZCY1M0bFkyU29UeG8yaXdjX09vYWt3aDRwNkZxMnRGbXhfeDF1WlBENFpzVlk?oc=5",
     "url": "https://news.ntv.co.jp/n/stv/category/society/st11f7a89493114d5cb242eb2bbe6054d2",
@@ -940,16 +970,6 @@
     "image": "https://newsdig.ismcdn.jp/mwimgs/b/9/1200w/img_b92d718e06a367a4443e4e10d005ee9039772.jpg"
   },
   {
-    "id": "a7bddfdd1ebd74f1c5c5913f6dc18e9878f1884454b1343234b208dbe147f788",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OeEZWWFJCOWVkcy00VGF4RmNUY2RQaWxqVzJ1aEdyVE5EU3g0ekwwVWtYRlJkTEsxM1BhazhLZXBQU3JBdEFPaUJLZw?oc=5",
-    "url": "https://www.47news.jp/15207491.html",
-    "title": "倶知安で降雪44センチ 上川や宗谷で今季最低気温 - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-11-09T23:20:06+00:00",
-    "description": "倶知安で降雪44センチ 上川や宗谷で今季最低気温 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/2a0bed27380b1cf4fb347fbbf4fe077e/photo.jpg"
-  },
-  {
     "id": "0b88b3a72b9d163f12b7a13cde675983d1057c913aff8b913160afd34cb91144",
     "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaZkVXSnZKNW5rQko0YTEyUFFpY0dJeXpxdl83OGphWjY4ZUZNazEzWFRfU2ZoOGozbC04Y3h1QWUyUFNKOW90bl9feDdVZw?oc=5",
     "url": "https://www.fnn.jp/articles/-/1149224",
@@ -1000,16 +1020,6 @@
     "image": "https://media.image.infoseek.co.jp/isnews/photos/hbc/hbc_1492448268913836269_0-enlarge.jpg"
   },
   {
-    "id": "ab8bf7654acc8c3e8b541171026cf508ff984ae5ca94be9703f49533701bfe87",
-    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2UzFBZENucnlSNWRDTmVmNjRXSzFwMUJQRWlQYk1TSjFETFpxemhwSFpfbFZ2ZjhjNTN6cVJfbXcyNUdESGlDdGtPdFhWSVY3UWFIaHhubzBmRVoy?oc=5",
-    "url": "https://j-defense.ikaros.jp/docs/mod/006265.html",
-    "title": "ロシア海軍ミサイル巡洋艦1隻が宗谷海峡を西進（11月5日、スラバ級） - J ディフェンス ニュース",
-    "source": "J ディフェンス ニュース",
-    "published": "2026-11-09T08:22:38+00:00",
-    "description": "ロシア海軍ミサイル巡洋艦1隻が宗谷海峡を西進（11月5日、スラバ級） J ディフェンス ニュース",
-    "image": "https://j-defense.ikaros.jp/img/jdn/list/006/265/21.jpg"
-  },
-  {
     "id": "03c6c8daa3f35209a40146da8f39abcda49e0998c4df0048fc62a352ef145d1d",
     "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xMDZ5Wkg0WFFyNFRxXzZVRTFpTnBzU3NjbnpoLUNhbjZEX0RfeUp2LTZrNGU1d3lsS2NhTlFRdnc1TkxkN2hFZno1RWpDaE1wZXRHdDgzRzlqaE5YVzZVS0txZktpMjRGTEJvTVlXUTctTGh3TmVYbjM5RHlTdjQ?oc=5",
     "url": "https://news.yahoo.co.jp/articles/a188c4ae49cbb46880d17e98bfbcbb9bd5f1d50c",
@@ -1028,6 +1038,16 @@
     "published": "2026-11-09T08:00:00+00:00",
     "description": "単独で維持困難「黄色線区」JR宗谷線、国や道が主導し改善策を協議 2025年度約31億円の赤字、約180キロ広大な区間の安全確保も課題 Yahoo!ニュース",
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-23072230-hbcv-000-1-thumb.jpg?exp=10800"
+  },
+  {
+    "id": "ab8bf7654acc8c3e8b541171026cf508ff984ae5ca94be9703f49533701bfe87",
+    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2UzFBZENucnlSNWRDTmVmNjRXSzFwMUJQRWlQYk1TSjFETFpxemhwSFpfbFZ2ZjhjNTN6cVJfbXcyNUdESGlDdGtPdFhWSVY3UWFIaHhubzBmRVoy?oc=5",
+    "url": "https://j-defense.ikaros.jp/docs/mod/006265.html",
+    "title": "ロシア海軍ミサイル巡洋艦1隻が宗谷海峡を西進（11月5日、スラバ級） - J ディフェンス ニュース",
+    "source": "J ディフェンス ニュース",
+    "published": "2026-11-09T08:00:00+00:00",
+    "description": "ロシア海軍ミサイル巡洋艦1隻が宗谷海峡を西進（11月5日、スラバ級） J ディフェンス ニュース",
+    "image": "https://j-defense.ikaros.jp/img/jdn/list/006/265/21.jpg"
   },
   {
     "id": "6c39f9cd238b1bd96023ef68f6a91cf98cc5d0eea041db1f08e8b3fc80e9915a",
@@ -1050,6 +1070,16 @@
     "image": "https://newsdig.ismcdn.jp/mwimgs/8/0/1200w/img_80fcaab9b1a6db6d168479a635d36a68462099.jpg"
   },
   {
+    "id": "ba9f8707e9fc9be81e86a13d06d8399e2872775d58c924da5e8e69395baf30d1",
+    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TalpIenAxeFFIMC11cDdCcWdBOWdYU19MZjBTRklqWm5lMXVReDdod0ZLSEpETTROazZtMWdoNkZqSzdKUFhkS01DV282cEl6cFBWTXdB?oc=5",
+    "url": "https://wakkanaipress.com/2026/11/09/25697/",
+    "title": "宗谷技尊協で優良技能者表彰式 研鑽重ね豊かな郷土へ - 稚内プレス社",
+    "source": "稚内プレス社",
+    "published": "2026-11-09T08:00:00+00:00",
+    "description": "宗谷技尊協で優良技能者表彰式 研鑽重ね豊かな郷土へ 稚内プレス社",
+    "image": null
+  },
+  {
     "id": "d13175ad1c9462196b06bccbff6a0056575ccb37bc27aa7e50d5fb44765b3793",
     "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02NmctUzV6SVJJbzkzTTloWlcyc0lXR2w1MFBuTWRwcXhzdnVNMm9tcXZHUWRTOVVaRWJUTXpzYzc1MGtWSEhfNmFXV25GcC1uTnFPOHUtQQ?oc=5",
     "url": "https://www.uhb.jp/news/single.html?id=63466",
@@ -1068,6 +1098,16 @@
     "published": "2026-11-09T08:00:00+00:00",
     "description": "フェリー「ボレアース宗谷」勇退セレモニー 最後の運航見守る 道北ネット",
     "image": "https://media.dohoku.net/wp-content/uploads/2026/11/boreas-soya-retirement-2026-hero.jpg"
+  },
+  {
+    "id": "ff4047e941c24f0640b5f15e120fa60d802771592080d075fac931644d0470b1",
+    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CREtNcm9wcHNXUGVjR2ZpYk5iTlBKZFZ2WXdJLUpWSzU2YS0tdlhwbnAwU1lJREpiMVc1cnpmX3hGV0ZiZzVocTQtRzhIdUh4MW1VczhaUWdDOFVoVXVzck54eUlvdTNrSC1LcGRrQ2VaalVWTmYyZ2FpVG55VlU?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/14e02c884509715b81f7f52e70963b172aac2be1",
+    "title": "【速報】「トドウォッチング」中のダイバー9人一時行方不明_使用の船が検査受けずに航行した疑い…会社役員の男と会社を書類送検〈北海道稚内市〉 - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-11-09T08:00:00+00:00",
+    "description": "【速報】「トドウォッチング」中のダイバー9人一時行方不明_使用の船が検査受けずに航行した疑い…会社役員の男と会社を書類送検〈北海道稚内市〉 Yahoo!ニュース",
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-90063470-hokkaibunv-000-3-view.jpg?exp=10800"
   },
   {
     "id": "7678966f53c4f74b8c794d1776c48a0112594f1c0eff7eef63e06202472583ad",
@@ -1118,16 +1158,6 @@
     "published": "2026-11-09T06:53:00+00:00",
     "description": "宗谷岬沖ダイバー9人一時不明…未検査で船舶航行か　東京のダイビングツアー会社と代表を書類送検　北海道稚内市 ｄメニューニュース",
     "image": "https://img.topics.smt.news.goo.ne.jp/picture/hbc/m_hbc-3072107.jpg"
-  },
-  {
-    "id": "ba9f8707e9fc9be81e86a13d06d8399e2872775d58c924da5e8e69395baf30d1",
-    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TalpIenAxeFFIMC11cDdCcWdBOWdYU19MZjBTRklqWm5lMXVReDdod0ZLSEpETTROazZtMWdoNkZqSzdKUFhkS01DV282cEl6cFBWTXdB?oc=5",
-    "url": "https://wakkanaipress.com/2026/11/09/25697/",
-    "title": "宗谷技尊協で優良技能者表彰式 研鑽重ね豊かな郷土へ - 稚内プレス社",
-    "source": "稚内プレス社",
-    "published": "2026-11-09T05:48:32+00:00",
-    "description": "宗谷技尊協で優良技能者表彰式 研鑽重ね豊かな郷土へ 稚内プレス社",
-    "image": null
   },
   {
     "id": "db3625f0c12e09dde1dcb5001d9d206d5b9876d905239c5ec88ba5cb8a483299",
@@ -1210,6 +1240,16 @@
     "image": "https://webun.ismcdn.jp/mwimgs/7/a/1200m/img_7ab26c26573e518fcd9c0bc96c2896dd464343.jpg?rd=202608051016"
   },
   {
+    "id": "ebf3f319c1c54e6a5c149be358f3d4e6661c48f5a8f2e1842bc4aedf0e01f6ce",
+    "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GRDN6S1IxWl9NSnJUYVZ5NUlmZnZLb3J4Z1FIN01Ja2dLR2lKYWYzQ0RvMmJtTWN1WE42NjZXYWpWSFhfZm5Rc1UzaUY?oc=5",
+    "url": "https://hokkaido-nl.jp/article/44552",
+    "title": "フェリー・ボレアース宗谷 各港で勇退セレモニー 地域住民ら最後の運航見守る 利礼３町と稚内市 - 北海道ニュースリンク",
+    "source": "北海道ニュースリンク",
+    "published": "2026-11-07T08:00:00+00:00",
+    "description": "フェリー・ボレアース宗谷 各港で勇退セレモニー 地域住民ら最後の運航見守る 利礼３町と稚内市 北海道ニュースリンク",
+    "image": null
+  },
+  {
     "id": "90f4419c9db0cb4fad2f54ab6bed168a33c9aea656d76ea5d457855150843fb5",
     "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94T3hEU21pSUZnZnVUcGpaUFAtWF9OQ1VRdzg4VDZZZklZUHlNYkRZQ0sxQXo4ajM4R2lvN3p2ZjRuU1lyRk9rb1pSNEVxdDR5QS1kZDloVGs4NVJwelE?oc=5",
     "url": "https://www.niigata-nippo.co.jp/articles/-/938433",
@@ -1228,16 +1268,6 @@
     "published": "2026-11-07T08:00:00+00:00",
     "description": "【ヒグマ激突】巨体が特急を揺るがした！推定400キロ超、宗谷線に現れた北海道で最大クラスの「巨大グマ」が列車と衝突…乗客は車内に缶詰状態に…脱線事故の現場で起きていた想像を超える事態とは＜北海道＞（北海道ニュースUHB） Yahoo!ニュース",
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261107-90063442-hokkaibunv-000-1-view.jpg?exp=10800"
-  },
-  {
-    "id": "ebf3f319c1c54e6a5c149be358f3d4e6661c48f5a8f2e1842bc4aedf0e01f6ce",
-    "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GRDN6S1IxWl9NSnJUYVZ5NUlmZnZLb3J4Z1FIN01Ja2dLR2lKYWYzQ0RvMmJtTWN1WE42NjZXYWpWSFhfZm5Rc1UzaUY?oc=5",
-    "url": "https://hokkaido-nl.jp/article/44552",
-    "title": "フェリー・ボレアース宗谷 各港で勇退セレモニー 地域住民ら最後の運航見守る 利礼３町と稚内市 - 北海道ニュースリンク",
-    "source": "北海道ニュースリンク",
-    "published": "2026-11-07T07:45:46+00:00",
-    "description": "フェリー・ボレアース宗谷 各港で勇退セレモニー 地域住民ら最後の運航見守る 利礼３町と稚内市 北海道ニュースリンク",
-    "image": null
   },
   {
     "id": "2f51ccb412a80a2b1ab3d7c1fd67b87f771ea64ac419a11a8d1708c69e88b87c",
@@ -1468,35 +1498,5 @@
     "published": "2026-11-04T12:18:14+00:00",
     "description": "相次ぐ野生動物との衝突事故で専門家が課題と対策を指摘 300キロ巨大クマ衝突で初の脱線事故となったJR宗谷線が5日ぶり運転再開 JR北海道 au Webポータル",
     "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/11/04/https___news_jp_i_1490687076087202380_w1200.webp"
-  },
-  {
-    "id": "71155ae8a40488b7ccad9b90b20ce61cef103174ceef744a7464afe6a365ccbe",
-    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZOXFOMHEyRUNTYWVIdUFVMzBoVklLSF8wNFJkejc4bFVKMVhQMkhGeHEyVkZteXFOakZGVk9lb1A4eWlmeElyV0R0RWNYdl9LX2xuSzBCUjVSc1V0QVlfUFJYSnJHcGM?oc=5",
-    "url": "https://newsdig.tbs.co.jp/articles/hbc/3061292?display=1",
-    "title": "相次ぐ野生動物との衝突事故で専門家が課題と対策を指摘 300キロ巨大クマ衝突で初の脱線事故となったJR宗谷線が5日ぶり運転再開 JR北海道 - TBS NEWS DIG",
-    "source": "TBS NEWS DIG",
-    "published": "2026-11-04T12:11:00+00:00",
-    "description": "相次ぐ野生動物との衝突事故で専門家が課題と対策を指摘 300キロ巨大クマ衝突で初の脱線事故となったJR宗谷線が5日ぶり運転再開 JR北海道 TBS NEWS DIG",
-    "image": "https://newsdig.ismcdn.jp/mwimgs/7/7/1200w/img_777374c7f0b49904596aeff4f4b01a95997020.jpg"
-  },
-  {
-    "id": "a142ed84f51150265fe9e051c7659091c73394828b2af44d2556a5e2b900b8b1",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45TG0tQ3hFMW10OVk5RXFFSVJLTDEtd2ZFME5WdXV3ZFFGbWwtNUhoQ0xMcDhST05rbjRFTHZlVHJpTkl2UUM0elhqX1NpNVVTS2VXVWZRQ3ExUQ?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1402279/",
-    "title": "留萌・宗谷（１１月５日付）おくやみ - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-11-04T11:30:00+00:00",
-    "description": "留萌・宗谷（１１月５日付）おくやみ 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
-  },
-  {
-    "id": "f9acf4d0694de093497aca8460154c09067542ed45475c7d1d23d88194bfddc4",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RWGk1QWlWdGZxN1hCd3VMd2VLSjVYWFp1WThpMnR0SGlxUnpaZHl4RURSSklZbXhwUjJIUTVqNjFmV0JzcHJGYnM1WE56QQ?oc=5",
-    "url": "https://www.fnn.jp/articles/-/1145831",
-    "title": "【北海道(宗谷地方)】11/5の天気予報 - FNNプライムオンライン",
-    "source": "FNNプライムオンライン",
-    "published": "2026-11-04T10:30:00+00:00",
-    "description": "【北海道(宗谷地方)】11/5の天気予報 FNNプライムオンライン",
-    "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
   }
 ]
