@@ -1,5 +1,35 @@
 [
   {
+    "id": "ca6b70bf736c2db80fc49c122057c85bb0c7fe494c98ed9f83db7275fad507e2",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYd0pGQjVVN0RJcVdmelNHMHk0bGZyNGpZVGJDWkZpN2pMVl9WeDRZWFZwMmVCcEljWlFscllrX2xWS1Q3VWxzOWJNeVFKcDl4cGVGVG1fX2ppUQ?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1415660/",
+    "title": "留萌・宗谷（１１月２７日付）おくやみ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-26T11:30:00+00:00",
+    "description": "留萌・宗谷（１１月２７日付）おくやみ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+  },
+  {
+    "id": "364e5183044195db84a5df68b64f912cef2f221022191687a95899db0893c94c",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54MW9TTzdRclRSMXpIY3h0TE5JR0VmSjB6djQ0NE1mbERaakZqcTFPZTk3dWRUa0lYMVlmS1ZVQktTYUVSVzJQbWpKSk1NZ2o4WTFFdW1nOV9WZw?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1415469/",
+    "title": "稚内で高校生向け企業展示会 宗谷管内44社・団体が地元就職を後押し - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-26T05:18:05+00:00",
+    "description": "稚内で高校生向け企業展示会 宗谷管内44社・団体が地元就職を後押し 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/2/5/5/6/25565d938f574a4889115314e7a4b333_1.webp?20261127001655"
+  },
+  {
+    "id": "ba5098021b6bf470d8f243bf5580166114b4e5c29b9794b3c3f66607f2d871a0",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hUDI5ZVhFeXhtNzRHRThuX184WUdYNGhQS1FpZnlWWUo0NXRpVGd5c2g1ejE1T21JR0lvU2hYbDF2WFBqOHh1MENhdw?oc=5",
+    "url": "https://www.47news.jp/15290319.html",
+    "title": "稚内で高校生向け企業展示会 宗谷管内44社・団体が地元就職を後押し - 47NEWS",
+    "source": "47NEWS",
+    "published": "2026-11-26T05:18:05+00:00",
+    "description": "稚内で高校生向け企業展示会 宗谷管内44社・団体が地元就職を後押し 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/6309d280e290d8ae6d2746092792df33/photo.jpg"
+  },
+  {
     "id": "ea75efcc59fb2c6a6c4c692b953023990a04a554fd045318f5a4589633d39ba9",
     "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcXhucFVmU0V3UVVNcEtrYUFBZ2J1TDJXSkxlTm9jLWNQSXM3Rkt1M3FaTGJqUl9xaWlMM3RyRU9xTlBoQ09YVjB2bUpXNVlfTHdMdHRHbDlYTkV4UXNNX3lqNHRRWmxYdlJvb29VRVZtN1R6TWRydTdvUW8zcy12NFlHckgyOUN2ajBBeE93?oc=5",
     "url": "https://news.yahoo.co.jp/profile/expert/comments/640698e6-df28-4572-8e89-299a053e946b",
@@ -70,16 +100,6 @@
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
   },
   {
-    "id": "9c8bedb3cef2dccee4f2ebc4b898caaf26477e1fa033e20d3b8e61a5817e8bb8",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56V3pzdVEzYTBSVkc1Mm0wYVd0NlJiSUFVSjRrR2lEdzJldExTRFhkV0tRenVFNmtPSWQ1b21kUi1aTnZFTnNWMXBwOA?oc=5",
-    "url": "https://www.47news.jp/15277739.html",
-    "title": "全国学力テスト 宗谷管内は全教科で全国・全道下回る 授業外の学習時間少なく - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-11-24T04:54:50+00:00",
-    "description": "全国学力テスト 宗谷管内は全教科で全国・全道下回る 授業外の学習時間少なく 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/cb3a2e705d763c18e28a7ca449fd399e/photo.jpg"
-  },
-  {
     "id": "947609600799c0fa149c78d0aad7bc88c3f97689e5e86c43db251b17f5f5f75b",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zdFJVNnNuX0ZFM1pfSjlPaWNMVmpoYlVmX1BUQ284RTlRaUxIbnBiNVIteWg3aXl3V05NUXdrLVU4Tk5xTkNJWmlSWHJFMTBnOXB6dUpvcF83Zw?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1413795/",
@@ -88,6 +108,16 @@
     "published": "2026-11-24T04:54:50+00:00",
     "description": "全国学力テスト 宗谷管内は全教科で全国・全道下回る 授業外の学習時間少なく 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/9/5/0/6/950624b94bff2e5e5b640b53341fc705_1.webp?20261124150208"
+  },
+  {
+    "id": "9c8bedb3cef2dccee4f2ebc4b898caaf26477e1fa033e20d3b8e61a5817e8bb8",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56V3pzdVEzYTBSVkc1Mm0wYVd0NlJiSUFVSjRrR2lEdzJldExTRFhkV0tRenVFNmtPSWQ1b21kUi1aTnZFTnNWMXBwOA?oc=5",
+    "url": "https://www.47news.jp/15277739.html",
+    "title": "全国学力テスト 宗谷管内は全教科で全国・全道下回る 授業外の学習時間少なく - 47NEWS",
+    "source": "47NEWS",
+    "published": "2026-11-24T04:54:50+00:00",
+    "description": "全国学力テスト 宗谷管内は全教科で全国・全道下回る 授業外の学習時間少なく 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/cb3a2e705d763c18e28a7ca449fd399e/photo.jpg"
   },
   {
     "id": "e4063747366d87ec4988791e2c416e247f1912346e09dd9440d17dfff05e1c76",
@@ -400,6 +430,16 @@
     "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76535/20261116de76535_E0000180499_1_l.jpg"
   },
   {
+    "id": "345105e9c0be8ba21af963c83f8271320e052c0c7024eb1a0c88774bb223ff91",
+    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83R3RfZUlhYlI0OTBzOFQ4UVFDc0hnZmNWTDlzRDMxSUlJQ3RWWm9qTnZ2U2lsa1c5c3VSZTZoSnhYR1hHbU9FN3ZxUUtIaXFtb3Z6MGEtb08tZw?oc=5",
+    "url": "https://www.hokkaido-np.co.jp/article/1408955/",
+    "title": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ - 北海道新聞デジタル",
+    "source": "北海道新聞デジタル",
+    "published": "2026-11-16T08:00:00+00:00",
+    "description": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ 北海道新聞デジタル",
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/c/c/e/2/cce2031c5c43c9ef7e5dbe4cff7e77f1_1.webp?20261116182527"
+  },
+  {
     "id": "84ee4f40764fe6ccaa2b3cf7ec5f4c04634ad801e37f33625b61911563af1cbb",
     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SMVYyMlRzY1JjQWNkZHlEU2ZIcFBCNi00Ykt6QmpCeG53dEM2bHFpY3ZVdHltVFZUREVzRFJwZkhrakwwT3hrbUdtVDZEYnJ0N3ZBRVdn?oc=5",
     "url": "https://wakkanaipress.com/2026/11/16/25820/",
@@ -418,16 +458,6 @@
     "published": "2026-11-16T01:00:47+00:00",
     "description": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ 47NEWS",
     "image": "https://img.cf.47news.jp/public/photo/32472e2c0c12f9d8ad67b0d40113af41/photo.jpg"
-  },
-  {
-    "id": "345105e9c0be8ba21af963c83f8271320e052c0c7024eb1a0c88774bb223ff91",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83R3RfZUlhYlI0OTBzOFQ4UVFDc0hnZmNWTDlzRDMxSUlJQ3RWWm9qTnZ2U2lsa1c5c3VSZTZoSnhYR1hHbU9FN3ZxUUtIaXFtb3Z6MGEtb08tZw?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1408955/",
-    "title": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-11-16T01:00:47+00:00",
-    "description": "定年自衛隊員に運転の即戦力期待 宗谷バスがインターンシップ 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/c/c/e/2/cce2031c5c43c9ef7e5dbe4cff7e77f1_1.webp?20261116182527"
   },
   {
     "id": "ef59c26e3da52953ea36adc9c9f617f62f20a5aed4ebfef93c29433757c13d83",
@@ -570,6 +600,16 @@
     "image": "https://j-defense.ikaros.jp/img/jdn/list/006/304/21.jpg"
   },
   {
+    "id": "3c43b23a3456f851eaef56927b8166b3c39094cba21dfa9853d9d773f373b823",
+    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3d1Q3V0h4TG1iNDhVeUNrZnhGUnVGNXR4T0ltenNKSV9qeGw1Tk9FV0hCNVFZTGNTM0pLWG1PRzZWR09UOTZDaVVkNDdlZTdKOGtjY0p3?oc=5",
+    "url": "https://wakkanaipress.com/2026/11/13/25785/",
+    "title": "１２年ぶりの宗谷大会に300人 全道社会教育研究大会開く - 稚内プレス社",
+    "source": "稚内プレス社",
+    "published": "2026-11-13T08:00:00+00:00",
+    "description": "１２年ぶりの宗谷大会に300人 全道社会教育研究大会開く 稚内プレス社",
+    "image": null
+  },
+  {
     "id": "32f34982d255413a9c0b4ed691c3984b6b77c8d9677c9b0270f29cda90a4db20",
     "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYdXdnaFVZS05zLWdsMUJUVWMyZm9FeTd2S3E2NGZxWDZUV0lhalNxaEtIRXVyWUlOOVZHZ0FWTDVYSFh6d2dHWXBvVS1BRXFHTkJRdzFnNERNRmdyR2JDOHBLUEhUWmxTLVhjaFh1TndYenhQWFBpc1ZlMVlBSDg?oc=5",
     "url": "https://news.yahoo.co.jp/articles/3b95ed5a3537c7957a645813d942dd632a8080d2",
@@ -578,16 +618,6 @@
     "published": "2026-11-13T08:00:00+00:00",
     "description": "プレハブ小屋が全焼、約3時間後に鎮火 焼け跡から1人見つかるも身元不明 北海道稚内市 Yahoo!ニュース",
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261111-23079118-hbcv-000-5-thumb.jpg?exp=10800"
-  },
-  {
-    "id": "3c43b23a3456f851eaef56927b8166b3c39094cba21dfa9853d9d773f373b823",
-    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3d1Q3V0h4TG1iNDhVeUNrZnhGUnVGNXR4T0ltenNKSV9qeGw1Tk9FV0hCNVFZTGNTM0pLWG1PRzZWR09UOTZDaVVkNDdlZTdKOGtjY0p3?oc=5",
-    "url": "https://wakkanaipress.com/2026/11/13/25785/",
-    "title": "１２年ぶりの宗谷大会に300人 全道社会教育研究大会開く - 稚内プレス社",
-    "source": "稚内プレス社",
-    "published": "2026-11-13T05:04:23+00:00",
-    "description": "１２年ぶりの宗谷大会に300人 全道社会教育研究大会開く 稚内プレス社",
-    "image": null
   },
   {
     "id": "f376379d5ecbc8d81e030175d9af5cca8f5f4095073699ec088d256e689b4868",
@@ -780,16 +810,6 @@
     "image": "https://www.htb.co.jp/news/photo/40429_52554.jpg"
   },
   {
-    "id": "3891dbd20191aca51c5fe2e58bc27215127f6aaf090d70f73cae88dbc89f00bb",
-    "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHdkamdNcnRweXdMcWRuVkxkQk5ZaDZtdktNeEtWWmlvbWtrcU5YbnhCMktFWXY0TzRUNjJ6U3kxbjNtNjVkNlN3QUxLS3hQWWMxOWdFOFhucldvMDNUdWxVVzVhdXJqVlVUTVpRN2VXUGIzNGh2eG1mRTVpdFNEdVU1YWlxUVFwV2EtMkpR?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/72063c670a21c5546323b169728d99d7f9fe29d9/images/000",
-    "title": "【速報】北海道稚内市のプレハブ小屋から出火 激しい炎と煙が上がる - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
-    "published": "2026-11-11T08:00:00+00:00",
-    "description": "【速報】北海道稚内市のプレハブ小屋から出火 激しい炎と煙が上がる Yahoo!ニュース",
-    "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26sxKUAAd5gcVxdTbFyIZdZ9MSEym-1ohHi5K4dy-cnOlAAk1Iruui5vrqOkyMKzir1zhVGcEPw4yH42qEb6SGKwvwkuCVqQZbQS4TYVd21_S"
-  },
-  {
     "id": "72c55db06498f6b0ac30612405aef8a313802458f820bf5c48c5f638651eda6a",
     "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12bGRaZXIyMkt0bTM5eUplZ01kdTI2a3ZJOWl4Qm5ZWS1lYzdzZEY4WXZXMGk0akhlb2lVMjlMbVMwWjZMU19ScXgzRk40TkxxU0hRUkVZWlgwZTNWSjhHZGl6a29QMm9JcW9pWXFB?oc=5",
     "url": "https://article.auone.jp/e86686ce-5dbf-43e3-89d5-a6aaf865434e",
@@ -798,6 +818,16 @@
     "published": "2026-11-11T08:00:00+00:00",
     "description": "「黒い煙が…」稚内市の港近くにあるプレハブ小屋から火 けが人の情報確認できず au Webポータル",
     "image": "https://portal.auone.jp/media/thumbnails/2026/11/11/https___news_jp_i_1493142895166833332_w640.webp"
+  },
+  {
+    "id": "3891dbd20191aca51c5fe2e58bc27215127f6aaf090d70f73cae88dbc89f00bb",
+    "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHdkamdNcnRweXdMcWRuVkxkQk5ZaDZtdktNeEtWWmlvbWtrcU5YbnhCMktFWXY0TzRUNjJ6U3kxbjNtNjVkNlN3QUxLS3hQWWMxOWdFOFhucldvMDNUdWxVVzVhdXJqVlVUTVpRN2VXUGIzNGh2eG1mRTVpdFNEdVU1YWlxUVFwV2EtMkpR?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/72063c670a21c5546323b169728d99d7f9fe29d9/images/000",
+    "title": "【速報】北海道稚内市のプレハブ小屋から出火 激しい炎と煙が上がる - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-11-11T08:00:00+00:00",
+    "description": "【速報】北海道稚内市のプレハブ小屋から出火 激しい炎と煙が上がる Yahoo!ニュース",
+    "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26sxKUAAd5gcVxdTbFyIZdZ9MSEym-1ohHi5K4dy-cnOlAAk1Iruui5vrqOkyMKzir1zhVGcEPw4yH42qEb6SGKwvwkuCVqQZbQS4TYVd21_S"
   },
   {
     "id": "d490e04eb0acc312b60bc3c50f97f681d6461e6f59190306640af3a38f1ffa7d",
@@ -1468,35 +1498,5 @@
     "published": "2026-11-05T20:32:06+00:00",
     "description": "JR宗谷線の天塩中川―問寒別間で、ヒグマと衝突して列車の下に巻き込み脱線した特急列車＝10月（JR北海道提供） - クマ衝突、鉄道復旧に時間 ハンター要請、対策苦悩 - 写真・画像(1/1) 西日本新聞me",
     "image": "https://www.nishinippon.co.jp/uploads/image/1956781/sns_PN2026110601000170.-.-.CI0003.jpg"
-  },
-  {
-    "id": "1a633187a28dfa364e9f574b196cf08da52bf10e7484f2a773a2a171e17935a4",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MeW5EdU1lNGVUdDVNTjRWMUc0dVZBemdETVJzYXVENTBiOEZmMG04ZDZPX3piYUFTbHJLWFpyWS05TVY2MjRPOVJDX3o4Zw?oc=5",
-    "url": "https://www.fnn.jp/articles/-/1146643",
-    "title": "【北海道(宗谷地方)】11/6の天気予報 - FNNプライムオンライン",
-    "source": "FNNプライムオンライン",
-    "published": "2026-11-05T20:10:00+00:00",
-    "description": "【北海道(宗谷地方)】11/6の天気予報 FNNプライムオンライン",
-    "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg"
-  },
-  {
-    "id": "0544dfe0eb4064bf792a6397f49f17050a3e167290fc0542911524c57ac3f7e9",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pNS10VDJFQzNPaXloam1WVk00X003TnlKTm1GNUtrMm1kWTkzMWU3amlyaXh6UExaMzVBcmgtZ0VFdlJSN0xuczh0V2Z0bmNYR2VrZXZqUFBrZw?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1403328/",
-    "title": "海中転落事故 ＧＰＳで命守る 小型端末のボタン押し救助要請 宗谷管内の漁協・港湾建設業 サービス導入拡大 - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-11-05T19:00:00+00:00",
-    "description": "海中転落事故 ＧＰＳで命守る 小型端末のボタン押し救助要請 宗谷管内の漁協・港湾建設業 サービス導入拡大 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/f/1/1/1/f1114e8ceb2bf7e154b803a5535e9670_1.webp?20261109001255"
-  },
-  {
-    "id": "82b5f41a83be63d90a62d3a432915236afe54564a596452efb0da04d0ee761c9",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90WmZrZjRfRHRTWXpLc1paeE5pUkJQbzV5dGxiNFZQMnB3Tk5qS1ByTjJnWThNZjMtSW96eHAwUWlXT3FrcF9aOFhUcjR0aXg1QnV5dFZYMThCdw?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1403078/",
-    "title": "留萌・宗谷（１１月６日付）おくやみ - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-11-05T11:30:00+00:00",
-    "description": "留萌・宗谷（１１月６日付）おくやみ 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
   }
 ]

@@ -6,13 +6,6 @@
     "next_retry": "2026-11-24T21:25:17.411864+00:00",
     "url": "https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-862531?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1"
   },
-  "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRmplaWpVMzdsaGhYeFBiVkJHLUE2M0EyOHlVUkNqY0FZTW9sWkpJb3o4LVFieFZRQnZVTnBOU193UWxfUU1FMnRQYmt6UDBmS3pjcHg1SEZTeGNiN1NpMWxLS2NJOTZvZ3ZJVmVPLU96UGpfcnNmdXJ4U0tHazQxNTlfTGkyV2tUemJOR2c2Z0pzWHNlQkxoLTYtaThFeVFtTldDVkRTSWN0Y21pbjFBV21ib0xCanNWdjlObWZXX3NlLWx6dFZ4QmU3Nmc0Q2N60gGAAUFVX3lxTE1PVnRCYV93RHhDbHNad2pTbHc5VFZneExqdmRCWmluUGNIZFpLakJTTXdFcFBjMUdITkVua3g3c2R6dEhLZndDaGxSSnVBdzNoMENnd01YZ080MGF1N1RtUnQzS01YUm1CM3JHQjFxNUUyaW8waUV6WnloREVWTTQ5?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://img.topics.smt.news.goo.ne.jp/-/20261028100531/img/dmenu_service-brand-logo_200x200.png",
-    "next_retry": "2026-11-10T06:29:37.101371+00:00",
-    "url": "https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-861179?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1"
-  },
   "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQTYwb2RPVWg4Ykh4ZmVCd3FtUmxIRlJLbXJQc1Z1cm9KSk1SN1lFQzdlWjQ4ZUNsMWZWdTZYX0ZqZGpHZUdUeEIySmc0dHBvNXZ1OTRhWW5YNnhTYXdoVk5LSDNueW9uMmFKcHZoc3I5azRvejZHUXBfTGRWV3JrY040VXFJMHlyWXJPdGZuWFcxclQ4TFoyODNEaEJ0NWowQXhtbHA3a2RDa3dlRU0wYlF6NzJFNkM2VWxYNGJOYzNvLVJVM1d4OTlueGZKRTFz0gGAAUFVX3lxTE9uUHdpOF9ZX2VQaGMtTkJHc2dnd2l2eGxEd0plM3pmdF9DZGFYdDM5OVVWNk93ZHh1UFdIS3RuU0lvd3VOMFR3ZnF5TUNORTJ4LVR5dnc5NUNzOVE2Y0VtbjcwTFh3M2FkR00wcnRnZmo1bnpqVG5FRlNMcUFhVjZp?oc=5": {
     "attempts": 1,
     "error": null,
@@ -69,6 +62,13 @@
     "next_retry": "2026-11-21T11:49:32.979027+00:00",
     "url": "https://news.dellows.jp/1268649/"
   },
+  "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01MnhzeVVCN2pzMlpTSFlMZFQtNjlKVWt4dkNXNUFpeHBWdzVCQVB1Sm03N0JhaklwM2RPdm5GWE5rM19lT1NzdFJuVQ?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://img.cf.47news.jp/public/photo/744f7f1fd153bc07722e5b07ea33a3d6/photo.jpg",
+    "next_retry": "2026-11-27T15:17:21.408805+00:00",
+    "url": "https://www.47news.jp/15290595.html"
+  },
   "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01bFdfRlB5SnJNV1VHZlRsLTVxQ3FFZ1p6R2loYmlQMjNOajdXNklNVjh6NndGQU14UTNkcnhPbWJ5dG51RWNXVnFmYw?oc=5": {
     "attempts": 1,
     "error": null,
@@ -103,13 +103,6 @@
     "image": "https://img.cf.47news.jp/public/photo/155b6df30d1f6404069b19ca8ec12544/photo.jpg",
     "next_retry": "2026-11-21T11:49:32.979027+00:00",
     "url": "https://www.47news.jp/15263095.html"
-  },
-  "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IVmE4anQzUzNqREY0VVJ0TFUtWjNyN3BBMFNLeGJRSWR5ZjUwaDZ5SUd5cS1VNDFpdzNjcWhUQmRXSVRBcHJXQlliYw?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png",
-    "next_retry": "2026-11-18T13:27:06.024610+00:00",
-    "url": "https://www.47news.jp/15244221.html"
   },
   "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IdW4yeEFPU3JSZDEya2Q4YXdxLVNpM3BXV1VtOHk1RVd6eHZibWl2ZjhDcmd0LU94MlhqQ21aQ2o0Y0FIZ1VZRHlLdw?oc=5": {
     "attempts": 1,
@@ -223,6 +216,13 @@
     "next_retry": "2026-11-25T17:45:11.528319+00:00",
     "url": "https://www.47news.jp/15279408.html"
   },
+  "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hUDI5ZVhFeXhtNzRHRThuX184WUdYNGhQS1FpZnlWWUo0NXRpVGd5c2g1ejE1T21JR0lvU2hYbDF2WFBqOHh1MENhdw?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://img.cf.47news.jp/public/photo/6309d280e290d8ae6d2746092792df33/photo.jpg",
+    "next_retry": "2026-11-27T15:17:21.408805+00:00",
+    "url": "https://www.47news.jp/15290319.html"
+  },
   "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lbTlNYmE5ejU1LURhTEd0a0tOeUduZU5fakE5djVPVDltRGFjRDdDdUNKXzhLRTQ0TGdQdmZnR04zSlBQZVJlVzN5VQ?oc=5": {
     "attempts": 3,
     "error": "No representative image",
@@ -243,6 +243,13 @@
     "image": null,
     "next_retry": "2026-11-27T12:56:15.244179+00:00",
     "url": "https://tver.jp/episodes/epjgd7w40i"
+  },
+  "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xUENKRWUxdUVEQVBQNU0xb2ZaQlN6LVpMY295NHFFYnc4X2NYQVNuZFpXRzJNR2tGVTQxNXhBSWVOVXE0TmliamVBWQ?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://img.cf.47news.jp/public/photo/714f9175cb9a066564b73a444dd82a42/photo.jpg",
+    "next_retry": "2026-11-27T15:17:21.408805+00:00",
+    "url": "https://www.47news.jp/15289586.html"
   },
   "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zUnhpeUdXWHk0OTF3ZHVUbUE3QkRXX0pIaUg3NDQ0VC1YLVFUZWF0b1pSa0Nya1hvcFhYd1NUNW0xeGw5bU9tZllUdw?oc=5": {
     "attempts": 1,
@@ -474,13 +481,6 @@
     "next_retry": "2026-11-25T06:03:40.194051+00:00",
     "url": "https://www.fnn.jp/articles/-/1158053"
   },
-  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MeW5EdU1lNGVUdDVNTjRWMUc0dVZBemdETVJzYXVENTBiOEZmMG04ZDZPX3piYUFTbHJLWFpyWS05TVY2MjRPOVJDX3o4Zw?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://fnn.ismcdn.jp/mwimgs/b/1/600/img_b11a1eaac50858497404001559bedbbb109587.jpg",
-    "next_retry": "2026-11-06T12:21:34.734921+00:00",
-    "url": "https://www.fnn.jp/articles/-/1146643"
-  },
   "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VRFFxMkdzYm10ZkZvUEZaNU9rdW84X3cwVWx6OW9aMFFEazVMR1VMdWN4V09QNDV3MmR4RDlVYVRNaGljdkFGdHBFb1pJUQ?oc=5": {
     "attempts": 1,
     "error": null,
@@ -657,9 +657,9 @@
     "url": "https://www.jcp-tokyo.net/2026/1125/125658"
   },
   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lSEo5TDJHUmVPbGJyTXNJcHRsSXRlN3pyMHlyTnBIN1BzN1cyVGVTYnY2d3M4dU1USkFjTTlSd0Z6ODRUNjlpYWgwTXJleWNsSFM4VmZn?oc=5": {
-    "attempts": 1,
-    "error": "ConnectTimeoutError: (<HTTPSConnection(host='161.34.22.107', port=443) at 0x7381dd1711c0>, 'Connection to 161.34.22.107 timed out. (connect timeout=4)')",
-    "next_retry": "2026-11-26T12:56:15.244179+00:00",
+    "attempts": 2,
+    "error": "ConnectTimeoutError: (<HTTPSConnection(host='161.34.22.107', port=443) at 0x7262705b47d0>, 'Connection to 161.34.22.107 timed out. (connect timeout=4)')",
+    "next_retry": "2026-11-28T15:17:21.408805+00:00",
     "url": "https://wakkanaipress.com/2026/11/25/25979/"
   },
   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lZ1BTZ2lXREt4VnlWZmdoWHZXWWdSSXUwcU4tSDlEeWNLckFWYXFpMS1hQkREWkNUUHFlM2RwcmlYcTRSeXU5aDdIQUx1MktveEo0Y29B?oc=5": {
@@ -959,13 +959,6 @@
     "next_retry": "2026-11-24T21:25:17.411864+00:00",
     "url": "https://www.hokkaido-np.co.jp/article/1413478/"
   },
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rcThuRmE4TVdmUFZnVU0yQWVXamxuc2VyMXNKWkZqTFQyVWZzMXN0X2tNU2Vybzl1NUhmUklLZ3BSSEJwSTRIcUtuVVNtUnRLQWtUVnlreFNVdw?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://static.hokkaido-np.co.jp/image/ogp/category/1200x630/3/f15068739941eadda7738ac54954a4d5.jpg?20261117125137",
-    "next_retry": "2026-11-18T03:54:01.239658+00:00",
-    "url": "https://www.hokkaido-np.co.jp/article/1409767/"
-  },
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ueDM3eVBWejh5NDVtRXhBdm5IZkZUYklIT1BOeXNkQXJYZVgyaXBDclhWMDd4aEZtSDhZS2tWVWRsOXlsemhNeWk0Umpzb2dtblBpN3NBYVhodw?oc=5": {
     "attempts": 1,
     "error": null,
@@ -1022,12 +1015,26 @@
     "next_retry": "2026-11-27T05:05:01.597127+00:00",
     "url": "https://www.hokkaido-np.co.jp/article/1415334/"
   },
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50SVJJMjY5VF9IV0pjQjZuZWR3N1JiVFljdzdkQ3hxS3h0ZnJRbFdIdHVPUEJ0WUVtUFJJN3NyYkJMc055RWNKV0loNUVsSmJkRWFOMURDY3NKZw?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/a/8/c/a/a8ca5586be0abb241140001bd334828e_1.webp?20261127001752",
+    "next_retry": "2026-11-27T15:17:21.408805+00:00",
+    "url": "https://www.hokkaido-np.co.jp/article/1415573/"
+  },
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53eFlqQzJuRlU0NmZqRlAwNTlTUEVxR0Vjd2FBODFDRVBkUFpHWmNZZWtEbGNYN0U5NF9reEtFVDhyOE40OFFTX0o1UzE2WklBRzJJa0Y4OGxhdw?oc=5": {
     "attempts": 1,
     "error": null,
     "image": "https://static.hokkaido-np.co.jp/image/ogp/category/1200x630/3/f15068739941eadda7738ac54954a4d5.jpg?20261118130809",
     "next_retry": "2026-11-19T04:21:21.645449+00:00",
     "url": "https://www.hokkaido-np.co.jp/article/1409902/"
+  },
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54MW9TTzdRclRSMXpIY3h0TE5JR0VmSjB6djQ0NE1mbERaakZqcTFPZTk3dWRUa0lYMVlmS1ZVQktTYUVSVzJQbWpKSk1NZ2o4WTFFdW1nOV9WZw?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/2/5/5/6/25565d938f574a4889115314e7a4b333_1.webp?20261127001655",
+    "next_retry": "2026-11-27T15:17:21.408805+00:00",
+    "url": "https://www.hokkaido-np.co.jp/article/1415469/"
   },
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DSUEweDB1VThUS2FHRFVjTWV6LWRJSlVuV0VycXBSOTJOXy14dmsyaU1sUFNnVW5sMDdneHBxNzdvR1ZPRC1BOGYxbXVuRlg4eDVlWUhYb3ZiQQ?oc=5": {
     "attempts": 1,
@@ -1169,13 +1176,6 @@
     "next_retry": "2026-11-24T21:25:17.411864+00:00",
     "url": "https://www.hokkaido-np.co.jp/article/1413554/"
   },
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90WmZrZjRfRHRTWXpLc1paeE5pUkJQbzV5dGxiNFZQMnB3Tk5qS1ByTjJnWThNZjMtSW96eHAwUWlXT3FrcF9aOFhUcjR0aXg1QnV5dFZYMThCdw?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg",
-    "next_retry": "2026-11-06T12:21:34.734921+00:00",
-    "url": "https://www.hokkaido-np.co.jp/article/1403078/"
-  },
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94RENPZUZmQnd2YXptSUN1aVVSMkhaOW5aSFZNYklrNjVCR2t0YWVmNFBBTnBpZ1B5RDJ5aFRJTWtROVJxSmNNSm5uM2o3c3VzemZUYl81WmNBUQ?oc=5": {
     "attempts": 1,
     "error": null,
@@ -1189,13 +1189,6 @@
     "image": "https://www.htb.co.jp/news/photo/40421_52550.jpg",
     "next_retry": "2026-11-12T15:12:15.996479+00:00",
     "url": "https://www.htb.co.jp/news/archives_40421.html"
-  },
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96eTFVOUpzUjVnd20teUFIZDdwTUFOWGRHb2hVZno0UEhwN2IxTDVUbXk1Wi13M0wxNzlNbXZFaS1pN19FYW9fLW9MZGlkbDQ2TG1uTTctemd0UQ?oc=5": {
-    "attempts": 2,
-    "error": null,
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/b/6/7/7/b67775be99c6daf942c8a4e062e499da_1.webp?20261118132152",
-    "next_retry": "2026-11-20T04:21:21.645449+00:00",
-    "url": "https://www.hokkaido-np.co.jp/article/1409746/"
   },
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BMjFUeTF0ZHJjTnJtRXM2RzhDZWF0NnBjZWpSZWZmcnRCTTF0UlZVbTR1UTY5TjhtUGd4N2xjR3ZxUnpnRW5IcXY2VFVia0p5VFNnMTgydGVnQQ?oc=5": {
     "attempts": 1,
@@ -1239,6 +1232,13 @@
     "next_retry": "2026-11-19T21:56:54.940454+00:00",
     "url": "https://www.hokkaido-np.co.jp/article/1411118/"
   },
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XZXlxb2FBeFhWWDR0WGI3ZDJ6ZW1abzhrSlhmajY2NFkzVjJ1Y3RQYnJRWlJsaW4zTFJORWpadUdFdHJ4V2QwSVZ4MVRvTlhFTmk4UW9meHZhUQ?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/9/c/5/5/9c55c44c33a042ecff2c4b3f6c83d332_1.webp?20261126140515",
+    "next_retry": "2026-11-27T05:05:01.597127+00:00",
+    "url": "https://www.hokkaido-np.co.jp/article/1415439/?ref=top"
+  },
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZRDllQm1EMDFqTXlmQ1VyT0ctX0l3WG9ER0ppZWY3VjBBdm5FNGd0ZUlKZXhHTGdfY29YdUlMTWtDMk5tM0tRV2t4MHJod2ZHUml4cVZfTFZZUQ?oc=5": {
     "attempts": 1,
     "error": null,
@@ -1280,20 +1280,6 @@
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/6/0/5/c/605ca4bdbd9706d7283399227dfd8f9d_1.webp?20261121185448",
     "next_retry": "2026-11-22T09:54:26.407475+00:00",
     "url": "https://www.hokkaido-np.co.jp/article/1412829/"
-  },
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oSHJLQzYzdmF2Q0VPZDJIWlZ2NHFmVWVFRWFPV1VKN2l5S0cyaVZhVENTRENfclcxV1NjVWFJdnJGQUUyTU1tZURDTDRmOXNtV2VkYmh0emhmUQ?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/1/6/8/4/1684191d4894b24b63dd79a67396197d_1.webp?20261117125413",
-    "next_retry": "2026-11-18T03:54:01.239658+00:00",
-    "url": "https://www.hokkaido-np.co.jp/article/1409704/"
-  },
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pNS10VDJFQzNPaXloam1WVk00X003TnlKTm1GNUtrMm1kWTkzMWU3amlyaXh6UExaMzVBcmgtZ0VFdlJSN0xuczh0V2Z0bmNYR2VrZXZqUFBrZw?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/f/1/1/1/f1114e8ceb2bf7e154b803a5535e9670_1.webp?20261109001255",
-    "next_retry": "2026-11-09T15:12:34.925030+00:00",
-    "url": "https://www.hokkaido-np.co.jp/article/1403328/"
   },
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rd2JJcHRQSERTMTc1eVJkYUp0ZEk0MjhQU20wcEVrc3NLbUlXRXVObDBYQ1FpR1N0YWlKazEtWUozS2kybEdkOHNhWkg1RjJFM3RFeUhHLXcwQQ?oc=5": {
     "attempts": 1,
@@ -1435,19 +1421,19 @@
     "next_retry": "2026-11-18T13:27:06.024610+00:00",
     "url": "https://www.hokkaido-np.co.jp/article/1409857/"
   },
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSMTNJOGQ1MW9ZNjdqX1lmdlBvMWszQXlQakxwNlpJZWJEcV9LNGx6aUV6ZUUwaXFoV3RDYW1HZHNOUWVNaE94UWM1QTNHS0k2TGxlWEx2MHVlQQ?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/9/1/0/a/910a3208a589f5a180ab841a199dc57b_1.webp?20261117125216",
-    "next_retry": "2026-11-18T03:54:01.239658+00:00",
-    "url": "https://www.hokkaido-np.co.jp/article/1409572/"
-  },
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTamg4eTlXa3dqdnQ1OGt5VXNxYUtzNGh2X3M3WWR5ZnhOeHhiRE01T0FLa0JIb1hNa3M5c3Jsd2dmUVpwWnY5WlNHWEtTb1ZOc1htdEFBaUNNUQ?oc=5": {
     "attempts": 1,
     "error": null,
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/0/8/6/e/086eafdfec2e1a192445b8608e028b24_1.webp?20261118065818",
     "next_retry": "2026-11-18T22:24:50.435971+00:00",
     "url": "https://www.hokkaido-np.co.jp/article/1410371/"
+  },
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYd0pGQjVVN0RJcVdmelNHMHk0bGZyNGpZVGJDWkZpN2pMVl9WeDRZWFZwMmVCcEljWlFscllrX2xWS1Q3VWxzOWJNeVFKcDl4cGVGVG1fX2ppUQ?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg",
+    "next_retry": "2026-11-27T15:17:21.408805+00:00",
+    "url": "https://www.hokkaido-np.co.jp/article/1415660/"
   },
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhMUs5cWpMTUxLRUgyV0Fpa0pEWVkzc29JdHl6eFl3d2dpeXR4QWhuWDg0RkVvQ2xBSmZZeHd1VWxzNUVUdzlhby12SWlZRnZsZFJXQXV3akIzZw?oc=5": {
     "attempts": 1,
@@ -1572,6 +1558,12 @@
     "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1494585888745063852/origin_1.jpg",
     "next_retry": "2026-11-16T09:26:42.003982+00:00",
     "url": "https://www.chiba-tv.com/plus/detail/2026112225457"
+  },
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MOTVTbXdEQlk1X2ktZVJBT2xoa20tR0RhejA2X0dudlZKTU1iajluNTA5MWlVZWp4QUR1aTRybU12U0llWkxfTGlvUG9rb1NIZl9wTE5vQTQxWEVLYk5n?oc=5": {
+    "attempts": 1,
+    "error": "ValueError: HTTP 403",
+    "next_retry": "2026-11-27T15:17:21.408805+00:00",
+    "url": "https://go2senkyo.com/seijika/167541/posts/1592218"
   },
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PdkhFOHQ0RHo5aFJSMHFWWngzYWVEWE93cTBCOFd0TEhCeExIT2tucDBzNnZ0eHhpVTZGbXFEYnFSeGR2WU9BdHFaMV9KSWVlM3M0ZmtqcFNSYm9fSFA0?oc=5": {
     "attempts": 1,
@@ -1888,6 +1880,13 @@
     "next_retry": "2026-11-19T21:56:54.940454+00:00",
     "url": "https://www.townnews.co.jp/0306/2026/11/19/862536.html"
   },
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Bd0o1ODMxR1NsOHR4UXdWM3BDNWNyNElCMDFOOGFBUjVZWF9SUkFFc0lhaFU1VUEtWm9mUjBNSnQ3c0t4b21WQUhpa1VtOUFaZVpUOGpKdXlLZmZ6YlNGNDZ2YUY?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/2/d/3/1/2d313c2e86ee127aa0ea4765c198d042_1.webp?20261127001805",
+    "next_retry": "2026-11-27T15:17:21.408805+00:00",
+    "url": "https://www.hokkaido-np.co.jp/article/1415491/?ref=top"
+  },
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LaU8zV28xX2ZJY0FUZU9Ma1hTUWg0amlmVWU3YzdwV3M1YVRpWktuS05Lc3g5cHVKLVJQQk1tTjNzdnNPakFzVDZCSnBnYnAwOWtMa2ZoQS1uQnM5UmtfTHM1U00?oc=5": {
     "attempts": 1,
     "error": null,
@@ -1909,6 +1908,13 @@
     "next_retry": "2026-11-19T21:56:54.940454+00:00",
     "url": "https://www.townnews.co.jp/0306/2026/11/19/862533.html"
   },
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43dlZhU3RXWEJPRlhEMFhOcXY4ajJiTGYxdFN1OXJOdGY1LUJZdEtwMTFTV2g1WldyN1RjbnhLV1FZVDQ1TG9aMEZ6YWtoZFU4TjZJbDNXbWZyWFpfYktuei1KYU0?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/0/0/9/0/0090034425ac0602351a63a8dc78e9c8_1.webp?20261127001801",
+    "next_retry": "2026-11-27T15:17:21.408805+00:00",
+    "url": "https://www.hokkaido-np.co.jp/article/1415512/?ref=top"
+  },
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44dkVtdEppVVY3N05OaVFqRTRPeENtVGlWcEV1YzBrLUtlTDhnNVd2ODhoeGo2dFIzYTFPdHAyOUhKSF81VDItRDQyUGEzQzdCMlRDNFgzV1Zja0ZCbUNCOTRBbWk?oc=5": {
     "attempts": 1,
     "error": null,
@@ -1922,6 +1928,13 @@
     "image": "https://www.townnews.co.jp/0306/images/a001488873_02.jpg",
     "next_retry": "2026-11-19T21:56:54.940454+00:00",
     "url": "https://www.townnews.co.jp/0306/2026/11/19/862537.html"
+  },
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tdzIzVkZuX1hLZHQ4d0ZXYXk3RFlLcF83R1B1TFg1WFVCMWt4eG1PRnVIUlJLeGExUTFJSzF0ajczYWZPWmphWnJTSzZHcWZkS3BuUHpXNXFVX3dFNHNCLWJrRVM?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://static.hokkaido-np.co.jp/image/article/size1/2/9/c/e/29ce8e1a24a368851cb4b64fdcd51560_1.webp?20261127001658",
+    "next_retry": "2026-11-27T15:17:21.408805+00:00",
+    "url": "https://www.hokkaido-np.co.jp/article/1415674/?ref=top"
   },
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xODdUY3Z0RU1DNW0tSVl4SzRGX0psQ0EweGtsbmdWYmN3bjh2eFloZ3JQQ01Xc2hBZDZTcGhYTXA3WDgxVWQxdkM5QUFRZDJ1ekRmQmNjYmktQmRtWmxrSlAyRnU?oc=5": {
     "attempts": 1,
@@ -2014,26 +2027,12 @@
     "next_retry": "2026-11-24T21:25:17.411864+00:00",
     "url": "https://www.townnews.co.jp/0306/2026/11/24/863595.html"
   },
-  "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4TmlLRUw0YWJZS0U5ZTcwM3BSNUowRXlLM18weU9DT3FTZmJDSmc5QVYwbFNDaDA4VHhpbEpqNmFpVjB5Yk5aQ3lpakhHZUJWTWFuTm9zbHRKcUNKMnpTVFp5VXQ?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/9/c/5/5/9c55c44c33a042ecff2c4b3f6c83d332_1.webp?20261126140515",
-    "next_retry": "2026-11-27T05:05:01.597127+00:00",
-    "url": "https://www.hokkaido-np.co.jp/article/1415439/?ref=top"
-  },
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KMkZyTWZFY2lRR1NDSnVORUdnZUNUS3U3ZVJYSHFxUG5aQy10eVhTbnlEd1ZCRUlpM3hSbW10XzRUSllXZ0dSaTRjblhMcEZqdjVHem5DWm00azlfbnhudzFYaDR0d9IBa0FVX3lxTE1qMEZnbXpESXVZMVY3cnliZ040eFZzUTAzOFVfWlhhRDdQOElPZkxsajlzRy1PanEwOFdFWTh1MkRWZFJGUzhwTXdfVGlRNENBQXpiaVk0Z0FyR2dMMjZGUVduSU9CQm9UaE1r?oc=5": {
     "attempts": 1,
     "error": null,
     "image": "https://media.image.infoseek.co.jp/isnews/photos/trafficnews/trafficnews_726183_0-enlarge.jpg",
     "next_retry": "2026-11-11T17:50:43.120633+00:00",
     "url": "https://news.infoseek.co.jp/article/trafficnews_726183/"
-  },
-  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51NkF3clRPclZVa1NuNmY3Q1Y5TkFBMTZDTERRaXdqOGxxRFoxWHp2WlNCWVdhTGU4MGpPMnpnXzc4ZnlZcWhoY09Od1ZEdnFwMGk0WjZTSTd4Vm93STQwVFI0bzRjQQ?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://tamapon.com/wp-content/uploads/2026/11/IMG_0987.jpeg",
-    "next_retry": "2026-11-10T17:29:39.302352+00:00",
-    "url": "https://tamapon.com/2026/11/09/keio-biz-plaza-closeday/"
   },
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yN1pNRldBbHdKV3R2ZGVhRDc4R0xNa0I2ejFqemxGX1N1NmhyUnBZWXZIb01pYW4wYTBkS2dKZG5TZno1MXpwX3E5UjZpZ0VaXzY3ejlQbmZSY0Fyd25wU201LUZLUQ?oc=5": {
     "attempts": 1,
@@ -2253,13 +2252,6 @@
     "next_retry": "2026-11-16T22:38:02.669362+00:00",
     "url": "http://www.excite.co.jp/news/article/hbc_1492712448779010296/"
   },
-  "https://news.google.com/rss/articles/CBMibkFVX3lxTE54YkQ0MGFiUktmcWhyUlFXZXcyQ2VsNGYyX3JJM2Z2eDFKUlRoNGxGV0tHWV9UbEhNbGh3a2RUd3pwMnFNSWhKakdrdFc5dXNhZlFiU2kzajhYMnkzc1MtbTZuX3JYNkJyVGdMRmlR?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://portal.auone.jp/media/thumbnails/2026/11/16/a3-minc20261116k0000m310067000c_w800.webp",
-    "next_retry": "2026-11-19T21:56:54.940454+00:00",
-    "url": "https://article.auone.jp/9367a4b2-62cd-4a90-be11-7fddf8d965ae"
-  },
   "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EQTJ0WlFPUlQwcWR2TU5jOHhOMWdWS3pXUlNoeUduX0g3RHl1a0h6a001Ymo5Rm5aOGNtcmxGMTM5NmhfNFpGaG5tWUhXV19CM2xCeGl6UnptV3hjQ2N1a2NDckg5b0IzNE1UbXZ3?oc=5": {
     "attempts": 3,
     "error": null,
@@ -2432,12 +2424,12 @@
     "next_retry": "2026-11-22T17:32:51.948440+00:00",
     "url": "https://www.sankei.com/article/20261121-756VGDSP4ZIJHK6EZNXKXTXYAQ/"
   },
-  "https://news.google.com/rss/articles/CBMie0FVX3lxTE03Y1NvVGNzeDdhelJ3Q09KWTB2aGdBbm5nSE52RXo1MUhlcnFLakRMVlI3bkRELTdXdzAtTU0tcFFjTWR5ZGdWSXo1VFhGSFFZTHNrbmlZdjNWakx6ZEotdmNPdXJrQVpjMVBuaHpNYXQzMm5nNW40Z3lCMNIBgAFBVV95cUxNSzdKQWhXZE44WHhlVDhyQi1ldUVsSmxIY3NEUjVZd184Tkt3emFFcnF5dE42ejhnRTBtY1Q3bV9xTmhUcndHOWpXVUE5dGRGZk5tcUs4TUY2VWR5X2pBa2tlVU5yWEE5dWFnd2pVSl95WHNnM1BVbTRmdm5ZUUotaA?oc=5": {
+  "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SY2czM3ZYY056UFVhSy1hMTZ2SkFUa3VZZGppZmdUbWEtWnFaWnVWZlNON0JKTmhtQjZWSThQREJwd1ZhUTlUOVpQa09QQVhvZFB3QXd6U18zaVJnTXFmV01IZWFleTJTUXJVWkdFZU9DQk13VXhqY1RQUdIBgAFBVV95cUxPN0VBMVl5dXFmbC1mdWZGT2JfMEYyUEw1ejNfVWgxVUU3dl9GbWlwazEtWHNSZGZoV3BpaEFnZTN2RmwtaXRTdVYyV1ljT3VsOHZ2YzBjZ3hqSEMyTmwzUVJZZW51bVYtRndQMGV1S3ZONHpSZVJmd1hrb1kyNE9OTg?oc=5": {
     "attempts": 1,
     "error": null,
-    "image": "https://img.topics.smt.news.goo.ne.jp/picture/townnews/m_townnews-860119.jpg",
-    "next_retry": "2026-11-10T06:29:37.101371+00:00",
-    "url": "https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-860119"
+    "image": "https://img.topics.smt.news.goo.ne.jp/picture/townnews/m_townnews-863595.jpg",
+    "next_retry": "2026-11-27T15:17:21.408805+00:00",
+    "url": "https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-863595"
   },
   "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vX25xUnNkdUhYZ2gwS1NpZzE0R1BmanlNbGE2LVFSWE5LYkZrbWdNeHNIM3FCNjJod25zNkVlM1JrWjk5ZU5SNC1rOThNRGhHVXpVM0lrdmN2eGwzVVFoZHV4N0RLWFFWVHJZUS0xekNQTGtJX1hOWWl2WdIBgAFBVV95cUxQclAwc09WX2ZGUzRuV2w1NkhTc2hxQmRabkNDSkZKR3hIeExPVnNrV3lDMzJMR2FaM3ZYZVFRWTF3X2FKcXZWWjhCc193YjFXV0NXcmRNaVlKTWtYMDRUekx2b2tOX1ZMNkUwb3VCakN3RGlXU29qcktqbDVlRHJFVw?oc=5": {
     "attempts": 1,
@@ -2733,6 +2725,13 @@
     "next_retry": "2026-11-19T04:21:21.645449+00:00",
     "url": "https://news.yahoo.co.jp/articles/91aa8965cb1fc8848f9f80171965abc976165a16"
   },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mdUtiWU5XV0RyTm1wNjFYUDZKdlVTWXFyazhqN1l2ZXA0dDh3UjBZT1lNd2Z2M1ozcnU0bkV3LU02M0owXzRIT2dzYWVsNlQ0bm1DaGo4QUNXakpSX3FDMlg2cXJ4VFBvLU1kVU52VjByUGp4Z3R2REZDQ1Z4b3M?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261123-00015000-stv-000-1-view.jpg?exp=10800",
+    "next_retry": "2026-11-24T21:25:17.411864+00:00",
+    "url": "https://news.yahoo.co.jp/articles/1cdea8e9452613820c779de75237bc62aad86df9"
+  },
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qQlFwTDV3UUNuM3d3ZmJyd0xnTWJROXVJaE5PaFlvbG1PQlNwbkNHMkVnZERBLUNESUVpMVNVbk1sTFpkdTZFMHViZTg3SHBxSGZPTVJGT0FXSUR0M2VCSElPeW56UW55SmpmQTFmb0Vkc1V6TG85V1M1QWRMM2c?oc=5": {
     "attempts": 1,
     "error": null,
@@ -2926,6 +2925,13 @@
     "next_retry": "2026-11-24T09:05:53.992278+00:00",
     "url": "https://news.ntv.co.jp/category/society/stf72d9f19959a4adbb616790c6008ad6b"
   },
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTUt0YjdwWHh3NUpIQmxueDIwemFqOThXd0c5VjM3Z3Rrcm5OZnBYdXBfc3RPOVU2cTljd19xM3piU1FMazJYNTIzNndPNDcxcmwwZVdUbWloaHluR2tIM2wtVk1sZFhuWDJud0lIMV9BSHFWblJVNzR3MTJkdDZQNmdodUtjYUtr?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/sorafune/02760242/title-1795612835792.jpeg?exp=10800",
+    "next_retry": "2026-11-27T15:17:21.408805+00:00",
+    "url": "https://news.yahoo.co.jp/expert/articles/3242838e87ade67665598f0d27227bdd455389eb"
+  },
   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMElpOHlDNEdPT3Vnc01lNDRkMVlab2NLWGtaQ0RlQmtXNFpOMWVQeXBVYXo2dHhUdWt3VUUtRXRZdWYwUUtLVXNEZnhNbi04OFlkUFhQakd4NVZtV3ZyWmEwM3hrU2p1S0trdUlxMGZveUYyR1F6dVdvVFZOR0t3cUNnWnVsZzYw?oc=5": {
     "attempts": 1,
     "error": null,
@@ -2996,13 +3002,6 @@
     "next_retry": "2026-11-25T06:03:40.194051+00:00",
     "url": "https://news.yahoo.co.jp/articles/5e7616a94e763d273f1bc357ba0e7d3eec954631/images/000"
   },
-  "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR2dldnhWRkItbVRXU0tueWFOX19IcWQtS3hWZEVXMXJGNzNocVhjdkE1aUpVX05YRm5RRnM0MUdBVUVxRlRpWHl6ckFQTEpZNkRPdFh4VHQydVlCY3RUNzZ3STNHbHlOOUg3Ml9ZVGpxVHFJWThoblJJYUhqQ1VBRlZFVkR0cVpjVFlUTTlB?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261123-00015000-stv-000-1-view.jpg?exp=10800",
-    "next_retry": "2026-11-24T21:25:17.411864+00:00",
-    "url": "https://news.yahoo.co.jp/articles/1cdea8e9452613820c779de75237bc62aad86df9"
-  },
   "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcXhucFVmU0V3UVVNcEtrYUFBZ2J1TDJXSkxlTm9jLWNQSXM3Rkt1M3FaTGJqUl9xaWlMM3RyRU9xTlBoQ09YVjB2bUpXNVlfTHdMdHRHbDlYTkV4UXNNX3lqNHRRWmxYdlJvb29VRVZtN1R6TWRydTdvUW8zcy12NFlHckgyOUN2ajBBeE93?oc=5": {
     "attempts": 1,
     "error": null,
@@ -3016,13 +3015,6 @@
     "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26sxKUAAd5gcVxdTbFyIZdZ9MSEym-1ohHi5K4dy-cnOlAAk1Iruui5vrqOkyMKzir1zhVGcEPw4yH42qEb6SGKwvwkuCVqQZbQS4TYVd21_S",
     "next_retry": "2026-11-13T02:59:45.036163+00:00",
     "url": "https://news.yahoo.co.jp/articles/72063c670a21c5546323b169728d99d7f9fe29d9/images/000"
-  },
-  "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSmp2aXpoTjZYd1VmX1JyV3RGT19xTXNJSFRZcTBRVVJvWmY1MjNOS1dUd1FacjZwQ1lLYkhtSFctdlNuNHhHMl90ZDRZTEdfNFByZWVWSnRqX0JWMXdNdG1WOGN0SDdDUndneDdkUXFsa3lkRlVoVW8xSjRsb3VVWC1wOTJtcGRHa3BVcWd3?oc=5": {
-    "attempts": 1,
-    "error": null,
-    "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26muNn_pDDjpBdAmb9vO4nz30i4VWAUhuD0WNqb5PCytPC3FTkIS0s_02xvnxSAaefsOFgitM_TG6up5MetM6bHCjMGSo47lB1ULElIR59Awt",
-    "next_retry": "2026-11-22T23:16:41.650085+00:00",
-    "url": "https://news.yahoo.co.jp/articles/e951b18b3f3d5de9d3e19962a659c1f54e84e8db/images/000"
   },
   "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWUkzX0tLbFBVNU5vZHJSbzBTNk5lRXVFNE5iOHNZczhoWmM3VDc3MVV6ZHB1NFhGTlJZRjItQ0RkRENncGpQQ0d5VWhNT3RZRDN5RnhMUEtGSkloYVVDLXhMY1VRbHVtaGV4ZVBUeU82M2VaRXZGcEhjQUtrSnR1SUVVM2dIZjBZRmpCVjN30gGAAUFVX3lxTE1pMW8wVnB0X3ZpbVhOSWIwMm9Qcl9QWWpITWU3NkR1dlBQOFJYcm1JUThRRlBmNklVaWVPd052UTA4UkV3azJIZFVWRDNBN2ltb3pDdHJFbW5NVTJ5LWREaE9NWVBxcmNiUXZjQjlnRGY5b2did3NDZFkyY1dCa05Q?oc=5": {
     "attempts": 1,
@@ -3086,6 +3078,13 @@
     "image": "https://img.topics.smt.news.goo.ne.jp/region_tmb/16_9/132241.png?fushinsha_joho-1496727824533406292",
     "next_retry": "2026-11-22T09:54:26.407475+00:00",
     "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1496727824533406292?fm=latestnews"
+  },
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWcwLS00RnpmRjZwbkZ2d2h5bWxmOFl1MF9vWERqWVdJdWhwVnFCMGFOYTlxaGxZaVg0VU9wQTNrMW44S0N4Z2g3bElGaVhhZTFVdjN0ZjJWOGxYdWZWRmlzRmpvNG01UDJ5ay1weG9XOHdzdUppY3p0VGR3QWtuUkVyS3R3UzNqSFd6WDhkTFNrZkRtUG9IQVdZMlXSAaIBQVVfeXFMT0dveUV1d1ZlSEk0YWY1cWVVYklDT3I3WGFpUUNxek0zeGJLd2FtMXRPTGtfT2gzbUxiY1pqN3ZwSHBfc2YyWVp5clh3U3U5VjVtVUFmQ09UMmtmaDhNUGdCZXNnME9qRkpaZkhTMU1YcFZITkFHcm5jakFGN2RMUXlMWE1XZjlOR2EwLTdsM3Q3RUZIYWFfbVRNV29Ib0JQZS1B?oc=5": {
+    "attempts": 1,
+    "error": null,
+    "image": "https://img.topics.smt.news.goo.ne.jp/region_tmb/16_9/132241.png?fushinsha_joho-1498481377803551700",
+    "next_retry": "2026-11-27T15:17:21.408805+00:00",
+    "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1498481377803551700"
   },
   "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHhydmxXaE1jckk3S3M0dHF0YXNjQWFZeVROelk0SnloZVNBNVFmUzdhbjRsOFBYdVdKMlZoa3dRWnphNVduRXpzelAwazNlbG1EYjZoZUk0MlJOUWhwNGRZNk8zRk5qQnFzbW9fUVdubkkzSFpCalRKSTdMSWlURjhHd21aRXI0MG11TzZhNUlPY0kxVXh2dmNZUFLSAaIBQVVfeXFMTjJvWUpJME5oUWVMNlVZbkY3aGxmeWFsb2E5dlhnRjdlLXVBVHl5a1REMTZSNlQtTWQ1TUxNa0pGb1c1ejBRaHZmX2Q1Nm1LbHE4YlVnUjdwQm02aS1fem56LWpZaHotLUVDOWJ1eXFsRUxpMnI1MHMwYWxxRU15dkh5Mlk0TXRDQTZBbFo5UjZ2WWNCV0xINGVrZGhpdWF3T0t3?oc=5": {
     "attempts": 1,
