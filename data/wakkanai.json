@@ -1,5 +1,15 @@
 [
   {
+    "id": "ea75efcc59fb2c6a6c4c692b953023990a04a554fd045318f5a4589633d39ba9",
+    "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcXhucFVmU0V3UVVNcEtrYUFBZ2J1TDJXSkxlTm9jLWNQSXM3Rkt1M3FaTGJqUl9xaWlMM3RyRU9xTlBoQ09YVjB2bUpXNVlfTHdMdHRHbDlYTkV4UXNNX3lqNHRRWmxYdlJvb29VRVZtN1R6TWRydTdvUW8zcy12NFlHckgyOUN2ajBBeE93?oc=5",
+    "url": "https://news.yahoo.co.jp/profile/expert/comments/640698e6-df28-4572-8e89-299a053e946b",
+    "title": "「札幌―稚内わずか4時間56分」かつての特急スーパー宗谷はなぜそんなに速かった？(鉄道乗蔵)へのコメント - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-11-25T12:27:53+00:00",
+    "description": "「札幌―稚内わずか4時間56分」かつての特急スーパー宗谷はなぜそんなに速かった？(鉄道乗蔵)へのコメント Yahoo!ニュース",
+    "image": "https://s.yimg.jp/images/news-web/versions/20261126-e335924/all/images/ogp_user_commentPerma.jpg"
+  },
+  {
     "id": "a34ae4e1a64a7658c56db9ac07eb81985a7606429eb638ef9fe3a8491e69f631",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02ZzFkQnNHLV9jZjNpV0pxV2ZMeS1CZDRRNWFXcHZvOFlJdDhWYWVsTEdWVk1tUmJBMTVqMDQ4RGphR3Y4Q3dwc0IxUmVENmtYaU9DaldTT2JpUQ?oc=5",
     "url": "https://www.hokkaido-np.co.jp/article/1414884/",
@@ -120,16 +130,6 @@
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261123-23105418-hbcv-000-3-thumb.jpg?exp=10800"
   },
   {
-    "id": "cb0aaf665e220ccf86d0aa5b027be208e7fe0d1d2d51b1792400e1e876b33f75",
-    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lYm1wYmQ5WkVwdkdGTU50Zlh5cWhBSy11R2R5dTJaTE50WDIyZ1dmMm9GczBOanphRWx1ODhOMExSNzFIRmsxNFRobG9ITUg0VlpxSEN5ZnRoUWx5TktzQXFzeUoyUlU?oc=5",
-    "url": "https://newsdig.tbs.co.jp/articles/hbc/3105418?display=1",
-    "title": "軽乗用車が電柱に衝突し運転の60代女性が心肺停止、運転中に体調に異変か、事故前に意識失った可能性も 北海道稚内市 - TBS NEWS DIG",
-    "source": "TBS NEWS DIG",
-    "published": "2026-11-23T09:11:00+00:00",
-    "description": "軽乗用車が電柱に衝突し運転の60代女性が心肺停止、運転中に体調に異変か、事故前に意識失った可能性も 北海道稚内市 TBS NEWS DIG",
-    "image": "https://newsdig.ismcdn.jp/mwimgs/f/7/1200w/img_f746990df0b8836a9386d55ee5f7aa66142207.jpg"
-  },
-  {
     "id": "4174c076b6b2dd0704b351235b79c0df21d979b28ae90dabb7e96bc57d1ad629",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mVndNVURxaWJycnlLbFBEdFAtQXd3aTQxS21oSnFuNGhOS3ZKM3l5bEtRSzdlYW5WLVM1dEtVMWVzRU5wTUZFRzU1N0Zwa1pRU0E5QnIwbFc4dw?oc=5",
     "url": "https://newsdig.tbs.co.jp/articles/hbc/3105418",
@@ -137,6 +137,16 @@
     "source": "TBS NEWS DIG",
     "published": "2026-11-23T09:11:00+00:00",
     "description": "電柱に軽乗用車が衝突 運転していた60代女性が病院に搬送 運転中に体調急変か 北海道稚内市 TBS NEWS DIG",
+    "image": "https://newsdig.ismcdn.jp/mwimgs/f/7/1200w/img_f746990df0b8836a9386d55ee5f7aa66142207.jpg"
+  },
+  {
+    "id": "cb0aaf665e220ccf86d0aa5b027be208e7fe0d1d2d51b1792400e1e876b33f75",
+    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lYm1wYmQ5WkVwdkdGTU50Zlh5cWhBSy11R2R5dTJaTE50WDIyZ1dmMm9GczBOanphRWx1ODhOMExSNzFIRmsxNFRobG9ITUg0VlpxSEN5ZnRoUWx5TktzQXFzeUoyUlU?oc=5",
+    "url": "https://newsdig.tbs.co.jp/articles/hbc/3105418?display=1",
+    "title": "軽乗用車が電柱に衝突し運転の60代女性が心肺停止、運転中に体調に異変か、事故前に意識失った可能性も 北海道稚内市 - TBS NEWS DIG",
+    "source": "TBS NEWS DIG",
+    "published": "2026-11-23T09:11:00+00:00",
+    "description": "軽乗用車が電柱に衝突し運転の60代女性が心肺停止、運転中に体調に異変か、事故前に意識失った可能性も 北海道稚内市 TBS NEWS DIG",
     "image": "https://newsdig.ismcdn.jp/mwimgs/f/7/1200w/img_f746990df0b8836a9386d55ee5f7aa66142207.jpg"
   },
   {
@@ -310,6 +320,16 @@
     "image": "https://fnn.ismcdn.jp/mwimgs/7/1/600/img_71908d3179db39e69db6dec341dc2ae7126238.jpg"
   },
   {
+    "id": "f612e798054cc8189e33de467da2a542a7ca582c46e28c6ae7b0e9f35e0f8968",
+    "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4NUNtVUZYQjRsbGpLZ2p3Mmpsenlzck5vY2lNV0l6VDdTVGNJUWpQeV96NF84bGpNY1VLVWVRTXJaN3FZRXBJRQ?oc=5",
+    "url": "https://asatan.com/articles/11466",
+    "title": "稚内市へお出かけ【旭川発】「道の駅わっかない」から徒歩圏内にある地元ならではのお店３選 - ASATAN",
+    "source": "ASATAN",
+    "published": "2026-11-17T08:00:00+00:00",
+    "description": "稚内市へお出かけ【旭川発】「道の駅わっかない」から徒歩圏内にある地元ならではのお店３選 ASATAN",
+    "image": "https://asatan.com/uploads/article/image/11466/8086.jpg"
+  },
+  {
     "id": "10fb6ed83d36b818ef1e7c1c3d4179d9ba3d5d2a5d16f46247ca41b8f0d9fa4f",
     "google_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14MDVNTlNJd2U4OUJvQlFhY2lvZnJlQUZqaS1iTEFwZmVpRWxNMVNobjNFSGV3TTcxMGVsTWN2WnRnM2ZMb25BbUdoMDFUS2MzaF9ic3AtZDJPemQ4b1htNllnSUYwcm1qcUhHaGNJVXFzcHc?oc=5",
     "url": "https://news.nicovideo.jp/watch/nw20000239?news_ref=search_search",
@@ -338,16 +358,6 @@
     "published": "2026-11-17T04:12:00+00:00",
     "description": "70年前に南極を目指した観測船 実は戦時中の「強運艦」だった!?「総員退艦」から生還した逸話も au Webポータル",
     "image": "https://portal.auone.jp/media/thumbnails/2026/11/17/https___trafficnews_jp_post_726762_w600.webp"
-  },
-  {
-    "id": "f612e798054cc8189e33de467da2a542a7ca582c46e28c6ae7b0e9f35e0f8968",
-    "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4NUNtVUZYQjRsbGpLZ2p3Mmpsenlzck5vY2lNV0l6VDdTVGNJUWpQeV96NF84bGpNY1VLVWVRTXJaN3FZRXBJRQ?oc=5",
-    "url": "https://asatan.com/articles/11466",
-    "title": "稚内市へお出かけ【旭川発】「道の駅わっかない」から徒歩圏内にある地元ならではのお店３選 - ASATAN",
-    "source": "ASATAN",
-    "published": "2026-11-17T00:20:01+00:00",
-    "description": "稚内市へお出かけ【旭川発】「道の駅わっかない」から徒歩圏内にある地元ならではのお店３選 ASATAN",
-    "image": "https://asatan.com/uploads/article/image/11466/8086.jpg"
   },
   {
     "id": "031a0701a5ce8e5a49097769d37a5460228cc18ecb06beff98f7d919100fc394",
@@ -395,7 +405,7 @@
     "url": "https://wakkanaipress.com/2026/11/16/25820/",
     "title": "台湾、大阪などからも出場 宗谷ダンスプロジェクト１５周年迎え - 稚内プレス社",
     "source": "稚内プレス社",
-    "published": "2026-11-16T03:12:42+00:00",
+    "published": "2026-11-16T08:00:00+00:00",
     "description": "台湾、大阪などからも出場 宗谷ダンスプロジェクト１５周年迎え 稚内プレス社",
     "image": null
   },
@@ -620,6 +630,16 @@
     "image": null
   },
   {
+    "id": "4b57d51efaed66bd4e5762d4c9fd49763e708b9961e5946f4dfb9dce0fbc5e18",
+    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvVTBTNHp0eHNvbW80LVN4SHNwY2NFdUprU2VxZmJYbjh1YmdwWXJqdWtod1l0N1NTLWRoQWZTMlRkeUl5clNYNnkwVmRoX1ZpSDZBRDEyTHBjQm1jSDNF?oc=5",
+    "url": "https://newsdig.tbs.co.jp/articles/gallery/2637328",
+    "title": "【5人死亡】北海道で火災相次ぐ《稚内市・北見市・余市町》警察が身元の特定急ぐ 札幌市北区でも住宅火災で住人の男性が気道熱傷 - TBS NEWS DIG",
+    "source": "TBS NEWS DIG",
+    "published": "2026-11-12T03:49:17+00:00",
+    "description": "【5人死亡】北海道で火災相次ぐ《稚内市・北見市・余市町》警察が身元の特定急ぐ 札幌市北区でも住宅火災で住人の男性が気道熱傷 TBS NEWS DIG",
+    "image": "https://newsdig.ismcdn.jp/mwimgs/6/1/1200w/img_61e57b53670cc53da9c13af427d6399f175756.jpg"
+  },
+  {
     "id": "826d9b66d7d91a3ced6ed6062ad545adfd2b6e83489484952bb0e0b8d5004416",
     "google_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8xY3kydjlzX3h5Zk50TEhUR0tOVHRPMHJtYmVpUVA2bDhUZUxsY1FxNi1ZZmZ0Tm1HSmhuelRuS1NkVW1iQ2dReFFR?oc=5",
     "url": "https://funeco.jp/news/news-37500/",
@@ -760,6 +780,26 @@
     "image": "https://www.htb.co.jp/news/photo/40429_52554.jpg"
   },
   {
+    "id": "3891dbd20191aca51c5fe2e58bc27215127f6aaf090d70f73cae88dbc89f00bb",
+    "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHdkamdNcnRweXdMcWRuVkxkQk5ZaDZtdktNeEtWWmlvbWtrcU5YbnhCMktFWXY0TzRUNjJ6U3kxbjNtNjVkNlN3QUxLS3hQWWMxOWdFOFhucldvMDNUdWxVVzVhdXJqVlVUTVpRN2VXUGIzNGh2eG1mRTVpdFNEdVU1YWlxUVFwV2EtMkpR?oc=5",
+    "url": "https://news.yahoo.co.jp/articles/72063c670a21c5546323b169728d99d7f9fe29d9/images/000",
+    "title": "【速報】北海道稚内市のプレハブ小屋から出火 激しい炎と煙が上がる - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "published": "2026-11-11T08:00:00+00:00",
+    "description": "【速報】北海道稚内市のプレハブ小屋から出火 激しい炎と煙が上がる Yahoo!ニュース",
+    "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26sxKUAAd5gcVxdTbFyIZdZ9MSEym-1ohHi5K4dy-cnOlAAk1Iruui5vrqOkyMKzir1zhVGcEPw4yH42qEb6SGKwvwkuCVqQZbQS4TYVd21_S"
+  },
+  {
+    "id": "72c55db06498f6b0ac30612405aef8a313802458f820bf5c48c5f638651eda6a",
+    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12bGRaZXIyMkt0bTM5eUplZ01kdTI2a3ZJOWl4Qm5ZWS1lYzdzZEY4WXZXMGk0akhlb2lVMjlMbVMwWjZMU19ScXgzRk40TkxxU0hRUkVZWlgwZTNWSjhHZGl6a29QMm9JcW9pWXFB?oc=5",
+    "url": "https://article.auone.jp/e86686ce-5dbf-43e3-89d5-a6aaf865434e",
+    "title": "「黒い煙が…」稚内市の港近くにあるプレハブ小屋から火 けが人の情報確認できず - au Webポータル",
+    "source": "au Webポータル",
+    "published": "2026-11-11T08:00:00+00:00",
+    "description": "「黒い煙が…」稚内市の港近くにあるプレハブ小屋から火 けが人の情報確認できず au Webポータル",
+    "image": "https://portal.auone.jp/media/thumbnails/2026/11/11/https___news_jp_i_1493142895166833332_w640.webp"
+  },
+  {
     "id": "d490e04eb0acc312b60bc3c50f97f681d6461e6f59190306640af3a38f1ffa7d",
     "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95SDRUdC10dXJyTU91TGNXNEtWUG4zVFFLYTZ0MVRjVEdBZDJhcF9xblJGaVZQdllNNk1abXMwdmwzMi1XTjNpZE9JTUxsMERmakRsUTRGUDMwdw?oc=5",
     "url": "https://www.htb.co.jp/news/archives_40421.html",
@@ -778,16 +818,6 @@
     "published": "2026-11-11T08:00:00+00:00",
     "description": "卸売市場で作業中「作業員がフォークリフトのパレットと接触して負傷した」男性は会話できる状態で搬送〈北海道稚内市〉 UHB 北海道文化放送",
     "image": "https://www.uhb.jp/news/data/63560/image.jpg?v=1794402491"
-  },
-  {
-    "id": "72c55db06498f6b0ac30612405aef8a313802458f820bf5c48c5f638651eda6a",
-    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12bGRaZXIyMkt0bTM5eUplZ01kdTI2a3ZJOWl4Qm5ZWS1lYzdzZEY4WXZXMGk0akhlb2lVMjlMbVMwWjZMU19ScXgzRk40TkxxU0hRUkVZWlgwZTNWSjhHZGl6a29QMm9JcW9pWXFB?oc=5",
-    "url": "https://article.auone.jp/e86686ce-5dbf-43e3-89d5-a6aaf865434e",
-    "title": "「黒い煙が…」稚内市の港近くにあるプレハブ小屋から火 けが人の情報確認できず - au Webポータル",
-    "source": "au Webポータル",
-    "published": "2026-11-11T08:00:00+00:00",
-    "description": "「黒い煙が…」稚内市の港近くにあるプレハブ小屋から火 けが人の情報確認できず au Webポータル",
-    "image": "https://portal.auone.jp/media/thumbnails/2026/11/11/https___news_jp_i_1493142895166833332_w640.webp"
   },
   {
     "id": "a4c1674af67f3a8f05b26a2fb346c6fa11b2c8d3eda1fe7cbd7b20a8824ed5a1",
@@ -868,16 +898,6 @@
     "published": "2026-11-11T05:56:00+00:00",
     "description": "【速報】北海道稚内市のプレハブ小屋から出火 激しい炎と煙が上がる UQライフ",
     "image": "https://www.uqwimax.jp/common2/images/ogp.png"
-  },
-  {
-    "id": "3891dbd20191aca51c5fe2e58bc27215127f6aaf090d70f73cae88dbc89f00bb",
-    "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHdkamdNcnRweXdMcWRuVkxkQk5ZaDZtdktNeEtWWmlvbWtrcU5YbnhCMktFWXY0TzRUNjJ6U3kxbjNtNjVkNlN3QUxLS3hQWWMxOWdFOFhucldvMDNUdWxVVzVhdXJqVlVUTVpRN2VXUGIzNGh2eG1mRTVpdFNEdVU1YWlxUVFwV2EtMkpR?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/72063c670a21c5546323b169728d99d7f9fe29d9/images/000",
-    "title": "【速報】北海道稚内市のプレハブ小屋から出火 激しい炎と煙が上がる - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
-    "published": "2026-11-11T05:45:33+00:00",
-    "description": "【速報】北海道稚内市のプレハブ小屋から出火 激しい炎と煙が上がる Yahoo!ニュース",
-    "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26sxKUAAd5gcVxdTbFyIZdZ9MSEym-1ohHi5K4dy-cnOlAAk1Iruui5vrqOkyMKzir1zhVGcEPw4yH42qEb6SGKwvwkuCVqQZbQS4TYVd21_S"
   },
   {
     "id": "6f488ce3562a4f843e50ca79a216b912d7916eb7a0b772ca0987c620f370bb7d",
@@ -1110,6 +1130,16 @@
     "image": "https://newsdig.ismcdn.jp/mwimgs/8/0/1200w/img_80fcaab9b1a6db6d168479a635d36a68462099.jpg"
   },
   {
+    "id": "63733842040c152ea6c78a86ed1cf4664fc53ab650510fd112e947914b8e453f",
+    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wdHVtNTdMbXVRdVhjLVd5ZFBITzB2WjBCWGpzMXhOLXl4eFRXTzBoa19ham90Z25ZTVZadVZ3N0pxMGVxUjEtME9yZTdqZnNLZm9qRmJ5OTRsem9SUVlV?oc=5",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261109de72952",
+    "title": "黄線区 宗谷線 国と道と自治体が初協議 次回以降具体的議論へ - NHKニュース",
+    "source": "NHKニュース",
+    "published": "2026-11-09T08:00:00+00:00",
+    "description": "黄線区 宗谷線 国と道と自治体が初協議 次回以降具体的議論へ NHKニュース",
+    "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72952/20261109de72952_E0000156957_1_l.jpg"
+  },
+  {
     "id": "ba9f8707e9fc9be81e86a13d06d8399e2872775d58c924da5e8e69395baf30d1",
     "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TalpIenAxeFFIMC11cDdCcWdBOWdYU19MZjBTRklqWm5lMXVReDdod0ZLSEpETTROazZtMWdoNkZqSzdKUFhkS01DV282cEl6cFBWTXdB?oc=5",
     "url": "https://wakkanaipress.com/2026/11/09/25697/",
@@ -1150,6 +1180,16 @@
     "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-90063470-hokkaibunv-000-3-view.jpg?exp=10800"
   },
   {
+    "id": "ede7ec128d3f5859e00314819b6a6ac4b1d37c1bf29e500aaf782424c84d2de6",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uMG5FX2xmZURzTlBIV1RxNXowUldHVnBXVjlXZ2JLMzFFQ1ZvQ3RRRmxCdkZieTF2NDl0TzJ0SEhNdjVicHlEVDF1dw?oc=5",
+    "url": "https://www.47news.jp/15204041.html",
+    "title": "JR宗谷線のあり方議論、名寄でWG初会合 運輸局「役割認識を共有する場に」 - 47NEWS",
+    "source": "47NEWS",
+    "published": "2026-11-09T08:00:00+00:00",
+    "description": "JR宗谷線のあり方議論、名寄でWG初会合 運輸局「役割認識を共有する場に」 47NEWS",
+    "image": "https://img.cf.47news.jp/public/photo/1692e3e7eafebe8e4c21d3b0a3bd22b4/photo.jpg"
+  },
+  {
     "id": "7678966f53c4f74b8c794d1776c48a0112594f1c0eff7eef63e06202472583ad",
     "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9scVIzWEVRM2F2R1lHSmFIdzZpSVpkUUR6VUotdnFPdDZmQmpQOEdaZTNFWDlyWnFDN0g2STY4NExLdEpNWHRwZ21mbDM1aUZTNmcxV0JTWEdJeUpsY0lrYXlSWDRlRGs?oc=5",
     "url": "https://newsdig.tbs.co.jp/articles/hbc/3072107?display=1",
@@ -1168,16 +1208,6 @@
     "published": "2026-11-09T07:17:10+00:00",
     "description": "露海軍巡洋艦、宗谷海峡を西進 航空新聞社",
     "image": null
-  },
-  {
-    "id": "63733842040c152ea6c78a86ed1cf4664fc53ab650510fd112e947914b8e453f",
-    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wdHVtNTdMbXVRdVhjLVd5ZFBITzB2WjBCWGpzMXhOLXl4eFRXTzBoa19ham90Z25ZTVZadVZ3N0pxMGVxUjEtME9yZTdqZnNLZm9qRmJ5OTRsem9SUVlV?oc=5",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261109de72952",
-    "title": "黄線区 宗谷線 国と道と自治体が初協議 次回以降具体的議論へ - NHKニュース",
-    "source": "NHKニュース",
-    "published": "2026-11-09T07:15:00+00:00",
-    "description": "黄線区 宗谷線 国と道と自治体が初協議 次回以降具体的議論へ NHKニュース",
-    "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72952/20261109de72952_E0000156957_1_l.jpg"
   },
   {
     "id": "7f89c39add1d4ab58b661d874ee2b3a16a40a5d5de95a71193197c6edafd39b7",
@@ -1238,16 +1268,6 @@
     "published": "2026-11-09T02:47:36+00:00",
     "description": "JR宗谷線あり方議論、名寄でWG初会合 自治体、通院の足の重要性訴える 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/image/article/size1/8/4/b/c/84bc5c018c97f7f80e956c1b3aff32e6_1.webp?20261109152732"
-  },
-  {
-    "id": "ede7ec128d3f5859e00314819b6a6ac4b1d37c1bf29e500aaf782424c84d2de6",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uMG5FX2xmZURzTlBIV1RxNXowUldHVnBXVjlXZ2JLMzFFQ1ZvQ3RRRmxCdkZieTF2NDl0TzJ0SEhNdjVicHlEVDF1dw?oc=5",
-    "url": "https://www.47news.jp/15204041.html",
-    "title": "JR宗谷線のあり方議論、名寄でWG初会合 運輸局「役割認識を共有する場に」 - 47NEWS",
-    "source": "47NEWS",
-    "published": "2026-11-09T02:47:36+00:00",
-    "description": "JR宗谷線のあり方議論、名寄でWG初会合 運輸局「役割認識を共有する場に」 47NEWS",
-    "image": "https://img.cf.47news.jp/public/photo/1692e3e7eafebe8e4c21d3b0a3bd22b4/photo.jpg"
   },
   {
     "id": "8fb0fd812c4ddec0460211c944560ff6adea55e2a14c7ab1a4b654ba0a57d201",
@@ -1478,25 +1498,5 @@
     "published": "2026-11-05T11:30:00+00:00",
     "description": "留萌・宗谷（１１月６日付）おくやみ 北海道新聞デジタル",
     "image": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
-  },
-  {
-    "id": "bd3923c4a57702eb1d21ae99533bf28206bba8ae7ee1ebd2f10ea15ddbf78a38",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3VWIyT0V1R0lDNk5ldjNpdl84N0lPS3Y1SXRQWll0ZjhnTHpBRjFHbDZWakYtMTBqQnpueUtqY0p6MWI5T1ZVTHJqR0JGTjdfSUl4SFlDNno0Y1hIWjhCTm40UDhRZHVwelZTbUJ5dTl4VlZYY3VVVTJXS0FHTjg?oc=5",
-    "url": "https://news.yahoo.co.jp/articles/ce7ed3993d3382282caaee1a9c62517d6bc2a36f",
-    "title": "体重400キロ超の巨大グマに衝突…脱線事故があったJR宗谷線、5日ぶりに運行再開 ぶつかったクマは体長約2メートル 道内でも珍しい巨大なクマ＜北海道＞ - Yahoo!ニュース",
-    "source": "Yahoo!ニュース",
-    "published": "2026-11-05T08:00:00+00:00",
-    "description": "体重400キロ超の巨大グマに衝突…脱線事故があったJR宗谷線、5日ぶりに運行再開 ぶつかったクマは体長約2メートル 道内でも珍しい巨大なクマ＜北海道＞ Yahoo!ニュース",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261105-90063368-hokkaibunv-000-1-thumb.jpg?exp=10800"
-  },
-  {
-    "id": "db9529e080e52084028b8231fe8a14ef3c4504824e108207d6a8c0d2cb4d2224",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqVkF4V3BtbkllaVdxbi10cjcteDJ0M3JTRDNpV0IyUU43T1FkRjhsSUd5Zl9UZl91OE5kalBVZGhxeGtLMGhURDZuSFYyYzVVaFM3M0xrRnJiZw?oc=5",
-    "url": "https://www.hokkaido-np.co.jp/article/1402818/",
-    "title": "SOSをすぐ通知 GPS利用の海難救助支援サービス「よびもり」の導入進む 宗谷の漁協・港湾建設業者 - 北海道新聞デジタル",
-    "source": "北海道新聞デジタル",
-    "published": "2026-11-05T03:30:22+00:00",
-    "description": "SOSをすぐ通知 GPS利用の海難救助支援サービス「よびもり」の導入進む 宗谷の漁協・港湾建設業者 北海道新聞デジタル",
-    "image": "https://static.hokkaido-np.co.jp/image/article/size1/4/e/a/5/4ea5eb0fcdfd0a525d91d050d88fba5c_1.webp?20261105212149"
   }
 ]
