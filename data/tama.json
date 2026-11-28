@@ -1,5 +1,15 @@
 [
   {
+    "id": "df142ee8025e0704750e42917ffff85d50973890fbc713f8a798df1b60da60aa",
+    "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jLW9hY1ZzRTBoc3RlZjduaU5OYU5lYVpGQl8xZ19oLUgzLTZfcGowRk1aNjJYYVJEb1p3ZUwybExMMGVoelVBZVdwdk1DSmlVZEE?oc=5",
+    "url": "https://www.tbsradio.jp/articles/114445/",
+    "title": "多摩の返礼品を一挙に紹介！～「多摩のふるさと納税」特集② - TBSラジオ",
+    "source": "TBSラジオ",
+    "published": "2026-11-28T06:25:00+00:00",
+    "description": "多摩の返礼品を一挙に紹介！～「多摩のふるさと納税」特集② TBSラジオ",
+    "image": "https://tbsradio.g.kuroco-img.app/v=1795802527/files/topics/114445_ext_04_0.jpg?width=1200"
+  },
+  {
     "id": "7ba302911b084c7a8818dc050df594aa6b5e7babaeedad0331f8032a6612c226",
     "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fNF94SVhUb0JlVVh2ZkhwczR0XzBxOXlOTkFNNmlTcERWNl9xaEJ2YnFSQ2JEak5oeE5nS2R3MWFPMTVSQ1ZMLXBIWTE5WER6RTY2b3ZSVGFSZ182Qlg1bWFIUmViWW1qZ3JLNV9fNA?oc=5",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fNF94SVhUb0JlVVh2ZkhwczR0XzBxOXlOTkFNNmlTcERWNl9xaEJ2YnFSQ2JEak5oeE5nS2R3MWFPMTVSQ1ZMLXBIWTE5WER6RTY2b3ZSVGFSZ182Qlg1bWFIUmViWW1qZ3JLNV9fNA?oc=5",
@@ -32,12 +42,12 @@
   {
     "id": "38438494a30733186d6cf93de620ab0cbfbae5f508896c3eb604eeef7805b2ce",
     "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiYXhJdjNKRElnWk5fZmIyWHByeXNpZHVHZS1YUC1EOVRYYjVvRlVoUGV6UGRLbVczOXZqelNfMGFtd2ppaFF1VjZzU29nYm54N2tYQUhVblptZEZqYXc?oc=5",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiYXhJdjNKRElnWk5fZmIyWHByeXNpZHVHZS1YUC1EOVRYYjVvRlVoUGV6UGRLbVczOXZqelNfMGFtd2ppaFF1VjZzU29nYm54N2tYQUhVblptZEZqYXc?oc=5",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1975820",
     "title": "多摩市のふるさと納税返礼品として１２月２６日（土）に京王多摩センター駅での親子向け駅係員体験メニューを提供！ - 沖縄タイムス社",
     "source": "沖縄タイムス社",
     "published": "2026-11-27T06:08:33+00:00",
     "description": "多摩市のふるさと納税返礼品として１２月２６日（土）に京王多摩センター駅での親子向け駅係員体験メニューを提供！ 沖縄タイムス社",
-    "image": null
+    "image": "https://digitalpr.jp/release/media/2822/149518/202611271010566b08d8a076d68.JPG"
   },
   {
     "id": "24c45c6e5327d217cdaf0145c76972e31f0f2e7e182925c74f97064f5b402003",
@@ -1488,15 +1498,5 @@
     "published": "2026-11-10T22:11:16+00:00",
     "description": "【多摩市】映画やトークショーを入場無料で楽しめる！「ともフェス2026」が聖蹟桜ヶ丘で12月5日に開催されます 地域ニュースサイト号外NET",
     "image": "https://tama-inagi.goguynet.jp/wp-content/uploads/sites/42/2026/11/tomo-fes-flyer.png"
-  },
-  {
-    "id": "018055f809083bef8ccc6755a247e16b0682e079bd83fab4843d251f65312380",
-    "google_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNY19PN3lVdUJodnRqeGIzaVN0YUIyT1h2UzhmcFJVRm1oRXBGMlVVOWI5aldYUU91VTlFX3prV3lVZ29aYldzcE1zeEJzbU1OLVdobHNkZ2ZTSzJNSW1jcFdXYw?oc=5",
-    "url": "https://tamapon.com/2026/11/10/pannoarukurashi-chofu/",
-    "title": "調布PARCOで「パンのある暮らし展」12/4(金)開幕！全国の人気ベーカリーや限定コラボパンが集結 - 多摩ポン",
-    "source": "多摩ポン",
-    "published": "2026-11-10T05:24:17+00:00",
-    "description": "調布PARCOで「パンのある暮らし展」12/4(金)開幕！全国の人気ベーカリーや限定コラボパンが集結 多摩ポン",
-    "image": "https://tamapon.com/wp-content/uploads/2026/11/main-1-1.jpeg"
   }
 ]
